@@ -6,3 +6,6 @@ Tests/
 *.swp
 *.lock
 *.nix
+
+# Required for NIX
+!*.nix
