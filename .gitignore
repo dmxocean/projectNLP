@@ -1,5 +1,9 @@
 # Ignore specific folders
-Tests/
+tests/
+sandbox/
+.private/
+.secrets/
+
 
 # Ignore specific files
 *.DS_Store
