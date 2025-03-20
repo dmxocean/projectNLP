@@ -1,27 +1,50 @@
-prefix,no
-prefix,sense
-prefix,mai
-prefix,tampoc
-prefix,nega
-prefix,absència de
+category,term
+adverb,no
+adverb,sense
+adverb,mai
+adverb,tampoc
+adverb,ni
+adverb,excepte
+verb,nega
+verb,rebutja
+verb,absenta
+verb,falta
+verb,manca
+verb,desapareix
+verb,retira
+verb,impedeix
+verb,descarta
+verb,cedeix
+verb,denega
+verb,impossibilita
+verb,manca
+noun,inestabilitat
+noun,negativitat
+noun,negatiu
+noun,suspès
+noun,retirada
+noun,atípic
+noun,indetectable
+noun,inespecífic
+noun,impossibilitat
+noun,irregular
+noun,cap
+prefix,in
+prefix,des
+prefix,a
+prefix,anti
+prefix,contra
+prefix,ex
+prefix,neg
+prefix,rebutj
 prefix,absent
-prefix,descarta
-prefix,exclou
-prefix,negatiu
-prefix,manca de
-prefix,cap
-prefix,ni
-prefix,lliure de
-prefix,descartar
-prefix,rebutjar
-prefix,no hi ha
-prefix,no s'observa
-prefix,no presenta
-prefix,no mostra
-prefix,no té
-prefix,no s'identifica
-postfix,negatiu
-postfix,descartat
-postfix,absent
-postfix,exclòs
-postfix,rebutjat
+prefix,falt
+prefix,manc
+prefix,desapar
+prefix,retir
+prefix,imped
+prefix,descart
+prefix,ced
+prefix,deneg
+prefix,impossibilit
+prefix,manc

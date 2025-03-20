@@ -14,11 +14,11 @@ def normalize(word):
 negation_lexicon_es = {
     "adverbs": ["no", "sin", "nunca", "tampoco", "ni", "excepto"],
     "verbs": ["neg", "rechaz", "ausen", "falt", "carec", "desaparec", "retir", "ced", 
-              "desestim", "nieg", "descart", "imped", "imposib",  "retir"],
+              "desestim", "nieg", "descart", "imped", "imposib",  "retir", ],
     "nouns": ["inestabilidad", "negatividad", "negativo", "neg:", "neg;", "suspendido", "atípico", 
               "indetectable", "inespecífico", "imposibilidad", "irregular", "ningun"],
     "prefixes": ["in", "des", "a", "anti", "contra", "ex"]
-} #  desorientado, afebril asintomático??, exfumador
+} 
 
 def is_negation_es(word):
     word = word.lower()
@@ -30,7 +30,7 @@ def is_negation_es(word):
 negation_lexicon_ca = {
     "adverbs": ["no", "sense", "mai", "tampoc", "ni", "excepte"],
     "verbs": ["neg", "rebutj", "absen", "falt", "manc", "desapareix", "retir", "imped", 
-              "descart", "ced", "deneg", "impossib"],
+              "descart", "ced", "deneg", "impossib", "manc"],
     "nouns": ["inestabilitat", "negativitat", "negatiu", "suspès", "retirada", "atípic", 
               "indetectable", "inespecífic", "impossibilitat", "irregular", "cap"],
     "prefixes": ["in", "des", "a", "anti", "contra", "ex"]

@@ -1,30 +1,50 @@
-prefix,no
-prefix,sin
-prefix,nunca
-prefix,tampoco
-prefix,niega
-prefix,ausencia de
-prefix,ausente
-prefix,descarta
-prefix,excluye
-prefix,negativo
-prefix,falta de
-prefix,ningún
-prefix,ninguna
-prefix,ni
-prefix,jamás
-prefix,libre de
-prefix,descartar
-prefix,rechazar
-prefix,no hay
-prefix,no se observa
-prefix,no presenta
-prefix,no muestra
-prefix,no tiene
-prefix,no se identifica
-postfix,negativo
-postfix,descartado
-postfix,ausente
-postfix,excluido
-postfix,rechazado
-postfix,desestimado
+category,term
+adverb,no
+adverb,sin
+adverb,nunca
+adverb,tampoco
+adverb,ni
+adverb,excepto
+verb,rechazar
+verb,ausentar
+verb,faltar
+verb,carecer
+verb,desaparecer
+verb,retirar
+verb,ceder
+verb,desestimar
+verb,negar
+verb,descartar
+verb,impedir
+verb,imposibilitar
+noun,inestabilidad
+noun,negatividad
+noun,negativo
+noun,neg:
+noun,neg;
+noun,suspendido
+noun,atípico
+noun,indetectable
+noun,inespecífico
+noun,imposibilidad
+noun,irregular
+noun,ningún
+prefix,in
+prefix,des
+prefix,a
+prefix,anti
+prefix,contra
+prefix,ex
+prefix,neg
+prefix,rechaz
+prefix,ausen
+prefix,falt
+prefix,carec
+prefix,desaparec
+prefix,retir
+prefix,ced
+prefix,desestim
+prefix,nieg
+prefix,descart
+prefix,imped
+prefix,imposib
