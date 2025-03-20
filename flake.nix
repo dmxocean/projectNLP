@@ -59,6 +59,7 @@ EOF
                     packages = with pkgs; [
                         pythonPackages.matplotlib
                         pythonPackages.numpy
+                        pythonPackages.spacy
                         pythonPackages.venvShellHook
                         pythonPackages.ipykernel
                         pkgs.uv # pip alternative

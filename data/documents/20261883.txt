@@ -1,0 +1,81 @@
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 26.09.2018 edat: 11 mesos procedencia domicil/res.
+soc servei medicina pediatrica data d'ingres 12.09.2019 data d'alta 14.09.2019 15:16:00 ates per ****************, ****; ************, ********; ****************, ******; ****************, *******; ****************, ******.
+informe d'alta d'hospitalitzacio motiu d'ingres paciente de 11 meses que ingresa el dia 13/09 por convulsion febril en contexto de sospecha de bacteriemia por infeccion urinaria.
+antecedents no alergias medicamentosas conocidas.
+correctamente vacunada segun calendario.
+antecedentes patologicos: infeccion del tracto urinario a los 5 meses tratado ambulatoriamente con antibioticoterapia (urocultivo positivo a klebsiella).
+no refiere alteraciones en ecografias prenatales.
+ecografia sin alteraciones.
+antecedentes familiares: primo hermano con episodio de convulsiones febriles.
+proces actual paciente de 11 meses de edad con cuadro febricular de 3 dias de evolucion que cede con antitermia que se acompanya de deposicions liquidas (3 diarreas liquidas sin productos patologicos) las ultimas 48 horas.
+consultan a urgencias por pico de fiebre de hasta 38,6ºc.
+no vomitos, no anorexia, no cuadro catarral acompañante, no ambiente epidemiologico positivo.
+la madre refiere micciones mas concentradas y con peor olor sin observar un aumento ni una disminucion de estas.
+exploracio fisica fc bpm tªaxi 37.
+8 ºc fr rpm tªrec ºc ta s mmhg sat o2 % ta d mmhg pes 9.500 kg triangulo de evaluacion pediatrica: estable.
+buen estado general.
+activa y reactiva.
+normocoloreada y normohidratada.
+no distres.
+perfusion distal conservada.
+aparato respiratorio: buena entrada de aire bilateral sin signos de distres ni ruidos sobreañadidos.
+espiracion normal.
+aparato cardiocirculatorio: tonos ritmicos, sin soplos, pulsos presentes y simetricos.
+perfusion distal conservada.
+abdomen blando y depresible, no masas ni megalias, no doloroso a la palpacion.
+nrl: fontanela a punta de dedo sin alteraciones valorables, no meningismo ni focalidad neurologica aparente.
+orl: orofaringe ligeramente hiperemica sin hipertrofia amigdalar ni exudados.
+otoscopia bilateral sin alteraciones.
+exploracio complementaria analisis sanguineos - en urgencias: hb 11.
+5 g/dl, hcto 36.
+2 %, vcm 81.
+9 fl, hcm 26.
+0 pg, leucocitos 22.05 x10e9/l, n 36.
+0 %, l 46.
+0 %, m 12.
+0 %, e 4.
+0 %, b 0.
+0 %, can 7.
+9 x10e9/l, cal 10.
+1 x10e9/l, plaquetas 380 x10e9/l, glucosa 96 mg/dl, urea 21 mg/dl, creatinina 0.26 mg/dl, na 135.
+5 mmol/l, k 4.73 mmol/l, ca 10.
+0 mg/dl, ast 35 ui/l, alt 12 ui/l, alb 4.
+0 g/dl, pcr 6.39 mg/dl.
+nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 1/3 lopd - gasometria venosa (11/09): ph 7.26, pco2 56 mmhg, po2, 31 mmhg, na 136 mmol/l, k 5.
+6 mmol/l, lactato 2.
+5, glucosa 105 mg/dl, hb 11.
+6 g/dl, be8b) -2.
+6 mmol/l, ag 11 mmol/l, hco3 25.
+1 mmol/l microbiologia -sedimento de orina (bolsa pediatrica)(11/09): leucocitos 74.
+4 cel/ul, eritrocitos 8.
+8 cel/ul, cels.
+epiteliales 0.
+5 cel/ul, cils.
+hialinos 0 cil/ul bacterias 102 bact/ul, hongos negativos.
+-sedimento de orina (sondaje)(11/09): leucocitos 70.
+4, eritrocitos 3.
+1, cels.
+epiteliales 0.
+9 cel/ul, cils.
+hialinos 0 cil, bacterias 46, hongos negativos.
+- urocultivo (11/09): positivo e.
+coli sensible a todos los antibioticos testados.
+- coprocultivos y virus en heces (11/09): negativos al alta.
+- hemocultivo (12/09): negativo al alta.
+- estudio lcr (12/09): bq 5 hematies, 0 leucocitos, 61 glucemia mg/dl, 14 proteinas mg/dl.
+pcr lcr para e.
+coli, neisseria, haemophilus y neumococo : negativas.
+cultivo: negativo.
+evolucio clinica paciente de11 meses que ingresa en la unidad de hospitalizacion pediatrica el 12/09 bajo control clinico y de constantes habituales.
+durante su estancia en urgencias la paciente realiza una convulsion febril atipica de 5 minutos de duracion que cede con la administracion de midazolam y posteriormente realiza una clinica de temblores de 4 extremidades en contexto de subida de la fiebre con pupilas normoreactivas y cesion de los temblores al contacto, por lo que se orienta como una clinica de bacteriemia.
+ante dicha orientacion se realizan las pruebas previamente citadas, se permeabiliza via periferica y se administra primera dosis de antibiotico endovenoso empirico con cefotaxima 200mg/kg/dia + vancomicina 60 mg/kg/dia.
+al ingreso, el dia 12/09, se obtiene resultado de pcr de liquido cefaloraquideo que resultan negativas suspendiendo vancomicina, manteniendo tratamiento antibiotico con cefotaxima por 3 dias.
+se obtiene resultado de hemocultivo y de cultivo de liquido cefaloraquideo a las 48 horas que resultan negativos, junto con urocultivo positivo a e.
+coli.
+multisensible por lo que el dia 14/09 pasamos antibioticoterapia a via oral.
+durante la hospitalizacion paciente permanece hemodinamicamente estable, afebril desde el dia 12/09, con buena tolerancia oral y ante la buena evolucion clinica se decide el alta hoy 14/09 con una exploracion fisica dentro de la normalidad.
+orientacio diagnostica r56.
+9 convulsions no especificades n39.
+0 infeccio del tracte urinari, localitzacio no especificada procediments puncion lumbar extraccion de sangre sondaje urinario nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 2/3 lopd antibioterapia endovenosa tractament i recomanacions a l'alta - cefixima (denvar susp oral 100 mg/5ml): administrar 2 ml cada 12 horas hasta completar 14 dias (hasta el dia 25/09 incluido) - reconsultar en caso de: reaparicion de fiebre (&gt;38ºc) persistente, somnolencia excesiva o mal estado general.
+control - control con pediatra de zona a principios de semana que viene.
+destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 3/3 lopd

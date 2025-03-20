@@ -1,0 +1,81 @@
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 21.06.1944 edat: 74 anys procedencia domicil/res.
+soc servei oncologia medica data d'ingres 25.10.2018 data d'alta 31.10.2018 13:16:09 ates per ************, *****; ***************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 74 años que ingresa por icc . antecedents no alergias medicamentosas.
+historia oncologica: antecedentes pt1n0 mama derecha intervenida en 1989 con adyuvancia cmf.
+comenzo en el año 1989 cuando fue diagnosticada de una neoplasia de mama derecha.
+se realizo una mastectomia radical modificada derecha con ap compatible con carcinoma ductal infiltrante estadio pt1n0 segun informe.
+quimioterapia adyuvante esquema cmf.
+no ht.
+neoplasia de mama izquierda en julio del 2012.
+se realizo una mastectomia radical modificada izquierda con ap compatible con un carcinoma ductal infiltrante grado histologico ii de 2.
+4 cm, 0/21 ganglios.
+ihq: re positivo, rp positivo, her2 negativo, ki67 15%.
+valorada por dr. **** solicito mammaprint que fue de alto riesgo.
+con este resultado realizo tratamiento de quimioterapia adyuvante esquema fec100 por 6 ciclos, el ultimo en enero del 2013.
+desde enero del 2013 en tratamiento con anastrozol que hace un año mas o menos cambio a tamoxifeno por intolerancia.
+primera recidiva en marzo de 2016.
+recaida esternal, ganglionar, pulmonar y probablemente pleural izquierda en curso de ht adyuvante, se considera tributaria de -1ª linea de tratamiento con taxanos +/- bevacizumab + ac zoledronic.
+rp como mejor respuesta.
+continua fulvestran de mantenimiento.
+progresion en agosto de 2017.
+-inicio2ºl con cpc con pd ganglionar, osea, pulmonar y pleural al c9 en marzo de 2018.
+-inicia 3ºl con eribulina.
+con pd ganglionar, osea, pulmonar y pleural en junio de 2018.
+-inicia 4ºl de tratamiento con cbdp-gem en junio de 2018.
+pd masa esternal, pulmonar y ganglionar al c5 en setiembre de 2018.
+-inicia 5ºl con myocet-ciclfosfamida el 26/09.
+siendo el c2 (16/09).
+controles en consulta externa de oncologia con dra ******.
+medicacio habitual pantoprazol 20mg cada dia en ayunas, efortil 5mg cada dia, nebivolol 5mg 1/2 compr.
+cada dia.
+nhc ** *** *** (********) age-v-onc 1/3 lopd proces actual refiere disnea progresiva que se ha exacerbado en los ultimos dias.
+niega otra sintomatologia.
+exploracio fisica exploracion cardiovascular/ tonos cardiacos ritmicos sin soplos ni extratonos audibles.
+no ingurgitacion yugular ni reflujo hepato-yugular.
+no edemas en miembros inferiores.
+exploracion respiratoria/ hipofonesis basal izquierda.
+exploracio complementaria urgencias: analitica de sangre 24.10: hb 9,9g/dl; vcm 97,2fl; leucocitos 3,54 x10^9/l (n 3,2 x10^9/l; l 0,2 x10^9/l; m 0,1 x10^9/l); plaquetas 176 x10^9/l; tp ratio 0,97; ttpa ratio 0,81; fibrinogeno 3,97 g/l; glucosa 116 mg/dl; urea 68 mg/dl; creatinina 1,38 mg/dl; fg 38 ml/min; bilirubina 0,74 mg/dl; na+ 137,3 mmol/l; k+ 4,14 mmol/l; asat 20 ui/l; alat 11 ui/l; proteinas 5,8 g/dl; albumina 3,2 g/dl.
+ecg 24.10: ritmo sinusal a 110 lpm.
+pr 200 ms.
+qrs &lt; 120ms.
+eje qrs a 0º.
+ondas t negativas asimetricas en v5-v6.
+alteranancia electrica.
+extrasistoles de qrs estrecho.
+radiografia de torax 24.10: marco oseo sin alteraciones oseas agudas.
+mediastino centrado y no ensanchado.
+indice cardio-toracico &gt; 0,5.
+no se observan condensaciones en campos pulmonares.
+seno costofrenico izquierdo pinzado.
+planta de hospitalizacion: analitica 29/10: hb: 9,6g/dl; l: 1720 (can: 700; cal: 700).
+p: 152000.
+creatinina: 1,3mg/dl; b: 0.4mg/dl.
+alb: 3,5g/dl.
+ecg 26.10: ritmo auricular multifocal con extrasistoles supraventriculares con mofologia de brdhh y ventriculares frecuentes, con salvas de fibrilacion auricular con rvm a 100lpm.
+sin alteraciones de la repolarizacion.
+ett 26.10: ventriculo izquierdo ligeramente dilatado, con ligera hipertrofia septal.
+funcion sistolica severamente deprimida (fe 30%), por hipocinesia global.
+sin valvulopatias significativas.
+raiz de aorta y aorta ascendente dilatada.
+evolucio clinica neoplasia de mama izquierda dx 2012.
+m1 (oseas , pleura , adp y paraesternal).
+ihq: re positivo, rp positivo, her2 negativo, ki67 15%.
+actualmente en 5l con doxorrubicina+ciclofosfamida iniciado en septiembre 2018.
+ultima dosis 17/10.
+nhc ** *** *** (********) age-v-onc 2/3 lopd ingresa por cuadro de disnea de esfuerzo secundaria a insuficiencia cardiaca.
+la paciente niega episodios de dolor toracico, no presenta ortopnea ni dpn.
+completamos estudio con ett que muestra fevi 30% sin segmentarismos.
+ecg con salvas de fa , por lo que se decide iniciar anticoagulacion.
+comentado con cardiologia, se orienta como probable cardiopatia por antraciclinas y se optimiza tratamiento con betabloqueante y ieca.
+presenta mejoria clinica, sin mas incidencias.
+dada la estabilidad clinica se decide alta domiciliaria y control ambulatorio.
+orientacio diagnostica -cardiopatia probablemente secundaria a antraciclinas.
+-insuficiencia cardiaca descompensada.
+- neoplasia de mama izquierda con afectacion osea, pleural, adp y paraesternal.
+procediments medicos, analiticos, radiologicos, ett.
+tractament i recomanacions a l'alta pantoprazol 20mg cada dia en ayunas, efortil 5mg cada dia, carvedilol 6.25mg cada 12 horas, enalapril 5mg cada 12 horas, furosemida 40mg cada dia, boi k cada dia, prednisona 30 mg 1 comprimido al dia durante 3 dias, despues: prednisona 30 mg 2/3 comprimido (20mg) al dia durante 3 dias, despues: prednisona 30 mg 1/3 comprimido (10mg) al dia durante 3 dias, y suspender.
+control acudira a consulta externa de oncologia y cardiologia segun citacion.
+se explican signos de alarma y reconsulta.
+consulta de atencion inmediata (cai): telefono de contacto: ********4.
+horario de atencion telefonica, lunes a viernes de 8-17 horas, dias laborables.
+de 17 horas a 21 horas, dias laborables, llamar a ********00, extension: 6321.
+destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-onc 3/3 lopd

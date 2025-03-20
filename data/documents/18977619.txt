@@ -1,0 +1,87 @@
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 04.02.1978 edat: 40 anys procedencia domicil/res.
+soc servei pneumologia data d'ingres 03.07.2018 data d'alta 13.07.2018 11:00:00 ates per ************, ***; ************, ***; *************, ***************;;; *************, *************** informe d'alta d'hospitalitzacio motiu d'ingres varon de 40 años que consulta por hemoptisis antecedents sin alergias medicamentosas conocidas.
+fumador de un paquete de tabaco al dia (factor de exposicion de unos 20 paquetes año).
+antecedentes patologicos : -desprendimiento de retina derecho y de vitreo posterior izquierdo secundario a miopia magna (11 dioptrias).
+en seguimiento por oftalmologia.
+- dislipemia en tratamiento dietetico.
+-tdah: diagnostico en infancia.
+subtipo inatento.
+siguio tratamiento con metilfenidato.
+no ha acudido ha ultimas visitas con psiquiatria (desde agosto 2016) - trastorno depresivo mayor: ingreso psiquiatrico por tentativa autolitica (ta) en sant pau en 2003.
+posteriormente varias fases (3) depresivas en tratamiento farmacologico.
+ultima recaida en contexto retirada venlafaxina.
+duloxetina fue valorada sin mejoria.
+nueva tentativa en 2016 que no requirio ingreso.
+no ha acudido ha ultimas visitas con psiquiatria (desde agosto 2016) ssf: vive con madre.
+actualmente de baja laboral.
+independiente para abvd.
+medicacio habitual consta en cursos: venlafaxina 150 mg 1-0-0, bupropion 300 1-0-0, lorazepam 1mg/si presisa proces actual paciente acude a urgencias por presencia de hemoptisis minor (5cc aprox) por la madrugada.
+refiere tos seca poco exigente el dia previo.
+niega fiebre, cuadro catarral los dias previos, viajes recientes, astenia, anorexia, perdida de peso o sudoracion nocturna.
+niega contacto con pacientes con tuberculosis.
+exploracio fisica exploracion fisica en urgencias constantes : ta 125/81mmhg, fc 98lpm, tº 36.4ºc, fr 16rpm, sat o2 98% a aire ambiente general : buen estado general, normohidratado, normocoloreado y normoperfundido.
+cardiovascular : tonos cardiacos ritmicos sin soplos ni roces audibles.
+pulsos perifericos presentes y simetricos, sin edemas ni signos de trombosis venosa profunda en miembros inferiores.
+respiratorio : eupneico a aire ambiente, murmullo vesicular conservado sin ruidos sobreañadidos.
+abdomen : blando y depresible no doloroso a la palpacion superficial ni profunda.
+no se palpan masas ni visceromegalias.
+peristaltismo conservado.
+neurologico : consciente y orientado en las tres esferas.
+no se observan signos de focalidad neurologica aguda.
+nhc ** *** *** (********) age-v-nml 1/3 lopd pupilas isocoricas normorreactivas.
+exploracion fisica en planta de neumologia constantes: fc 51 lat/min, ta 98/64 mmhg, t 36.3ºc, spo2 96% (aa) piel: sin palidez ni lesiones cutaneas agudas.
+torax: eupneico, murmullo vesicular conservado sin ruidos agregados.
+cardiovascular: tonos ritmicos, sin soplos ni extratonos.
+sin ingurgitacion yugular ni edemas perifericos.
+sin frialdad distal ni signos de hipoperfusion.
+abdomen: no distendido, ruidos hidroaereos presentes.
+sin dolor ni resistencia a la palpacion profunda.
+neurologico: lucido y orientado.
+habla coherente y fluida.
+colabora con ***mnesis y exploracion.
+sin focalidad neurologica aguda aparente.
+exploracio complementaria - eab : ph 7.
+4, pco2 42mmhg, hco3 26mmol/l, ag 10mmol/l.
+na 140mmol/l, k 3.5mmol/l, cl 108mmol/l, ca ionico 4.74mg/dl.
+glucosa 113mg/dl, lactato 0.9mmol/l, hemoglobina 13.6g/dl.
+- ecg : ritmo sinusal a 80lpm, eje a 60º.
+pr de 160mseg.
+qrs estrecho.
+adecuada progresion de la onda r en derivaciones precordiales.
+sin alteraciones agudas de la repolarizacion.
+- ***litica : hemoglobina 13.6g/dl, vcm 93.1fl, leucocitos 8170 (can: 4600, cal: 2800), plaquetas 225.000.
+quick 102%, ttpa 1.01, fibrinogeno 3.58g/l.
+glucosa 104mg/dl, urea 41mg/dl, creatinina 0.84mg/dl, fg &gt;90ml/min.
+na 141.6mmol/l, k 3.49mmol/l, ca 9.4mg/dl.
+asat 13ui/l, alat 13ui/l.
+proteina 6.9g/dl.
+- radiografia de torax : marco oseo conservado.
+traquea centrada.
+indice cardiotoracico conservado.
+senos costofrenicos libres.
+no se observa condensacion pulmonar ni signos de redistribucion vascular.
+- gram de esputo : pseudomonas aeruginosa sensible a todos los antibioticos testados.
+exploraciones complementarias en planta de neumologia - tc torax : en parenquima pulmonar del lsd se aprecia opacidad deslustrada con engrosamientos intra e inter lobulillares, se relaciona con componente hematico dado su contexto, sin visualizar lesion aparente.
+- broncoscopia flexible: cuerdas vocales moviles y simetricas.
+traquea centrada, sin lesiones endotraqueales ni compresiones extrinsecas, con mucosa conservada.
+carina centrada y afilada.
+arboles bronquiales permeables, sin lesiones endobronquiales ni compresiones extrinsecas hasta los limites accesibles por el broncoscopio.
+presenta segmento 7 accesorio en arbol bronquial izquierdo.
+mucosa conservada.
+ausencia de resto hematicos ni signos de sangrado.
+se realiza bas, lba sobre lsd (s2).
+*bas/bal:/cultivo pendientes nhc ** *** *** (********) age-v-nml 2/3 lopd evolucio clinica a su llegada a urgencias, hemodinamicamente estable y afebril, saturando correctamente al aire ambiente, sin sensacion disneica ni dolor toracico.
+presento nuevo episodio de hemoptisis franca, minor, no amenazante durante su estancia en urgencias por lo que siguio inicialmente medidas antihemoptisis con ausencia posterior de esputos hemoptoicos hasta el dia del alta.
+en el cultivo de esputo se aislaron escasas colonias de pseudomonas aeruginosa multisensible, por lo que en contexto de infeccion respiratoria, tratamos con piperacilina-tazobactam durante 10 dias.
+realizamos tc de alta resolucion que informo de opacidad deslustrada relacionada con componente hematico sin lesiones subyacentes, por lo que solicitamos broncoscopia, que no mostro lesiones endobronquiales ni compresiones extrinsecas, con mucosa conservada, realizandose bas y bal sobre lsd.
+finalmente, se decide completar estudio a traves de test de sudor, del que queda pendiente de resultado en el momento del alta.
+dado la estabilidad clinica, ausencia de nuevos episodios de hemoptisis, y la ausencia de lesiones endobronquiales, se decide alta a domicilio con control en ccee de neumologia en espera de resultados de broncoscopia, asi como control radiologico.
+orientacio diagnostica r04.
+2 hemoptisi j20.
+9 bronquitis aguda no especificada tractament i recom***cions a l'alta - tratamiento habitual sin cambios - deshabituacion tabaquica - parche de nicotina 35mg 1 cada 24 horas por la mañ*** - mantener reposo relativo al menos dos primeras sem***s despues del alta control - acudir para realizacio de tacar a finales de julio.
+le avisaran por carta o via telefonica.
+- control en ccee de neumologia tras realizacion de tacar.
+cex asma dr *****.
+dia 08/08/2018 a las 10h.
+- deshabituacion tabaquica: control en ccee de medicina preventiva.
+le aviasaran por carta o via telefonica - control por su medico de atencion primaria y especialistas habituales - se explican signos y sintomas de alarma y normas de reconsulta a urgencias destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-nml 3/3 lopd

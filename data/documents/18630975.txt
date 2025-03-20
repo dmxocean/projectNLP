@@ -1,0 +1,49 @@
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 21.03.1945 edat: 73 anys procedencia domicil/res.
+soc servei oncologia medica data d'ingres 20.03.2018 data d'alta 21.03.2018 17:00:00 ates per **************** / *************** informe d'alta d'hospitalitzacio motiu d'ingres fiebre origen biliar antecedents paciente de 72 años sin amc y con antecedentes de apendicectomia y colecistectomia.
+historia oncologica colangiocarcionoma extrahepatico localmente avanzado con afectacion de bifurcacion biliar e invasion intrahepatica diagnosticoad en diciembre de 2017 a raiz de estudio de dolor epigastrico.
+se realizo laparotomia exploratoria el 29/dic/2017 que confirma lesion irresecable.
+ctph (3/01/2018) y colocacion de protesis wallstent de 10 x 70mm en coledoco, dilatacio´n con balon (por falta de expansion de la protesis) y colocacion de drenaje biliar interno - externo de 8fr.
+nueva dilatacion con balon el 5/ene/2018.
+13/ene/2018: colangitis aguda y coleccion post-quirurgica.
+revision protesis (5/01/2018): colangiografia que muestra persistencia de la poca expansion en la zona central del stent; se realiza dilatacion con balon de atp de 10mm quedando mejor expandida, aun asi se deja drenaje biliar int-ext de 8fr cerrado.
+el dia 13/01 reingresa por colangitis aguda y coleccion postquirurgica a nivel caudal del lecho de la coclecistectomia.
+el dia 17/01/2018 se realiza cpth observando permeabilidad del cateter biliar con persistencia de estenosis en region central de la protesis, ya conocida.
+el dia 19/01/2017 se cierra el drenaje biliar sin incidencias.
+finalmente es dada de alta con tratamiento antibiotico con ertapenem mediante had durante 3 semanas y posterior control radiologico con tac (pdte de realizarse).
+c1d8 de cddp-gem el 05.03.18.
+realiza controles en cex con el dr ********.
+proces actual paciente que estaba en curso de tratamiento con augmentine desde el 15.03.18 por cambios inflamatorios de pared abdominal sugestivos de infeccion en el punto de insercion del cateter.
+desde el incio del tratamiento la familia refiere aumento de la supuracion purulenta peri-drenaje asi como fiebre de hasta 38ºc por lo que acuden a urgencias.
+exploracio fisica ecog 1.
+hemodinamicamente estable, afebril.
+exploracion fisica palidez.
+buena hidratacion de piel y mucosas.
+perfusion tisular correcta.
+auscultacion de tonos cardiacos ritmicos sin soplos ni otros ruidos sobreañadidos.
+no signos de ic.
+eupneico sin tiraje con auscultacion de murmullo vesicular conservado.
+eritema en punto de drenaje.
+nhc ** *** *** (********) age-v-onc 1/2 lopd abdomen depresible no doloroso a la palpacion superficial ni profunda, peristaltismo presente, no signos de irritacion peritoneal, puño percusion lumbar bilateral negativa.
+conciente y orientado, sin focalidad neurologica aguda.
+exploracio complementaria analitica.
+hemoglobina 10.
+8 g/dl, leucocitos 4.75x10e9/l (n 3100, l800), plaquetas 519x10e9/l, tquick 69%, glucosa 89mg/dl, creatinina 0.46mg/dl, sodio 136mmol/l, potasio 3.8mmol/l, albumina 15.31g/dl.
+rx de torax sin condensaciones.
+rx de abdomen sin alteraciones.
+cultivo de exudado: positivo poar s.
+aureus.
+evolucio clinica se trata de una mujer de 72 años afecta de un colangiocarcinoma no resecable, portadora de drenaje biliar, en curso de tratamiento en 1l con cddp-gem siendo el c1d8 el 05.03.18 que acude por fiebre persistente.
+la paciente consulto el 15.03.18 por dolor y fiebre en relacion a infeccion pericateter por lo que se tras descartarse tratamiento quirurgico se inicio antibioterapia con augmentine.
+a su llegada a urgencias, paciente hemodinamicamente estable, febril.
+refiere dolor abdominal exploracion eritema en region de cateter, sin otros hallazgos patologicos.
+analitica no neutropenia, sin alteraciones de bilirrubinas ni transaminasas, sin otro signos de alarma.
+hemocultivos cursados.
+radiografia de torax sin condensaciones.
+rx de abdomen sin alteraciones.
+se orienta como infeccion pericateter se aumenta espectro a piperacilina tazobactam manteniendose afebril y con resultado positivo de punto de drenaje biliar positivo para s.
+aureus multisensible.
+valorado por dr. ******* se decide alta a domicilio bajo antibioterapia con levofloxacino.
+procediments 89.09 consulta, no especificada de cap altra manera tractament i recomanacions a l'alta levofloxacino 500 mg 1 comprimido cada 24 horas durante diez dias.
+resto de medicacion habitual.
+control cai de oncologia y consultas de oncologia segun cita previa.
+destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-onc 2/2 lopd
