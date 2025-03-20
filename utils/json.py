@@ -5,21 +5,26 @@ def load_json(file_path: str):
     """
     Load JSON data from a file
     
-    Args:
+    Params:
         file_path: Path to the JSON file
         
     Returns:
         Loaded JSON data
     """
-    with open(file_path, "r", encoding="utf-8") as file:
-        data = json.load(file)
-    return data
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+            print(f"Successfully loaded {len(data)} documents from {file_path}")
+            return data
+    except Exception as e:
+        print(f"Error loading data from {file_path}: {e}")
+        return [] # Avoid crashing the program
 
 def save_json(data, file_path: str, append: bool = False, overwrite: bool = True):
     """
     Save data to a JSON file
     
-    Args:
+    Params:
         data: Data to save
         file_path: Path to save the file
         append: Add to existing file
@@ -47,6 +52,6 @@ def save_json(data, file_path: str, append: bool = False, overwrite: bool = True
         except (json.JSONDecodeError, IOError):
             pass
 
-    # Write the data with fixed indent of 4
+    # Write the data with fixed indent
     with open(file_path, "w", encoding="utf-8") as file:
         json.dump(data, file, indent=4)

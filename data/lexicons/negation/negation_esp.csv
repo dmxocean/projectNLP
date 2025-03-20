@@ -1,0 +1,30 @@
+prefix,no
+prefix,sin
+prefix,nunca
+prefix,tampoco
+prefix,niega
+prefix,ausencia de
+prefix,ausente
+prefix,descarta
+prefix,excluye
+prefix,negativo
+prefix,falta de
+prefix,ningún
+prefix,ninguna
+prefix,ni
+prefix,jamás
+prefix,libre de
+prefix,descartar
+prefix,rechazar
+prefix,no hay
+prefix,no se observa
+prefix,no presenta
+prefix,no muestra
+prefix,no tiene
+prefix,no se identifica
+postfix,negativo
+postfix,descartado
+postfix,ausente
+postfix,excluido
+postfix,rechazado
+postfix,desestimado

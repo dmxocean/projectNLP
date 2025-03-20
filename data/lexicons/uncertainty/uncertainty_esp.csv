@@ -1,0 +1,31 @@
+prefix,posible
+prefix,probable
+prefix,tal vez
+prefix,quizás
+prefix,sospecha de
+prefix,duda de
+prefix,podría
+prefix,sugiere
+prefix,sugestivo de
+prefix,compatible con
+prefix,puede
+prefix,parece
+prefix,aparentemente
+prefix,sospechoso de
+prefix,incierto
+prefix,no se descarta
+prefix,valorar
+prefix,a descartar
+prefix,a valorar
+prefix,pendiente de
+prefix,se plantea
+prefix,para estudio
+prefix,por determinar
+postfix,posiblemente
+postfix,probablemente
+postfix,tal vez
+postfix,quizás
+postfix,sin confirmar
+postfix,incierto
+postfix,a considerar
+postfix,por confirmar
