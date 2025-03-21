@@ -1,9 +1,14 @@
+import re
+import string
+
+import nltk
+import pandas as pd
 
 
 def json_structure(data, max_depth=5, current_depth=0, path="root"):
     """
     Recursively explore and print the structure of JSON data up to a specified depth
-    
+
     Parameters:
         data: The JSON data to explore
         max_depth: Maximum depth to explore
@@ -15,21 +20,21 @@ def json_structure(data, max_depth=5, current_depth=0, path="root"):
         current_depth: Current depth in the recursion
         path: Current path in the JSON structure
     """
-    
+
     # Indentation for visualizing depth
-    indent = (4*" ") * current_depth
-    
+    indent = (4 * " ") * current_depth
+
     if current_depth >= max_depth:
         print(f"{indent}[Reached max depth at {path}]")
         return
-    
+
     # Handle dictionary
     if isinstance(data, dict):
         print(f"{indent}{path} (dict with {len(data)} keys)")
         for key, value in data.items():
             new_path = f"{path}.{key}" if path != "root" else key
             json_structure(value, max_depth, current_depth + 1, new_path)
-    
+
     # Handle list
     elif isinstance(data, list):
         print(f"{indent}{path} (list with {len(data)} items)")
@@ -38,19 +43,25 @@ def json_structure(data, max_depth=5, current_depth=0, path="root"):
             sample_item = data[0]
             new_path = f"{path}[0]"
             json_structure(sample_item, max_depth, current_depth + 1, new_path)
-            
+
             # If there are multiple different structures in the list, show another example
-            if len(data) > 1 and not all(type(item) == type(sample_item) for item in data):
-                different_type_item = next((item for item in data if type(item) != type(sample_item)), None)
+            if len(data) > 1 and not all(
+                isinstance(type(item), type(sample_item)) for item in data
+            ):
+                different_type_item = next(
+                    (item for item in data if type(item) is not type(sample_item)), None
+                )
                 if different_type_item:
                     new_path = f"{path}[different_type]"
-                    json_structure(different_type_item, max_depth, current_depth + 1, new_path)
+                    json_structure(
+                        different_type_item, max_depth, current_depth + 1, new_path
+                    )
 
     # Handle other types
     elif isinstance(data, (str, int, float, bool, type(None))):
         # For primitive types, show a sample value
         if isinstance(data, str) and len(data) > 30:
-            sample_value = f"{data[:30]}..." 
+            sample_value = f"{data[:30]}..."
         else:
             sample_value = data
         print(f"{indent}{path} ({type(data).__name__}): {sample_value}")
@@ -59,7 +70,7 @@ def json_structure(data, max_depth=5, current_depth=0, path="root"):
 def json_keys(data):
     """
     Extract the key structural components of the dataset
-    
+
     Parameters:
         data (list): The JSON data to explore
 
@@ -72,53 +83,53 @@ def json_keys(data):
         "prediction_keys": set(),
         "result_keys": set(),
         "value_keys": set(),
-        "label_types": set()
+        "label_types": set(),
     }
-    
+
     # Process documents to extract generic structure
     for doc in data[:15]:
         # Main level keys
         for key in doc.keys():
             structure["main_keys"].add(key)
-        
+
         # Data level keys
         if "data" in doc:
             for key in doc["data"].keys():
                 structure["data_keys"].add(key)
-        
+
         # Prediction level
         if "predictions" in doc and doc["predictions"]:
             for pred in doc["predictions"]:
                 for key in pred.keys():
                     structure["prediction_keys"].add(key)
-                
+
                 # Result level
                 if "result" in pred:
                     for res in pred["result"]:
                         for key in res.keys():
                             structure["result_keys"].add(key)
-                        
+
                         # Value level and labels
                         if "value" in res:
                             for key in res["value"].keys():
                                 structure["value_keys"].add(key)
-                            
+
                             # Collect label types
                             if "labels" in res["value"]:
                                 for label in res["value"]["labels"]:
                                     structure["label_types"].add(label)
-    
+
     # Convert sets to sorted lists for nicer output
     for key in structure:
         structure[key] = sorted(list(structure[key]))
-    
+
     return structure
 
 
 def extract_annotations(data):
     """
     Extract all annotations/predictions from the documents to a Dataframe
-    
+
     Parameters:
         data (list): List of document JSON objects
 
@@ -127,28 +138,33 @@ def extract_annotations(data):
     """
 
     # Dataframe new rows
-    rows = [] 
-    
+    rows = []
+
     # Iterate through all documents
-    for doc_index, doc, in enumerate(data):
+    for (
+        doc_index,
+        doc,
+    ) in enumerate(data):
         doc_id = doc["data"]["id"]
         text = doc["data"]["text"]
 
-        # Empty row for non predicted 
+        # Empty row for non predicted
         if "predictions" not in doc or not doc["predictions"]:
             row = {
-                "doc_index": doc_index, # Represent the position of each document in your data array
+                "doc_index": doc_index,  # Represent the position of each document in your data array
                 "doc_id": doc_id,
                 "result_id": None,  # No result ID since there are no predictions
-                "start": None,      # No start position
-                "end": None,        # No end position
+                "start": None,  # No start position
+                "end": None,  # No end position
                 "label": "No Prediction",  # Special label to indicate absence
-                "text": None,       # No specific text segment
-                "context": text[:50] + "..." if len(text) > 50 else text  # First 50 chars for context
+                "text": None,  # No specific text segment
+                "context": text[:50] + "..."
+                if len(text) > 50
+                else text,  # First 50 chars for context
             }
             rows.append(row)
-            continue 
-        
+            continue
+
         # Process predictions
         for pred_index, pred in enumerate(doc["predictions"]):
             if "result" in pred:
@@ -156,10 +172,10 @@ def extract_annotations(data):
                     if "value" in res and "labels" in res["value"]:
                         start = res["value"]["start"]
                         end = res["value"]["end"]
-                        
+
                         # Extract the labeled text segment
                         segment_text = text[start:end]
-                        
+
                         # Create a row for each label
                         for label in res["value"]["labels"]:
                             row = {
@@ -169,45 +185,44 @@ def extract_annotations(data):
                                 "start": start,
                                 "end": end,
                                 "label": label,
-                                "text":segment_text,
+                                "text": segment_text,
                             }
                             rows.append(row)
 
                         # Sort rows by start position
                         rows = sorted(rows, key=lambda x: x["start"])
                         rows = sorted(rows, key=lambda x: x["doc_index"])
-    
+
     return pd.DataFrame(rows)
 
 
-import re
-
 def get_punctuation_stops(text: str) -> list[int]:
     indices = []
-    regex = r'\.(?!\d\w)'  # Match dots not followed by digits
+    regex = r"\.(?!\d\w)"  # Match dots not followed by digits
     for match in re.finditer(regex, text):
         index = match.start()
 
-        if text[index-3: index] == " dr":
+        if text[index - 3 : index] == " dr":
             pass
-        elif text[index-3: index] == "(dr":
+        elif text[index - 3 : index] == "(dr":
             pass
-        elif text[index-3: index] == "dra":
+        elif text[index - 3 : index] == "dra":
             pass
-        elif text[index-4: index] == "(dra":
+        elif text[index - 4 : index] == "(dra":
             pass
-        elif text[index-2: index] == "..":
+        elif text[index - 2 : index] == "..":
             pass
-        elif text[index-1: index] == ".":
+        elif text[index - 1 : index] == ".":
             pass
-        elif text[index+2] == ".":
+        elif text[index + 2] == ".":
             pass
-        elif text[index-1] == " ":
+        elif text[index - 1] == " ":
             pass
         else:
             indices.append(index)
 
     return indices
+
 
 def extract_documents(data):
     """
@@ -222,7 +237,7 @@ def extract_documents(data):
 
             start = 0
             for stop in stops:
-                part = text[start:stop + 1].strip()  # Include the dot
+                part = text[start : stop + 1].strip()  # Include the dot
                 if part:
                     f.write(part + "\n")
                 start = stop + 1
@@ -232,3 +247,71 @@ def extract_documents(data):
             if remaining:
                 f.write(remaining)
                 f.write("\n")
+
+
+def remove_punctuation(tokens):
+    return [token for token in tokens if token not in string.punctuation]
+
+
+def remove_punctuation_dataframe(df):
+    print("hola")
+    for index in df.index:
+        row = df.loc[index]
+        if row["label"] == "NEG" or row["label"] == "UNC":
+            print(row["text"])
+            tokens = nltk.tokenize.word_tokenize(row["text"])
+            tokens = remove_punctuation(tokens)
+            df.loc[index, "clean_text"] = " ".join(tokens)
+    return df
+
+
+def consecutive(label: str, index: int, df: pd.DataFrame, before, after):
+    if before == label:
+        if df.iloc[index - 1]["end"] == df.iloc[index]["start"]:
+            return index - 1
+    elif after == label:
+        if df.iloc[index + 1]["start"] == df.iloc[index]["end"]:
+            return index + 1
+    return None
+
+
+def closest(label: str, index: int, before, after):
+    if before == label:
+        return index - 1
+    elif after == label:
+        return index + 1
+    return None
+
+
+def before_after(label: str, index: int, df: pd.DataFrame):
+    before = df.iloc[index - 1][label] if index > 0 else None
+    after = df.iloc[index + 1][label] if index < len(df) - 1 else None
+    return before, after
+
+
+def group_labels(df):
+    # create a new column to store the scope for a CUE
+    df["scope"] = None
+
+    # group the Context and Cues that are consecutive
+    for index, row in df.iterrows():
+        before, after = before_after(row["label"], index, df)
+
+        if row["label"] == "NSCO":
+            df.at[index, "scope"] = consecutive("NEG", index, df, before, after)
+
+        if row["label"] == "USCO":
+            df.at[index, "scope"] = consecutive("UNC", index, df, before, after)
+
+    # second pass to group the rest
+    for index, row in df.iterrows():
+        before, after = before_after(row["label"], index, df)
+
+        if row["label"] == "NSCO":
+            df.at[index, "scope"] = closest("NEG", index, before, after)
+
+        if row["label"] == "USCO":
+            df.at[index, "scope"] = closest("UNC", index, before, after)
+
+    return df
+
