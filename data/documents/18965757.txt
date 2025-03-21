@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 21.06.1999 edat: 19 anys procedencia cex mateix hosp servei raquis data d'ingres 03.07.2018 data d'alta 10.07.2018 11:17:10 ates per ***************, ******; **********, *************; *********, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents no amc no ap de interes.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 21.06.1999 edat: 19 anys procedencia cex mateix hosp servei raquis data d'ingres 03.07.2018 data d'alta 10.07.2018 11:17:10 ates per ***************, ******; **********, *************; *********, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents no amc no ap de interes.
 proces actual paciente que ingresa de forma porgramada a cargo de la unidad de raquis de vh para intervenirse de toracoplastia.
 exploracio complementaria pruebas complementarias que no contraindican la cirugia.
 evolucio clinica el dia 3.7.2018 es intervenida de toracoplastia der, sin incidencias intraoperatorias.

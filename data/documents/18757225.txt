@@ -1,6 +1,6 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 10.09.1945 edat: 72 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 10.09.1945 edat: 72 anys procedencia domicil/res.
 soc servei medicina interna data d'ingres 26.04.2018 data d'alta 03.05.2018 12:00:00 ates per equipo dra ******* (dr ********, dr *******).
-informe d'alta d'hospitalitzacio motiu d'ingres varon de 72 aÃ±os, alergico a pirazolonas, sin habitos toxicos, que ingresa por diarrea.
+informe d'alta d'hospitalitzacio motiu d'ingres varon de 72 años, alergico a pirazolonas, sin habitos toxicos, que ingresa por diarrea.
 antecedents - hipertension arterial en tratamiento farmacologico bcc dihidropiridinicos.
 - enfermedad renal cronica estadio iiib-iv con cr habituales en torno a 2mg/dl, fg 25-30.
 durante ingreso en 02.2017 por hematoma talamico izquierdo presento fracaso renal agudo con cr 6.67 precisando hemodialisis.
@@ -25,7 +25,7 @@ niega nauseas, vomitos, clinica miccional y fiebre.
 niega cambios en tratamiento habitual, toma reciente de antibioticos.
 no familiares enfermos en el momento actual.
 refieren lesiones similares durante ingreso prolongado en cotxeres en 2017.
-exploracio fisica ta 148/64 mmhg, fc 86 lpm, spo2 99% (aa), tÂª 36.5Âºc.
+exploracio fisica ta 148/64 mmhg, fc 86 lpm, spo2 99% (aa), tª 36.5ºc.
 hemodinamicamente estable y afebril.
 buena hidratacion mucocutanea, normocoloreado, bien perfudido.
 placas eritematosas genrealizadas en cara interna de eeii, abdomen y zona lumbar sugestivas de habones.
@@ -33,7 +33,7 @@ placas eritematosas genrealizadas en cara interna de eeii, abdomen y zona lumbar
 pulsos perifericos presentes y simetricos.
 no iy ni nhc ** *** *** (********) age-v-mi2 1/3 lopd edemas en eeii.
 no signos de tvp.
--respiratorio: murmullo vesicular conservado sin ruidos sobreaÃ±adidos.
+-respiratorio: murmullo vesicular conservado sin ruidos sobreañadidos.
 -abdomen: globuloso, depresible, no doloroso a la palpacion, no irritacion peritoneal, no se palpan masas ni megalias.
 peristaltismo conservado.
 -neurologico: consciente, orientado.
@@ -57,7 +57,7 @@ exploracio complementaria -eab: ph: 7.33 pco2: 43 mmhg, hco3: 22.
 5 %, plaquetes: 135 x10e9/l, temps de protrombina: 0.93 ratio, temps de protrombina: 112 %, inr: 0.94, temps de protrombina: 11.
 4 seg, ttpa: 1.04 ratio, glucosa: 105 mg/dl, urea: 87 mg/dl, creatinini: 3.33 mg/dl, filtrat glomerular (estimacio segons ckd-epi): 17 ml/min/1,73 m2, sodi: 136.
 8 mmol/l, potassi: 5.24 mmol/l, calci: 9.
-6 mg/dl, aspartat-aminotransferasa: 17 ui/l, alanina-aminotransferasa: 9 ui/l, proteÃ¯na: 7.
+6 mg/dl, aspartat-aminotransferasa: 17 ui/l, alanina-aminotransferasa: 9 ui/l, proteïna: 7.
 6 g/dl -iones en orina: sodi: 96 mmol/l, clorur: 110 mmol/l, potassi: 21 mmol/l, urea 374 mg/dl, creatinini: 70 mg/dl.
 fena: -coprocultivo: negativo para shigella, yersinia, salmonella y campylobacter.
 evolucio clinica a su llegada a urgencias, buen estado general, hemodinamicamente estable, afebril.

@@ -1,5 +1,5 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 30.10.1958 edat: 60 anys procedencia aguts servei oncologia medica data d'ingres 26.05.2019 data d'alta 31.05.2019 13:50:00 ates per ************, *****; *******************, ***************** informe de trasllat a sociosanitari motiu d'ingres mujer de 60 aÃ±os que ingresa en planta de oncologia por fiebre de origen urinario.
-antecedents antecedentes personales: alergia a nolotil . fumadora de 4-5 cigarillos diarios actualmente, con fe 30 paquetes -aÃ±o.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 30.10.1958 edat: 60 anys procedencia aguts servei oncologia medica data d'ingres 26.05.2019 data d'alta 31.05.2019 13:50:00 ates per ************, *****; *******************, ***************** informe de trasllat a sociosanitari motiu d'ingres mujer de 60 años que ingresa en planta de oncologia por fiebre de origen urinario.
+antecedents antecedentes personales: alergia a nolotil . fumadora de 4-5 cigarillos diarios actualmente, con fe 30 paquetes -año.
 antecedentes medico-quirurgicos: - hipertension arterial en tratamiento farmacologico.
 - diabetes mellitus tipo 2 en tratamiento combinado con hipoglucemiantes orales e insulina , diagnosticada tras tratamiento quimioterapico.
 ultimo control hba1c febrero 2018 9.
@@ -14,12 +14,12 @@ historia oncologica: -afecta de recidiva vesical de un scc de cervix (p16+) diag
 resumen: primer tratamiento: scc cervical eiv de figo en junio/2009 (implante peritoneal en linfa).
 realizo 4 ciclos de cddp-topotecan y posteriormente cddp + rt.
 finaliza tratamiento en febrero/2009 con rcc como mejor respuesta.
-posteriormente en seguimiento por 9 aÃ±os.
+posteriormente en seguimiento por 9 años.
 recidiva actual: por hematuria se realizo cistocopia qu emuestra area exofitica de aspecto edematoso y proximo al cuello vesical.
 citologia de orina compatible con carcinoma urotelial.
 se presento en comite uro-onco decidiendose cistectomia radical + retrectomia + nefrectomia derecha + derivacion urinaria tipo ureterostomia cutanea derecha laparoscopica asistido por robot sin incidencias el 11.02.19.
 *en el postoperatorio presenta episodios de hipotension realizandose angio tc que informa de posible sangrado activo a nivel de arterias epigastricas, por lo que se reviso en quirofano por parte de cirugia vascular sin hallar sangrado activo.
-durante el ingreso presenta pico febril de 38,9Âº por lo que se realizan cultivos y se inicia antibioticoterapia.
+durante el ingreso presenta pico febril de 38,9º por lo que se realizan cultivos y se inicia antibioticoterapia.
 el l dia 8/3/2019 se deriva a isabel roig para completar tratamiento con ertapenem, teicoplanina y fluconazol.
 ap de la pieza quirurgica -&gt; cistectomia e histerectomia : invasion por carcinoma escamoso pobremente diferenciado afectando pared posterior vesical, cuello vesical y pared vaginal compatible con reccidiva de primario de cervix.
 se ha revisado la biopsia previa del paciente 18b-41264 correspondiendo a la misma morfologia , sin haberse tampoco identificado en la bmn previa carcinoma in situ.
@@ -30,17 +30,17 @@ alta sospecha de restos tumorales en tercio inferior de cara posterior vaginal (
 hematoma mesenterico ya conocido.
 apelotonamiento, sin evidencia de dilatacion de asas ileales en pelvis.
 nefrectomia izquierda.
-inicia 1Âºl de cddp-txl c1d1 29.04.19.
+inicia 1ºl de cddp-txl c1d1 29.04.19.
 c2d1 16.05.19.
-en curso de 1Âª linea qt basada en cddp-txl siendo el c2d1 16.05.2019.
+en curso de 1ª linea qt basada en cddp-txl siendo el c2d1 16.05.2019.
 cex dra *******.
 situacion sociofuncional: parcialmente dependiente para las abvd.
 actualmente en css ir.
-proces actual refiere cuadro clinico de 2 dias de evolucion caracterizado por astenia que desde hace 2 horas aprox se asocia a desorientacion y pico febril cuantificada 39.8Âºc, asociado a tiritonas francas.
+proces actual refiere cuadro clinico de 2 dias de evolucion caracterizado por astenia que desde hace 2 horas aprox se asocia a desorientacion y pico febril cuantificada 39.8ºc, asociado a tiritonas francas.
 niega clinica asociada.
 ante cuadro deciden derivar nuestro centro.
-exploracio fisica fc 68 bpm tÂªaxi 36.
-2 Âºc fr rpm tÂªrec Âºc ta s 122 mmhg sat o2 100.00 % ta d 85 mmhg pes kg ecog 2 aceptables condiciones generales, febril, hidratada, palidez cutanea acv ruidos cardiacos ritmicos sin soplos, no iy.
+exploracio fisica fc 68 bpm tªaxi 36.
+2 ºc fr rpm tªrec ºc ta s 122 mmhg sat o2 100.00 % ta d 85 mmhg pes kg ecog 2 aceptables condiciones generales, febril, hidratada, palidez cutanea acv ruidos cardiacos ritmicos sin soplos, no iy.
 ar mvc, sin sobreagregados.
 abdomen con rha presentes, blando, depresible, no dolor a la palpacion, no palpo masas ni megalias.
 urostomias funcionanate.
@@ -77,33 +77,33 @@ hialinos 0 cil/ul bacterias 594 bact/ul, hongos negativos.
 cloacae sensible a piperacilina-tazobactam y ciprofloxacino -rx de torax: no condensaciones parenquimatosas.
 nhc ** *** *** &nbsp;(********) &nbsp;age-v-onc 2/4 lopd - tc abdominal (30.05.19): atelectasias subpleurales bibasales.
 cavidcades pleurales visualizadas sin liquido.
-higado de tamaÃ±o y morfologia normal, sin evidencia de lesiones focales.
+higado de tamaño y morfologia normal, sin evidencia de lesiones focales.
 via biliar no dilatada.
 eje venoso espleno-portal permeable.
-bazo homogeneo, de tamaÃ±o normal.
+bazo homogeneo, de tamaño normal.
 pancreas y glandulas suprarrenales sin alteraciones significativas.
-pequeÃ±a calcificacion en cabeza pancreatica.
+pequeña calcificacion en cabeza pancreatica.
 cambios post quirurgicos abdominales en relacion a nefrectomia izquierda, cistectomia e histerectomia y ureterostomia cutanea derecha.
-riÃ±on derecho con captacion de contraste, presencia de algun quiste simple cortical y alguna cicatriz cortical.
+riñon derecho con captacion de contraste, presencia de algun quiste simple cortical y alguna cicatriz cortical.
 ureterostomia cutanea con resolucion de la dilatacion pieloureteral presente en estudio previo, con cateter ureteral con extremo en pelvis renal.
 discreto realce urotelial de aspecto reactivo/inflamatorio.
-disminucion de tamaÃ±o de la coleccion mesenterica ya conocida, en el momento actual de 1.
+disminucion de tamaño de la coleccion mesenterica ya conocida, en el momento actual de 1.
 1 x 1.
 7 x 3 cm (estudio previo de 2 x 4 x 9 cm).
-practica resolucion de las pequeÃ±as colecciones anfractuosas e irregulare en el lecho quirurgico del fondo de saco vaginal, persitiendo minima zona anfractuosa en el lado derecho, de aproximadamente 11 mm.
+practica resolucion de las pequeñas colecciones anfractuosas e irregulare en el lecho quirurgico del fondo de saco vaginal, persitiendo minima zona anfractuosa en el lado derecho, de aproximadamente 11 mm.
 no se identifican adenopatias retroperitoneales / mesentericas ni pelvicas / inguinales.
 mejoria del engrosamiento e hipercaptacion intestinal descritos en estudio previo, con persistencia en hipercaptacion y engrosamiento en un segmento de ileon en pelvis menor y en region rectal donde se observa un mayor engrosamiento y reticulacion de la grasa adyacente.
 importante ateromatosis aortoiliaca.
 no se aprecia liquido libre intraabdominal ni componentes de partes blandas peritoneales sospechosos.
 resto del estudio sin cambios significativos.
-conclusion: estudio que muestra con respecto al previo disminucion del tamaÃ±o de las colecciones conocidas a nivel mesenterico y en pelvis, asi como resolucion de la dilatacion pieloureteral.
+conclusion: estudio que muestra con respecto al previo disminucion del tamaño de las colecciones conocidas a nivel mesenterico y en pelvis, asi como resolucion de la dilatacion pieloureteral.
 tambien se observa mejoria del engrosamiento e hipercaptacion intestinal descritos en estudio previo, con persistencia del mismo en un segmento de ileon en pelvis y en region rectal en donde se observa un mayor engrosamiento y reticulacion de la grasa adyacente sugestivo de cambios inflamatorios/infecciosos, a correlacionar clinicamente.
-evolucio clinica paciente mujer de 60 aÃ±os, sin amc ni ht.
-ap: dmt2, hta, cai en forma de iam en julio/2018 con colocacion de cuadruple bypass y posteriormente doblemente antiagregada con ticagrelor y adiro, erc por monorrena funcional derecha (2Âº a uhn secundario a neoplasia).
+evolucio clinica paciente mujer de 60 años, sin amc ni ht.
+ap: dmt2, hta, cai en forma de iam en julio/2018 con colocacion de cuadruple bypass y posteriormente doblemente antiagregada con ticagrelor y adiro, erc por monorrena funcional derecha (2º a uhn secundario a neoplasia).
 actualmente afectada de recidiva vesical de un scc de cervix (p16+) diagnosticado en febrero/2019 por hematuria + disuria y anemia.
-inicia 1Âºl de cddp-txl c1d1 29.04.19.
+inicia 1ºl de cddp-txl c1d1 29.04.19.
 c2d1 16.05.19 acude por fiebre de foco urinario.
-cuenta 2 dias de astenia que desde hace 2 horas aprox se asocia a desorientacion y pico febril cuantificada 39.8Âºc, asociado a tiritonas francas.
+cuenta 2 dias de astenia que desde hace 2 horas aprox se asocia a desorientacion y pico febril cuantificada 39.8ºc, asociado a tiritonas francas.
 ef con dolor a la palpacion de hipogastrio pero sin peritonismo.
 sedimento urinario patologico.
 hcx positivo para e.

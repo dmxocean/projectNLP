@@ -1,6 +1,6 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 24.02.1932 edat: 86 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 24.02.1932 edat: 86 anys procedencia domicil/res.
 soc servei oncologia medica data d'ingres 23.06.2018 data d'alta 03.07.2018 11:54:29 ates per equipo medico oncologia (dra. *******, dra. ******, dra, *****, dra. ******).
-informe d'alta d'hospitalitzacio motiu d'ingres hombre de 86 aÃ±os que consulta a urgencias por malestar general.
+informe d'alta d'hospitalitzacio motiu d'ingres hombre de 86 años que consulta a urgencias por malestar general.
 antecedents sin alergias medicamentosas conocidas.
 sin habitos toxicos.
 antecedentes medicoquirurgicos - diabetes mellitus tipo 2 en seguimiento por endocrinologo de zona (dr. *******).
@@ -10,7 +10,7 @@ no ha presentado episodios de descompensaciones agudas cetosicas o hiperosmolare
 ha presentado algun episodio de hipoglucemia que no ha requerido traslado al hospital.
 presenta complicaciones microangiopaticas, retinopatia con desprendimiento de retina y cataratas trada con fotocoagulacion, nefropatia diabetica con microalbuminuria.
 - hipertension arterial de larga evolucion sin tratamiento farmacologico actual.
-- quiste hidatidicos hepaticos intervenidos en 1969 en este centro (dr. ******), requiriendo multiples reintervenciones hasta en 12 ocasiones por cuadro de abscesos subfrenicos o subhepaticos en clinicas particulares, quedando como compliccion secundaria una fistula cutanea cronica desde 1988 sobre hipocondrio derecho con gasa en su interior de varios aÃ±os de evolucion, con supuracion permanente por lo cual se realizaba curas en domicilio, siguiendo controles solo en cap, por reticencia del paciente a acudir a huvh.
+- quiste hidatidicos hepaticos intervenidos en 1969 en este centro (dr. ******), requiriendo multiples reintervenciones hasta en 12 ocasiones por cuadro de abscesos subfrenicos o subhepaticos en clinicas particulares, quedando como compliccion secundaria una fistula cutanea cronica desde 1988 sobre hipocondrio derecho con gasa en su interior de varios años de evolucion, con supuracion permanente por lo cual se realizaba curas en domicilio, siguiendo controles solo en cap, por reticencia del paciente a acudir a huvh.
 fistula cerro espontaneamente en septiembre/2013.
 -anemia normocitica probablemente multifactorial, se realizo endoscopia en 2013 que mostro esofagitis (por consumo cronico de aines) por lo que se iniciaron ibps.
 intervenciones quirurgicas: faquectomia bilateral en abril/2005.
@@ -36,19 +36,19 @@ no fiebre.
 niega otra sintomatologia.
 exploracio fisica explroacion fisica en urgencias regular estado general, palidez cutanea buen estado general.
 consciente, desorientado.
-deshidratado aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreaÃ±adidos.
+deshidratado aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
 aparato cardiocirculatorio: tonos ritmico, sin soplos, pulsos presentes y simetricos.
 perfusion distal conservada.
 abdomen blando y sin dolo.
 r nhc ** *** *** (********) age-v-onc 2/5 lopd nrl: no meningismo ni focalidad neurologica.
 exploracion fisica en planta de oncologia o/ ta 153/68 mmhg, fc 86 lpm, sato2 97%, afebril buen estado general.
 correcto tiempo de capilarizacion distal.
-cardiovascular: tonos cardiacos rimticos, sin soplos aÃ±adidos.
+cardiovascular: tonos cardiacos rimticos, sin soplos añadidos.
 pulsos radiales y pedios rpesentes y simetricos.
 sin edemas en extremdiades inferiores.
 sin ingurgitacion yugular ni reflujo hepatoyugular.
 sin signos de tvp en extremdiades inferiores.
-ap: murmullo vesicular conservado sin ruidos sobreaÃ±adidos.
+ap: murmullo vesicular conservado sin ruidos sobreañadidos.
 abd: blando y depresible, no doloroso a la palpacion, ruidos conservados, no masas ni megalias.
 no ingurgitacion yugular.
 neuro: paciente consciente y orientado en las tres esferas, colaborador.
@@ -57,7 +57,7 @@ exploracio complementaria ecg : ritmo sinusal a 100lpm qrs estrecho, no alteraco
 3 hco3s: 14 eab: 00:12 ph : 7.24 lact: 10.
 8 k: 5.
 4 hgb: 8.
-1 hco3s: 14 analitica general urgente (21/6/18): hgb: 8.9gr/dl hct: 27% leucos: 7990/mm3 neutros: 71% plt: 264.000/mm3 tquick: 101% glucosa: 75mg/dl urea: 189mgdl creat: 4.57mg/dl urat: 8.2mg/dl na: 136mmol/l k: 7.41mmol/l cloro:; 104mmol/l mg: 1.6mg/dl calcio : 10mg/dl ast: 31 ui/l alt: 20 ui/l alb: 3.7gr/dl pcr: 4 ecografia abdominal (21/6/18) ronyons dÂ´aproximadament uns 9cm, amb aprimament cortical.
+1 hco3s: 14 analitica general urgente (21/6/18): hgb: 8.9gr/dl hct: 27% leucos: 7990/mm3 neutros: 71% plt: 264.000/mm3 tquick: 101% glucosa: 75mg/dl urea: 189mgdl creat: 4.57mg/dl urat: 8.2mg/dl na: 136mmol/l k: 7.41mmol/l cloro:; 104mmol/l mg: 1.6mg/dl calcio : 10mg/dl ast: 31 ui/l alt: 20 ui/l alb: 3.7gr/dl pcr: 4 ecografia abdominal (21/6/18) ronyons d´aproximadament uns 9cm, amb aprimament cortical.
 hi ha senyal arterial i venosa ambdos ronyons.
 no hi ha dilatacio de la va excretora.
 no hi ha imatges concluents de litiasi.
@@ -66,7 +66,7 @@ prostatainfrapubica, petita.
 o.
 d no hi ha dilatacio de la via excretora renal.
 iones en orina: fena 9%.
-evolucio clinica paciente de 86 aÃ±os con antecedentes de erc con creatininas en torno 1.
+evolucio clinica paciente de 86 años con antecedentes de erc con creatininas en torno 1.
 5-1.7mg/dl, diabetico, hipertenso, afecto de una cprc en curso 1l desde marzo 2018 con enzalutamida, en sd segun ultimas pruebas de reevaluacion en junio de 2018 y psa 0.27 ( respuesta bioquimica).
 acude a urgencias por astenia, adinamia y deterioro de estado general de mas o menos 1 semana de evolucion ( al parecer coinicide con realizacion de tc 16/6/18).
 a su llegada a urgencias se encuentra estable hemodinamicamente, afebril y sin dificultad a respiratoria, destacando a exploracion fisica palidez cutanea y tendencia a somnolencia/ desorientacion.
@@ -79,7 +79,7 @@ se cursa ingreso para control evolutivo y continuacion de hidratacion endovenosa
 a su llegada a planta de oncologia, paciente hemodinamicamente estable, afebril, buene stado general y correcta situacion de hidratacion muco-cutanea, sin signos de sobrecarga hidrica.
 se mantiene tratamiento con hidratacion endovenosa y medidas hipopotasemicas, con correcta respuesta analitica, pudiendo ir simplificando tratamiento.
 al alta, creatinina de 1,9mg/dl.
-como incidencias durante su estancia hospitalaria, el paciente presenta sindrome confusional nocturno, en contexto de paciente aÃ±oso con patologia oncologica de base ingresado, ajustando medicacion con quetiapina con correcto control medico.
+como incidencias durante su estancia hospitalaria, el paciente presenta sindrome confusional nocturno, en contexto de paciente añoso con patologia oncologica de base ingresado, ajustando medicacion con quetiapina con correcto control medico.
 se realiza valoracion por el servicio de endocrinologia, quienes recomiendan parar la insulina y la metformina e iniciar linagliptina 5mg (trajenta) 1 comprimido al dia.
 dada la estabilidad clinica y la ausencia de signos de alarma, se decide alta a domicilio bajo tratamiento habitual, recomendando hidratacion oral intensa.
 se explcian signos de alarma y normas de reconsulta, y se cita a cex de oncologia para controles.
@@ -87,7 +87,7 @@ orientacio diagnostica - insuficiencia renal aguda sobre cronica , en contexto d
 - carcinoma prostatico resistente a la castracion en curso de primera linea de tratamiento conn enzalutamidaa.
 tractament i recomanacions a l'alta - omeprazol 20mg 1 comprimido 1h antes del desayuno.
 - metoclopramida 10mg 1 comprimido desayuno, comida y cena si nauseas.
-- lactulosa 10g un sobre desayuno y comida si estreÃ±imiento.
+- lactulosa 10g un sobre desayuno y comida si estreñimiento.
 - acido folico 5mg 1 comprimido a la comida.
 - quetiapina 25mg 1 comprimido por la noche si agitacion.
 - ibesartan 300mg 1 comprimido al desayuno.

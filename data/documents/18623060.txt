@@ -1,9 +1,9 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 12.04.1953 edat: 64 anys procedencia cex mateix hosp servei pneumologia data d'ingres 18.03.2018 data d'alta 23.03.2018 11:19:28 ates per equipo de transplante pulmonar dr. ************** (*********************) informe d'alta d'hospitalitzacio motiu d'ingres paciente de 64 aÃ±os de edad que ingresa de forma programada para evaluacion de trasplante pulmonar.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 12.04.1953 edat: 64 anys procedencia cex mateix hosp servei pneumologia data d'ingres 18.03.2018 data d'alta 23.03.2018 11:19:28 ates per equipo de transplante pulmonar dr. ************** (*********************) informe d'alta d'hospitalitzacio motiu d'ingres paciente de 64 años de edad que ingresa de forma programada para evaluacion de trasplante pulmonar.
 antecedents datos de filiacion -lugar de residencia: barcelona -tiempo de viaje hasta el hospital: 45 minutos.
 -medico habitual: dr. ********* (h.
-bellvitge) -telefono del paciente: ********1 - ********0 antecedentes personales: - alergia a la penicilina (rash cutaneo y dificultad respiratoria hace 25 aÃ±os).
+bellvitge) -telefono del paciente: ********1 - ********0 antecedentes personales: - alergia a la penicilina (rash cutaneo y dificultad respiratoria hace 25 años).
 no pruebas cutaneas.
-- exfumador desde hace 6 aÃ±os (da 44 paquetes/aÃ±o).
+- exfumador desde hace 6 años (da 44 paquetes/año).
 - enol 1-2 ubes/dia.
 - niega otros habitos toxicos.
 - trabajo como director en fabrica textil con exposicion a fibra y tinturas.
@@ -11,19 +11,19 @@ antecedentes patologicos: - no hipertension arterial ni diabetes mellitus conoci
 - hipertrigliceridemia familiar (madre) en tratamiento farmacologico.
 - obesidad (imc 34.
 8 kg/cm2).
-- artritis reumatoide diagnosticada el aÃ±o 2011, en seguimiento por cex reumatologia igualada.
-recibio metotrexate durante un aÃ±o, sustituyendose por leflunomida tras diagnostico de epid, suspendiendose en diciembre 2017 tras ingreso hospitalario, actualmente sin tratamiento especifico.
+- artritis reumatoide diagnosticada el año 2011, en seguimiento por cex reumatologia igualada.
+recibio metotrexate durante un año, sustituyendose por leflunomida tras diagnostico de epid, suspendiendose en diciembre 2017 tras ingreso hospitalario, actualmente sin tratamiento especifico.
 - episodios de hemorragia digestiva alta en forma de melenas: * marzo 2010: fgs mostro doble ulcus duodenal en contexto de toma de aine por odontalgia.
 recidiva hemorragica durante el ingreso que requirio reesclerosis.
 posteriormente realizo tratamiento eradicador h.
 pylori que fue efectivo.
 * mayo 2016: no toma de aine.
 fgs: duodenitis leve, poliposis gastrica de glandulas fundicas, no se observan restos hematicos.
-fcs: hemorroides de pequeÃ±o tamaÃ±o, resto normal.
+fcs: hemorroides de pequeño tamaño, resto normal.
 entero-tac: sin anomalias, colelitiasis.
 recibe alta hospitalaria tras estudio normal, presentando recidiva en julio 2016 por lo que se repite fgs que muestra restos hematicos recientes en cuerpo gastrico, orientando como probable etiologia vascular.
 actualmente en tratamiento con ibp.
-- episodio de amaurosis fugax el aÃ±o 2000, sin posteriores secuelas, mantiene tratamiento antiagregante desde entonces.
+- episodio de amaurosis fugax el año 2000, sin posteriores secuelas, mantiene tratamiento antiagregante desde entonces.
 - no refiere intervenciones quirurgicas de interes.
 historia neumologica: - epid asociada a artritis reumatoide diagnosticada en 2011 a raiz de disnea de esfuerzo, atribuida inicialmente a tratamiento previo con metotrexate por su conectivopatia.
 desde entonces ha realizado seguimiento periodico inicialmente semestral y posteriormente anual en hospital de igualada.
@@ -48,11 +48,11 @@ vena cava inferior no dilatada y movil.
 ** usuario de ocd desde 08/01/17 por desaturacion al esfuerzo (6mwd hasta 79% a los 6 minutos) durante 24h diarias a 3l/min.
 situacion sociofuncional: independiente para las actividades basicas de la vida diaria.
 vive con su mujer en calaf.
-tiene 1 perro desde hace aÃ±os.
+tiene 1 perro desde hace años.
 ha recibido vacuna antineumococica (noviembre 2017) asi como antigripal anual.
 medicacio habitual atorvastatina 80 mg 1 comprimido cada 24 horas; ezetrol 10 mg 1 comprimido cada 24 horas; clopidogrel 75 mg 1 comprimido cada 24 horas, omperazol 20 mg 1 comprimido cada 24 horas, sertralina 100 mg 1 comprimido cada 24 horas, prednisona 30 mg 1 comprimido cada 24 horas.
 proces actual paciente que ingresa de forma programada para evaluacion de trasplante pulmonar.
-al momento afebril, refier disnea de esfuerzo con mmrc 3, sin ortopnea, ni disnea paroxistica nocturna, niega dolor toracico, ni palpitaciones, ni otra sintomatologia de interes exploracio fisica ta: 118/82 mmhg; fc: 69 lpm; fr: 20 rpm; sato2: 96% gn 2-3 l; t: 36.2Âºc hemodinamicamente estable.
+al momento afebril, refier disnea de esfuerzo con mmrc 3, sin ortopnea, ni disnea paroxistica nocturna, niega dolor toracico, ni palpitaciones, ni otra sintomatologia de interes exploracio fisica ta: 118/82 mmhg; fc: 69 lpm; fr: 20 rpm; sato2: 96% gn 2-3 l; t: 36.2ºc hemodinamicamente estable.
 examen fisico buen estado general, hidratado, obesidad grado 1; sin adenopatias palpables, tonos cardiacos ritmicos, sin signos de insufiencia cardiaca descompensada.
 eupneico en reposo, crepitantes secos en bases, alerta, orientado en tiempo, espacio y persona.
 sin focalidad neurologica aguda, ni asterixis.
@@ -97,7 +97,7 @@ estudio basico de anemias: ferritina 187 ng/ml, transferrina 209 mg/dl, ferro 14
 4 ng/ml, haptoglobina 1.
 8 g/l nhc ** *** *** (********) age-v-nml 3/6 lopd vsg 45 mm/h bioquimica funcion renal: urea 42 mg/dl, creatinina 0.79 mg/dl funcion hepatica: bilirrubina 0.73 mg/dl, bilirrubina esterificada 0.29 mg/dl, ast 21 ui/l, alt 28 ui/l, fa 63 ui/l, ggt 10 ui/l, electrolitos: sodio 140.
 9 mmol/l, potasio 4.28 mmol/l, calcio 9.
-3 mg/dl, estudio de lipidos: colesterol 168 mg/dl, triglicerid 83 mg proteÃ¯na 6.
+3 mg/dl, estudio de lipidos: colesterol 168 mg/dl, triglicerid 83 mg proteïna 6.
 3 g/dl, albumina 3.
 6 g/dl.
 evaluacion metabolismo oseo y grado de osteoporosis - metabolismo calcio/fosforo: calcidiol 13.
@@ -145,7 +145,7 @@ una vez completadas las pruebas complementarias de evaluacion de trasplante pulm
 se realizara visita de control por ccee de neumologia.
 orientacio diagnostica - epid en fase fibrotica asociada a artritis reumatoide.
 - evaluacion de trasplante pulmonar.
-procediments 89.41 prova d'esforÃ§ cardiovascular en que es emprada la cinta sense fi 89.65 mesurament de gasos de la sang arterial sistemica 89.38 altres mesuraments no operatoris respiratoris.
+procediments 89.41 prova d'esforç cardiovascular en que es emprada la cinta sense fi 89.65 mesurament de gasos de la sang arterial sistemica 89.38 altres mesuraments no operatoris respiratoris.
 pletismografia: funcio respiratoria, impedancia toracica ( 2 ) 89.37 determinacio de la capacitat vital 92.15 gammagrafia pulmonar 87.44 radiografia rutinaria de torax, descrita com a tal.
 radiografia de torax nos 87.24 altra radiografia de columna lumbosacra.
 radiografia sacrococcigeal 89.08 altra consulta ( 2 ) 89.06 consulta descrita com a limitada.

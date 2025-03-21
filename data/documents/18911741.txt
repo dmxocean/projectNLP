@@ -1,6 +1,6 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 04.11.1932 edat: 85 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 04.11.1932 edat: 85 anys procedencia domicil/res.
 soc servei oncologia medica data d'ingres 12.06.2018 data d'alta 19.06.2018 10:07:48 ates per equipo medico oncologia (dra. *******, dra. ******, dra. ******, dra. ******).
-informe de trasllat a sociosanitari motiu d'ingres mujer de 85 aÃ±os que consulta a urgencias por deterioro clinico y sindrome confusional.
+informe de trasllat a sociosanitari motiu d'ingres mujer de 85 años que consulta a urgencias por deterioro clinico y sindrome confusional.
 antecedents -no alergias medicamentosas conocidas.
 -sin habitos toxicos.
 antecedentes medico-quirurgicos - osteoporosis en tratamiento medico.
@@ -21,7 +21,7 @@ proces actual paciente que es traida a urgencias por cuadro de deterioro del est
 la cuidadora explica episodios de desorientacion y confusion y discurso incoherente en los ultimos dias.
 no perdidas de nivel de conciencia , sincopes ni crsisi comicial.
 niega fiebre, sintomas urinarios, digestivos ni respiratorios.
-exploracio fisica ta: 139/mmhg; fc: ppm; tÂºc: ,Âºc; sato2: 97%aa.
+exploracio fisica ta: 139/mmhg; fc: ppm; tºc: ,ºc; sato2: 97%aa.
 ecog 2.
 nhc ** *** *** (********) age-v-onc 1/3 lopd regular estado general, normoperfundida, leve palidez cutanea.
 deshidratacion cutaneo-mucosa.
@@ -39,12 +39,12 @@ exploracio complementaria analitica general: hb 11.
 7, calcio 9.
 0, ast 57, alt 11, albumina 3.
 5, pcr 0.55.
-ecg : ritmo sinusal a 75 lpm, eje cardiaco a 60Âº, qrs estrecho, no alteraciones agudas de la repolarizacion.
+ecg : ritmo sinusal a 75 lpm, eje cardiaco a 60º, qrs estrecho, no alteraciones agudas de la repolarizacion.
 rx de torax: ict conservado.
 no infiltrados ni condensaciones parenquimatosas de nueva aparicion.
 scf discretamente pinzados.
 sedimento urinario: leucocitos: 3,1cel/microl; eritrocitos: 0,9eritrocitos/microl; bacterias: 80bact/microl.
-evolucio clinica paciente mujer de 85 aÃ±os afecta de recidiva de neoplasia mama estadio triple negativo con afectacion local y probable hepatica en curso de vnr oral metronomica.
+evolucio clinica paciente mujer de 85 años afecta de recidiva de neoplasia mama estadio triple negativo con afectacion local y probable hepatica en curso de vnr oral metronomica.
 acude por deteriro del estado general y cuadro confusional asociado.
 a su llegada a urgencias, paciente hemodinamicamente estable, afebril, eupneica, consciente, orientada en las tres esferas, sin signos de focalidad neurologica, ni otra semiologia relevante en la exploracion fisica.
 analiticamente, sin alteraciones significativas.

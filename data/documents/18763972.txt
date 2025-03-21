@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 29.12.1942 edat: 75 anys procedencia cex mateix hosp servei oncologia medica data d'ingres 01.05.2018 data d'alta 07.05.2018 16:49:09 ates per equipo de neumologia general (dr. *****, dra. ******, dra. *********; dra. *******) equipo oncologia ( dra ******, dra ******, dra ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 75 aÃ±os que ingresa de forma programada para bag hepatica antecedents - alergico a la mecromina - ex-fumador de 3 cigarrillos al dia desde 19-70 aÃ±os (fe: &gt;60 paquetes/aÃ±o) antecedentes patologicos - aaa 34 mm.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 29.12.1942 edat: 75 anys procedencia cex mateix hosp servei oncologia medica data d'ingres 01.05.2018 data d'alta 07.05.2018 16:49:09 ates per equipo de neumologia general (dr. *****, dra. ******, dra. *********; dra. *******) equipo oncologia ( dra ******, dra ******, dra ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 75 años que ingresa de forma programada para bag hepatica antecedents - alergico a la mecromina - ex-fumador de 3 cigarrillos al dia desde 19-70 años (fe: &gt;60 paquetes/año) antecedentes patologicos - aaa 34 mm.
 control cv.
 claudicometria 65 metros.
 dolor pierna izda - dislipemia en tratamiento con estatinas.
@@ -14,7 +14,7 @@ adeconcarcinoma.
 controles equipo unidad de pulmon.
 dra ***** medicacio habitual segun receta electronica: - adiro 100mg 1 x 24 h - atroaldo 20mcg/puls 200 dosis10ml 3 x 8 h - hidroferol 1 x 1 m - praxilene 100mg 1 x 12 h - simvastatina 20mg 1 x 24 h nhc ** *** *** (********) age-v-onc 1/4 lopd - dolalgial 125mg 1 x 12 h - adolonta 100mg 1 x 12 h - metamizol 2 x 24 h proces actual remitido desde consultas por hallazgo casual de nodulo pulmonar de bordes espiculados en lsd, sospechosa de proceso neoformativo, con infiltracion de la grasa mediastinica y supraclavicular derecha.
 presenta disfonia desde enero (que esta en estudio por orl); perdida de unos 7 kg en los 3 ultimos meses, no dolor toracico ni expect hemoptoico.
-exploracio fisica fc 83 bpm tÂªaxi Âºc fr rpm tÂªrec Âºc ta s 169 mmhg sat o2 % ta d 90 mmhg pes kg ta 169/90 mmhg; fc 83 lpm; tÂª 36Âºc; sat 96% (aa) buen estado general.
+exploracio fisica fc 83 bpm tªaxi ºc fr rpm tªrec ºc ta s 169 mmhg sat o2 % ta d 90 mmhg pes kg ta 169/90 mmhg; fc 83 lpm; tª 36ºc; sat 96% (aa) buen estado general.
 normocoloreado, normohidratado y normoperfundido.
 -nrl: consciente y orientado en las tres esferas.
 aparentemente sin signos de focalidad neurologica aguda.
@@ -22,7 +22,7 @@ aparentemente sin signos de focalidad neurologica aguda.
 sin ingurgitacion yugular ni reflujo hepatoyugular.
 sin edemas en miembros inferiores.
 -ar: eupneico en reposo.
-murmullo vesicular conservado sin otros ruidos sobreaÃ±adidos.
+murmullo vesicular conservado sin otros ruidos sobreañadidos.
 exploracio complementaria - bag hepatica: fem bag d'una de les lesions del lobul hepatic dret de 1,7 cm.
 de diametre maxim sense incidents.
 aconsello repos absolut i control clinic i de constants.
@@ -34,22 +34,22 @@ cavidades pleurales sin alteraciones relevantes.
 enfisema pulmonar bilateral con engrosamientos bronquiales de distribucion difusa de predominio basal en relacion a broncopatia sin cambios.
 nodulo pulmonar solido espiculado de aproximadamente 29 mm de diametro axial.
 mayor en segmento apical de lsd en relacion a proceso neoformativo pulmonar primario ya conocido sin cambios respecto a exploracion de marzo de 2018.
-aparicion de opacidades nodulillares con zona de condensacion pulmonar irregular en periferia de lii sugestiva de patologia infeccioso - inflamatoria sobreaÃ±adida con ocupacion de estructuras bronquiales distales en segmento basal medial de lii, ya presentes en estudio previo, de aspecto inflamatorio.
+aparicion de opacidades nodulillares con zona de condensacion pulmonar irregular en periferia de lii sugestiva de patologia infeccioso - inflamatoria sobreañadida con ocupacion de estructuras bronquiales distales en segmento basal medial de lii, ya presentes en estudio previo, de aspecto inflamatorio.
 voluminosa bulla subpleural de localizacion basal anterior en lii sin cambios.
-higado homogeneo con multiples lesiones focales hipodensas de contornos mal definidos que afectan a ambos lobulos hepaticos en relacion a m1 alcanzando las de mayor tamaÃ±o 16 mm en segmento vi y 17 mm en segmento viii.
+higado homogeneo con multiples lesiones focales hipodensas de contornos mal definidos que afectan a ambos lobulos hepaticos en relacion a m1 alcanzando las de mayor tamaño 16 mm en segmento vi y 17 mm en segmento viii.
 vias biliares de calibre normal.
 bazo, pancreas y y glandulas suprarrenales sin cambios respecto a exploracion previa.
 quistes renales corticales bilaterales.
 vias excretoras de calibre normal.
 ateromatosis aortica con dilatacion aneurismatica de aorta abdominal infrarrenal con trombosis parcial de su luz que alcanza los 36 mm de diametro.
 trombosis de arteria nhc ** *** *** (********) age-v-onc 2/4 lopd iliaca externa izquierda con repermeabilizacion distal a traves de vasos epigastricos.
-no se observan adenopatias de tamaÃ±o significativo en el estudio abdominal.
+no se observan adenopatias de tamaño significativo en el estudio abdominal.
 cambios degenerativos en columna lumbar.
 - cultivos de esputo 14.05: bacils gram negativo.
 abundants cocs gram positiu posible estreptococ.
 bastants - analitica al alta (14.05) hb 13 can 12900 cal 1200 plaquetas 191000 quick 120% inr 0.90 creatinia 0.96 na 136.
 8 k 4.71 ast 29 alt 36 ggt 58 albumina 3.
-4 evolucio clinica paciente de 75 aÃ±os con reciente diagnostico adk nsclc t2n3m1b, estadio ivb alk negativo, ros negativo y expresion de pdl1 &lt; 1% por biopsia hepatica realizada durante este ingreso.
+4 evolucio clinica paciente de 75 años con reciente diagnostico adk nsclc t2n3m1b, estadio ivb alk negativo, ros negativo y expresion de pdl1 &lt; 1% por biopsia hepatica realizada durante este ingreso.
 es trasladado a oncologia por cuadro de dolor mal contralado en extremidad superior derecha de tipo neuropatico por lo que es valorado por la ucp iniciando perfusion de metadona y lyrica como coanalgesico.
 el 10/05 recibe el primer ciclo de cbdp-txl con buena tolerancia.
 al rotar a via oral presenta neurotoxicidad inducida por opioides . se suspende la metadona y se mantiene una aceptable control del dolor con analgesia de 1r escalon.

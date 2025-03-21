@@ -1,11 +1,11 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 12.08.1954 edat: 63 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 12.08.1954 edat: 63 anys procedencia domicil/res.
 soc servei angiologia i cirurgia data d'ingres 17.02.2018 data d'alta 05.03.2018 10:51:39 ates per ****************, *****; *************, ************ informe d'alta d'hospitalitzacio motiu d'ingres pie diabetico eii antecedents namc.
 fumador activo.
 - hipertension arterial esencial bajo tratamiento farmacologico.
 - dislipemia en tratamiento farmacologico.
-- diabetes mellitus tipo 2 de varios aÃ±os de evolucion.
-- cardiopatia isquemica cronica que debuto hace 15 aÃ±os en forma de infarto agudo de miocardio que requirio colocacion de stent en nuestro centro (no dispongo de informes).
-posteriormente nuevo episodio de iam hace 10 aÃ±os con nueva actp mas colocacion de stent.
+- diabetes mellitus tipo 2 de varios años de evolucion.
+- cardiopatia isquemica cronica que debuto hace 15 años en forma de infarto agudo de miocardio que requirio colocacion de stent en nuestro centro (no dispongo de informes).
+posteriormente nuevo episodio de iam hace 10 años con nueva actp mas colocacion de stent.
 ultimo episodio de iam con parada cardiorespiratoria posterior en 2006 en hospital bellvitge (no dispongo de informes) por lo que se realizo nueva angioplastia.
 niega nuevos episodios de dolor toracico desde entonces.
 - bronquitis cronica de larga evolucion.
@@ -13,7 +13,7 @@ fue citado para realizar pfr que no acudio.
 sigue tratamiento habitual conbroncodilatadores de forma irregular.
 no ha requerido ingresos hospitalarios por descompensacion.
 no iot.
-- ulcus duodenal a los 19 aÃ±os de edad diagnosticada a traves de fgs por clinica de epigastralgia.
+- ulcus duodenal a los 19 años de edad diagnosticada a traves de fgs por clinica de epigastralgia.
 no requirio tratamiento quirurgico.
 no nuevos episodios.
 - episodio de rectorragia en febrero de 2013 por lo que consulto en urgencias, se realizo colonoscopia que informo de hemorroides congestivas y varios polipos, se realizo reseccion de 4 formaciones polipoides.
@@ -21,12 +21,12 @@ la ap se informo como: "dos adenomas tubulares con displasia epitelial de bajo g
 margen de reseccion endoscopica libre, unpolipo hiperplasico", no se encontraron otros hallazgos patologicos.
 sigue controles en digestivo de huvh poreste motivo.
 - iq: apendicectomia , amigdalectomia.
-historia cirugia vascular - ccee dr. ********* (huvh): - ingreso por pie diabetico eeii en 2009, se realizo: eid: desbridamiento de absceso en 1Âº dedo, con buena evolucion con curas.
+historia cirugia vascular - ccee dr. ********* (huvh): - ingreso por pie diabetico eeii en 2009, se realizo: eid: desbridamiento de absceso en 1º dedo, con buena evolucion con curas.
 junio 2015 - ingreso por isquemia cronica iv.
 se realiza el dia 16/07/15 amputacion abiertatransmetatarsiana del primer dedo del pie derecho . se observa buen sangrado retirando restos de tejido infectado.
 postoperatorio con herida presentando buen aspecto con curas topicas a horario y antibioticoterapia ajustada a resultado de cultivo.
 posteriormente se pasa a curas con sistema vac, presentando buena evolucion con cierre progresivo de la herida.
-- eii: amputacion abierta de 2Âº dedo pie izquierdo , el dia 02-01-2009.
+- eii: amputacion abierta de 2º dedo pie izquierdo , el dia 02-01-2009.
 - el dia 27/03/2015 se le realiza bypass de fc-3pp con vsi invertida en eii . recupera pulso pedio.
 - el dia 07/07/2016 se realiza amputacion transmetatarsiana de 2do dedo de pie derecho sin incidencias.
 - el dia 02/12/2017 ingreso por isquemia subaguda de eii, diangosticandose de bypass femoropopliteo trombosado en eii.
@@ -37,8 +37,8 @@ obliteracion distal izquierdo.
 no signos de isquemia aguda.
 ulcera plantar de 2cm en zona de 2do mtt, con bordes hiperqueratosicos, con salida de pus espontana y a la compresion.
 al pasar escobillon, se palpa el hueso desarticulado.
-exploracio complementaria cultivo de lesion eii: enterobacter cloacae ampicilÂ·lina r amoxicilÂ·lina-ac.
-clavulanic r piperacilÂ·lina-tazobactam s cefuroxima s cefuroxima-axetil s cefoxitina r cefotaxima s ceftazidima s cefepima s imipenem s ertapenem s gentamicina s amikacina s ciprofloxacina s trimetoprim/sulfametoxazol s 21/02/2018 hb 15.
+exploracio complementaria cultivo de lesion eii: enterobacter cloacae ampicil·lina r amoxicil·lina-ac.
+clavulanic r piperacil·lina-tazobactam s cefuroxima s cefuroxima-axetil s cefoxitina r cefotaxima s ceftazidima s cefepima s imipenem s ertapenem s gentamicina s amikacina s ciprofloxacina s trimetoprim/sulfametoxazol s 21/02/2018 hb 15.
 2 hto 45.
 5 leucocitos 9.010 plaquetas 304 urea 43 creatinina 1.01 creatinina 1.01 fg 79 ionograma ok 28/02/2018 hb 15.
 4 hto 45.

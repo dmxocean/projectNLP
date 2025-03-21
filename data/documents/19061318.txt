@@ -1,31 +1,31 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 02.01.1968 edat: 50 anys procedencia aguts servei traumatics data d'ingres 01.08.2018 data d'alta 10.08.2018 15:00:00 ates per ************, ************; ****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingreso des de urgencias por fractura de pilon tibial y de perone.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 02.01.1968 edat: 50 anys procedencia aguts servei traumatics data d'ingres 01.08.2018 data d'alta 10.08.2018 15:00:00 ates per ************, ************; ****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingreso des de urgencias por fractura de pilon tibial y de perone.
 antecedents hipotiroidismo subclinico medicacio habitual no medicacion habitual proces actual paciente trasladada des de hospital de mataro para tratamiento definitivo de fractura trimaleolar de tobillo izquierdo , portadora de yeso circular.
 refiere traumatismo y torsion de tobillo en unas escaleras.
 refiere dolor sobre hombro, no valorado en hospital de mataro.
-exploracio fisica consciente y orientada, beg se retira yeso para exploracion de extremidad no sufrimiento cutaneo edema a nivel de maleolo externo e impotencia funcional dolor a la palpacion sobre complejo ligamentario lateral dolor sobre maleolos no dolor sobre base del 5Âº mtt ni sobre resto de prominencias nvd conservado hombro: no deformidades no hematomas no dolor sobre clavicula, acromioclavicular, escapula dolor sobre cabeza humeral movilidad conservada nvd conservado exploracio complementaria rx tobillo izquierdo: fractura trimaleolar rx hombro derecho sin aparentes loas tc tobillo programado durante el ingreso: fractura tri maleolar de tobillo tipo weber b.
+exploracio fisica consciente y orientada, beg se retira yeso para exploracion de extremidad no sufrimiento cutaneo edema a nivel de maleolo externo e impotencia funcional dolor a la palpacion sobre complejo ligamentario lateral dolor sobre maleolos no dolor sobre base del 5º mtt ni sobre resto de prominencias nvd conservado hombro: no deformidades no hematomas no dolor sobre clavicula, acromioclavicular, escapula dolor sobre cabeza humeral movilidad conservada nvd conservado exploracio complementaria rx tobillo izquierdo: fractura trimaleolar rx hombro derecho sin aparentes loas tc tobillo programado durante el ingreso: fractura tri maleolar de tobillo tipo weber b.
 fractura oblicua nhc ** *** *** (********) atr-v-tra 1/3 lopd transsindesmotica de perone sin conminucion significativa.
 aumento del espacio sindesmotico anterior.
 fragmento anterior peroneal interpuesto y adelantado respecto margen tibial.
-fractura de maleolo tibial en un fragmento de gran tamaÃ±o que afecta los 3/4 posteriores del maleolo.
+fractura de maleolo tibial en un fragmento de gran tamaño que afecta los 3/4 posteriores del maleolo.
 fractura de maleolo posterior correspondiendo a un tipo i con un fragmento que corresponde a algo mas del 30% del margen del pilon.
 diametro anteroposterior maximo de 1.
 4 con un hundimiento de menos de aproximadamente 6mm.
-por el tamaÃ±o delmaleolo posterior y la afectacion proximal del maleolo medial la lesion practicamente corresponde a un pilon.
+por el tamaño delmaleolo posterior y la afectacion proximal del maleolo medial la lesion practicamente corresponde a un pilon.
 subluxacion astragalina posterior.
 rx tobillo postintervencion: correcta evolucio clinica paciente que ingresa procedente de otro centro por fractura trimaleolar y de perone izquierdos.
-el dia 07.08.2018 se procede a cirugia, realizandose reduccion abierta con fijacion interna con osteosintesis de perone con placa variax 7 agujeros y osteosintesis de pilon tibial con placa de tercio de caÃ±a de 5 agujeros + sintesis de maleolo medial con canulado de rosca parcial de 50mm.
+el dia 07.08.2018 se procede a cirugia, realizandose reduccion abierta con fijacion interna con osteosintesis de perone con placa variax 7 agujeros y osteosintesis de pilon tibial con placa de tercio de caña de 5 agujeros + sintesis de maleolo medial con canulado de rosca parcial de 50mm.
 cirugia sin incidencias intraoperatorias.
 en el postoperatorio el paciente se mantiente hemodinamicamente estable, con buenas controles analiticos y radiograficos.
 inicia fisioterapia con buena tolerancia con deambulacion en descarga.
 la herida quirurgica presenta buena evolucion.
 debido a la ausencia de complicaciones y al transcurso satisfactorio de la evolucion postquirurgica se decide alta a domicilio con las siguientes recomendaciones.
-orientacio diagnostica s82.852a fractura trimalÂ·leolar desplaÃ§ada, cama esquerra, a e03.
-9 hipotiroÃ¯disme no especificat procediments 89.52 electrocardiograma.
+orientacio diagnostica s82.852a fractura trimal·leolar desplaçada, cama esquerra, a e03.
+9 hipotiroïdisme no especificat procediments 89.52 electrocardiograma.
 ecg nos, ecg (amb 12 o mes derivacions) 89.08 altra consulta 88.38 altra tomografia axial computada.
 tac nos tractament i recomanacions a l'alta - reposo relativo.
 deambulacion asistida con muletas en descarga - mantener ferula hasta indicacion medica.
 - clexane 40mg sc cada 24h mientras se mantenga la descarga.
 - si dolor: # paracetamol 1g cada 8h alterno con ibuprofeno 600mg cada 8h # metamizol 575mg cada 8h nhc ** *** *** (********) atr-v-tra 2/3 lopd - seguir con resto de medicacion habitual.
 control control en consultas externas con el dr. ****** segun cita adjunta.
-en caso de enrojecimeinto de la herida, supuracion o fiebre &gt; 38Âº acuda a urgencias de traumatologia.
+en caso de enrojecimeinto de la herida, supuracion o fiebre &gt; 38º acuda a urgencias de traumatologia.
 destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-tra 3/3 lopd

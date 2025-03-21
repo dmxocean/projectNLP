@@ -1,5 +1,5 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 19.06.2013 edat: 4 anys procedencia cex mateix hosp servei pneumologia ped data d'ingres 29.05.2018 data d'alta 04.06.2018 13:21:36 ates per ************, ******; ************, ******; ***********, ********; ************, ******* informe d'alta d'hospitalitzacio motiu d'ingres paciente de 4 aÃ±os y 11 meses que ingresa el dia 29/5/2018 en la planta de hospitalizacion de neumologia pediatrica por exacerbacion respiratoria.
-presenta fiebre de maximo 38.3Âºc las 48 horas previas al ingreso acompaÃ±ada de tos productiva y mucosidad.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 19.06.2013 edat: 4 anys procedencia cex mateix hosp servei pneumologia ped data d'ingres 29.05.2018 data d'alta 04.06.2018 13:21:36 ates per ************, ******; ************, ******; ***********, ********; ************, ******* informe d'alta d'hospitalitzacio motiu d'ingres paciente de 4 años y 11 meses que ingresa el dia 29/5/2018 en la planta de hospitalizacion de neumologia pediatrica por exacerbacion respiratoria.
+presenta fiebre de maximo 38.3ºc las 48 horas previas al ingreso acompañada de tos productiva y mucosidad.
 antecedents alergias: asparaginasa e.
 coli, asparaginasa erwinia.
 antecedentes patologicos: - fibrosis quistica (f508del/712-1g&gt;t) diagnosticada en periodo neonatal.
@@ -8,7 +8,7 @@ debut con ileo meconial, resuelto con enemas y transito esofago-gastro-duodenal 
 de sant pau).
 ingreso en nuestro hospital a las 3 semanas por suboclusion, preciso nuevamente gastrografin y seinicio tratamiento con movicol y acetilcisteina (oral y en enema).
 - cuatro episodios de p.
-aeruginosa cultivo (30/11/15): 4Âª vez p.
+aeruginosa cultivo (30/11/15): 4ª vez p.
 aeruginosa, antibiograma: cipro-tobra-coli sensible (ultima ps 16.12.14).
 ultimo cultivo orofaringeo 09/10/17 negativo (plan: continuar con tratamiento con colimicina nebulizada).
 - leucemia linfoblastica aguda b comun de riesgo intermedio diagnosticado en marzo del 2016 estando asintomatico, en una analitica de control realizada en consultas externas de fibrosis quistica.
@@ -32,21 +32,21 @@ la traquea y el arbol bronquial son normales.
 las estructuras mediastinicas no aparecen engrosadas.
 id: exploracion normal - analitica julio 2017: normal.
 vit e 15, vta 1,6.
-vit d 61,3 - fenir agosto 2017: 6% , aigua 67% - ecografia abdomen (03.10.2017): higado de tamaÃ±o conservado, discretamente heterogeneo, sin lesiones focales ocupantes de espacio evidentes.
+vit d 61,3 - fenir agosto 2017: 6% , aigua 67% - ecografia abdomen (03.10.2017): higado de tamaño conservado, discretamente heterogeneo, sin lesiones focales ocupantes de espacio evidentes.
 colelitiasis puntiformes, la mayor de 3 mm.
 vesicula biliar de paredes finas.
 via biliar no dilatada.
-bazo homogeneo de tamaÃ±o normal.
-riÃ±ones de tamaÃ±o, morfologia y ecoestructura dentro de la normalidad sin dilatacion las vias excretoras.
-area pancreatica y discretamente ecogenica y disminuida de tamaÃ±o.
+bazo homogeneo de tamaño normal.
+riñones de tamaño, morfologia y ecoestructura dentro de la normalidad sin dilatacion las vias excretoras.
+area pancreatica y discretamente ecogenica y disminuida de tamaño.
 ganglios linfaticos milimetricos inespecificos en hilio hepatico y mesenterico.
 no liquido libre en pelvis menor.
-nhc ** *** *** (********) ami-v-pnp 1/5 lopd cultivos: -mayo 2014: 1 Âº vez pseudomona aeruginosa, sensible a todo.
+nhc ** *** *** (********) ami-v-pnp 1/5 lopd cultivos: -mayo 2014: 1 º vez pseudomona aeruginosa, sensible a todo.
 tratamiento bramitob nebulizado previa administracion de salbutamol (bien tolerado).
 se inicia ciprofloxacino.
--21 julio 2014: 2 Âº vez pseudomona aeruginosa, sensible a todo.
-no se trata con atb oral (pq no se entendio que llamaran) -4/11/14: 3Âº psa sensible, enterobacter cloacae.
-hongos: rhodotorula sp -30/11/15: 4Âª vez p.
+-21 julio 2014: 2 º vez pseudomona aeruginosa, sensible a todo.
+no se trata con atb oral (pq no se entendio que llamaran) -4/11/14: 3º psa sensible, enterobacter cloacae.
+hongos: rhodotorula sp -30/11/15: 4ª vez p.
 aeruginosa, antibiograma: cipro-tobra-coli sensible (ultima ps 16.12.14) -20.1.2016, 20/06/16, 13/07/16, 29/07/16, 17.08.17, 18.10.17: flora orofaringea -30.11.17: p.
 aeruginosa -posteriormente 5 cultivo negativos.
 ultimo cultivo: 14/5/18: flora orofaringea espirometrias: *efr 16.01.2017: fvc 1.04 (67%, fev1 1.04 (76%), rel 95.
@@ -61,11 +61,11 @@ ultimo cultivo: 14/5/18: flora orofaringea espirometrias: *efr 16.01.2017: fvc 1
 exploracio fisica peso: 19 kg.
 talla: 109 cm.
 sc: 0.75 m2.
-tÂª 36.5Âºc buen estado general.
+tª 36.5ºc buen estado general.
 activo y reactivo.
 normocoloreado y normohidratado.
 no lesiones cutaneas.
-aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreaÃ±adidos.
+aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
 aparato cardiocirculatorio: tonos ritmico, sin soplos, pulsos presentes y simetricos.
 perfusion distal conservada.
 abdomen blando y depresible, no masas ni megalias, no doloroso a la palpacion.
@@ -87,7 +87,7 @@ exploracio complementaria laboratorio: *analitica general (29/05/18): hematies 3
 0 x10e9/l, basofils 0.
 0 x10e9/l, plaquetes 331 x10e9/l, volum plaquetari mig 9.
 6 fl, urea 14 mg/dl, creatinini 0.25 mg/dl, sodi 138.
-1 mmol/l, potassi 4.05 mmol/l, clorur 103 mmol/l, aspartat-aminotransferasa 134 ui/l, alanina-aminotransferasa 273 ui/l, proteÃ¯na c reactiva 0.09 mg/dl.
+1 mmol/l, potassi 4.05 mmol/l, clorur 103 mmol/l, aspartat-aminotransferasa 134 ui/l, alanina-aminotransferasa 273 ui/l, proteïna c reactiva 0.09 mg/dl.
 *analitica general (31/05/18): hematies 3.63 x10e12/l, hemoglobina 12.
 1 g/dl, hematocrit 33.
 7 %, volum corpuscular mig (vcm) 92.
@@ -126,9 +126,9 @@ nucl.
 0 x10e9/l, plaquetes 528 x10e9/l, glucosa 73 mg/dl, urea 23 mg/dl, creatinini 0.24 mg/dl, bilirubina 0.31 mg/dl, bilirubina esterificada 0.15 mg/dl, sodi 139.
 4 mmol/l, potassi 4.61 mmol/l, clorur 105 mmol/l, fosfat 5.
 1 mg/dl, calci 9.
-5 mg/dl, aspartat-aminotransferasa 43 ui/l, alanina-aminotransferasa 76 ui/l, fosfatasa alcalina 207 ui/l, gamma-glutamiltransferasa 16 ui/l, proteÃ¯na 5.
+5 mg/dl, aspartat-aminotransferasa 43 ui/l, alanina-aminotransferasa 76 ui/l, fosfatasa alcalina 207 ui/l, gamma-glutamiltransferasa 16 ui/l, proteïna 5.
 9 g/dl, albumina 4.
-0 g/dl, proteÃ¯na c reactiva 0.04 mg/dl.
+0 g/dl, proteïna c reactiva 0.04 mg/dl.
 microbiologia: *cultivo de exsudado faringo/amigdalar (29/05/18): flora orofaringea *deteccion de virus respiratorios por pcr a tiempo real en aspirado nasofaringeo (29/05/18): positivo a virus parainfluenza 3.
 *sedimento de orina y urocultivo (29/05/18): negativo.
 *cultivo de exsudado faringo/amigdalar (04/06/18): pendiente imagen: * radiografia de torax (29/05/18): punto acceso venoso correcto, con cateteres retrocediendo por la yugular derecha, y extremo distal en posicion alta en la cava superior.
@@ -151,7 +151,7 @@ en control analitico posteriores presenta aumento de la cifra de neutrofilos (0.
 durante el ingreso se mantiene estable, con buen estado general y correcta tolerancia oral.
 presenta fiebre durante las primeras 24 horas, manteniendose afebril posteriormente.
 se decide alta a domicilio el dia 04/06/018, habiendo completado 6 dias de tratamiento endovenoso.
-exploracion fisica al alta con buena entrada de aire bilateral, sin ruidos sobreaÃ±adidos ni signos de dificultad respiratoria, persistiendo leve tos y mucosidad blanquecina.
+exploracion fisica al alta con buena entrada de aire bilateral, sin ruidos sobreañadidos ni signos de dificultad respiratoria, persistiendo leve tos y mucosidad blanquecina.
 orientacio diagnostica e84.
 9 fibrosi quistica no especificada r50.
 9 febre no especificada d70.

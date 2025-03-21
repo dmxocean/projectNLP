@@ -1,20 +1,20 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 08.01.1974 edat: 44 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 08.01.1974 edat: 44 anys procedencia domicil/res.
 soc servei obstetricia data d'ingres 17.08.2018 data d'alta 20.08.2018 12:00:00 ates per ******************, *****; *****************, ************** informe d'alta d'hospitalitzacio motiu d'ingres ruptura prematura de membranas en gestante a termino.
 antecedents no alergias medicamentosas conocidas.
 intervenciones quirurgicas: tibia y perone no otros antecedentes patologicos.
 exfumadora hace 5 meses.
 no medicacion habitual.
-proces actual edad 44 aÃ±os tpal 0030 (3 abortos espontaneos) fur 24.11.18 sg: 38semanas gsrh a positivo . coombs negativo.
+proces actual edad 44 años tpal 0030 (3 abortos espontaneos) fur 24.11.18 sg: 38semanas gsrh a positivo . coombs negativo.
 gestacion controlada en cap de sant andreu sin incidencias.
 primigesta de 38 semanas de gestacion que acude para hidrorrea de aguas claras desde las 22 h del dia 17.8.18.
 refiere sensacion de dinamica uterina cada 5 minutos.
 leve metrorragia.
 movimientos fetales activos.
 no otra sintomatologia de interes.
-resumen gestacional analiticas: - 1 Âº t: hb:12.
+resumen gestacional analiticas: - 1 º t: hb:12.
 7 ; ht: 37.7.
-- 2 Âº t: hb: 12; ht: 36.2.
-- 3 Âº t: hb: 11.
+- 2 º t: hb: 12; ht: 36.2.
+- 3 º t: hb: 11.
 4; ht: 34.
 8; plaquetas: 306000 ; coagulacion: tp &gt;120%, ttpa 23.6s.
 serologias: rubeola inmune, toxoplasma no immune, lues vih, vhb y vhc negativos.
@@ -22,12 +22,12 @@ serologias: rubeola inmune, toxoplasma no immune, lues vih, vhb y vhc negativos.
 - urocultivo: negativo - cultivos r / v: positivo.
 multisensible.
 - triple screening: riesgo 1/266, recalculado con marcadores secundarios 1/5693.
-ecografias: - 1Âº t: tn: 2.30mm.
+ecografias: - 1º t: tn: 2.30mm.
 congruente.
-- 2Âº t: morfologia normal.
+- 2º t: morfologia normal.
 placenta posterior.
 sexo masculino.
-- 3Âº t: 33+6 sg.
+- 3º t: 33+6 sg.
 cefalica, pfe: 2395(p.
 71), placenta posterior, lan, cordon de 3 vasos, doppler normal.
 nhc ** *** *** (********) ami-v-obs 1/3 lopd exploracio fisica buen estado general, normocoloreada, normohidratada.
@@ -65,7 +65,7 @@ acido folico 1 al dia durante la lactancia.
 paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor).
 clexane 40 mg ( 1 aplicacion al dia durante 10 dias) si presenta grietas en los pezones se puede aplicar purelan crema despues de las tomas.
 control control por su comadrona de zona en 7-10 dias.
-se recomienda esperar minimo un aÃ±o para buscar nuevo embarazo.
+se recomienda esperar minimo un año para buscar nuevo embarazo.
 se informa de signos / sintomas de alarma.
 volver a urgencias si precisa.
 destinacio a l'alta: a domicili nhc ** *** *** (********) ami-v-obs 3/3 lopd

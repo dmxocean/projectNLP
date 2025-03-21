@@ -1,31 +1,31 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 25.06.1979 edat: 39 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 25.06.1979 edat: 39 anys procedencia domicil/res.
 soc servei infeccioses data d'ingres 27.06.2018 data d'alta 03.07.2018 10:15:11 ates per equipo dra. ****** (p.
 suanzes, a.
 villarejo, m.
-santiago) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 39 aÃ±os que consulta por fiebre y dolor lumbar.
+santiago) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 39 años que consulta por fiebre y dolor lumbar.
 antecedents alergias: sin alergias medicamentosas conocidas.
 habitos toxicos: no refiere.
-antecedentes ginecologicos: tpal 0020 (2 abortos espontaneos en el ultimo aÃ±o, los dos antes de la semana 12 de gestacion).
+antecedentes ginecologicos: tpal 0020 (2 abortos espontaneos en el ultimo año, los dos antes de la semana 12 de gestacion).
 antecedentes patologicos: -infecciones del tracto urinario de repeticion , se iniciaron en 2016 (no antecedentes de infecciones urinarias en la infancia, no cirugia ginecologica).
-mas de 10 episodios en el ultimo aÃ±os, tratados todos con monurol.
+mas de 10 episodios en el ultimo años, tratados todos con monurol.
 ha realizado profilaxis con arandanos, no otros tratamientos ni profilaxis antibiotica.
 - sindrome de fatiga cronica e n seguimiento en cex medicina interna (dr. ******).
--endometriosis , diagnosticada a raiz de busqueda gestacional en el ultimo aÃ±o.
+-endometriosis , diagnosticada a raiz de busqueda gestacional en el ultimo año.
 realiza seguimiento por ginecologia a traves de mutua.
 situacion sociofuncional: vive con su pareja.
 trabaja como abogada.
 medicacio habitual sertralina 100mg 2 comprimidos cada 24h, paracetamol 1g/8h si precisa, natifar (cianocobalamina/acido folico/yoduro potasico) 200/400/2mcg 1 comprimido c/24h, valium (diazepan) 5mg/8h.
 proces actual el lunes 25/06 inicia dolor lumbar derecho sin sindrome miccional, por lo que al dia siguiente consulta en cuap en donde realizan tira de orina con nitritos +++, leucocitos +, sin hematuria, inician tratamiento sintomatico con paracetamol y diazepam y, bajo la orientacion diagnostica de pielonefritis aguda, recomiendan iniciar tratamiento antibiotico con amoxicilina-clavulanico.
-esa misma madrugada, antes de iniciar el tratamiento antibiotico, la paciente presenta empeoramiento del dolor, aparicion de sindrome miccional y fiebre de hasta 38.6Âºc con tiritona franca, por lo que acude a urgencias.
-no nauseas, vomitos, diarrea, tos, expectoracion, disnea u otra sintomatologia acompaÃ±ante.
-exploracio fisica exploracion fisica en urgencias: ta 104/76mmhg, fc 105lpm, sato2 98% aa, tÂª 36.8Âºc.
+esa misma madrugada, antes de iniciar el tratamiento antibiotico, la paciente presenta empeoramiento del dolor, aparicion de sindrome miccional y fiebre de hasta 38.6ºc con tiritona franca, por lo que acude a urgencias.
+no nauseas, vomitos, diarrea, tos, expectoracion, disnea u otra sintomatologia acompañante.
+exploracio fisica exploracion fisica en urgencias: ta 104/76mmhg, fc 105lpm, sato2 98% aa, tª 36.8ºc.
 estado general conservado.
 normohidratada y normocoloreada con buena perfusion distal.
 ac: tonos cardiacos ritmicos y sin soplos.
 pulsos presentes y simetricos.
 no iy, rhy ni edemas en eeii.
 no signos de tvp.
-ar: murmullo vesicular conservado sin otros ruidos aÃ±adidos.
+ar: murmullo vesicular conservado sin otros ruidos añadidos.
 nhc ** *** *** (********) age-v-inf 1/3 lopd abd: blando y depresible, dolor a la palpacion superficial y profunda de flanco y fosa iliaca derecha.
 no irritacion peritoneal.
 no visceromegalias.
@@ -35,18 +35,18 @@ nrl: consciente y orientada en las 3 esferas.
 pares craneales conservados.
 fuerza y sensibilidad sin alteraciones en todas las extremidades.
 no signos de focalidad neurologica aguda.
-exploracion fisica en planta de hospitalizacion ta 127/86 mmhg, fc 60 lpm, t 36.6Âºc, spo2 98% aa buen estado general.
+exploracion fisica en planta de hospitalizacion ta 127/86 mmhg, fc 60 lpm, t 36.6ºc, spo2 98% aa buen estado general.
 normohidratada, normocoloreada, normoperfundida.
 no lesiones cutaneas.
 cardiovascular: tonos cardiacos ritmicos, ausulto soplo sistolico 1/6 en foco aortico.
 no edemas en extremidades inferiores ni signos de trombosis venosa profunda.
-respiratorio: eupneica en reposo, murmullo vesicular conservado sin ruidos sobreaÃ±adidos.
+respiratorio: eupneica en reposo, murmullo vesicular conservado sin ruidos sobreañadidos.
 abdomen: depresible, no doloroso.
 no palpo masas ni megalias.
 ruidos hidroaereos presentes, no signos de irritacioni peritoneal.
-puÃ±o-percusion lumbar positiva derecha.
+puño-percusion lumbar positiva derecha.
 neurologico: alerta, orientada.
-exploracio complementaria - ecg : ritmo sinsual a 70 lpm, eje cardiaco a +60Âº, pr 120 ms.
+exploracio complementaria - ecg : ritmo sinsual a 70 lpm, eje cardiaco a +60º, pr 120 ms.
 complejos qrs estrechos con adecuada progresion de ondas r en precordiales, no alteraciones agudas de la repolarizacion.
 -analitica 27/06/2018 : hemoglobina 12.
 8 g/dl, hematocrito 39.
@@ -66,18 +66,18 @@ acido nalidixico, i a ciprofloxacino (cmi 0.
 -hemocultivos 27/06/2018 : provisionamente negativos.
 -ecografia aparato urinario 27/06/2018 : ectasia pielo-caliciar derecha, sin objetivar claras litiasis ni dilatacion ureteral y jets ureterales bilaterales presentes.
 minima cantidad de liquido perirrenal en polo inferior derecho, sin identificar claros focos de nefritis.
-- ecografia aparato urinario 29/06/2018 : riÃ±on derecho de 11 cm de tamaÃ±o, con grosor cortical conservado.
-se observa area hiperecoica de aproximadamente 20mm en polo superior con disminucion de la vascularizacion sugestiva de area de nefritis, acompaÃ±ada de leve cantidad de liquido perirrenal.
+- ecografia aparato urinario 29/06/2018 : riñon derecho de 11 cm de tamaño, con grosor cortical conservado.
+se observa area hiperecoica de aproximadamente 20mm en polo superior con disminucion de la vascularizacion sugestiva de area de nefritis, acompañada de leve cantidad de liquido perirrenal.
 no se visualizan colecciones organizadas.
-riÃ±on izquierdo de 10.5cm de tamaÃ±o, ecoestructura y grosor cortical conservado.
+riñon izquierdo de 10.5cm de tamaño, ecoestructura y grosor cortical conservado.
 no se observan litiasis ni dilatacion de vias excretoras.
 vejiga urinaria distendida de paredes lisas, sin engrosamientos murales focale sni material ecogenico en su interior.
 minimo cantidad de liquido libre el fondo de saco de douglas.
-nhc ** *** *** (********) age-v-inf 2/3 lopd evolucio clinica a su llegada a urgencias hemodinamicamente estable, afebril, destacando a la exploracion fisica puÃ±o-percusion lumbar positiva derecha.
+nhc ** *** *** (********) age-v-inf 2/3 lopd evolucio clinica a su llegada a urgencias hemodinamicamente estable, afebril, destacando a la exploracion fisica puño-percusion lumbar positiva derecha.
 analiticamente sin alteraciones relevantes, el sedimento urinario muestra piuria y bacteriuria.
 una ecografia inicial muestra leve dilatacion pielocalicial derecha sin litiasis.
 bajo la orientacion diagnostica de pielonefritis aguda derecha se inicia tratamiento antibiotico empirico con cefuroxima, con defervescencia de la fiebre.
-ante la persistencia de dolor lumbar derecho se ha repetido ecografia abdominal a las 48h que muestra signos de nefritis focal en polo superior de riÃ±on derecho.
+ante la persistencia de dolor lumbar derecho se ha repetido ecografia abdominal a las 48h que muestra signos de nefritis focal en polo superior de riñon derecho.
 los hemocultivos son negativos en el momento del alta y en el urocultivo se aisla e.
 coli intermedio a ciprofloxacino y sensible al resto de antibioticos testados.
 dada la buena evolucion clinica posterior, con adecuado control del dolor con analgesia oral, se decide secuenciar a ceftriaxona ev que continuara en hospital de dia hasta completar un total de 3 semanas de tratamiento antibiotico.
@@ -90,6 +90,6 @@ de dia segun cita adjunta hasta el 17/07/2018.
 - seguir con el resto de su medicacion habitual.
 se explican signos de alarma y motivos de reconsulta.
 control control en consultas externas de e.
-infecciosas (dra. ******) el 16/07/2018 a las 15.15h en la 2Âª planta de la antigua escuela de enfermeria.
+infecciosas (dra. ******) el 16/07/2018 a las 15.15h en la 2ª planta de la antigua escuela de enfermeria.
 control por su medico de atencion primaria y resto de especialistas habituales.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-inf 3/3 lopd

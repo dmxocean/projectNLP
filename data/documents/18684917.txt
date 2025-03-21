@@ -1,13 +1,13 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 05.07.1953 edat: 64 anys procedencia domicil/res.
-soc servei angiologia i cirurgia data d'ingres 09.04.2018 data d'alta 13.04.2018 16:02:46 ates per ****************, ****; ************, ************** informe d'alta d'hospitalitzacio motiu d'ingres ingreso programado para intervencion quirurgica por pie diabetico antecedents no amc - ex-fumador desde ultimo ingreso en noviembre 2014 (factor de exposicion &gt; 90 paquetes/aÃ±o) - ex-enolismo desde noviembre 2014 de 50 g/dia.
-antecedentes medicos - hipertension arterial esencial de mas de 10 aÃ±os de evolucion, en tratamiento farmacologico.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 05.07.1953 edat: 64 anys procedencia domicil/res.
+soc servei angiologia i cirurgia data d'ingres 09.04.2018 data d'alta 13.04.2018 16:02:46 ates per ****************, ****; ************, ************** informe d'alta d'hospitalitzacio motiu d'ingres ingreso programado para intervencion quirurgica por pie diabetico antecedents no amc - ex-fumador desde ultimo ingreso en noviembre 2014 (factor de exposicion &gt; 90 paquetes/año) - ex-enolismo desde noviembre 2014 de 50 g/dia.
+antecedentes medicos - hipertension arterial esencial de mas de 10 años de evolucion, en tratamiento farmacologico.
 -diabetes mellitus tipo 2 mal control metabolico cronico diagnosticada en 2004 a raiz de analitica general de control.
 en tratamiento anteriormente con metformina; insulinizado desde 2014.
 - dislipemia sin tratamiento farmacologico.
 - estenosis aortica moderada diagnosticada en 2015 a raiz de ecocardiograma realizado postoperatorio de cirugia de dedo del pie derecho por sospecha de endocarditis.
 funcion sistolica conservada (fevi: 55%).
 sigue controles por cardiologo de zona.
--bloque av 2Âº grado avanzado mobitz ii, por lo que se coloco marcapasos ddd en diciembre 2015.
+-bloque av 2º grado avanzado mobitz ii, por lo que se coloco marcapasos ddd en diciembre 2015.
 -enfermedad renal cronica problablemente en relacion con dm2; fg habitual: 55ml/min - hepatopatia cronica de origen enolico en probable fase de cirrosis sin descompensaciones child a.
 se realizo un estudio de virus hepatotropos en 2015 que fue negativo y esofagogastroscopia no mostraba varices esofagicas.
 -anemia cronica de origen no filiado, en estudio por hematologia y digestivo desde inicios de 2015.
@@ -28,12 +28,12 @@ durante el ingreso fue valorado por cardiologia por riesgo quirurgico por la est
 nhc ** *** *** (********) age-v-acv 1/2 lopd - ingreso por isquemia cronica grado iv de eii para intervencion quirurgica programada el dia 27/03/18, que tuvo que suspenderse por alargamiento del ttpar de hasta 1.
 6, normalizandose posteriormente y valorado por hemostasia y se atribuyo a via heparinizada.
 dada la buena evolucion con antibiotico endovenosa y la falta de disponibilidad de quirofano, se decide alta hospitalaria con nuevo ingreso programado para intervencion.
-proces actual paciente que ingresa de forma programada para revascularizacion de troncos distales de extremidad inferior izquierda exploracio fisica obliteracion distal bilateral lesion en seca en punta de 5to mtt de pie evolucio clinica el paciente ingreso electivo por osteomielitis del 5Âºmtt . antecedente de amputacion tmt del 3-5Âº dedos . en ingreso previo se habia valroado realizar revascularizacion y luego reamputacion.
-el dia 10.04.2018 se realiza atp simple de ta distal + reseccion de segmento de 5Âº tmt en pie izuqierdo . pulso pedio.
+proces actual paciente que ingresa de forma programada para revascularizacion de troncos distales de extremidad inferior izquierda exploracio fisica obliteracion distal bilateral lesion en seca en punta de 5to mtt de pie evolucio clinica el paciente ingreso electivo por osteomielitis del 5ºmtt . antecedente de amputacion tmt del 3-5º dedos . en ingreso previo se habia valroado realizar revascularizacion y luego reamputacion.
+el dia 10.04.2018 se realiza atp simple de ta distal + reseccion de segmento de 5º tmt en pie izuqierdo . pulso pedio.
 evoluciona favorablemente por lo que se decide alta con had orientacio diagnostica e11.51 diabetis mellitus de tipus 2 amb angiopatia periferica diabetica, sense gangrena procediments 39.90 implantacio de stent-s no alliberador-s de farmacs de vas periferic (no coronari) 89.08 altra consulta tractament i recomanacions a l'alta 1.
 septrim 1 comp vo c/12 por 10 dias 2.
 tazocel 4gr iv c/8 por 14 dias 3.
 curas con microdacyn gel c/24 hr 4.
 adiro 100mg vo c/dia indefinido 5.
 clopidogrel 75mg vo c/dia por 1 mes 6.
-resto de medicamentos continuar igual control control con dr ********* el 04.05.2018 a las 10.00 am en 3Âº nivel anexo de hospital general ccee de cirugia vsacular destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-acv 2/2 lopd
+resto de medicamentos continuar igual control control con dr ********* el 04.05.2018 a las 10.00 am en 3º nivel anexo de hospital general ccee de cirugia vsacular destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-acv 2/2 lopd

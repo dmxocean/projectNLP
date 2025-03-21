@@ -1,10 +1,10 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 30.01.1943 edat: 75 anys procedencia domicil/res.
-soc servei medicina interna 1 data d'ingres 30.03.2018 data d'alta 18.04.2018 12:00:00 ates per equipo dr. ****** (dra. *****, dra. *******, dra. *****, dra. *****) informe d'alta d'hospitalitzacio motiu d'ingres varon de 75 aÃ±os que ingresa en medicina interna para estudio de adenopatias.
-antecedents ex-fumador de 2 paquetes diarios desde los 18 aÃ±os (fe 60 paquetes/aÃ±o).
-sin alergias medicamentosas conocidas antecedentes patologicos: - hipertension arterial esencial de aÃ±os de evolucion, actualmente en tratamiento con iecas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 30.01.1943 edat: 75 anys procedencia domicil/res.
+soc servei medicina interna 1 data d'ingres 30.03.2018 data d'alta 18.04.2018 12:00:00 ates per equipo dr. ****** (dra. *****, dra. *******, dra. *****, dra. *****) informe d'alta d'hospitalitzacio motiu d'ingres varon de 75 años que ingresa en medicina interna para estudio de adenopatias.
+antecedents ex-fumador de 2 paquetes diarios desde los 18 años (fe 60 paquetes/año).
+sin alergias medicamentosas conocidas antecedentes patologicos: - hipertension arterial esencial de años de evolucion, actualmente en tratamiento con iecas.
 ultimo ecocardiograma (29/02/2016) mostro signos de cardiopatia hipertensiva, funcion sistolica biventricular conservada con fe 56%, insuficiencia mitra ligera, insuficiencia aortica ligera sin gradiente transaortico patologicos, insuficiencia tricuspidea muy ligera con paps estimada de 26 mmhg (normal), sin datos de hipertension pulmonar.
 - dislipemia en tratamiento con estatinas.
-- diabetes mellitus tipo 2 diagnosticada hace unos 7 aÃ±os, actualemente en tratamiento con insulina ehipoglicemiantes orales.
+- diabetes mellitus tipo 2 diagnosticada hace unos 7 años, actualemente en tratamiento con insulina ehipoglicemiantes orales.
 ultima hba1c: 6.
 8 (08/06/2016), como complicaciones microvasculares fondo de ojo alterado con dvp pendiente de fotocoagulacion, microalbuminuria 101.8mg/l, albumina/creatinina en prina 61mg/g crea.
 no se conocen otras complicaciones micro ni macrovasculares. . epoc grave tipo enfisema fenotipo no agudizador, con disnea clase funcional i-ii.
@@ -24,13 +24,13 @@ vive con su esposa.
 medicacio habitual losartan 50mg/24h, omeprazol 20mg/24h, plusvent 50/500mcg 2inh/12h, lantus 16-0-0, metformina 850mg/8h, salbutamol si precisa, atorvastatina 20mg/24h, spiriva 18mcg 1inh/24h, metamizol 575mg si precisa, paracetamol 1g/8h si precisa, amlodipino 5mg/24h, spiriva 2/24h.
 proces actual paciente que inicia cuadro hace 1 mes con dolor que el paciente describe como "paroxismos electricos" en region anterior de muslo izquierdo, sin irradiacion que llega hasta tobillo asi como aumento de volumen de partes blandas nhc ** *** *** (********) age-v-mir 1/4 lopd en toda la pierna y en los ultimos 2 dias el edema ha aumentado considerablemente y se agrega enrojecimiento en region inguinal izquierda, sin aumento de temperatura.
 ha sido estudiado por medico de atencion primaria siendo diagnosticado de polineuropatia en contexto de diabetes mellitus, y ante intensificacion paulatina del dolor ha pautado parches de fentanilo, niega disnea, dolor toracico u otra sintomatologia.
-por otra parte, explica perdida de unos 4-5 kg de peso en los ultimos tres meses, junto con hiporexia leve, niega sintomatologia digestiva, sudoracion nocturna, fiebre u otra clinica acompaÃ±ante.
+por otra parte, explica perdida de unos 4-5 kg de peso en los ultimos tres meses, junto con hiporexia leve, niega sintomatologia digestiva, sudoracion nocturna, fiebre u otra clinica acompañante.
 previamente valorado por cirugia vascular quienes tras realizar ecografia venosa objetivan adenopatia inguinal importante y signos indirectos de compresion/trombosis de vena ilaca.
-exploracio fisica exploracion fisica en urgencias constantes: ta 121/60; fc 80; tÂº 36.
+exploracio fisica exploracion fisica en urgencias constantes: ta 121/60; fc 80; tº 36.
 4; sato2 97% aa.
 buen estado general.
 normohidratado, normocoloreado y normoperfundido.
-pierna izquierda: aumento de tamaÃ±o y grosor en relacion a extremidad contralateral, se palpa region inguinal con nodulos indrurados.
+pierna izquierda: aumento de tamaño y grosor en relacion a extremidad contralateral, se palpa region inguinal con nodulos indrurados.
 exploracion respiratoria: murmullo vesicular conservado, algun roncus sin sibilantes.
 exploracion cardiocirculatoria: tonos ritmicos sin soplos.
 sin ingurgitacion yugular ni reflujo hepatoyugular.
@@ -42,7 +42,7 @@ sin peritonismo.
 ruidos hidroaereos conservados.
 exploracion neurologica: alerta y orientado en las tres esferas.
 sin focalidad neurologica aguda.
-exploracion fisica en planta de medicina interna constantes: ta 117/65; fc 80; tÂº 36.
+exploracion fisica en planta de medicina interna constantes: ta 117/65; fc 80; tº 36.
 5; sato2 92% aa.
 estado general conservado.
 normocoloreado, normohidratado, normoperfundido.
@@ -59,7 +59,7 @@ peristaltismo conservado.
 exploracion neurologica: consciente y orientado en las tres esferas.
 no signos de focalidad neurologica aguda.
 exploracio complementaria exploraciones complementarias en urgencias - ecg : ritmo sinusal a 90 lpm.
-eje -30Âº.
+eje -30º.
 pr 160mseg qrs 80mseg qt 360mseg.
 sin alteraciones agudas de la repolarizacion.
 -analitica general: hb 14.
@@ -76,7 +76,7 @@ sin signos de redistribucion vascular.
 - eco-doppler miembro inferior izquierdo : territorio iliofemoropopliteo y gemelar compresible, permeable.
 no presenta fascicidad respiratoria a nivel femoral, aumnetacion distal discreta signos indirectos de nhc ** *** *** (********) age-v-mir 2/4 lopd compresion/trombosis de vena iliaca izquierda.
 venas safenas permeables adenopatia inguinal importante.
-- tc abdomino-pelvico : estudio urgente que muestra conglomerado adenopatico con centro necrotico a nivel de cadena iliaca interna izquierda, y adenopatias retroperitoneales aumentadas de tamaÃ±o a nivel retroaortico y retrocavo.
+- tc abdomino-pelvico : estudio urgente que muestra conglomerado adenopatico con centro necrotico a nivel de cadena iliaca interna izquierda, y adenopatias retroperitoneales aumentadas de tamaño a nivel retroaortico y retrocavo.
 extensa trombosis parcial de la vena cava inferior que se extiende desde su porcion infrarrenal a nivel femoral bilateral, con deficit de repleccion completo de la vena iliaca comun izquierda, la cual queda parcialmente englobada en el conglomerado adenopatico, y trombosis parcial de la vena iliaca derecha con repermeabilizacion parcial distal.
 lesion litica en acetabulo izquierdo.
 patron nodular centrolobulillar bibasal suggestivo de proceso infeccioso/inflamatorio pulmonar.
@@ -98,7 +98,7 @@ proteinograma normal.
 no se objetiva proceso neoformativo primario de alto grado.
 dudoso engrosamiento mural anterosuperior izquierdo de la pared vesical con minimo desflecamiento de la grasa, a valorar estudio dirigido.
 cuadro inflamatorio/infeccioso pulmonar bilateral.
-- gammagrafia v/p : gammagrafia de ventilacion: observamos una gran heterogeneidad en la distribucion del aerosol en ambos campos pulmonares, con multiples y pequeÃ±as zonas de hipoventilacion.
+- gammagrafia v/p : gammagrafia de ventilacion: observamos una gran heterogeneidad en la distribucion del aerosol en ambos campos pulmonares, con multiples y pequeñas zonas de hipoventilacion.
 gammagrafia de perfusion: observamos una distribucion de los macroagregados de albumina muy heterogenea y de distribucion similar al estudio ventilatorio, aunque globalmente parece levemente mejor que la ventilacion.
 no observamos defectos segmentarios ni subsegmentarios sugestivos de tep agudo.
 od: estudio gammagrafico que muestra una gran heterogeneidad en la v y p, sugestivo de patologia parnequimatosa.

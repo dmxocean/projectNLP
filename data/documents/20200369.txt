@@ -1,10 +1,10 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 26.11.2007 edat: 11 anys procedencia cex mateix hosp servei c.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 26.11.2007 edat: 11 anys procedencia cex mateix hosp servei c.
 ort i traumatologia ped data d'ingres 18.08.2019 data d'alta 13.09.2019 10:00:00 ates per *************, ******; *****************, *******; *********; **********, ****** informe d'alta d'hospitalitzacio motiu d'ingres ingreso programado para cirugia por osteomielitis cronica de femur izquierdo . antecedents antecedentes familiares: padres naturales de gambia, no consanguineos.
-viven aqui desde hace 20 aÃ±os.
+viven aqui desde hace 20 años.
 el paciente ha nacido aqui.
 portadores de hbs.
 tia materna afecta de drepanocitosis en homocigosis.
-tiene una hermana de 14 aÃ±os y un hermano (misma madre, diferente padre) de 2 aÃ±os.
+tiene una hermana de 14 años y un hermano (misma madre, diferente padre) de 2 años.
 ambos sanos.
 antecedentes personales: vive con su madre y nueva pareja.
 no alergias medicamentosas conocidas.
@@ -29,14 +29,14 @@ granollers, previo ingreso en septiembre por osteomielitis de femur izquierdo (a
 orientado como om cronica por la evolucion proces actual ingreso programado para cirugia por osteomielitis cronica de femur izquierdo.
 inicia en junio de 2019 bultoma en zona de cicatriz, sin dolor, sin cojera, sin fiebre.
 el 1.7.
-se realiza rm en granollers: osteomielitis cronica femur con absceso intraoseo que comunica a traves de cloaca con absceso de partes blandas exploracio fisica fc 99 bpm tÂªaxi 36.
-0 Âºc fr rpm tÂªrec Âºc ta s 100 mmhg sat o2 100.00 % ta d 64 mmhg pes 32.400 kg nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cop 1/4 lopd tep: estable buen estado general.
+se realiza rm en granollers: osteomielitis cronica femur con absceso intraoseo que comunica a traves de cloaca con absceso de partes blandas exploracio fisica fc 99 bpm tªaxi 36.
+0 ºc fr rpm tªrec ºc ta s 100 mmhg sat o2 100.00 % ta d 64 mmhg pes 32.400 kg nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cop 1/4 lopd tep: estable buen estado general.
 normocoloreado.
 normohidratado.
 no lesiones cutaneas agudas.
 no petequias.
 no edemas.
-- aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreaÃ±adidos.
+- aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
 espiracion normal.
 - aparato cardiocirculatorio: tonos ritmicos, no ausculto soplos, pulsos perifericos presentes y simetricos.
 perfusion distal conservada.
@@ -129,7 +129,7 @@ se remiten muestras a microbiologia y anatomia patologica que resultan positivas
 en el postoperatorio se inicia cateter epidural de bupivacaina con buen control del dolor, asi como tambien hidratacion con sueroterapia de mantenimiento al 100% de necesidades basales y oxigenoterapia con canulas nasales.
 se mantiene con sondaje urinario para control de diuresis hasta supension del cateter epidural.
 se mantiene con antibioterapia endovenosa con ciprofloxacino complentando 8 dias de tratamiento y posteriormente pasando a via oral el 29.08.2019.
-no obstante, el paciente presenta evolucion torpida de la herida con importante hematoma y dehiscencia de herida con dos picos febriles de 38Âºc el 30.08.2019, por lo cual se decide conjuntamente entre cirugia ortopedica pediatrica e infecciosas realizar una nueva cirugia de desbridamiento asi como tambien reiniciar antibioterapia por via endovenosa.
+no obstante, el paciente presenta evolucion torpida de la herida con importante hematoma y dehiscencia de herida con dos picos febriles de 38ºc el 30.08.2019, por lo cual se decide conjuntamente entre cirugia ortopedica pediatrica e infecciosas realizar una nueva cirugia de desbridamiento asi como tambien reiniciar antibioterapia por via endovenosa.
 asi pues, el dia 02/09/2019 se realiza nueva cirugia de urgencia, desbridamiento con friedrich de herida y toma de multiples muestras para cultivo, sin incidencias intraoperatorias.
 se coloca un sistema de tpn incisional tipo vivano a 80mmhg.
 se reinicia cateter epidural de bupivacaina con control correcto del dolor que se suspende el 7.09.2019, retirandose tambien sondaje urinario.

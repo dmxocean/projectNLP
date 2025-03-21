@@ -1,6 +1,6 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 25.12.1935 edat: 83 anys procedencia aten.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 25.12.1935 edat: 83 anys procedencia aten.
 primaria servei nefrologia data d'ingres 16.07.2019 data d'alta 29.07.2019 16:09:52 ates per equipo dra. ***** (*********, *****, ******).
-informe de trasllat a sociosanitari motiu d'ingres mujer de 83 aÃ±os con erc que es trasladada de css *********** por insuficiencia renal aguda . antecedents sin alergias medicamentosas conocidas.
+informe de trasllat a sociosanitari motiu d'ingres mujer de 83 años con erc que es trasladada de css *********** por insuficiencia renal aguda . antecedents sin alergias medicamentosas conocidas.
 niega habitos toxicos.
 antecedentes patologicos - hipertension arterial en tratamiento con diuretico - dislipidemia en tratamiento con estatinas - diabetes mellitus tipo 2 en tratamiento con ados.
 complicaciones microcirculatorias.
@@ -19,7 +19,7 @@ la paciente previamente estuvo realizando tratamiento con ciprofloxacino por inf
 el pasado dia 12/07 se realizo analitica que muestra cifras de creatinina de 7.7mg/dl, motivo por el cual es derivada a nuestro centro.
 no vomitos, nauseas, fiebre ni otros sintomas asociados.
 hace 24 horas aproximadamente que la diarrea se ha autolimitado.
-exploracio fisica nhc ** *** *** &nbsp;(********) &nbsp;age-v-nfr 1/3 lopd ta 126/60mmhg, fc 63lpm, tÂª 35.5Âºc, sato2 95%aa.
+exploracio fisica nhc ** *** *** &nbsp;(********) &nbsp;age-v-nfr 1/3 lopd ta 126/60mmhg, fc 63lpm, tª 35.5ºc, sato2 95%aa.
 presenta lesion cutanea nodular de aspecto inflamatorio en zona de rama mandibular derecha.
 no se palpan adenopatias.
 estado general conservado.
@@ -29,7 +29,7 @@ pulsos presentes y simetricos.
 no iy, rhy ni edemas en extremidades inferiores.
 -respiratorio: eupneica.
 murmullo vesicular conservado con crepitantes secos bibasales.
-no otros ruidos aÃ±adidos.
+no otros ruidos añadidos.
 -abdomen: blando y depresible dolor a la palpacion de mesogastrio.
 no se palpan masas ni megalias.
 peristaltismo conservado.
@@ -42,7 +42,7 @@ pr 0.12seg.
 qrs 0.08seg.
 morfologia de bloqueo de rama derecha.
 no se observan alteraciones agudas en el segmento st ni en la repolarizacion.
-eje -60Âº.
+eje -60º.
 -eab: ph 7.09, pco2 19mmhg, na+ 132mmol/l, k+3.3mmol/l, lactatos 0.5mmol/l, hco3- 7.5mmol/l.
 -rx torax: marco oseo y tejidos blandos sin alteraciones.
 no desviacion del mediastino.
@@ -107,11 +107,11 @@ directa 0.16 mg/dl, na 136.
 **sedimento de orina: piuria.
 -coprocultivo convencional: negativo.
 clostridium negativo.
-- hc 16/7, 21/7 negativos - colonoscopia (26/07/2019): se explora la totalidad del colon hasta fondo de saco cecal visualizando foramen apendicular y valvula ileocecal con los siguientes hallazgos: - numerosos diverticulos en sigma de tamaÃ±o pequeÃ±o sin signos de complicacion.
+- hc 16/7, 21/7 negativos - colonoscopia (26/07/2019): se explora la totalidad del colon hasta fondo de saco cecal visualizando foramen apendicular y valvula ileocecal con los siguientes hallazgos: - numerosos diverticulos en sigma de tamaño pequeño sin signos de complicacion.
 -a 25 cm del margen anal polipo sesil de 3 mm que se reseca con asa fria y se recupera para estudio histologico.
-canal anal con hemorroides internas de tamaÃ±o pequeÃ±o.
+canal anal con hemorroides internas de tamaño pequeño.
 polipectomia . diagnostico: - diverticulosis de sigma.
-- polipo colonico . nhc ** *** *** &nbsp;(********) &nbsp;age-v-nfr 2/3 lopd evolucio clinica mujer de 83 aÃ±os con los antecedentes mencionados, es derivada de css *********** por insuficiencia renal en contexto de perdidas digestivas.
+- polipo colonico . nhc ** *** *** &nbsp;(********) &nbsp;age-v-nfr 2/3 lopd evolucio clinica mujer de 83 años con los antecedentes mencionados, es derivada de css *********** por insuficiencia renal en contexto de perdidas digestivas.
 a su llegada a urgencias, se encuentra hemodinamicamente estable, afebril, con marcada deshidratacion mucocutanea, y edemas en zonas de declive.
 se evidencia creatinina de 9.83mg/dl y fg de 3ml/min, asociado a acidosis metabolica , hipocalemia , leve proteinuria se orienta como insuficiencia renal aguda con feu 40%; iniciando sueroterapia y bicarbonato ev.
 ademas, anemia normocitica hipocromica , se realiza transfusion de 1 cchh , con buena respuesta posterior.

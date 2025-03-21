@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 11.06.1950 edat: 67 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 11.06.1950 edat: 67 anys procedencia domicil/res.
 soc servei neurologia data d'ingres 26.03.2018 data d'alta 04.04.2018 09:44:23 ates per ****************, *****; *************, ******; ***************, ***** informe d'alta d'hospitalitzacio motiu d'ingres dona de 67 anys que ingresa de manera programada per estudi etiologic de sindrome bulbar.
 antecedents -alergia medicamentosa coneguda a glimepirida.
 - fumadora 10-15 cig/dia.
@@ -7,24 +7,24 @@ cardiopatia iam en joves pare als 65 anys, germa mort sobtada als 45 anys, 64 an
 - hipertensio arterial esencial en tractament.
 - diabetis mellitus tipus 2 en tractament amb hipoglicemiants orals.
 - migranya en tractament analgesic.
-ssf: natural d'espanya, pero va viure a veneÃ§uela molts anys (dels 6 als 65 anys).
+ssf: natural d'espanya, pero va viure a veneçuela molts anys (dels 6 als 65 anys).
 medicacio habitual amlodipi 5 mg al dia, atorvastatina 40 mg al dia, cetirizina 10 mg si precisa, clovate 0.5mg/g crema, emconcor 2.
 5 mg al dia, janumet 50/1000 mg cada 12 hores, losartan 100 mg al dia, rivotril 2 mg al dia.
 proces actual caiguda al 2014, tce sense perdua de coneixement, rx cranial normal.
 despres va caure i es va lesionar el genoll, el traumatoleg li va dir que 'parlava malament'.
 ella no li va donar importancia.
-despres, al 2016, es van fer estudis de rm cerebral sense alteracions, la van enviar remetre a fisioterapia i logopedia, atribuÃ¯t a possible ictus.
+despres, al 2016, es van fer estudis de rm cerebral sense alteracions, la van enviar remetre a fisioterapia i logopedia, atribuït a possible ictus.
 viu a barcelona des de fa un 1 any.
 la seva filla refereix des del setembre 2017 va notar empitjorament clinic amb mes disartria, lleu disfagia.
-mes torpesa, a les mans i a les cames amb caigudes freqÃ¼ents.
+mes torpesa, a les mans i a les cames amb caigudes freqüents.
 des de fa uns mesos nota inestabilitat especialment a tancar els ulls.
-exploracio fisica fc 75 bpm tÂªaxi Âºc fr rpm tÂªrec Âºc ta s 113 mmhg sat o2 % ta d 75 mmhg pes kg bm debilitat interosis i extensor del carpo 4/5 esd.
+exploracio fisica fc 75 bpm tªaxi ºc fr rpm tªrec ºc ta s 113 mmhg sat o2 % ta d 75 mmhg pes kg bm debilitat interosis i extensor del carpo 4/5 esd.
 no dismetries.
 no amiotrofies.
 no atrofia lingual, protusio completa, asimetria facial esquerra.
-no alteracio de moe, nistagmus horitzontal esgotable a la mirada a lâ€™esquerra.
-hiperreflexia amb augment de lâ€™area reflexogena a les 4 ees.
-hoffman i trÃ¶mner bilateral.
+no alteracio de moe, nistagmus horitzontal esgotable a la mirada a l’esquerra.
+hiperreflexia amb augment de l’area reflexogena a les 4 ees.
+hoffman i trömner bilateral.
 nasopalpebral inesgotable.
 romberg positiu.
 no dismetries.
@@ -43,7 +43,7 @@ quick 101%, inr 0.99, ttpar 1.16, fibrinogeno 3.05 g/l; glucosa 119mg/dl; urea 5
 - emg , emtc y ppee ss: examen neurofisiologico que continua mostrando marcada afectacion de via piramidal (eess y trapecio) sin signos de afectacion de segunda motoneurona (excepto moderada denervacion activa focal a nivel l5 izquierdo, ya observada en estudio previo).
 asimismo persiste indemnidad de via cordonal posterior para inervacion de ambas eeii.
 escasos cambios evolutivos respecto a examen previo (08.01.2018).
-los hallazgos descritos podrian corresponder a una esclerosis lateral pri***** si el resto de exploraciones son compatibles - bioquimica puncio lumbar : leucocits 0.00 cel/?l; hematies . 0.00 cel/?l; lcr-glucosa 84 mg/dl; lcr-proteÃ¯na 60 mg/dl - pcr borrelia burgdorferi en lcr : &lt;0.
+los hallazgos descritos podrian corresponder a una esclerosis lateral pri***** si el resto de exploraciones son compatibles - bioquimica puncio lumbar : leucocits 0.00 cel/?l; hematies . 0.00 cel/?l; lcr-glucosa 84 mg/dl; lcr-proteïna 60 mg/dl - pcr borrelia burgdorferi en lcr : &lt;0.
 2 ua/ml (negatiu).
 - tc toraco-abdominal : esteatosi.
 quist hepatics.
@@ -54,7 +54,7 @@ sense altre tipus d'alteracions.
 9 fev1/fvc 101.
 0 dlco_sb 70.
 9 dlco/va 79.
-0 evolucio clinica mujer de 67 aÃ±os que ingresa de forma programada en neurologia para estudio etiologico de sindrome bulbar progresivo de 2 aÃ±os de evolucion.
+0 evolucio clinica mujer de 67 años que ingresa de forma programada en neurologia para estudio etiologico de sindrome bulbar progresivo de 2 años de evolucion.
 de forma ambulatoria en febrero de 2018 se realiza rm que muestra uncodiscartrosis cervical c4-c7 que condiciona una reduccion moderada de la canal raquideo a nivel c5-c6 y una reduccion de los calibres neuroformainales de forma moderada-acusada en c4-c5.
 nhc ** *** *** (********) age-v-nrl 2/3 lopd a la exploracion fisica neurologica destaca una marcada disartria bulbar con una hiperreflexia generalizada y una debilidad en extremidades superiores distal y de predominio derecho.
 no presenta problemas deglutorios ni respiratorios.
@@ -69,4 +69,4 @@ finalmente, una vez completado el estudio etiologico, la paciente es alta con vi
 orientacio diagnostica esclerosis lateral amiotrofica clinicamente posible procediments 93.08 electromiografia 89.08 altra consulta 03.31 puncio evacuadora de liquid cefaloraquidi.
 puncio lumbar per a l'extraccio de substancia de contrast tractament i recomanacions a l'alta continuar su mediacion habitual sin cambios.
 control control con medico de atencion pri***** y especialista habituales.
-control consultas externas de dr. *****/dra.******* el 28 de junio a las 8.30 (1Âªplanta anexos) destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-nrl 3/3 lopd
+control consultas externas de dr. *****/dra.******* el 28 de junio a las 8.30 (1ªplanta anexos) destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-nrl 3/3 lopd

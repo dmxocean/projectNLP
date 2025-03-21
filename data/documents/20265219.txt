@@ -1,11 +1,11 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 24.07.1991 edat: 28 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 24.07.1991 edat: 28 anys procedencia domicil/res.
 soc servei obstetricia data d'ingres 13.09.2019 data d'alta 15.09.2019 11:31:20 ates per ******************, *****; *****************, **** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergias medicamentosas conocidas.
 no intervenciones quirurgicas ni otros antecedentes patologicos.
 niega habitos toxicos.
-vitaminas del embarazo proces actual edad: 28 aÃ±os tpal: 0000 fur: 8.12.19 sg: 39 + 6 gsrh: o positivo control de la gestacion en cap gestante de 39+6 semanas de gestacion que acude por sensacion de dinamica uterina cada 10 minutos de 3 horas de evolucion.
+vitaminas del embarazo proces actual edad: 28 años tpal: 0000 fur: 8.12.19 sg: 39 + 6 gsrh: o positivo control de la gestacion en cap gestante de 39+6 semanas de gestacion que acude por sensacion de dinamica uterina cada 10 minutos de 3 horas de evolucion.
 refiere sensacion de hidrorrea desde las 9h (12/09/2019) resumen gestacional control en cap y/o dog . control insuficiente, inicio a las 20w -analiticas: 3er trimestre: hemoglobina 11.5g/dl , hematocrito 33% , plaquetas 227000, coagulacion: t quik 114% ttpa 28.4s -triple screening: no realizado.
 -serologias: negativas para vih, vhb, vhc, lues, .rubeola no consta.
--oÂ´sullivan: 103mg/dl -urocultivo:negativio -cultivo vaginal/rectal: negativo (21/08/2019) -ecografia 3er trimestre: 34+3w presentacion: cefalica, peso fetal estimado: 2128g , percentil: 18, liquido amniotico normal, doppler normal, insercion placentaria: posterior, cordon tres vasos.
+-o´sullivan: 103mg/dl -urocultivo:negativio -cultivo vaginal/rectal: negativo (21/08/2019) -ecografia 3er trimestre: 34+3w presentacion: cefalica, peso fetal estimado: 2128g , percentil: 18, liquido amniotico normal, doppler normal, insercion placentaria: posterior, cordon tres vasos.
 exploracio fisica buen estado general, normohidrataa y normocoloreada.
 expl.
 abdominal: abdomen gravido de acuerdo con las semanas de gestacion.
@@ -39,7 +39,7 @@ paracetamol 1gr cada 8 horas si precisa para el dolor.
 abundante ingesta de liquidos y comida variada y equilibrada.
 lavado diario del perine con agua y jabon neutro.
 mantenerlo bien seco con ayuda de una compresa o toalla.
-no realizar inmersion en baÃ±era, piscina o mar hasta finalizado el puerperio.
+no realizar inmersion en bañera, piscina o mar hasta finalizado el puerperio.
 vida normal con actividad fisica leve/moderada.
 evitar coger peso y ejercicios de alto impacto.
 si presenta congestion de las mamas dar un masaje antes de las tomas.

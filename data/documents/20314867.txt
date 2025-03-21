@@ -1,16 +1,16 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 16.05.1992 edat: 27 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 16.05.1992 edat: 27 anys procedencia domicil/res.
 soc servei alt risc obstetric data d'ingres 30.09.2019 data d'alta 04.10.2019 12:00:00 ates per ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres hiperemesis . antecedents sin alergias medicamentosas conocidas.
 no antecedentes medicos de interes.
 no antecedentes quirurgicos de interes.
 no refiere habitos toxicos.
 no medicacion habitual.
-proces actual 27 aÃ±os tpal: 0000 fur: 19.07.19 sg: 10 +3 paciente que reacude por persistencia de vomitos sin productos patologicos y nauseas abudantes que no permiten la tolerancia oral a solidos ni liquidos y no ceden con primperan y ranitidina oral.
+proces actual 27 años tpal: 0000 fur: 19.07.19 sg: 10 +3 paciente que reacude por persistencia de vomitos sin productos patologicos y nauseas abudantes que no permiten la tolerancia oral a solidos ni liquidos y no ceden con primperan y ranitidina oral.
 no sensacion distermica.
 no dolor abdominal.
 no alteraciones del ritmo deposicional.
-exploracio fisica fc 109 bpm tÂªaxi Âºc fr rpm tÂªrec Âºc ta s 111 mmhg sat o2 % ta d 74 mmhg pes kg regular estado general, palidez cutanea.
+exploracio fisica fc 109 bpm tªaxi ºc fr rpm tªrec ºc ta s 111 mmhg sat o2 % ta d 74 mmhg pes kg regular estado general, palidez cutanea.
 ecotv : utero en anteversion con saco gestacional intrauterino con embrion con crl de 31.8mm, embriocardio positivo.
-ovarios de morfologia y tamaÃ±o normal.
+ovarios de morfologia y tamaño normal.
 no liquido libre en fsd.
 as: hb 12.
 3; htco 36.

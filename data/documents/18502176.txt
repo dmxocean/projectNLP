@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 10.07.1936 edat: 81 anys procedencia cex mateix hosp servei urologia data d'ingres 21.02.2018 data d'alta 21.02.2018 15:25:43 ates per ************, ************; ****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de forma programada para inyeccion de toxina botulinica antecedents alergias: no.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 10.07.1936 edat: 81 anys procedencia cex mateix hosp servei urologia data d'ingres 21.02.2018 data d'alta 21.02.2018 15:25:43 ates per ************, ************; ****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de forma programada para inyeccion de toxina botulinica antecedents alergias: no.
 h.
 toxicos: niega.
 antecedentes - artrosis generalizada , pies cavos , camina con baston - temblor esencial - diabetes mellitus tipo 2.

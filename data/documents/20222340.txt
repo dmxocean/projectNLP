@@ -1,7 +1,7 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 26.03.1979 edat: 40 anys procedencia domicil/res.
-soc servei nefrologia data d'ingres 27.08.2019 data d'alta 04.09.2019 11:08:05 ates per *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 40 aÃ±os, trasplantada renal del 07/07 por erc no filiada que ingersa para tratamiento de rechazo agudo celular.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 26.03.1979 edat: 40 anys procedencia domicil/res.
+soc servei nefrologia data d'ingres 27.08.2019 data d'alta 04.09.2019 11:08:05 ates per *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 40 años, trasplantada renal del 07/07 por erc no filiada que ingersa para tratamiento de rechazo agudo celular.
 antecedents -niega alergias medicamentosas.
-antecedentes patologicos: -hipertension arterial de mas de 10 aÃ±os de evolucion, con inicio reciente de tratamiento.
+antecedentes patologicos: -hipertension arterial de mas de 10 años de evolucion, con inicio reciente de tratamiento.
 fo grado iii.
 - enfermedad renal cronica con componente obstructivo, sin diagnostico ni tratamiento previo y con ligera mejoria tras colocacion cateter ureteral en septiembre 2017, objetivando proteinuria nefrotica y doble sistema renal izquierdo sugestivo de dudosa duplicacion completa/incompleta de ureter.
 inicio de terapia sustitutiva renal mediante dialisis peritoneal en enero 2018.
@@ -41,7 +41,7 @@ ecxrecion fraccional de sodio: 1.
 7% -rx de torax: marco oseo conservado.
 indice cardiotoracico &lt;0.5.
 no imagenes de condensaciones ni derrames.
--ecografia doppler urinaria: injerto renal localizado en fosa iliaca derecha, de tamaÃ±o y ecoestructura conservados, de grosor parenquimatoso normal y que muestra adecuada diferenciacion cortico-medular.
+-ecografia doppler urinaria: injerto renal localizado en fosa iliaca derecha, de tamaño y ecoestructura conservados, de grosor parenquimatoso normal y que muestra adecuada diferenciacion cortico-medular.
 no se identifican signos de uropatia obstructiva.
 registros de onda doppler espectral intraparenquimatosos con morfologia de onda e indices de resistencia dentro de limites normales.
 velocidad pico sistolica y tiempos de aceleracion normales en los registros obtenidos en la arteria renal.
@@ -53,7 +53,7 @@ evolucio clinica paciente portadora de un trasplante renal desde el dia tr 7/07/
 6 mg/kg.
 sin incidencias.
 presenta una mejoria de la funcion renal con una creatinina al alta de 0.84 mg/dl.
-orientacio diagnostica r69 malaltia no especificada rechazo agudo celular vascular portadora de trasplante renal funcionante procediments 38.97 colÂ·locacio de cateter venos central amb guia nhc ** *** *** &nbsp;(********) &nbsp;age-v-nfr 2/3 lopd tractament i recomanacions a l'alta -cellcept 500mg 1 comprimido cada 12horas (9am-9pm).
+orientacio diagnostica r69 malaltia no especificada rechazo agudo celular vascular portadora de trasplante renal funcionante procediments 38.97 col·locacio de cateter venos central amb guia nhc ** *** *** &nbsp;(********) &nbsp;age-v-nfr 2/3 lopd tractament i recomanacions a l'alta -cellcept 500mg 1 comprimido cada 12horas (9am-9pm).
 -prednisona 5mg 2 comprimidos cada 24h (9am) -lercanidipino 20mg 1 comprimido cada 24h -septrin 80/400mg: tomar 1 comprimido con el almuerzo.
 - valcyte 900 mg al dia (medicacion de dispensacion hospitalaria) -acido folico: tomar un comprimido con eld esayuno.
 -cardyl (atorvastatina ) 40mg 1 comprimido cada 24h -natecal d 1 comprimido cada 24h - hidralazina 50 mg cada 8 horas control -sera avisada fecha y hora de analitica y visita de control en cex de nefrologia destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;age-v-nfr 3/3 lopd

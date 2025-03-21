@@ -1,10 +1,10 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 16.04.1935 edat: 82 anys procedencia domicil/res.
-soc servei hematologia i data d'ingres 23.03.2018 data d'alta 31.03.2018 17:00:00 ates per *************, ******; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres hombre de 82 aÃ±os que acude a urgencias por disnea . antecedents antecedentes personales: -alergias: sin alergias medicamentosas conocidas.
--habitos toxicos: exfumador de 1 paquete al dia hasta hace 20 aÃ±os.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 16.04.1935 edat: 82 anys procedencia domicil/res.
+soc servei hematologia i data d'ingres 23.03.2018 data d'alta 31.03.2018 17:00:00 ates per *************, ******; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres hombre de 82 años que acude a urgencias por disnea . antecedents antecedentes personales: -alergias: sin alergias medicamentosas conocidas.
+-habitos toxicos: exfumador de 1 paquete al dia hasta hace 20 años.
 niega consumo de otros toxicos.
 antecedentes patologicos: -diabetes mellitus tipo 2 en tratamiento con antidiabeticos orales.
 -dislipemia en tratamiento con estatinas.
--cardiopatia isquemica que debuto hace 18 aÃ±os como iam . segun refiere familiar, se le colocaron tres stents (no dispongo informes).
+-cardiopatia isquemica que debuto hace 18 años como iam . segun refiere familiar, se le colocaron tres stents (no dispongo informes).
 -neoplasia de mama izquierda diagnosticada en 2014: t1n0mx.
 tratada mediante mastectomia simple, sin haber recibido rt u hormonoterapia por comorbilidad cardiovascular.
 seguimiento por oncologia medica, ned hasta 2017.
@@ -17,7 +17,7 @@ los hallazgos descritos sugieren como primera opcion diagnostica recidiva de su 
 mama), sin poder descartar otras etiologias neoformativas primarias.
 *paaf adenopatia supraclavicular izquierda: positivo para celulas malignas, metastasis de carcinoma.
 el resultado de las tecnicas de inmunohistoquimica descarta el diagnostico de carcinoma metastasico de origen epitelial dado que la expresion de citoqueratinas es negativa en la celularidad atipica.
-morfologicamente tambien se planteaba el diagnostico de carcinoma de celula pequeÃ±a que tambien se descarta dada la no expresion de marcadores neuroendocrinos asi como tampoco de citoqueratina.
+morfologicamente tambien se planteaba el diagnostico de carcinoma de celula pequeña que tambien se descarta dada la no expresion de marcadores neuroendocrinos asi como tampoco de citoqueratina.
 la celularidad atipica expresa cd45 y cd20 (ki67+ 80%).
 este perfil de expresion es compatible con el diagnostico de neoplasia de estirpe linfode (linfoma).
 se recomienda ver nuevo informe de citologia 18-c-10071 y exeresis ganglionar para tipificacion histologica.
@@ -27,10 +27,10 @@ independiente para las abvd.
 sin deterioro cognitivo.
 medicacio habitual aas 100 mg c/24h, simvastatina 20 mg c/24h, metformina 850 mg c/12h, bisoprolol 2.
 5 mg c/24h, omeprazol 20 g/24h, calcipotriol/betametasona 50mcg/0.5mg/g pomada, nhc ** *** *** (********) age-v-hem 1/4 lopd proces actual refiere persistencia de la disnea por la que ya consulto el 17/03/18, de una semana de tiempo de evolucion aproximadamente, que le impide el descanso nocturno con ortopnea.
-se acompaÃ±a hiporexia y de dolor epigastrico que refiere tiene mas tiempo de evolucion.
+se acompaña hiporexia y de dolor epigastrico que refiere tiene mas tiempo de evolucion.
 niega clinica infecciosa asociada.
 niega dolor toracico, palpitaciones o edemas en eeii.
-exploracio fisica exploracion fisica en urgencias: ta 155/57, fc 114 lpm, fr 18 rpm, tÂª 36.8Âºc.
+exploracio fisica exploracion fisica en urgencias: ta 155/57, fc 114 lpm, fr 18 rpm, tª 36.8ºc.
 hemodinamicamente estable, normocoloreado, normohidratado y normoperfundido.
 bloque adenopatico cervical izquierdo y axilar derecho.
 aparato cardiovascular: tonos cardiacos ritmicos rapidos sin soplos audibles.
@@ -44,7 +44,7 @@ no se palpan masas ni visceromegalias.
 peristaltismo presente, sin signos de ascitis ni de irritacion peritoneal.
 neurologico: vigil y alerta, orientado en tiempo, espacio y persona, colaborador.
 sin focalidad neurologica aguda aparente.
-exploracion fisica en planta de hospitalizacion: ta 128/69 mmhg, fc 99 lpm, tÂª 37.4Âºc, spo2 95% (vmk 0.26), bmt 155-176-140 mg/dl, diuresis 1500cc/24h, dep 0 consciente y orientado en las tres esferas.
+exploracion fisica en planta de hospitalizacion: ta 128/69 mmhg, fc 99 lpm, tª 37.4ºc, spo2 95% (vmk 0.26), bmt 155-176-140 mg/dl, diuresis 1500cc/24h, dep 0 consciente y orientado en las tres esferas.
 gcs 15 sin focalidades neurologicas, pupilas isocoricas normorreactivas.
 fuerza conservada.
 no asterixis.
@@ -75,6 +75,6 @@ durante su estancia en la planta se realiza toracocentesis evacuadora con mejori
 se realiza biopsia de la adenopatia supraclavicular izquierda que presenta probable linfoma difuso de celulas grandes b pendiente de resultado definitivo.
 se inicia tratamiento corticoideo.
 ante paciente con estado general conservado y pendiente de acabar de realizar estudio de extension, se decide alta a domicilio con control en consultas externas.
-orientacio diagnostica - linfoma difuso de celulas grandes b pendiente de ihq - diabetes mellitus tipo 2 - dislipemia - cardiopatia isquemica estable - neoplasia de mama izquierda en respuesta completa tractament i recomanacions a l'alta -omeprazol 20mg cada 24h en ayunas previo al desayuno -metformina 850mg cada 24h -insulina novorrapid segun glicemia: entre 150-200mg/dl administrar 4ui entre 200-250mg/dl administrar 6ui entre 250-300mg/dl administrar 8ui entre de 300-350mg/dl administrar 10ui mas de 350mg/dl administrar 12ui -bisoprolol 2.5mg cada 24h con el desayuno -simvastina 20mg cada 24h con el desayuno -prednisona 60mg cada 24h con el desayuno (dos comprimidos de 30mg) -paracetamol 1g cada 8h si precisa se explican signos de alarma y normas de consulta a urgencias control control en consultas externas el 9 de abril 2018 con la dra. ******* segun aviso de citaciones biopsia de medula osea el 5 de abril en hospital de dia de hematologia (6a planta anexos), acudir en ayunas y nhc ** *** *** (********) age-v-hem 3/4 lopd acompaÃ±ado.
+orientacio diagnostica - linfoma difuso de celulas grandes b pendiente de ihq - diabetes mellitus tipo 2 - dislipemia - cardiopatia isquemica estable - neoplasia de mama izquierda en respuesta completa tractament i recomanacions a l'alta -omeprazol 20mg cada 24h en ayunas previo al desayuno -metformina 850mg cada 24h -insulina novorrapid segun glicemia: entre 150-200mg/dl administrar 4ui entre 200-250mg/dl administrar 6ui entre 250-300mg/dl administrar 8ui entre de 300-350mg/dl administrar 10ui mas de 350mg/dl administrar 12ui -bisoprolol 2.5mg cada 24h con el desayuno -simvastina 20mg cada 24h con el desayuno -prednisona 60mg cada 24h con el desayuno (dos comprimidos de 30mg) -paracetamol 1g cada 8h si precisa se explican signos de alarma y normas de consulta a urgencias control control en consultas externas el 9 de abril 2018 con la dra. ******* segun aviso de citaciones biopsia de medula osea el 5 de abril en hospital de dia de hematologia (6a planta anexos), acudir en ayunas y nhc ** *** *** (********) age-v-hem 3/4 lopd acompañado.
 ventriculografia del corazon en medicina nuclear segun aviso de citaciones.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-hem 4/4 lopd

@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 24.07.1934 edat: 84 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 24.07.1934 edat: 84 anys procedencia domicil/res.
 soc servei neurotraumatologia data d'ingres 25.07.2018 data d'alta 28.07.2018 08:08:55 ates per **************, **** informe d'alta d'hospitalitzacio motiu d'ingres alteracion del estado general.
 antecedents - alergias : tetraciclina , sulfametoxazol, pirazolonas , espiramicina.
 - hipertension arterial.
@@ -7,10 +7,10 @@ ecocardiograma con hipertrofia severa asimetrica no confirmada por rm cardiaca (
 espirometria con patron restrictivo, no severo.
 - fibrilacion auricular permanente . s - disena multifactorial - obesidad . - intervenciones previas: cataratas bilateral, sinusitis en la juventud.
 medicacio habitual atenolol 100mg 1/24h; diazepam 5mg 1/12h; ferrocur 40mg bebible 1amp/24h; furosemida 40mg 1/24h; hidroferol 0,1mg gotas 1ml x 7 dias; losartan 50mg segun dia; masdil 120mg 1/24; metformina 850mg 1/12h; omeprazol 20mg 1/24h; palexia retard 50mg 3/24h; pradaxa 110mg 1/12h; simvastatina 20mg 1/24h; tirodril 5mg 0,5/24h.
-proces actual paciente mujer de 84 aÃ±os anticoagulada con davigatran que acude a urgencias por cuadro de alteracion fluctuante del nivel de cosnciencia desde el domingo 22 coincidiendo con hipoglucemia.
+proces actual paciente mujer de 84 años anticoagulada con davigatran que acude a urgencias por cuadro de alteracion fluctuante del nivel de cosnciencia desde el domingo 22 coincidiendo con hipoglucemia.
 la familia refiere que desde entonces ha alternado episodios de somnolencia con nivel de consciencia normal, ademas refieren empeoramiento de la marcha, desorientacion y alteraciones del lenguaje.
 la familia refiere vida activa normal, independiente, vive con su hermana.
-sale a pasear acompaÃ±ada (refieren algunos ''despiestes'' en los ultimos meses).
+sale a pasear acompañada (refieren algunos ''despiestes'' en los ultimos meses).
 no datos de crisis comicial, no nauseas ni vomitos.
 en la anamnesis dirigida refieren caida hace 2 semanas sin que se pueda precisar si hubo traumatismo craneal (caida no presenciada, la paciente no lo recuerda).
 exploracio fisica al ingreso: - conciente, orientada y colaboradora.

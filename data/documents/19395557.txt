@@ -1,25 +1,25 @@
-n¬∫ historia clinica: ** *** *** n¬∫episodi: ******** sexe: home data de naixement: 15.07.1933 edat: 85 anys procedencia domicil/res.
-soc servei oncologia medica data d'ingres 01.12.2018 data d'alta 25.01.2019 15:14:54 ates per *****************, ******; **********, *****; **************,; ****;;; *****************, manel informe de trasllat a sociosanitari motiu d'ingres varon de 85 a√±os que acude por dolor abdominal.
+n∫ historia clinica: ** *** *** n∫episodi: ******** sexe: home data de naixement: 15.07.1933 edat: 85 anys procedencia domicil/res.
+soc servei oncologia medica data d'ingres 01.12.2018 data d'alta 25.01.2019 15:14:54 ates per *****************, ******; **********, *****; **************,; ****;;; *****************, manel informe de trasllat a sociosanitari motiu d'ingres varon de 85 aÒos que acude por dolor abdominal.
 antecedents sin alergias medicamentosas conocidas.
 no habitos toxicos.
 antecedentes patologicos: - hiperplasia benigna de prostata en tratamiento farmacologico - adenocarcinoma de prostata t3an0 tratado con rt e imrt, junto hormonoterapia hasta 24/10/16.
 actualmente libre de enfermedad.
 en seguimiento anual en cex de hospital puigvert (ultima visita en septiembre/2018).
-complicaciones: proctitis radica con clinica de estre√±imiento, con colonoscopia realizada en 2017 sin alteraciones.
+complicaciones: proctitis radica con clinica de estreÒimiento, con colonoscopia realizada en 2017 sin alteraciones.
 - sindrome depresivo en tratamiento farmacologico.
 - hernia inguinal pendiente de valoracion por cirugia.
 no antecedentes cardiorespiratorios de interes ssf: independiente para las abvd, cuidador principal de su esposa.
 sin deterioro cognitivo aparente.
 medicacio habitual mirabegron 50mg/24h, omeprazol 20mg/24h, paracetamol 1g/24h, sertralina 50mg/24h, tamsulosina 0,24mg/24h, buscapina 10mg/24h.
-proces actual paciente varon de 85 a√±os que acude a urgencias por dolor abdominal de inicio insidioso hoy por la tarde junto a distension abdominal y clinica nauseosa acompa√±ante.
+proces actual paciente varon de 85 aÒos que acude a urgencias por dolor abdominal de inicio insidioso hoy por la tarde junto a distension abdominal y clinica nauseosa acompaÒante.
 niega fiebre.
 refiere nauseas con vomitos.
-refiere de forma habitual habito intestinal con tendencia al estre√±imiento (tras radioterapia), sin productos patologicos.
+refiere de forma habitual habito intestinal con tendencia al estreÒimiento (tras radioterapia), sin productos patologicos.
 niega clinica miccional.
 niega otra sintomatologia.
 refiere perdida de 6 kg en un mes y anorexia.
-exploracio fisica fc 57 bpm t¬™axi 36.
-5 ¬∫c fr 16 rpm t¬™rec ¬∫c ta s 125 mmhg sat o2 95 % ta d 66 mmhg pes kg exploracion fisica en urgencias beg.
+exploracio fisica fc 57 bpm t™axi 36.
+5 ∫c fr 16 rpm t™rec ∫c ta s 125 mmhg sat o2 95 % ta d 66 mmhg pes kg exploracion fisica en urgencias beg.
 hdme.
 afebril.
 consciente y orientado.
@@ -34,19 +34,19 @@ no se palpan masas ni megalias.
 se palpa hernia inguinal bilateral al valsalva.
 resto de orificos herniarios libres.
 pplb negativa.
-bluberg nhc ** *** *** (********) age-v-onc 1/7 lopd negativo, rovsing positivo, murphy dudoso, psoas negativo, obturador negativo exploracion fisica en planta de medicina interna pa: 115/64 mmhg; fc: 61 lpm; spo2: 95% (aa); t: 35.7¬∫c fr: 14 rpm estado general conservado.
+bluberg nhc ** *** *** (********) age-v-onc 1/7 lopd negativo, rovsing positivo, murphy dudoso, psoas negativo, obturador negativo exploracion fisica en planta de medicina interna pa: 115/64 mmhg; fc: 61 lpm; spo2: 95% (aa); t: 35.7∫c fr: 14 rpm estado general conservado.
 normocoloreado, normohidratado, normoperfundido exploracion cardiovascular: ruidos cardiacos ritmicos, sin soplos ni roce.
 no ingurgitacion yugular.
 no reflejo hepatoyugular.
 no edemas en miembros inferiores.
-relleno capilar &lt;2‚Äù.
+relleno capilar &lt;2î.
 exploracion respiratoria: eupneico.
-murmullo vesicular conservado sin ruidos sobrea√±adidos.
+murmullo vesicular conservado sin ruidos sobreaÒadidos.
 exploracion abdominal: abdomen blando, doloroso a la palpacion profunda en zona inguinal derecha en que se palpa hernia inguinal conocida.
 no signos de peritonismo.
 no masas ni visceromegalias apreciables a la palpacion.
 peristaltismo conservado.
-pu√±opercusion bilateral negativa.
+puÒopercusion bilateral negativa.
 exploracion neurologica: consciente y orientado en tiempo, persona y espacio.
 no rigidez de nuca ni focalidad neurologica aguda.
 no flapping.
@@ -63,7 +63,7 @@ sin signos de redistribucion.
 no imagenes compatibles con condensaciones.
 - rx de abdomen : asas intestinales dilatadas hacia hemiabdomen derecho.
 - ecg : ritmo sinusal a 60lpm.
-eje de 30¬∫.
+eje de 30∫.
 pr de 0.12 seg.
 qrs estrecho.
 sin alteraciones en la repolarizacion.
@@ -75,16 +75,16 @@ parenquima hepatico homogeneo, con granuloma calcificado en lhi . via biliar no 
 vesicula biliar sin aparente contenido.
 pancreas y adrenal derecha sin alteraciones.
 adrenal izquierda globulosa.
-bazo homogeneo, de tama√±o normal.
+bazo homogeneo, de tamaÒo normal.
 confluente esplenoportal permeable.
-ri√±ones con nefrograma bilateral simetrico.
+riÒones con nefrograma bilateral simetrico.
 via excretora no dilatada.
 quistes corticales bilaterales.
 engrosamiento mural en la pared anterolateral derecha de la vejiga urinaria que ocupa a 3 cm de longitud circunferencial y tiene 9 mm de espesor, con reticulacion de la grasa perivesical adyacente en relacion a neoplasia vesical primaria en estadio t3.
 marcada nodularidad y reticulacion de la grasa omental y sobre peritoneos, sobre todo en omento mayor y sao menor, compatible con carcinomatosis peritoneal . dilataciones segmentarias de las asas de intestino delgado secundarias a focos de engrosamiento mural que son sospechosos de implantes.
 marco colico sin engrosamientos murales.
 ausencia de adenopatias en el compartimento infradiafragmatico.
-peque√±a cantidad de liquido libre perihepatico, periesplenico, entre las asas y en pelvis.
+pequeÒa cantidad de liquido libre perihepatico, periesplenico, entre las asas y en pelvis.
 discreta ateromatosis aortoiliaca . marco oseo con acusados cambios degenerativios osteodiscales.
 conclusion: engrosamiento mural de la pared anterolateral derecha de la vejiga con extension extramural (estadio t3).
 sin afectacion adenopatica retroperitoneal.
@@ -110,11 +110,11 @@ nhc ** *** *** (********) age-v-onc 2/7 lopd exploraciones complementarias en pl
 4%, gamma: 20.
 2 %, componenente monoclonal: 0.80.
 iga: 211, igg: 1132, igm: 43 banda monoclonal.
-componente monoclonal igg lambda, iga kappa (peque√±o dentor de la fraccion beta.
+componente monoclonal igg lambda, iga kappa (pequeÒo dentor de la fraccion beta.
 se recomienda repetir estudio en 6 meses ante igg&lt;1500mg/dl.
-- ecografia abdominal . ri√±ones de tama√±o, forma y ecoestructura normal.
+- ecografia abdominal . riÒones de tamaÒo, forma y ecoestructura normal.
 discreto adelgazamiento cortical senil.
-quistes corticales simples bilaterales de predominio en ri√±on izquierdo.
+quistes corticales simples bilaterales de predominio en riÒon izquierdo.
 no hay dilatacion de vias urinarias.
 vejiga parcialmente replecionada, con engrosamiento mural anterior conocido.
 prostata sin impronta en suelo vesical, peso aprox.
@@ -125,18 +125,18 @@ marcada reticulacion de la grasa intrabdominal, con confluencia nodular y de car
 destacamos que uno de ellos muestra contacto / infiltracion con piloro gastrico (de dificil valoracion en tc sin contraste).
 disminucion del liquido libre intrabdominal actualmente perihepatico y en pelvis menor.
 captacion focal en ciego (suvmax 14), sin claro engrosamiento mural asociado, que no permite descartar segundo primario (podria ser tambien un implante).
-nodulos suprarrenales hipermetabolico bilaterales, siendo el izquierdo el de mayor tama√±o y actividad (suvmax 7 / 13x12mm) en probable relacion con andenomes suprarrenales.
+nodulos suprarrenales hipermetabolico bilaterales, siendo el izquierdo el de mayor tamaÒo y actividad (suvmax 7 / 13x12mm) en probable relacion con andenomes suprarrenales.
 nodulo pulmonar de 6 mm en segmento apical de lid con discreta actividad metabolica asociada (suvmax 2.
 6), que muestra minimo crecimiento respecto tc previo (donde presentaba una morfologia mas triangular).
 posiblemente se trate de un ganglio intraparenquimatoso, a valorar evolutivamente.
-en el resto del parenquima pulmonar se observan otros nodulos de menor tama√±o y sin captacion del radiofarmaco (se deben considerar no caracterizavles por su peque√±o tama√±o) e inespecificos.
+en el resto del parenquima pulmonar se observan otros nodulos de menor tamaÒo y sin captacion del radiofarmaco (se deben considerar no caracterizavles por su pequeÒo tamaÒo) e inespecificos.
 fisiologica distribucion de la fdg para la esfera orl, sin asimetrias ni focos hipermetabolico sospechosos.
 ausencia de derrame pleural ni pericardico.
-peque√±a placa pleural calcificada izquierdo.
+pequeÒa placa pleural calcificada izquierdo.
 no se observan adenopatias hipermetaboliques sospechosas de malignidad a region laterocervical, fosas supraclaviculares, region axilar bilateral ni territorio hiliomediastinic.
 signos metabolicos de esofagitis . higado con distribucion homogenea del radiofarmaco y sin alteraciones morfometaboliques sospechosas de malignidad.
 quiste renales izquierdos.
-no se observan ganglios aumentados de tama√±o ni con captacion significativa de la 18f-fdg en el resto de territorios ganglionares infradiafragmatica.
+no se observan ganglios aumentados de tamaÒo ni con captacion significativa de la 18f-fdg en el resto de territorios ganglionares infradiafragmatica.
 marco oseo sin lesiones hipermetaboliques focales sospechosas de malignidad.
 cambios artrodegnerativos en columna vertebral.
 ateromatosis calcificada coronaria y aortoiliaca.
@@ -159,10 +159,10 @@ se toman biopsias.
 segunda porcion duodenal normal.
 procedimientos biopsias duodenales . -anatomia patologica duodenal: pendiente.
 - fibrocolonoscopia : se explora la totalidad del colon hasta fondo de saco cecal, visualizando foramen apendicular y valvula ileocecal, sin hallazgos patologicos, a excepcion de yelangiectasias aisladas en recto compatible con antecedente de proctitis radica.
-hemorroides internas de peque√±o tama√±o.
+hemorroides internas de pequeÒo tamaÒo.
 moderados restos fecales liquidos.
 procedimentos:no se realiza ningun procedimiento.
-- gammagrafia con receptores de somatostatina: s'han obtingut imatges de cos sencer i spet-ct abdominal a l'hora i rastreig a les 4 hores de la injeccio del radiotra√ßador.
+- gammagrafia con receptores de somatostatina: s'han obtingut imatges de cos sencer i spet-ct abdominal a l'hora i rastreig a les 4 hores de la injeccio del radiotraÁador.
 les imatges tomografiques gammagrafiques s'han fusionat amb el ct.
 en els rastreijos s'aprecia una distribucio fisiologica del radiofarmac, sense que s'observin lesions hipercaptants patologiques.
 en concret la zona duodenal que al pet-ct presenta hipermetabolisme glicidic no mostra hiperactivitat amb l'octreotide.
@@ -224,7 +224,7 @@ se comenta con guardia de urologia, quienes valoran al paciente y dada la distri
 ajuste de tratamiento por oncologo en paciente subocluido por carcinomatosis y revaloracion por cirugia si evolucion del cuadro a abdomen agudo.
 familiar (hija) informada de situacion de gravedad de su padre, partidaria de evitar actos terapeuticos agresivos.
 de forma inicial se coloca sng en aspiracion con progresiva descenso del debito y mejoria clinica significativa realizando de forma poterior el paciente deposicion tras resolucion.
-de forma posterior se retira el paciente sng por error, por lo que ante el escasoi debito y la resolucion clinica de la oclusion decide no recolocarse con la intencion de iniciar durnate el dia de ma√±ana tolerancia a liquidos.
+de forma posterior se retira el paciente sng por error, por lo que ante el escasoi debito y la resolucion clinica de la oclusion decide no recolocarse con la intencion de iniciar durnate el dia de maÒana tolerancia a liquidos.
 finalmente se decide ingreso hospitalaria para estudio dirgido.
 nhc ** *** *** (********) age-v-onc 5/7 lopd a su llegada a planta de medicina interna el pacinete se encuentra hemodinamicamente estable, refiriendo discreto dolor en zona inguinal derecha, negando hematuria, disnea, dolor toracico u otra sintomatologia.
 en la exploracion fisica unicamente destaca la presencia de hernia inguinal conocida.

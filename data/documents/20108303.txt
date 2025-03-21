@@ -1,5 +1,5 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 29.03.1934 edat: 85 anys procedencia domicil/res.
-soc servei hematologia i data d'ingres 15.07.2019 data d'alta 17.07.2019 16:57:38 ates per equipo dr ********** / dra ****** informe d'alta d'hospitalitzacio motiu d'ingres varon de 85 aÃ±os que ingresa de forma programada para control slt por tratamiento con venetoclax.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 29.03.1934 edat: 85 anys procedencia domicil/res.
+soc servei hematologia i data d'ingres 15.07.2019 data d'alta 17.07.2019 16:57:38 ates per equipo dr ********** / dra ****** informe d'alta d'hospitalitzacio motiu d'ingres varon de 85 años que ingresa de forma programada para control slt por tratamiento con venetoclax.
 antecedents antecedentes personales: - no refiere alergias a medicamentos conocidas.
 antecedentes patologicos: - hipertensio arterial en tratamiento farmacologico.
 - hemorragia intraparenquimatosa de ganglios basales izquierdos de probable etiologia hipertensiva en 2011.
@@ -11,7 +11,7 @@ historia hematologica: - leucemia linfatica cronica estadio c3 refractario a 2l 
 cg n.
 emr 21.
 9% (05/2019) *pet-tc (01/07/2019): impresion diagnostica: estudio pet/tc que muestra la presencia multiples adenopatias supra e infradiafragmaticos crecimiento respecto controles tc previos, todas con un discreto hipermetabolismo no sugestivo de transformacion (no disponemos de estudios metabolicos previos conlos que comparar).
-*ap (05/2019): ganglio linfatico de arquitectura borrada por proliferacion difusa de celulas de tamaÃ±o intermedio que en algunas zonas constituyen centros de proliferacion, algunas de ellas de gran tamaÃ±o.
+*ap (05/2019): ganglio linfatico de arquitectura borrada por proliferacion difusa de celulas de tamaño intermedio que en algunas zonas constituyen centros de proliferacion, algunas de ellas de gran tamaño.
 llama la atencion lapresencia de zonas donde las celulas adquieren un aspecto prolinfocitico y de disposicion mas difusa, sin observarse areas que morfologicamente sugieran transformacion a un linfoma difuso de celulas grandes.
 inmunohistoquimicamente la celularidad es homogeneamente positiva para cd20, cd5, cd23 y bcl2, siendo negativa para cd3, cd10, bcl6 y p53.
 se observa sobreexpresion de mum-1 y c-myc en algunos centros de proliferacion.

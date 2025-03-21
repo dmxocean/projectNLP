@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 10.10.1989 edat: 29 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 10.10.1989 edat: 29 anys procedencia domicil/res.
 soc servei obstetricia data d'ingres 18.09.2019 data d'alta 20.09.2019 10:34:38 ates per ***********, *********** informe d'alta d'hospitalitzacio motiu d'ingres teball de part exploracio fisica sensacion de dinamica uterina.
 antecedentes -no alergias medicamentosas conocidas -no antecedentes familiares de interes -no antecedentes patologicos -no intervenciones quirurgicas -niega habitos toxicos -no medicacion habitual -nacionalidad: brasil -peso inicial: 54 kg peso final: 70kg talla: 157cm -edad: 30 -tpal: 0000 - fur: 25/12/2018 - sg: 38 .2 -antecedentes obstetricos: no - grupo a+ resumen gestacional control en cap y/o dog sin incidencias.
 -analiticas: 3er trimestre: hemoglobina: 12.
@@ -7,9 +7,9 @@ antecedentes -no alergias medicamentosas conocidas -no antecedentes familiares d
 4 s -triple screening: bajo riesgo.
 -serologias: negativas para vih, vhb, vhc, lues, chagas y toxoplamosis.
 rubeola inmune.
--oÂ´sullivan: 164mg/dl ttog: normal -urocultivo: negativog -cultivo vaginal/rectal: negativo fecha de realizacion: 04/09/2019 -ecografia 3er trimestre: presentacion: cef peso fetal estimado: 1950gr , liquido amniotico normal, doppler normal, insercion placentaria: anterior, cordon tres vasos.
+-o´sullivan: 164mg/dl ttog: normal -urocultivo: negativog -cultivo vaginal/rectal: negativo fecha de realizacion: 04/09/2019 -ecografia 3er trimestre: presentacion: cef peso fetal estimado: 1950gr , liquido amniotico normal, doppler normal, insercion placentaria: anterior, cordon tres vasos.
 a las 36.6sg exploracion fisica -buen estado general, consciente y orientada, normohidratada y normocoloreada.
--constantes al ingreso: ta: 110/60mmhg fc: 70 lxÂ´ temp: 36Âºc -abdomen: gravido, acorde con semanas de gestacion, no hipertono, no hipersensibilidad.
+-constantes al ingreso: ta: 110/60mmhg fc: 70 lx´ temp: 36ºc -abdomen: gravido, acorde con semanas de gestacion, no hipertono, no hipersensibilidad.
 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/3 lopd -latido fetal con sonicaid: + -no metrorragia, no hidrorrea.
 -tv al ingreso: cx centrado, borrado, 4 cm dilatacion, cef ins.
 bai orientacion diagnostica: -trabajo de parto plan: ingreso en partos por trabajo de parto : -aporta plan de parto -desea analgesia peridural -desea piel con piel -desea lactancia materna evolucio clinica parto eutocico a las 08:15 horas el dia 18/09/2019.
@@ -39,7 +39,7 @@ paracetamol 1gr cada 8 horas si precisa para el dolor.
 abundante ingesta de liquidos y comida variada y equilibrada.
 lavado diario del perine con agua y jabon neutro.
 mantenerlo bien seco con ayuda de una compresa o toalla.
-no realizar inmersion en baÃ±era, piscina o mar hasta finalizado el puerperio.
+no realizar inmersion en bañera, piscina o mar hasta finalizado el puerperio.
 vida normal con actividad fisica leve/moderada.
 evitar coger peso y ejercicios de alto impacto.
 si presenta congestion de las mamas dar un masaje antes de las tomas.

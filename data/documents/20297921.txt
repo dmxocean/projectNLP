@@ -1,11 +1,11 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 22.04.1951 edat: 68 anys procedencia cex mateix hosp servei cirurgia genoll data d'ingres 01.10.2019 data d'alta 07.10.2019 10:46:14 ates per ************, ******; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents al.
-lergies sense alÂ·lergies conegudes antecedents patologic 06.2008 : hipotiroÃ¯disme inespecificat.
-primari o nos: hipotiroÃ¯disme, mixedema proces actual paciente que ingresa de forma programada para iq rodilla exploracio complementaria no contraindican la cirugia evolucio clinica el dia 1-10-19 la paciente es intervenida de recambio protesico (retirada puc) e implantacion de ptr attune de revision (attune de revision con vainas: femur 6, tibia 4 vainas 45, poli 14mm, patela 32mm.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 22.04.1951 edat: 68 anys procedencia cex mateix hosp servei cirurgia genoll data d'ingres 01.10.2019 data d'alta 07.10.2019 10:46:14 ates per ************, ******; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents al.
+lergies sense al·lergies conegudes antecedents patologic 06.2008 : hipotiroïdisme inespecificat.
+primari o nos: hipotiroïdisme, mixedema proces actual paciente que ingresa de forma programada para iq rodilla exploracio complementaria no contraindican la cirugia evolucio clinica el dia 1-10-19 la paciente es intervenida de recambio protesico (retirada puc) e implantacion de ptr attune de revision (attune de revision con vainas: femur 6, tibia 4 vainas 45, poli 14mm, patela 32mm.
 ) por los dres *****, *******, ******, ***** sin incidencias intraoperatorias.
 durante el postoperatorio se encuentra hemodinamicamente estable y con buen control del dolor.
 los cultivos se mantienen negativos durante el ingreso.
 precisa la transfusion de 2 cchh , con buena respuesta clinica y analitica.
-en planta se mantiene hemodinamicamente estable, sin complicaciones aÃ±adidas.
+en planta se mantiene hemodinamicamente estable, sin complicaciones añadidas.
 controles analiticos y radiologicos sin alteraciones destacables.
 herida quirurgica con buena evolucion.
 realiza rehabilitacion bien tolerada, segun protocolo.
@@ -13,6 +13,6 @@ diuresis y deposiciones conservadas, dieta bien tolerada.
 debido a la buena evolucion clinica y local del paciente se decide el alta hospitalario bajo las siguientes indicaciones.
 orientacio diagnostica m17.
 9 artrosi de genoll no especificada procediments 04.81 injeccio en el nervi periferic d'anestesic per a analgesia 03.91 injeccio en el conducte raquidi d'anestesic per a analgesia nhc ** *** *** &nbsp;(********) &nbsp;atr-v-cgn 1/2 lopd 99.29 injeccio o infusio d'altra substancia terapeutica o profilactica 00.80 revisio total de l'artroplastia de genoll (totes les peces) tractament i recomanacions a l'alta reposo relativo deambulacion asistida con muletas o caminador mantener fisioterapia.
-aplicar frio local (15min x 3-4 veces al dia) paracetamol 1g/8h (aÃ±adir nolotil 575mg/8h si persiste el dolor) tramadol 50mg/12h si persiste dolor con previo clexane 40mg/24h durante 30 dias cura a los 7 dias en ambulatorio con aquacel + opsite retirar sutura en 15 dias po control control por cex segun hoja adjunta.
+aplicar frio local (15min x 3-4 veces al dia) paracetamol 1g/8h (añadir nolotil 575mg/8h si persiste el dolor) tramadol 50mg/12h si persiste dolor con previo clexane 40mg/24h durante 30 dias cura a los 7 dias en ambulatorio con aquacel + opsite retirar sutura en 15 dias po control control por cex segun hoja adjunta.
 si signos de alarma, reconsultar en urgencias.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;atr-v-cgn 2/2 lopd

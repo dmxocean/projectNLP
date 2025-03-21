@@ -1,5 +1,5 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 07.03.1930 edat: 88 anys procedencia domicil/res.
-soc servei traumatics data d'ingres 23.06.2018 data d'alta 03.07.2018 08:39:45 ates per ********, ***************; ************, ************; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres fx persubtrocantera femur i antecedents neoplasia de colon hace 13 aÃ±os hiperplasia benigna de prostata situacion sociofuncional: - vive en domicilio con apoyo familiar en la comunidad - deambulacion previa sin ayuda - idependiente abvd exploracio fisica parrilla costal: - no tumefaccion ni hematoma evidentes.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 07.03.1930 edat: 88 anys procedencia domicil/res.
+soc servei traumatics data d'ingres 23.06.2018 data d'alta 03.07.2018 08:39:45 ates per ********, ***************; ************, ************; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres fx persubtrocantera femur i antecedents neoplasia de colon hace 13 años hiperplasia benigna de prostata situacion sociofuncional: - vive en domicilio con apoyo familiar en la comunidad - deambulacion previa sin ayuda - idependiente abvd exploracio fisica parrilla costal: - no tumefaccion ni hematoma evidentes.
 - no dificultad respiratoria.
 saturacion 95%.
 - dolor a la palpacion pared anterior torax izquierdo - nvd conservado cadera izquierda: - no tumefaccion ni hematoma - dolor e impotencia funcional - extremidad inferior derecha acortada y en rotacion externa - nvd conservado exploracio complementaria radiografia: fractura persubtrocanterea de femur izquierdo evolucio clinica el dia 26.06.18 el paciente se interviene realizandose una reduccion abierta y fijacion interna de fractura persubtrocanterica de femur izquierdo mediante clavo endomedular trigen intertan + cerclaje tipo supercable sin incidencias intraoperatorias.
@@ -17,7 +17,7 @@ no amc.
 consum d'un got de vit al dia.
 no altres ht.
 antecedents: 1) desconeix hta , dl , dm2 . 2) no cardiopatia o pneumopatia coneguda.
-3) adenocarcinoma de colon tractat amb sigmoidectomia el juliol 2004 i amb qt adjuvtant dins assaig clinia ec-no 16968 (mayo vs xelox), braÃ§ mayo.
+3) adenocarcinoma de colon tractat amb sigmoidectomia el juliol 2004 i amb qt adjuvtant dins assaig clinia ec-no 16968 (mayo vs xelox), braç mayo.
 4) rao en multiples ocasions pel que ha estat fent seguiment per uro.
 al tacte rectal fa 5 anys destacava una prostata congestiva pero tova.
 s'inicia avidart que mante en l'actualitat.
@@ -39,7 +39,7 @@ no signes d'icd/e.
 abdomen tou, no doloros.
 no palpo masses ni megalies.
 no peritonisme.
-ecg: rs a 60bpm, pr normal constant, qrs estret amb eix +15Âº i amb r=s en v3.
+ecg: rs a 60bpm, pr normal constant, qrs estret amb eix +15º i amb r=s en v3.
 ona t aplanada en v4-v6 agu: hto 47.
 8% plaqu 175000.
 coagulacio normal.
@@ -65,6 +65,6 @@ ha remes.
 proposta de tractament a l'alta: iniciar: ferogradumet 1c/d x 8 setmanes.
 hidroferol 266mcg, 1amp/4 setmanes.
 resta de tractament sense canvis: dutasterida 0.5mg/d.
-dada la correcta evolucion se decide alta hospitalaria con las siguientes indicaciones: orientacio diagnostica s72.142s fractura intertrocanteriana desplaÃ§ada, femur esquerre, s procediments 89.08 altra consulta 79.15 reduccio tancada de fractura amb fixacio interna, femur nhc ** *** *** (********) atr-v-tra 2/3 lopd tractament i recomanacions a l'alta clexane 40mg/24h sc durante 30 dias paracetamol 1gr/8h vo alterno con nolotil 575mg/8h vo continuar medicacion domiciliaria habitual cura cada 48-72h de herida quirurgica con betadine retirar puntos de sutura a los 15 dias de la intervencion en cap de zona deambulacion con ayuda de caminador control control en cex tra r.
+dada la correcta evolucion se decide alta hospitalaria con las siguientes indicaciones: orientacio diagnostica s72.142s fractura intertrocanteriana desplaçada, femur esquerre, s procediments 89.08 altra consulta 79.15 reduccio tancada de fractura amb fixacio interna, femur nhc ** *** *** (********) atr-v-tra 2/3 lopd tractament i recomanacions a l'alta clexane 40mg/24h sc durante 30 dias paracetamol 1gr/8h vo alterno con nolotil 575mg/8h vo continuar medicacion domiciliaria habitual cura cada 48-72h de herida quirurgica con betadine retirar puntos de sutura a los 15 dias de la intervencion en cap de zona deambulacion con ayuda de caminador control control en cex tra r.
 eq.
 dr. ****** segun hoja adjunta acudir a urgenciasi si complicaciones destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-tra 3/3 lopd

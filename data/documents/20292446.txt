@@ -1,28 +1,28 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 22.11.1958 edat: 60 anys procedencia domicil/res.
-soc servei urologia data d'ingres 21.09.2019 data d'alta 27.09.2019 09:00:34 ates per *****************, ******; ***************, ****; *************, *****; *****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres fiebre en postoperatorio de ureterorrenscopia antecedents no alergias medicamentosas conocidas no habitos toxicos antecedentes patologicos: lorametazepam para conciliar sueÃ±o iq: tumorectomia de mama derecha a los 27 aÃ±os.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 22.11.1958 edat: 60 anys procedencia domicil/res.
+soc servei urologia data d'ingres 21.09.2019 data d'alta 27.09.2019 09:00:34 ates per *****************, ******; ***************, ****; *************, *****; *****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres fiebre en postoperatorio de ureterorrenscopia antecedents no alergias medicamentosas conocidas no habitos toxicos antecedentes patologicos: lorametazepam para conciliar sueño iq: tumorectomia de mama derecha a los 27 años.
 iq 16/9/2019: ureteroscopia semirrigida derecha evidenciando litiasis de unos 15mm a nivel ureteral de l2-l3.
 se realiza litofragmentacion completa con extraccion de fragmentos a vejiga.
 sin incidencias.
 se coloca cateter doble j.
 cultivo al ingreso: proteus mirabillis multisensible.
 riesgo tromboembolico: bajo.
-proces actual paciente mujer de 60 aÃ±os con antecedentes de ureterorrenoscopia derecha con litofragmentacion de litiasis (se dejo doble j) el pasado miercoles 16/9 acude a urgencias por dolor lumbar derecho y epigastrico que no cede con paracetamol, acompaÃ±ado de nauseas sin llegar a vomitar.
-se ha acompaÃ±ado de fiebre superior a 38.8Âºc en domicilio con tiritonas.
+proces actual paciente mujer de 60 años con antecedentes de ureterorrenoscopia derecha con litofragmentacion de litiasis (se dejo doble j) el pasado miercoles 16/9 acude a urgencias por dolor lumbar derecho y epigastrico que no cede con paracetamol, acompañado de nauseas sin llegar a vomitar.
+se ha acompañado de fiebre superior a 38.8ºc en domicilio con tiritonas.
 ha tomado 2 dosis de ciprofloxacino en domicilio administradas por su conyugue (es medico).
 exploracio fisica fiebre, hemodinamcamente estable.
 regular estado general.
 abdomen blando, depresible, dolor epigastrico con defensa.
-molestias lumbares derechas irradiadas a hemiabdomen ipsilateral con puÃ±o percusion negativa.
-exploracio complementaria ecografia abdominal urgente 21/9/19: higado de tamaÃ±o conservado, bordes lisos y parenquima homogeneo, sin lesiones focales.
+molestias lumbares derechas irradiadas a hemiabdomen ipsilateral con puño percusion negativa.
+exploracio complementaria ecografia abdominal urgente 21/9/19: higado de tamaño conservado, bordes lisos y parenquima homogeneo, sin lesiones focales.
 via biliar intra y extrahepatica sin dilatacion (coledoco de 5 mm), vesicula biliar distendida de 9x4 cm de paredes lisas, sin imagenes sugestivas de litiasis ni barro.
 vena porta permeable con flujo hepatopetal, venas suprahepaticas permeables.
 pancreas visualizado parcialmente, sin lesiones.
-riÃ±on derecho de tamaÃ±o y grosor cortical conservado, con dialtacion pielo ureteral con cateter doble j con extremos en pelvis renal y vejiga.
-riÃ±on izquierdo de tamaÃ±o, morfologia y grosor cortical conservado, sin dilatacion de via excretora.
-bazo de tamaÃ±o conservado, parenquima homogeneo, sin lesiones focales.
+riñon derecho de tamaño y grosor cortical conservado, con dialtacion pielo ureteral con cateter doble j con extremos en pelvis renal y vejiga.
+riñon izquierdo de tamaño, morfologia y grosor cortical conservado, sin dilatacion de via excretora.
+bazo de tamaño conservado, parenquima homogeneo, sin lesiones focales.
 vejiga distendida sin hallazgos valorables.
 sin liquido libre en pelvis.
-nhc ** *** *** &nbsp;(********) &nbsp;age-v-uro 1/2 lopd conclusion: riÃ±on derecho de tamaÃ±o y grosor cortical conservado, con dialtacion pielo ureteral y cateter doble j normoposicionado.
+nhc ** *** *** &nbsp;(********) &nbsp;age-v-uro 1/2 lopd conclusion: riñon derecho de tamaño y grosor cortical conservado, con dialtacion pielo ureteral y cateter doble j normoposicionado.
 vesicula biliar alitiasica sin signos de colecistitis aguda ni dilatacion de la via biliar.
 evolucio clinica ingresa para tratamiento de infeccion urinaria post procedimental . durante su estancia en planta de hospitalizacion la paciente se mantiene afebril, hemodinamicamente estable y con buen estado general.
 hemocultivo y urocultivos negativos por lo que se decide desescalar antibioterapia.
@@ -32,5 +32,5 @@ dada la buena evolucion se decide librar alta a domicilio.
 orientacio diagnostica r50.82 febre postprocedimental tractament i recomanacions a l'alta abundante ingesta de agua (2 l diarios) si presenta dolor: paracetamol 1 gr cada 8 horas.
 ciprofloxacino 1 comprimido cada 12 horas durante 14 dias.
 acuda a visita con dr ******** segun programacion.
-si presenta fiebre superior a 38Âºc o empeoramiento de su estado general acuda a urgencias.
+si presenta fiebre superior a 38ºc o empeoramiento de su estado general acuda a urgencias.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;age-v-uro 2/2 lopd

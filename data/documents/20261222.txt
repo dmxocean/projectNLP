@@ -1,27 +1,27 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 19.09.2011 edat: 7 anys procedencia domicil/res.
-soc servei medicina pediatrica data d'ingres 11.09.2019 data d'alta 16.09.2019 13:51:41 ates per **********, *******; ************, ********; ****************, *******; ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 7 aÃ±os que ingresa el dia 11/08 por otorrea persistente.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 19.09.2011 edat: 7 anys procedencia domicil/res.
+soc servei medicina pediatrica data d'ingres 11.09.2019 data d'alta 16.09.2019 13:51:41 ates per **********, *******; ************, ********; ****************, *******; ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 7 años que ingresa el dia 11/08 por otorrea persistente.
 antecedents alergia a betalactamicos (no aportan informes) alergia a lacticos.
 antecedentes patologicos: - dermatitis atopica . - intervenido de drenajes oticos varias veces.
 pendiente de timpanoplastia por perforacion timpanica.
 lleva audifono por perdida de audicion.
 pruebas de diagnostico neonatal normal.
 - reflujo gastroesofagico dado de alta por dr. segarra.
-- controlado en cardiologia por foramen oval permeable . - bronquitis aguda de repeticion desde los dos aÃ±os de edad en tratamiento farmacologico y seguimiento por neumologia (ultima visita en septiembre/2019).
+- controlado en cardiologia por foramen oval permeable . - bronquitis aguda de repeticion desde los dos años de edad en tratamiento farmacologico y seguimiento por neumologia (ultima visita en septiembre/2019).
 ha realizado tratamiento con inmunitario.
-* tac pulmonar 15/01/2019: normal (pequeÃ±a calcificacion en mediastino posterior).
+* tac pulmonar 15/01/2019: normal (pequeña calcificacion en mediastino posterior).
 * espirometria 10/07/2019: fvc 2,12 l (103,3%), fev1 2,03 l (118%), fev1/fvc 96%, fef25-75% 2,99 l/s (135%) - otitis externa en 09/2019.
 * cultivo exudado otrico 2/09/2019 positivo a pseudomonas aeuroginosa, sensible a todos los antibioticos antipseudomonas; tratamiento con cetraxal.
-medicacio habitual foster 200/6: 2 inhalaciones por las maÃ±anas y 2 inhalaciones por la noche.
+medicacio habitual foster 200/6: 2 inhalaciones por las mañanas y 2 inhalaciones por la noche.
 xolair 150 mg/mes.
 singulair 5 mg: un comprimido al dia en caso de tos intensa, pitos, ahogo: ventolin inhalado 2-4 pulsaciones cada 3-4-6-8-12 horas segun precise en caso de mucosidad, congestion nasal.
-ebastel flas 10 mg/ 24 horas antes del deporte ventolin 3 pulsaciones proces actual paciente de 7 aÃ±os con los antecedentes previamente citados que es traido a urgencias por cuadro clinico de un mes de duracion consistente en otorrea purulenta en oido izquierdo y fiebre (de maximo 39Âºc, unas 3 veces a la semana) ultimo pico febril domingo.
+ebastel flas 10 mg/ 24 horas antes del deporte ventolin 3 pulsaciones proces actual paciente de 7 años con los antecedentes previamente citados que es traido a urgencias por cuadro clinico de un mes de duracion consistente en otorrea purulenta en oido izquierdo y fiebre (de maximo 39ºc, unas 3 veces a la semana) ultimo pico febril domingo.
 ha recibido multiples tratamientos antibioticos (10 dias de cefixima vo, 5 dias de cefuroxima vo y 5 dias de cetriaxona intramuscular) y con ciprofloxacino topico sin apreciar mejoria clinica.
 aportan cultivo de supuracion espontanea que crece pseudomonas auriginosa sensible a ciprofloxacino.
 paralelamente, inicia clinica respiratoria consistente en tos la ultima semana requiriendo tratamiento con salbutamol de rescate cada 2 horas.
-no refieren otra sintomatologia sobreaÃ±adida: no vomitos, no diarrea, no somnolencia, no mal estado general.
+no refieren otra sintomatologia sobreañadida: no vomitos, no diarrea, no somnolencia, no mal estado general.
 la madre refiere mayor fatiga y menor apetito este ultimo mes.
-nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 1/3 lopd exploracio fisica fc 97 bpm tÂªaxi 35.
-9 Âºc fr rpm tÂªrec Âºc ta s mmhg sat o2 97.00 % ta d mmhg pes 29.200 kg triangulo de evaluacion pediatrica: estable.
+nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 1/3 lopd exploracio fisica fc 97 bpm tªaxi 35.
+9 ºc fr rpm tªrec ºc ta s mmhg sat o2 97.00 % ta d mmhg pes 29.200 kg triangulo de evaluacion pediatrica: estable.
 buen estado general.
 normocoloreado.
 normohidratado.
@@ -33,7 +33,7 @@ orl: orofaringe levemente hiperemica, sin hipertrofia amigdalar ni exudados.
 otoscopia derecha normal, sin otorrea.
 otoscopia izquierda con otorrea purulenta abundante que impide visualizacion de timpano.
 refiere leve dolor a la presion en trago, sin dolor a la movilizacion del pavellon auricular.
-aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreaÃ±adidos.
+aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
 espiracion normal.
 aparato cardiocirculatorio: tonos ritmicos, no ausculto soplos, pulsos perifericos presentes y simetricos.
 perfusion distal conservada.
@@ -67,7 +67,7 @@ exploracio complementaria analisis sanguineos - a su llegada a urgencias (11/09)
 5 %, can 2.
 3 x10e9/l, cal 2.
 7 x10e9/l, plaquetas 243 x10e9/l, calcidiol 38,5ng/ml, iga 282 mg/dl, igg 1082mg/dl, igm 46 mg/dl.
-evolucio clinica paciente de 7 aÃ±os que ingresa en la unidad de hospitalizacion pediatrica el dia 11/09 bajo control clinico y de constantes habituales.
+evolucio clinica paciente de 7 años que ingresa en la unidad de hospitalizacion pediatrica el dia 11/09 bajo control clinico y de constantes habituales.
 en urgencias se cursan analitica, se permeabiliza via periferica y se administra primera dosis de antibiotico endovenoso con cefuroxima 150 mg/kg/dia.
 ingresa en unidad de hospitalizacion donde continuamos antibioticoterapia endovenosa por 5 dias y tobramicina-dexamentasona topica con mejora progresiva.
 se realiza aspirado de secreciones oticas el 13.09, sin incidencias.
@@ -76,7 +76,7 @@ nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 2/3 lopd durante hospitalizacion
 orientacio diagnostica h92.12 otorrea, orella esquerra h66.3x2 altres tipus d'otitis mitjana supurativa cronica, orella esquerra procediments canalizacion de via periferica.
 extraccion de sangre.
 tractament i recomanacions a l'alta - administrar tobramicina/dexametasona gotas oticas: 3 gotas cada 8 horas.
-- reconsultar en caso de: reaparicion de fiebre (&gt;38Âºc) de forma persistente, cambio en el color o olor de la suporacion o mal estado general.
+- reconsultar en caso de: reaparicion de fiebre (&gt;38ºc) de forma persistente, cambio en el color o olor de la suporacion o mal estado general.
 control control con pediatra habitual.
 acudir a cex de orl el dia 19.09.19, 13:30h (hospital general annexo planta 1).
 acudir a control en cex de immunodeficiencias segun citacion.

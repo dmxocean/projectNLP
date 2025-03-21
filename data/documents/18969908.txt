@@ -1,9 +1,9 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 17.04.1964 edat: 54 anys procedencia cex mateix hosp servei cirurgia plastica i data d'ingres 05.07.2018 data d'alta 06.07.2018 09:08:35 ates per ************, ***********; ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 54 aÃ±os que ingresa de forma programada para cirugia.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 17.04.1964 edat: 54 anys procedencia cex mateix hosp servei cirurgia plastica i data d'ingres 05.07.2018 data d'alta 06.07.2018 09:08:35 ates per ************, ***********; ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 54 años que ingresa de forma programada para cirugia.
 antecedents al.
 lergies: pirazolonas antecedentes medicos -trastorn per us de tabac.
-dependencia de tabac ,1-2 cigarrets/dia - secuelas de obesidad morbida - hepatis c cronica detectada en analitica de hace 17 aÃ±os.
-antecedents quirurgics -iq: gastroplastia laparoscopica,vaginoscopia, -iq: biopsia de matriu (polip uteri, endometri),histeroscopia, -iq: extirpacio d'ambdues trompes de falÂ·lopi en un mateix acte operatori, -iq: histerectomia abdominal laparoscopica total, -iq: operacio plastica de reduccio de mida.
-liposuccio; de teixit adipos: paret abdominal, natges, cuixes", proces actual paciente mujer de 54 aÃ±os que ingresa de forma programada para cirugia de correccion de secuelas de obesidad morbida.
+dependencia de tabac ,1-2 cigarrets/dia - secuelas de obesidad morbida - hepatis c cronica detectada en analitica de hace 17 años.
+antecedents quirurgics -iq: gastroplastia laparoscopica,vaginoscopia, -iq: biopsia de matriu (polip uteri, endometri),histeroscopia, -iq: extirpacio d'ambdues trompes de fal·lopi en un mateix acte operatori, -iq: histerectomia abdominal laparoscopica total, -iq: operacio plastica de reduccio de mida.
+liposuccio; de teixit adipos: paret abdominal, natges, cuixes", proces actual paciente mujer de 54 años que ingresa de forma programada para cirugia de correccion de secuelas de obesidad morbida.
 exploracio complementaria pruebas preoperatorias valoradas por anestesiologia correctas.
 evolucio clinica el dia 05/07/18 se procede a intervencion quirurgica (drs.
 ***** / ****** / *****): bajo anestesia general e iot, se procede a reduccion mamaria bilateral segun patron de wise con pediculo interno.

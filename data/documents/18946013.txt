@@ -1,6 +1,6 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 27.04.1972 edat: 46 anys procedencia cex mateix hosp servei raquis data d'ingres 24.06.2018 data d'alta 02.07.2018 10:51:56 ates per sol.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 27.04.1972 edat: 46 anys procedencia cex mateix hosp servei raquis data d'ingres 24.06.2018 data d'alta 02.07.2018 10:51:56 ates per sol.
 licitant, sol.
-licitant; ***************, ******; **********, *****; *********, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents no amc fuma 5-6 cig/dia app - fibromialgia -no constan otros app iqs: quiste en el cuello a los 2 aÃ±os de edad protesis mamaria hace 14 aÃ±os, recambio protesico el 04.05.18, hace 2 sem buena evolucion.
+licitant; ***************, ******; **********, *****; *********, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents no amc fuma 5-6 cig/dia app - fibromialgia -no constan otros app iqs: quiste en el cuello a los 2 años de edad protesis mamaria hace 14 años, recambio protesico el 04.05.18, hace 2 sem buena evolucion.
 tiene visita con cirujano plastico a finales de este mes de mayo, si contraindica el prono al ser una iq tan reciente la pte llamara a programacion para posponer iq.
 se lo comunico a secretaria de programacion proces actual paciente que ingresa de forma porgamada para intrvenirse de cirugia de correcion de escoliosis mediante pfsi.
 exploracio complementaria pruebas complementarias que no contraindican la criugia.
@@ -14,7 +14,7 @@ pico incisional.
 durante su estancia hospitalaria la paciente se mantiene hemodinamicamente estable y con buen control del dolor.
 presenta explioracion enruvascular distal sin alteraciones.
 controles analiticos y radiologicos correctos.
-realiza rehbailitacion segÃ±un protocolo con buena tolerancia.
+realiza rehbailitacion segñun protocolo con buena tolerancia.
 diuresis y deposiciones conservadas, dieta bien tolerada.
 debido a la buena evolucion clinica se decide alta hospitalaria bajo las siguientes indicaciones.
 orientacio diagnostica 737.30/1 escoliosi m41.112 escoliosi idiopatica juvenil, regio cervical procediments 81.05 fusio espinal dorsal i dorsolumbar de lacolumna posterior per tecnica posterior tractament i recomanacions a l'alta reposo relativo pauta de analgesia habitual.

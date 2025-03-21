@@ -1,7 +1,7 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 04.01.1967 edat: 51 anys procedencia cex mateix hosp servei cirurgia plastica i data d'ingres 04.07.2018 data d'alta 08.07.2018 07:57:36 ates per **************, *******; ******************, ************ informe d'alta d'hospitalitzacio motiu d'ingres ingresa para iq programada antecedents alÂ·lergies: sense alÂ·lergies conegudes antecedents: 272.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 04.01.1967 edat: 51 anys procedencia cex mateix hosp servei cirurgia plastica i data d'ingres 04.07.2018 data d'alta 08.07.2018 07:57:36 ates per **************, *******; ******************, ************ informe d'alta d'hospitalitzacio motiu d'ingres ingresa para iq programada antecedents al·lergies: sense al·lergies conegudes antecedents: 272.
 0 (" hipercolesterolemia pura.
-hipercolesterolemia familiar,hiperlipoproteÃ¯nemia:tipus iia(fredrickson),ldl") , e03.
-9 ("hipotiroÃ¯disme no especificat") , hipotiroidismo.
+hipercolesterolemia familiar,hiperlipoproteïnemia:tipus iia(fredrickson),ldl") , e03.
+9 ("hipotiroïdisme no especificat") , hipotiroidismo.
 dislipemia.
 obesidad . imc:31.
 5 altres intervencions: histerectomia , tunel del carpo, mastectomia 2012 y 2016, varias curas.
@@ -16,4 +16,4 @@ localmente, las heridas quirurgicas presentan buen aspecto, sin signos de sangra
 no se palpan colecciones anomalas (hematoma/seroma).
 dada la buena evolucion del paciente se decide alta hospitalaria y control en consultas externas de cirugia plastica.
 orientacio diagnostica v51/1 reconstruccio de mama nhc ** *** *** (********) atr-v-cpl 1/2 lopd z42.
-1 assistencia per a reconstruccio de mama consecutiva a mastectomia procediments 85.74 penjall lliure perforant de lâ€™arteria epigastrica inferior profunda (dieap) tractament i recomanacions a l'alta mantener medicacion habitual reposo relativo faja y sujetador 24h al dia mantener heridas limpias y secas amoxicilina acido clavulanico 500/125mg/8h por una semana clexane 40mg sc uno al dia por una semana aspirina 100mg/24h por dos meses analgesia habitual a demanda paracetamol 1g/8h mas nolotil 575mg/8h alternos si dolor enantyum 25mg/8h si dolor intenso acudir a ccee cpl dr ******* el dia 10/7/2018 a las 11:20am acudir a urgencias de cirugia plastica si signos de alarma o complicaciones destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-cpl 2/2 lopd
+1 assistencia per a reconstruccio de mama consecutiva a mastectomia procediments 85.74 penjall lliure perforant de l’arteria epigastrica inferior profunda (dieap) tractament i recomanacions a l'alta mantener medicacion habitual reposo relativo faja y sujetador 24h al dia mantener heridas limpias y secas amoxicilina acido clavulanico 500/125mg/8h por una semana clexane 40mg sc uno al dia por una semana aspirina 100mg/24h por dos meses analgesia habitual a demanda paracetamol 1g/8h mas nolotil 575mg/8h alternos si dolor enantyum 25mg/8h si dolor intenso acudir a ccee cpl dr ******* el dia 10/7/2018 a las 11:20am acudir a urgencias de cirugia plastica si signos de alarma o complicaciones destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-cpl 2/2 lopd

@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 16.01.1965 edat: 54 anys procedencia cex mateix hosp servei cirurgia plastica i data d'ingres 02.10.2019 data d'alta 05.10.2019 11:58:08 ates per *********************, *****; **************, ************* informe d'alta d'hospitalitzacio motiu d'ingres iq programada antecedents hipertensio essencial: buenos controles habituales diabetis mellitus,hb a1c 6.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 16.01.1965 edat: 54 anys procedencia cex mateix hosp servei cirurgia plastica i data d'ingres 02.10.2019 data d'alta 05.10.2019 11:58:08 ates per *********************, *****; **************, ************* informe d'alta d'hospitalitzacio motiu d'ingres iq programada antecedents hipertensio essencial: buenos controles habituales diabetis mellitus,hb a1c 6.
 3% fumador : 10 cig/dia dislipemia obesitat morbida; obesitat greu, imc 46.87 sindrome ansios depresiu antecedents quirurgics excisio d'altres lesions menors de parpella.
 excisio de berruga, altres gastrectomies parcials.
 amb gastrogastrostomia de desviacio, reseccio segmentaria d'estomac visito a la paciente; confirmo patologia y medicacion.
@@ -6,7 +6,7 @@ niega habitos toxicos; le explico tecnica anestesica habitual (y que esta puede 
 le informo de que ha de venir en ayunas.
 le doy y le explico el consentimiento informado de la anestesia para que lo lea y lo firme, aclarandole los riesgos que tiene por su edad, por su patologia y por el tipo de iq.
 la paciente lo entiende y lo acepta.
-medicacio habitual enalapril deltius fluoxetina simvastatina optovite b12 proces actual paciente mujer de 54 aÃ±os que acude para cirugia programada para correccion de sequelas de cirugia bariatrica mediante abdominoplastia.
+medicacio habitual enalapril deltius fluoxetina simvastatina optovite b12 proces actual paciente mujer de 54 años que acude para cirugia programada para correccion de sequelas de cirugia bariatrica mediante abdominoplastia.
 exploracio complementaria preoperatorio correcto por parte de anestesia.
 evolucio clinica el dia 02/10/19 se realiza iq (drs.
 arana / l.

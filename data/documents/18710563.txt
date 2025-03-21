@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 22.03.1953 edat: 65 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 22.03.1953 edat: 65 anys procedencia domicil/res.
 soc servei urologia data d'ingres 16.04.2018 data d'alta 19.04.2018 09:29:01 ates per ****************, ******; ************************, **** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de manera programada para reseccion transuretral de prostata.
 antecedents sin alergias medicamentosas conocidas, no habitos toxicos.
 dislipemia . intervenciones quirurgicas: apendicectomia.
@@ -33,6 +33,6 @@ nos, enucleacio, reseccio (rtv), electrovaporitzacio (evatp) tractament i recoma
 -puede orinar con restos de sangre durante las proximas semanas.
 -es normal que sienta escozor al orinar y que tenga algun escape de orina y urgencia miccional.
 -suspender su medicacion prostatica habitual -paracetamol 1 g cada 8 horas si molestias.
--si fiebre mayor de 38Âºc, empeoramiento claro del estado general o imposibilidad miccional consultar con el servicio de urgencias.
+-si fiebre mayor de 38ºc, empeoramiento claro del estado general o imposibilidad miccional consultar con el servicio de urgencias.
 -control en consultas externas de urologia segun cita en hoja adjunta.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-uro 2/2 lopd

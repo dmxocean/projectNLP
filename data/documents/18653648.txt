@@ -1,9 +1,9 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 19.01.1953 edat: 65 anys procedencia aten.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 19.01.1953 edat: 65 anys procedencia aten.
 primaria servei medicina interna data d'ingres 27.03.2018 data d'alta 11.04.2018 16:00:00 ates per dr. ******/dr.
 ******* (dra. *****, dr. *****, dra. *****).
-informe d'alta d'hospitalitzacio motiu d'ingres mujer de 65 aÃ±os que consulta por disnea.
+informe d'alta d'hospitalitzacio motiu d'ingres mujer de 65 años que consulta por disnea.
 antecedents antecedentes personales: -no alergias medicamentosas conocidas.
-- fumadora activa de 2 paquetes diarios desde los 14 aÃ±os de edad.
+- fumadora activa de 2 paquetes diarios desde los 14 años de edad.
 antecedentes patologicos: - hipertension arterial en tratamiento con ara2.
 -diabetes mellitus tipo 2 en tratamiento con hipoglucemiantes orales e insulina, con mal control glucemico (hba1c 9.
 2% en diciembre 2017).
@@ -12,7 +12,7 @@ consulta reciente (14/03/18) en urgencias por hipoglicemia, realizandose ajuste 
 dia de endocrinologia.
 como complicaciones fondo de ojo (2015) con retinopatia diabetica moderada no proliferativa y enfermedad cerebrovascular; no constan otras complicaciones micro ni macroangiopaticas.
 ett (julio 2016): funcion sistolica biventricular conservada, disfuncion diastolica grado i, sin valvulopatias.
-- ictus posiblemente isquemico . presento 2 eventos de hemiparesia izquierda (hace 11 y 22 aÃ±os).
+- ictus posiblemente isquemico . presento 2 eventos de hemiparesia izquierda (hace 11 y 22 años).
 no constan informes.
 en tratamiento antiagregante.
 sin secuela neurologica.
@@ -43,13 +43,13 @@ nhc ** *** *** (********) age-v-mi2 1/4 lopd proces actual es derivada al objeti
 la paciente refiere asimismo dolor en extremidad inferior derecha en contexto de ulcera desde hace varias semanas; asi como dolor en hipocondrio derecho en contexto de caida accidental hace 6-7 dias con traumatismo craneoencefalico asociado.
 explica que en contexto de mal control del dolor ha consumido grandes cantidades de paracetamol y metamizol.
 sin fiebre, alteracion del habito deposicional, nauseas, vomitos, dolor toracico, sindrome miccional ni otra sintomatologia concomitante.
-exploracio fisica ta 120/72 mmhg, fc 83 lpm, tÂª 36.8Âºc, spo2 89% (0.26), fr 18 rpm paciente con estado general conservado.
+exploracio fisica ta 120/72 mmhg, fc 83 lpm, tª 36.8ºc, spo2 89% (0.26), fr 18 rpm paciente con estado general conservado.
 sedesta en sillon.
 cambios de coloracion de extremidades inferiores hasta media pierna, eritematosa que cambia con la presion.
 hirsutismo facial.
 eupneica aire ambiente, con saturacion no valorable por pulsioximetria (80-82%).
 no sensacion disneica ni trabajo respiratorio.
-auscultacion con murmullo vesicular conservado, hipofonesis bibasal sin ruidos sobreaÃ±adidos.
+auscultacion con murmullo vesicular conservado, hipofonesis bibasal sin ruidos sobreañadidos.
 tonos cardiacos ritmicos, sin soplos ni roces pericardicos.
 sin ingurgitacion yugular, aunque dificilmente valorable.
 normotensa.
@@ -75,7 +75,7 @@ exploracio complementaria -eab: ph 7.25, pco2 35 mmhg, k 5.
 1 mmol/l.
 - ecg : ritmo sinusal a 100 lpm.
 qrs de 0.12s.
-eje a -15Âº con morfologia de brdhh.
+eje a -15º con morfologia de brdhh.
 buena progresion de r en precordiales.
 sin alteraciones agudas de la repolarizacion.
 -analitica: hb 9.
@@ -95,7 +95,7 @@ folico 3.
 6 cel/mcl, eritrocitos 0 cel/mcl, bacterias 303 bact/mcl, hongos negativos, urea 1048 mg/dl, creatinina 75 mg/dl, sodio 66 mmol/l, potasio 48 mmol/l.
 -hemocultivos: negativos.
 - rx torax : ict &gt;0.5.
-hilio derecho aumentado de tamaÃ±o con signos de redistribucion vascular incipientes.
+hilio derecho aumentado de tamaño con signos de redistribucion vascular incipientes.
 -ag ingreso: coombs negatiu; haptoglobina 1.
 9; eab: ph 7.22, pco2 80, hco3- 32.7.
 -cultivo esputo: pseudomonas aeruginosa (&gt;** *** *** ufc/ml) y serratia marcescens (&gt;1.000.000 ufc/ml).

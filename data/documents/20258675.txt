@@ -1,5 +1,5 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 11.07.1992 edat: 27 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 10.09.2019 data d'alta 12.09.2019 12:06:20 ates per ******************, *****; ********************, ****** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergias medicamentosas conocidas no intervenciones quirurgicas ni otros antecedentes patologicos exfumadora durante la gestacion no medicacion habitual proces actual edad: 27 aÃ±os tpal 0000 dur 29/11/2019 hoy 40 +5w grupo sanguineo.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 11.07.1992 edat: 27 anys procedencia domicil/res.
+soc servei obstetricia data d'ingres 10.09.2019 data d'alta 12.09.2019 12:06:20 ates per ******************, *****; ********************, ****** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergias medicamentosas conocidas no intervenciones quirurgicas ni otros antecedentes patologicos exfumadora durante la gestacion no medicacion habitual proces actual edad: 27 años tpal 0000 dur 29/11/2019 hoy 40 +5w grupo sanguineo.
 a.
 rh negativo.
 administrada anti-d fecha: 21/6/2019 gestacion unica controlada en el cap sin incidencias acude por sensacion de dinamica c/3-4 minutos de 3 horas de evolucion.
@@ -14,7 +14,7 @@ lan rctg: variable y reactivo a 130 lp'm, dinamica uterina regular cada 3-5 minu
 bolsa amniotica integra.
 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/3 lopd evolucio clinica parto eutocico el dia 10/9/2019 a las 10.01h ingresa gestante de 40+5w tpav 0000 en trabajo de parto.
 sgb: negativo no anestesia epidural a las 10.01 se asiste parto eutocico.
-amniorrexis espontanea de liquido amniotico ligeramente teÃ±ido en el momento del expulsivo.
+amniorrexis espontanea de liquido amniotico ligeramente teñido en el momento del expulsivo.
 nace recien nacido vivo, sexo mujer, apgar 9/10, ph de vena umbilical 7.27.
 peso: 3170g alumbramiento espontaneo a lo 10 minutos del nacimiento.
 placenta y membranas aparentemente integras.
@@ -30,7 +30,7 @@ nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/3 lopd paracetamol 1gr cada 8 
 abundante ingesta de liquidos y comida variada y equilibrada.
 lavado diario del perine con agua y jabon neutro.
 mantenerlo bien seco con ayuda de una compresa o toalla.
-no realizar inmersion en baÃ±era, piscina o mar hasta finalizado el puerperio.
+no realizar inmersion en bañera, piscina o mar hasta finalizado el puerperio.
 vida normal con actividad fisica leve/moderada.
 evitar coger peso y ejercicios de alto impacto.
 si presenta congestion de las mamas dar un masaje antes de las tomas.

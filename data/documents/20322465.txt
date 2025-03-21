@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 25.04.1944 edat: 75 anys procedencia cex mateix hosp servei cirurgia genoll data d'ingres 08.10.2019 data d'alta 11.10.2019 10:14:40 ates per ********, ***************; *************, *****; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents antecedents patologic 1.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 25.04.1944 edat: 75 anys procedencia cex mateix hosp servei cirurgia genoll data d'ingres 08.10.2019 data d'alta 11.10.2019 10:14:40 ates per ********, ***************; *************, *****; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents antecedents patologic 1.
 infeccion por vih triumeq hlab5701 negativo (2014) 2.
 hepatitis b curada mantiene dna negativo, hbs ag negativo ( junio 2018 y 2019) ecografia abdominal (oct 2017): higado de bordes irregulares con redistribucion de volumenes y ecoestructura heterogenea sin identificar lesiones focales evidentes.
 vesicula biliar discretamente distendida sin aprente contenido en su interior.
@@ -6,7 +6,7 @@ via bilia rintrahepatica y extrahepatica no dilatada.
 venas suprahepaticas permeables.
 vena porta permebale con flujo hepatopetal y velocidad conservada.
 diametro portal de 15mm.
-esplenomegalia de 14 cm, identificando pequeÃ±o lesion de aspecto quistico de 5 mm subcapsular.
+esplenomegalia de 14 cm, identificando pequeño lesion de aspecto quistico de 5 mm subcapsular.
 - rm (sept 2015): signos de hepatopatia cronica con hipertension portal asociada, sin identificar lesiones focales hepaticas sospechosas.
 alta por parte de hepatologia 3.
 hta - astudal 1comp/dia - losartan 100 1 cop al dia - furosemida 1 c/d 4.
@@ -29,7 +29,7 @@ realiza rehabilitacion bien tolerada, segun protocolo.
 diuresis y deposiciones conservadas, dieta bien tolerada.
 debido a la buena evolucion clinica del paciente se decide el alta hospitalario bajo las siguientes indicaciones.
 orientacio diagnostica m17.
-9 artrosi de genoll no especificada procediments 81.54 reemplaÃ§ament total de genoll.
+9 artrosi de genoll no especificada procediments 81.54 reemplaçament total de genoll.
 bicompartimental,tricompartimental,unicompartimental(hemiarticular) 04.81 injeccio en el nervi periferic d'anestesic per a analgesia 03.91 injeccio en el conducte raquidi d'anestesic per a analgesia 99.29 injeccio o infusio d'altra substancia terapeutica o profilactica 88.27 radiografia esqueletica de cuixa, genoll i cama tractament i recomanacions a l'alta reposo relativo deambulacion assistida con mueltas o caminador mantener fisioterapia cambio aposito aquacel + opsite en una setmana al cap.
 no retirar dermabond analgesia paracetamol 1g/8h.
 sin dolor persiste, tramadol 50mg/12h omeprazol 20mg/24h en deju nhc ** *** *** &nbsp;(********) &nbsp;atr-v-cgn 2/3 lopd clexane 40mg/24h sc 30 dias po control control en cex cgn segun hoja adjunta reacudir si complicaciones destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;atr-v-cgn 3/3 lopd

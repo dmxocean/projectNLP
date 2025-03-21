@@ -1,5 +1,5 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 23.02.1940 edat: 79 anys procedencia domicil/res.
-soc servei unitat d'ictus data d'ingres 11.05.2019 data d'alta 16.05.2019 12:29:35 ates per *************, ****; *************************, *****; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 79 aÃ±os que acude como codigo ictus.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 23.02.1940 edat: 79 anys procedencia domicil/res.
+soc servei unitat d'ictus data d'ingres 11.05.2019 data d'alta 16.05.2019 12:29:35 ates per *************, ****; *************************, *****; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 79 años que acude como codigo ictus.
 antecedents -no alergias medicamentosas conocidas.
 en historias previas consta intolerancia a metoclopramida.
 -no habitos toxicos.
@@ -46,7 +46,7 @@ sin desnivelaciones del segmento st.
 tras puncion femoral derecha a las 20:41h, en primera serie (20:53h) se objetiva permeabilidad completa de territorio anterior (recanalizacion completa con tpa), por lo que se finaliza el procedimiento en este punto.
 procedimiento sin incidencias sin requerir sedacion.
 - tc craneal control 24h : estudio urgente que muestra aparicion de zona hipodensa en territorio de la acm izquierda que sugiere infarto de cronologia aguda.
-se acompaÃ±a de signos de edema que condiciona obliteracion parcial de los surcos, colapso parcial del vl homolateral y desviacion de la linea media hacia la derecha de unos 3 mm.
+se acompaña de signos de edema que condiciona obliteracion parcial de los surcos, colapso parcial del vl homolateral y desviacion de la linea media hacia la derecha de unos 3 mm.
 imagenes hiperdensas en el territorio afectado, que dado el antecedente de arteriografia realizada menos de 48 hs.
 antes probablemente sean contraste retenido, sin embargo se observa una imagen a lo largo de la cisura de silvio que plantea la duda de componente hemorragico, a valorar evolutivamente.
 - ecoscan: ventriculo izquierdo no hipertrofico.
@@ -57,7 +57,7 @@ no valvulopatias significativas.
 patron transmitral compatible con alteracion de la relajacion.
 no se observan imagenes sugestivas de trombo intrauricular ni ventricular.
 no se detectan placas de ateroma significativas en arco aortico.
-- tc cerebral control : extensa infart establert que afecta el territori superficial i profund irrigat per l'arteria cerebral mitjana esquerra amb signes de transformacio hemorragica i component d'hemorragia subaracnoÃ¯dal, que no s'ha modificat significativament respecte estudiprevi, si be ha progressat lleugerament l'efecte compressiu que condicionava la lesio.
+- tc cerebral control : extensa infart establert que afecta el territori superficial i profund irrigat per l'arteria cerebral mitjana esquerra amb signes de transformacio hemorragica i component d'hemorragia subaracnoïdal, que no s'ha modificat significativament respecte estudiprevi, si be ha progressat lleugerament l'efecte compressiu que condicionava la lesio.
 - analitica general : hb 11, leucocitos 12860, plaquetas 238mil, inr 1.11, alt 31, ast 71, fa 60, ggt 16, br total 1.51, directa 0.43, calcio 7.
 6, albumina 3.
 2, colesterol total 139, ldl 57, creatinina 0.57, urea 24, hba1c 5.
