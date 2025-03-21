@@ -295,7 +295,7 @@ def group_labels(df):
 
     # group the Context and Cues that are consecutive
     for index, row in df.iterrows():
-        before, after = before_after(row["label"], index, df)
+        before, after = before_after("label", index, df)
 
         if row["label"] == "NSCO":
             df.at[index, "scope"] = consecutive("NEG", index, df, before, after)
@@ -305,7 +305,7 @@ def group_labels(df):
 
     # second pass to group the rest
     for index, row in df.iterrows():
-        before, after = before_after(row["label"], index, df)
+        before, after = before_after("label", index, df)
 
         if row["label"] == "NSCO":
             df.at[index, "scope"] = closest("NEG", index, before, after)
