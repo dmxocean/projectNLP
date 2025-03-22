@@ -1,39 +1,23 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 21.11.1928 edat: 90 anys procedencia cex mateix hosp servei c.
-general data d'ingres 15.10.2019 data d'alta 17.10.2019 09:37:26 ates per ***********, ******; ************, ********** informe d'alta d'hospitalitzacio motiu d'ingres ingresa para realizacion de fibrogastroscopia antecedents alergia a vesatis no habitos toxicos antecedentes personales patologicos: # diabetes mellitus tipo 2 en tratamiento con antidiabeticos orales . ultima glicosilada de mayo 2011 de 6.
-7%.
-desconoce complicaciones micro/macroangopaticas.
-# clinica de hiperreactividad bronquial en relacion con infecciones respiratorias en tratamiento habitual con broncodilatadores y control por medico de cabecera diagnosticada en 2001.
-ha requerido 4 ingresos.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 21.11.1928 edat: 90 anys procedencia cex mateix hosp servei c. general data d'ingres 15.10.2019 data d'alta 17.10.2019 09:37:26 ates per ***********, ******; ************, ********** informe d'alta d'hospitalitzacio motiu d'ingres ingresa para realizacion de fibrogastroscopia antecedents alergia a vesatis no habitos toxicos antecedentes personales patologicos: # diabetes mellitus tipo 2 en tratamiento con antidiabeticos orales . ultima glicosilada de mayo 2011 de 6.7%. desconoce complicaciones micro/macroangopaticas.
+# clinica de hiperreactividad bronquial en relacion con infecciones respiratorias en tratamiento habitual con broncodilatadores y control por medico de cabecera diagnosticada en 2001. ha requerido 4 ingresos.
 pfr: cvf 83%, vems 66%, fef 25-75 45%, it 77% # enfermedad renal cronica con creatininas habituales en torno a 1,3 y fg 35 # enfermedad de paget en tratamiento farmacologico y sintomatico.
 # anemia cronica en tratamiento sustitutivo con hierro.
-hb habituales en torno a 10.
-5-11.5mg/dl.
-colonoscopia 13/07/18 (boston 6/9): se explora la totalidad del colon hasta fondo de saco cecal visualizando foramen apendicular y valvula ileocecal, sin hallazgos patologicos.
-hemorroides internas depequeño tamaño.
-# hiperuricemia sin signos de artritis inflamatoria.
+hb habituales en torno a 10.5-11.5mg/dl. colonoscopia 13/07/18 (boston 6/9): se explora la totalidad del colon hasta fondo de saco cecal visualizando foramen apendicular y valvula ileocecal, sin hallazgos patologicos.
+hemorroides internas depequeño tamaño. # hiperuricemia sin signos de artritis inflamatoria.
 # dependencia parcial para las actividades de la vida diaria remesa de hsr per troballa de polip gastric en fgs per a estudi anemia.
-aporta: tac: mala visualizacion de la lesion gastrica mediante esta tecnica, a pesar de distension gastrica con agua previo a la exploracion.
-no hay signos de diseminacion extraserosa, peritoneal, adenopatica o metastasica a distancia.
-fgs a cos gastric gran curvatura formacio polipoidea de 3,5 cm aspecte neoplasic fgs agost: :* descenso esofagico normal, salvo en tercio distal, la presencia de hernia hiatal por deslizamiento de pequeño tamaño.
-* a la retroflexion, mucosa de fundus normal, con hernia hiatal ya descrita.
+aporta: tac: mala visualizacion de la lesion gastrica mediante esta tecnica, a pesar de distension gastrica con agua previo a la exploracion.no hay signos de diseminacion extraserosa, peritoneal, adenopatica o metastasica a distancia.
+fgs a cos gastric gran curvatura formacio polipoidea de 3,5 cm aspecte neoplasic fgs agost: :* descenso esofagico normal, salvo en tercio distal, la presencia de hernia hiatal por deslizamiento de pequeño tamaño.* a la retroflexion, mucosa de fundus normal, con hernia hiatal ya descrita.
 * al entrar a camara gastrica, se observan algunos restos hematicos y coagulos que logran lavarse y aspirarse en su totalidad.
 se observanademas varios polipos de gran tamaño, aspecto hiperplasicos, de tamaño aproximado desde los 10 mm de diametro (el mas pequeño) hasta de 35-40 mm de diametro (el de mayor tamaño), localizandose este ultimo sobre curvatura mayor y con presencia de coagulos y areas erosionadas en su superficie.
 se toman multiples biopsias para estudio ap.
 * antro con mucosa normal.
-* piloro permeable* bulbo hasta segunda porcion duodenal con mucosas normales.
-sedacion.
-comentario: conducta segun resultado a.p.
-en caso de considerarse reseccion endoscopica, se recomienda previo ingreso hospitalario y actualizacion de pruebas de coagulacion ap: cuerpo gastrico, biopsia endoscopica:fragmentos de polipos hiperplasicos con ulceracion superficial.
-. ausencia de malignidad en la muestra analizada.
-pendiente resultado inmunohistoquimico con anticuerpo anti-cmv.
-la tecnica inmunohistoquimica con anticuerpo anti-citomegalovirus ha resultado positiva.
+* piloro permeable* bulbo hasta segunda porcion duodenal con mucosas normales.sedacion.comentario: conducta segun resultado a.p. en caso de considerarse reseccion endoscopica, se recomienda previo ingreso hospitalario y actualizacion de pruebas de coagulacion ap: cuerpo gastrico, biopsia endoscopica:fragmentos de polipos hiperplasicos con ulceracion superficial.
+. ausencia de malignidad en la muestra analizada.pendiente resultado inmunohistoquimico con anticuerpo anti-cmv.la tecnica inmunohistoquimica con anticuerpo anti-citomegalovirus ha resultado positiva.
 nhc ** *** *** &nbsp;(********) &nbsp;age-v-cgf 1/2 lopd proces actual paciente mujer de 90 años, con polipo gastrico conocido, estudiado a raiz de anemia, que ingresa actualmente para realizacion de fibrogastroscopia y biopsia de dicho polipo.
 exploracio complementaria - fibrogastroscopia 16/10: gran formacio polipoidea pediculada bilobulada de 35 mm.
 de diametre a cos gastric vista en anterior exploracio erosionada i amb fibrina.
-es col.
-loca endoloop a la base del pedicle i s'efectua polipectomia endoscopica i es recuperen els fragments per estudi ap.
-es col.
-loquen 2 hemoclips preventius.
+es col.loca endoloop a la base del pedicle i s'efectua polipectomia endoscopica i es recuperen els fragments per estudi ap.
+es col.loquen 2 hemoclips preventius.
 diagnostic: - polips hiperplasics gastrics . es resseca el mes gran per estudi ap.
 evolucio clinica la paciente se mantiene afebril y estable hemodinamicamente en todo momento.
 mantiene buen estado general.
@@ -41,7 +25,6 @@ reanuda ingesta oral tras la prueba que tolera sin incidencias.
 transito intestinal conservado, sin evidencia de productos patologicos en heces.
 se realiza control analitico que no muestra anemizacion ni alteracion de los reactantes de fase aguda.
 dada la buena evolucion clinica y analitica se decide alta a domicilio con signos y sintomas de reconsulta.
-orientacio diagnostica k31.
-7 polip d'estomac i duode procediments biopsia de polipo gastrico tractament i recomanacions a l'alta continuar con su medicacion habitual dieta habitual sin irritantes si dolor: - paracetamol 1 gramo via oral cada 8 horas.
+orientacio diagnostica k31.7 polip d'estomac i duode procediments biopsia de polipo gastrico tractament i recomanacions a l'alta continuar con su medicacion habitual dieta habitual sin irritantes si dolor: - paracetamol 1 gramo via oral cada 8 horas.
 si fiebre elevada, aumento del dolor a pesar de la medicacion, sangrado digestivo o heces de coloracion negra o empeoramiento subito del estado general, se recomienda acudir de nuevo a urgencias.
 control control en consultas externas de dra castro(consulta 17) el jueves 31/10/2019 a las 11:30h destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;age-v-cgf 2/2 lopd

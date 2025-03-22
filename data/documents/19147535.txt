@@ -1,8 +1,7 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 10.11.1941 edat: 76 anys procedencia cex mateix hosp servei nefrologia data d'ingres 13.09.2018 data d'alta 15.09.2018 11:21:00 ates per ************, ***** informe d'alta d'hospitalitzacio motiu d'ingres varon de 76 años, que ingresa para confeccion de fav radiocefalica izquierda . antecedents no amc.
 - hipertension arterial desde los 30 años, mal control ambulatorio.
 -enfermedad renal cronica no filiada, de larga evolucion, actualmente estadio 5 con efg 13-15 ml/min.
-control cex nefrologia, dra. ************.
-- tumor renal izquierdo pendiente de decision terapeutica por parte de urologia tras inicio de hemodialisis.
+control cex nefrologia, dra. ************. - tumor renal izquierdo pendiente de decision terapeutica por parte de urologia tras inicio de hemodialisis.
 - hiperparatiroidismo secundario . tratamiento con cinacalcet y quelantes del fosforo.
 medicacio habitual daivobet pomada, omeprazol 20/24h, paracetamol sp, seguril 40mg 0.5c/24h, mimpara 30 5 pastillas/sem, fe/24h, renvela 800/d, alopurinol 100, acfol; hidralazina 25 mg/8h; zanidip 10 mg/12h proces actual ingresa de forma programada para confeccion de fav r-c izquierda.
 buen estado general y asintomatico al ingreso.
@@ -12,22 +11,12 @@ sin edemas.
 ar: mvc sin ruidos sobreañadidos.
 abdomen: blando, depresible, no doloroso.
 nrl: sin signos de focalidad neurologica aguda.
-exploracio complementaria analitica: hb 10.
-7; hematocrito 33.
-3%; l 6510; plaquetas 226000; tq &gt; 120%; urea 196; cr 3.
-7; fge 15; na 133; k 4.
-6; ca 8.
-4; proteinas 7.0.
-evolucio clinica se trata, por tanto, de un paciente con erc estadio 5 pendiente de inicio de hemodialisis, que ingresa para confeccion de fav.
+exploracio complementaria analitica: hb 10.7; hematocrito 33.3%; l 6510; plaquetas 226000; tq &gt; 120%; urea 196; cr 3.7; fge 15; na 133; k 4.6; ca 8.4; proteinas 7.0. evolucio clinica se trata, por tanto, de un paciente con erc estadio 5 pendiente de inicio de hemodialisis, que ingresa para confeccion de fav.
 a su ingreso, hemodinamicamente estable y afebril, preoperatorio correcto.
 se realiza iq fav rc izquierda sin incidencias, presentando adecuado soplo y thrill.
 ante la estabilidad clinica y la ausencia de signos de alarma, se decide alta a domicilio con control ambultario.
 se explican signos y sintomas de alarma por los que reconsultar.
-nhc ** *** *** (********) age-v-nfr 1/2 lopd orientacio diagnostica n18.
-9 malaltia renal cronica no especificada procediments 39.27 arteriovenostomia per a dialisi renal.
+nhc ** *** *** (********) age-v-nfr 1/2 lopd orientacio diagnostica n18.9 malaltia renal cronica no especificada procediments 39.27 arteriovenostomia per a dialisi renal.
 anastomosi, formacio de fistula arteriovenosa (periferica) tractament i recomanacions a l'alta lavar herida con agua y jabon + betadine.
-si dolor, paracetamol 1g/8h.
-mantener medicacion sin cambios.
-control acudir a cex accesos vasculares el proximo viernes 21/8/18 a las 10h (7ª planta anexos area general).
-acudir a realizacion de analitica el proximo 16/10/18 a las 12h20 min y visita en nefrologia el 19/10/18 a las 10h en 6º planta anexos ud hemodialisis (dra ************).
-destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-nfr 2/2 lopd
+si dolor, paracetamol 1g/8h. mantener medicacion sin cambios.
+control acudir a cex accesos vasculares el proximo viernes 21/8/18 a las 10h (7ª planta anexos area general). acudir a realizacion de analitica el proximo 16/10/18 a las 12h20 min y visita en nefrologia el 19/10/18 a las 10h en 6º planta anexos ud hemodialisis (dra ************). destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-nfr 2/2 lopd

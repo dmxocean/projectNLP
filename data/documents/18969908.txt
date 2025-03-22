@@ -1,6 +1,5 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 17.04.1964 edat: 54 anys procedencia cex mateix hosp servei cirurgia plastica i data d'ingres 05.07.2018 data d'alta 06.07.2018 09:08:35 ates per ************, ***********; ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 54 años que ingresa de forma programada para cirugia.
-antecedents al.
-lergies: pirazolonas antecedentes medicos -trastorn per us de tabac.
+antecedents al.lergies: pirazolonas antecedentes medicos -trastorn per us de tabac.
 dependencia de tabac ,1-2 cigarrets/dia - secuelas de obesidad morbida - hepatis c cronica detectada en analitica de hace 17 años.
 antecedents quirurgics -iq: gastroplastia laparoscopica,vaginoscopia, -iq: biopsia de matriu (polip uteri, endometri),histeroscopia, -iq: extirpacio d'ambdues trompes de fal·lopi en un mateix acte operatori, -iq: histerectomia abdominal laparoscopica total, -iq: operacio plastica de reduccio de mida.
 liposuccio; de teixit adipos: paret abdominal, natges, cuixes", proces actual paciente mujer de 54 años que ingresa de forma programada para cirugia de correccion de secuelas de obesidad morbida.
@@ -9,8 +8,7 @@ evolucio clinica el dia 05/07/18 se procede a intervencion quirurgica (drs.
 ***** / ****** / *****): bajo anestesia general e iot, se procede a reduccion mamaria bilateral segun patron de wise con pediculo interno.
 sin incidencias intraoperatorias.
 postoperatorio inmediato correcto.
-durante su estancia hospitalaria sin incidencias.
-en estos momentos se encuentra estable, afebril, con buen estado general, buen control del dolor y tolerando via oral.
+durante su estancia hospitalaria sin incidencias.en estos momentos se encuentra estable, afebril, con buen estado general, buen control del dolor y tolerando via oral.
 localmente: -heridas quirurgicas presentan buen aspecto, sin signos de sangrado ni infeccion local ni dehiscencias.
 no se palpan colecciones anomalas (hematoma/seroma) -por lo que se decide alta hospitalaria y control en consultas externas de cirugia plastica.
 orientacio diagnostica 278.01 obesitat morbida; obesitat greu nhc ** *** *** (********) atr-v-cpl 1/2 lopd e66.01 obesitat morbida (greu) causada per exces de calories procediments 99.29 injeccio o infusio d'altra substancia terapeutica o profilactica 86.83 operacio plastica de reduccio tractament i recomanacions a l'alta - mantener las heridas secas y limpias.
@@ -19,5 +17,4 @@ evitar esfuerzos con los brazos.
 - paracetamol 1g/8h si dolor, alterno cada 4horas con ibuprofeno 600mg si precisa.
 - amoxicilina/clavulanico 500/125mg cada 8 horas durante 7 dias - continuar con medicacion habitual.
 - si complicaciones, acudir a urgencias.
-control - acudir a control a consultas externas de cirugia plastica (dr. *****, planta -1, edificio de traumatologia) el proximo lunes 09/07/18 a las 12h.
-destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-cpl 2/2 lopd
+control - acudir a control a consultas externas de cirugia plastica (dr. *****, planta -1, edificio de traumatologia) el proximo lunes 09/07/18 a las 12h. destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-cpl 2/2 lopd

@@ -1,9 +1,7 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 03.03.2018 edat: 18 mesos procedencia domicil/res.
-soc servei medicina d'urgencies ped data d'ingres 29.09.2019 data d'alta 30.09.2019 14:26:15 ates per **************, ******; *************, *****; **************, ******** informe d'alta d'hospitalitzacio motiu d'ingres control clinico tras inhalacion de humo en un incendio antecedents - antecedentes materno-obstetricos y perinatales: tercera gestacion.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 03.03.2018 edat: 18 mesos procedencia domicil/res.soc servei medicina d'urgencies ped data d'ingres 29.09.2019 data d'alta 30.09.2019 14:26:15 ates per **************, ******; *************, *****; **************, ******** informe d'alta d'hospitalitzacio motiu d'ingres control clinico tras inhalacion de humo en un incendio antecedents - antecedentes materno-obstetricos y perinatales: tercera gestacion.
 embarazo controlado con ecografias normales salvo ecografia de tercer trimestre en la que no pueden descartar tgv.
 parto vaginal eutocico, a termino.
-apgar 6/7/7.
-prn 2640 gramos.
+apgar 6/7/7. prn 2640 gramos.
 trasladado a este centro por distres respiratorio neonatal y sospecha de cardiopatia congenita.
 dado de alta sin incidencias, tras resolucion de la sintomatologia y tras haberse descartardo cardiopatia.
 - vacunacion correcta para su edad - no alergias conocidas - no otros antecedentes de interes proces actual paciente de 18 meses victima de un incendio en domicilio iniciado a las 7:30 de la mañana por el fuego de un mechero con el que estaba jugando uno de sus hermanos.
@@ -13,15 +11,13 @@ la abuela se ha despertado y al ver el incendio ha subido a la terraza con los d
 francisco ha salido con su abuelo por la puerta del domicilio cuando un conocido ha podido tirar la puerta a tierra.
 cuando el sem ha acudido a domicilio refieren que han objetivado una carboxihemoglobina del 30%, se ha iniciado oxigenoterapia a maxima concentracion, se ha administrado cianokit y se ha trasladado a nuestro centro via sem aereo.
 exploracio fisica fc bpm tªaxi ºc fr rpm tªrec ºc ta s mmhg sat o2 99.00 % ta d mmhg pes kg tep estable via aerea permeable, buena ventilacion y circulacion adecuada.
-glasgow 15.
-activo y reactivo.
+glasgow 15. activo y reactivo.
 actitud normal y esperada para su edad.
 llanto consolable en presencia de familiares.
 se retira la ropa y pañal sin objetivarse lesiones cutaneas, no quemaduras.
 exploracion fisica general: normocoloreado (coloracion grisacea en contexto de hollin que se retira con buena coloracion), bien hidratado y perfundido.
 mucosas humedas y coloreadas.
-glasgow 15.
-activo y reactivo.
+glasgow 15. activo y reactivo.
 actitud normal y esperada para su edad.
 llanto consolable en presencia de familiares.
 orl: resos de hollin en orificios nasales y boca.
@@ -30,16 +26,13 @@ acp: buena entrada de aire bilaterla.
 tonos cardiacos ritmicos.
 abdomen blando y depresible, sin masas ni viceromegalias.
 signos meningeos negativos.
-exploracio complementaria - analiticas : se adjuntan - gasometria: cohb 1.
-9%, ph 7.37, co2 34mmhg, hco3 20.9mmol/l, lactato 1.7mol/l,,be -4.9.
-- rx torax : radiografia espirada.
+exploracio complementaria - analiticas : se adjuntan - gasometria: cohb 1.9%, ph 7.37, co2 34mmhg, hco3 20.9mmol/l, lactato 1.7mol/l,,be -4.9. - rx torax : radiografia espirada.
 leve infiltrado en hemitorax derecho.
 sin hallazgos significativos.
 - ecg: fc 105lpm.
 ritmo sinusal.
 p 86mm.
-pq 113ms qrs 83ms qtc 0.41.
--valoracion por cirugia plastica niño de 18 meses acude a urgencias trasladado por el sem para valoracion quemaduras.
+pq 113ms qrs 83ms qtc 0.41. -valoracion por cirugia plastica niño de 18 meses acude a urgencias trasladado por el sem para valoracion quemaduras.
 enfermedad actual el sem los traslada de un incendio.
 dia0: 29/9/2019 hora0: 9:00 etiologia: llama mecanismo: casual localizacion: indoor exploracion: el paciente que no tiene ninguna quemadura evolucio clinica ingresa en la unidad de observacion de urgencias de pediatria bajo control clinico y de constantes vitales.
 se realizan las exploraciones complementarias anteriormente citadas.

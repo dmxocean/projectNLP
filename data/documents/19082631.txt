@@ -1,13 +1,11 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 19.11.2015 edat: 2 anys procedencia domicil/res.
-soc servei cirurgia pediatrica data d'ingres 12.08.2018 data d'alta 13.08.2018 00:10:09 ates per ******, ****; ******************, ****** informe d'alta d'hospitalitzacio motiu d'ingres cos estrany esofag antecedents namc calendario vacunal al dia no antecedentes personales de interes proces actual paciente de 2 años que acude a urgencias derivado del hospital del mar con sospecha de cuerpo extraño en esofago.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 19.11.2015 edat: 2 anys procedencia domicil/res.soc servei cirurgia pediatrica data d'ingres 12.08.2018 data d'alta 13.08.2018 00:10:09 ates per ******, ****; ******************, ****** informe d'alta d'hospitalitzacio motiu d'ingres cos estrany esofag antecedents namc calendario vacunal al dia no antecedentes personales de interes proces actual paciente de 2 años que acude a urgencias derivado del hospital del mar con sospecha de cuerpo extraño en esofago.
 refieren ingesta accidental de moneda de 5 centimos hace 2 horas.
 refieren sialorread sin otra clinica acompañante.
 exploracio fisica tep estable.
 normocoloreado y normohidratado.
 afebril.
 exploracion: no lesiones en cavidad oral.
-no se objetiva cuerpo extraño.
-ar: murmullo vesicular mantenido sin ruidos sobreaañadidos.
+no se objetiva cuerpo extraño. ar: murmullo vesicular mantenido sin ruidos sobreaañadidos.
 no distres respiratorio.
 exploracion abdominal: blando, depresible no visceromegalias.
 no dolor a la palpacion.

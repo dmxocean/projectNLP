@@ -1,13 +1,7 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 03.03.1955 edat: 63 anys procedencia domicil/res.
-soc servei cg hepatobilipancr i data d'ingres 02.08.2018 data d'alta 03.08.2018 11:50:58 ates per ****** ****, ****; ***************, ******; *******************, ****** informe d'alta d'hospitalitzacio motiu d'ingres colecistectomia laparoscopica antecedents no amc exfumadora desde hace 2 años.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 03.03.1955 edat: 63 anys procedencia domicil/res.soc servei cg hepatobilipancr i data d'ingres 02.08.2018 data d'alta 03.08.2018 11:50:58 ates per ****** ****, ****; ***************, ******; *******************, ****** informe d'alta d'hospitalitzacio motiu d'ingres colecistectomia laparoscopica antecedents no amc exfumadora desde hace 2 años.
 no habito enolico conocido.
-1.
-polimialgia reumatica . en tratamiento con corticoides hasta hace dos años.
-2.
-esteatosis hepatica y colelitiasis, diagnosticada en ecografia abdominal ambulatoria del año 2012.
-* ingreso por pancreatitis aguda biliar en marzo 2018.
-3.
-sindrome ansioso-depresivo proces actual paciente mujer de 63 años con diagnostico de colelitiasis y episodio de pancreatitis aguda previa, quien ingresa para colecistectomia laparoscopica electiva.
+1. polimialgia reumatica . en tratamiento con corticoides hasta hace dos años.
+2. esteatosis hepatica y colelitiasis, diagnosticada en ecografia abdominal ambulatoria del año 2012. * ingreso por pancreatitis aguda biliar en marzo 2018. 3. sindrome ansioso-depresivo proces actual paciente mujer de 63 años con diagnostico de colelitiasis y episodio de pancreatitis aguda previa, quien ingresa para colecistectomia laparoscopica electiva.
 evolucio clinica intervencion quirurgica (2/8/18): se realiza colecistectomia laparoscopica sin incidencias.
 se remite pieza para anatomia patologica.
 postoperatorio immediato correcto.

@@ -1,14 +1,9 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 15.07.1981 edat: 36 anys procedencia domicil/res.
-soc servei otorrinolaringologia data d'ingres 16.05.2018 data d'alta 18.05.2018 10:23:26 ates per *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres sangrado faringe post amigdalectomia . antecedents no amc ap: saos iq: amigdalectomia 30 abril.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 15.07.1981 edat: 36 anys procedencia domicil/res.soc servei otorrinolaringologia data d'ingres 16.05.2018 data d'alta 18.05.2018 10:23:26 ates per *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres sangrado faringe post amigdalectomia . antecedents no amc ap: saos iq: amigdalectomia 30 abril.
 reintervencion dia 9-5-18 por sangrado amigdalar.
 proces actual paciente derivada de hospital mutua de terrasa por cuadro clinico de horas de evolucion de sangrado postamigdalectomia del 30 de abril, que ha requerido reintervencion por esta misma causa, segun cuenta la paciente le han dejado una amina de surgicel en lecho amigdalar izquierdo.
-trae analitica 13.05 hb 13.
-9 hto: 43 coagulacion normal exploracio fisica beg c y o orofaringe: se observa sangrado activo gran coagulo adherido en lecho amigdalar izuiqerdo, se limpia, con mejoria del sangrado.
-li: epiglotis centrada, aritenoides sin edemas, cuerdas vocales moviles buen paso aereo no abombamientos al ingreso: observacion dieta absoluta, analitica exploracio complementaria 17-5-18: hematies 4.27 hemoglobina 11.
-7 g/dl hematocrit 36.
-9 evolucio clinica tras buen curso clinico, afebril, tolerando dieta oral y sin signos de sangrado se procede al alta hospitalaria.
-orientacio diagnostica r04.
-1 hemorragia de faringe procediments tratamiento endovenoso.
+trae analitica 13.05 hb 13.9 hto: 43 coagulacion normal exploracio fisica beg c y o orofaringe: se observa sangrado activo gran coagulo adherido en lecho amigdalar izuiqerdo, se limpia, con mejoria del sangrado.
+li: epiglotis centrada, aritenoides sin edemas, cuerdas vocales moviles buen paso aereo no abombamientos al ingreso: observacion dieta absoluta, analitica exploracio complementaria 17-5-18: hematies 4.27 hemoglobina 11.7 g/dl hematocrit 36.9 evolucio clinica tras buen curso clinico, afebril, tolerando dieta oral y sin signos de sangrado se procede al alta hospitalaria.
+orientacio diagnostica r04.1 hemorragia de faringe procediments tratamiento endovenoso.
 nhc ** *** *** (********) age-v-orl 1/2 lopd tractament i recomanacions a l'alta 1- dieta blanda y templada.
 2- amoxicilina 500 mg 1/8 horas durante 3 dias.
 3- paracetamol 1 gr 1/8 horas si dolor.

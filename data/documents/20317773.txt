@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 01.01.1925 edat: 94 anys procedencia domicil/res.
-soc servei traumatics data d'ingres 01.10.2019 data d'alta 24.10.2019 13:26:50 ates per ***** marsa, *****; ***************, *****; *************, *****;; ****; ****************, **** informe de trasllat a sociosanitari motiu d'ingres fractura subtrocanterea antecedents antecedents patologic 04.2005 :estat de cristal·li reemplaçat per altre mitja que el trasplantament homoleg, heteroleg.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 01.01.1925 edat: 94 anys procedencia domicil/res.soc servei traumatics data d'ingres 01.10.2019 data d'alta 24.10.2019 13:26:50 ates per ***** marsa, *****; ***************, *****; *************, *****;; ****; ****************, **** informe de trasllat a sociosanitari motiu d'ingres fractura subtrocanterea antecedents antecedents patologic 04.2005 :estat de cristal·li reemplaçat per altre mitja que el trasplantament homoleg, heteroleg.
 pseudofaquia 04.2005 :estat postoperatori consecutiu a extraccio de cataractes 11.2007 :hipertensio essencial inespecificada malaltia vascular periferica inespecificada.
 claudicacio intermitent nos, espasme arterial,angiopatia nos 11.2007 : hiperplasia prostatica no especificada sense obstruccio urinaria ni altres simptomes de les vies urinaries inf exploracio complementaria rx: fractura subtrocantera evolucio clinica el dia 2-10-19 el/paciente es intervenido de rafi fractura subtrocanterea: drs *****/***** sin incidencias intraoperatorias.
 durante el postoperatorio se encuentra hemodinamicamente estable y con buen control del dolor.
@@ -11,72 +10,36 @@ diuresis y deposiciones conservadas, dieta bien tolerada.
 proceso respiratorio tratado por equipo de ortogeriatria.
 valoracio ortogeriatria: home de 94 anys sense amc que ingressa per fractura de maluc dret . fumador de 2 paquets diaris durant 70 anys, va abandonar el consum fa 8 mesos.
 antecedents - hipertensio arterial sense tractament farmacologic.
-- mpoc gold iv associat a bronquiectasis que ha requerit multiples ingressos (6 en el darrer any, ultim al setembre’19).
-cultiu d’esput març ‘19: pseudomona aeruginosa multis.
+- mpoc gold iv associat a bronquiectasis que ha requerit multiples ingressos (6 en el darrer any, ultim al setembre’19). cultiu d’esput març ‘19: pseudomona aeruginosa multis.
 haemophilus inluenzae.
 tractament: bd: lama+laba+ci+azitromicina; oxigenoterapia domiciliaria.
 seguiment per pades.
 nhc ** *** *** &nbsp;(********) &nbsp;atr-v-tra 1/3 lopd - insuficiencia cardiaca . ecocardiograma gener 2019: ve no dilatat, moderadament hipertrofic amb funcio sistolica preservada (fe 76%), dilatacio moderada ae, cavitats dretes normals.
-disfuncio diastolica grau i.
-- glaucoma cronic - hiperplasia benigna de prostata en tractament farmacologic.
+disfuncio diastolica grau i. - glaucoma cronic - hiperplasia benigna de prostata en tractament farmacologic.
 ssf : viu amb la seva dona, 2n pis sense ascensor, teleassistencia i ajuda externa (tf) per compra i neteja.
 independent per abvd, autonom per alimentar-se, vestir-se, dutxar-se i utilitzar el bany.
 continent doble.
 limitacio funcional per dispnea.
 disfagia a solids.
 no deteriorament cognitiu.
-tractament segons hc3: azitromicina 250mg/48h, paracetamol 1g 1/24h, furosemida 40mg 1/24h, finasterida 5mg 1/24h, tamsulosina 0.4mg 1/24h, salbutamol/bromur ipatropi 1neb/12h, budesonida 2inh/12h, salbutamol inh a demanda, olodaterol/tiotropi 2inh/24h, bimatroprost 1gota/24h, prednisona 10mg/24.
-mc : caiguda propia alçada (va ensopegar) sense perdua de consciencia i sense tce.
-operat ahir 02/10/2019.
-postoperatori inicial sense alteracions, pero aquesta nit ha presentat un augment de la seva ortopnea basal (dorm amb capçal aixecat a domicili).
-a la nostra visita, refereix dispnea i esta taquipneic.
+tractament segons hc3: azitromicina 250mg/48h, paracetamol 1g 1/24h, furosemida 40mg 1/24h, finasterida 5mg 1/24h, tamsulosina 0.4mg 1/24h, salbutamol/bromur ipatropi 1neb/12h, budesonida 2inh/12h, salbutamol inh a demanda, olodaterol/tiotropi 2inh/24h, bimatroprost 1gota/24h, prednisona 10mg/24. mc : caiguda propia alçada (va ensopegar) sense perdua de consciencia i sense tce.
+operat ahir 02/10/2019. postoperatori inicial sense alteracions, pero aquesta nit ha presentat un augment de la seva ortopnea basal (dorm amb capçal aixecat a domicili). a la nostra visita, refereix dispnea i esta taquipneic.
 ef : conscient i orientat en espai-temps-persona.
-gsc 15.
-estat general conservat, hemodinamicament estable, normohidratat i normocolorejat.
-constants: ta 105/55 mmhg, fc 70 bpm, sato2 aa 92-94%, tª36.8ºc.
-ac: tons cardiacs ritmics sense bufs.
+gsc 15. estat general conservat, hemodinamicament estable, normohidratat i normocolorejat.
+constants: ta 105/55 mmhg, fc 70 bpm, sato2 aa 92-94%, tª36.8ºc. ac: tons cardiacs ritmics sense bufs.
 no edemes maleolars, no ingurgitacio jugular.
 ar: murmuri vesicular conservat amb crepitants bibasals i algun roncus dispers.
 abdomen tou i depressible, no es palpen masses.
 no presenta signes de peritonisme.
-agu (01/10): hb 11.
-3 hto 36.
-7 vcm 91.
-5, l 16460, cal 2000, can 12800, inr 0.93, fibrin 4.01 urea 66 creat 0.73, na 139.
-4, k 4.29, ca 9, prot 6.4.
-s/o: l 30 b 235.
-uc negatiu.
+agu (01/10): hb 11.3 hto 36.7 vcm 91.5, l 16460, cal 2000, can 12800, inr 0.93, fibrin 4.01 urea 66 creat 0.73, na 139.4, k 4.29, ca 9, prot 6.4. s/o: l 30 b 235. uc negatiu.
 ecg : ecg vibrat.
-ritme sinusal a 65bpm, pr normal 0.12, qrs estret 0.
-8 amb eix a 45º.
+ritme sinusal a 65bpm, pr normal 0.12, qrs estret 0.8 amb eix a 45º.
 qt corregit normal de 372ms.
 sense alteracions de la repolaritzacio.
 progressio rs a precordials normal, sense signes d’hipertrofia.
-ag ingres (03/10) : hb 9.
-7 g/dl, hto 30.
-7%, vcm 90.
-3, l 19120, can 16500, cal 1300, plaq 239000, inr 0.97, fibrinogen 4.98, vsg 64, pcr 18.67, transtirretina 15.
-6, urea/creat 63/0.87, fg 74, na 138.
-3, k 4.51, ca 8.
-7, prot 5.
-2, albumina 2.
-9, perfil hepatic normal, perfil tiroideu, calcidiol 4.48, pth 151.
-rx torax (03/10) : rotada, mal inspirada.
+ag ingres (03/10) : hb 9.7 g/dl, hto 30.7%, vcm 90.3, l 19120, can 16500, cal 1300, plaq 239000, inr 0.97, fibrinogen 4.98, vsg 64, pcr 18.67, transtirretina 15.6, urea/creat 63/0.87, fg 74, na 138.3, k 4.51, ca 8.7, prot 5.2, albumina 2.9, perfil hepatic normal, perfil tiroideu, calcidiol 4.48, pth 151. rx torax (03/10) : rotada, mal inspirada.
 marc ossi conservat, scf lliures, sense signes de cardiomegalia, hilis prominents, signes de redistribucio vascular, no lesions parenquimatoses.
-ag (08/10): hb 9.
-9 g/dl, hto 31.
-4%, vcm 91.
-8 fl, plaq 349000.
-inr 0.86, fibrinogen 4.9.
-urea 52 mg/dl, creatinina 0.75 mg/dl, fg 79 ml/min/1.73m2.
-na 139.
-3 mmol/l, k 4.49 mmol/l, ca 8.
-7 mg/dl, p 3.
-2 mg/dl.
-albumina 2.
-8 g/dl, proteïna 5.
-1 g/dl.
-perfil hepatic sense alteracions.
+ag (08/10): hb 9.9 g/dl, hto 31.4%, vcm 91.8 fl, plaq 349000. inr 0.86, fibrinogen 4.9. urea 52 mg/dl, creatinina 0.75 mg/dl, fg 79 ml/min/1.73m2. na 139.3 mmol/l, k 4.49 mmol/l, ca 8.7 mg/dl, p 3.2 mg/dl. albumina 2.8 g/dl, proteïna 5.1 g/dl. perfil hepatic sense alteracions.
 complicacions durant l'ingres: 1) po fx maluc.
 no incidencies locals aparentment.
 s'ha fet suplemetnacio amb ferro, vitamian d i proteïnes.
@@ -87,8 +50,7 @@ en curs d'o2 vmk 0.26/3lpm.
 4) icc descompensada lleu, resolta.
 ferogrdaumet 1c/d x 8 setmanes.
 hidroferol 266mcg, 1amp/4 setmanes.
-nhc ** *** *** &nbsp;(********) &nbsp;atr-v-tra 2/3 lopd uc: cultiu: pseudomonas aeruginosa cipro-s.
-ferogrdaumet 1c/d x 8 setmanes.
+nhc ** *** *** &nbsp;(********) &nbsp;atr-v-tra 2/3 lopd uc: cultiu: pseudomonas aeruginosa cipro-s. ferogrdaumet 1c/d x 8 setmanes.
 hidroferol 266mcg, 1amp/4 setmanes.
 ciprofloaxina oral 500mg/12h i que haura de cumplir x 14 dies.
 debido a la buena evolucion clinica y local del paciente se decide el alta hospitalario bajo las siguientes indicaciones.

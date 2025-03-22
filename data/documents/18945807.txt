@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 18.07.1936 edat: 81 anys procedencia domicil/res.
-soc servei medicina interna data d'ingres 22.06.2018 data d'alta 29.06.2018 10:00:00 ates per dr. ******/dr.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 18.07.1936 edat: 81 anys procedencia domicil/res.soc servei medicina interna data d'ingres 22.06.2018 data d'alta 29.06.2018 10:00:00 ates per dr. ******/dr.
 ******* (dra. *****, dra. *****, dr. *****) informe d'alta d'hospitalitzacio motiu d'ingres paciente varon de 81 años que es derivado por hiperglicemia.
 antecedents sin alergias medicamentosas conocidas.
 sin habitos toxicos.
@@ -7,39 +6,19 @@ antecedentes patologicos: -hipertension arterial en tratamiento con iecas.
 - artrosis severa . desde hace años demabulaba con muletas y andador hasta hace unos 3-4 meses, momento en el que presenta encamamiento progresivo.
 - sindrome depresivo en tratamiento con sertralina.
 situacion sociofuncional: vive con su mujer.
-parcialmente dependiente para las abvd (come solo, necesita ayuda para vestirse y ducharse).
-deterioro cognitivo leve-moderado.
-medicacio habitual adiro 100mg/24h, enalapril 5mg/12h, quetiapina 25mg/24h, sertralina 100mg/24.
-proces actual la familia explica perdida de peso de 8 kg de dos meses asociando polidipsia y poliuria desde hace 15 dias y presentando el pasado dia 17.06 una caida desde la cama sin perdida de conocimiento ni tce asociado.
+parcialmente dependiente para las abvd (come solo, necesita ayuda para vestirse y ducharse). deterioro cognitivo leve-moderado.
+medicacio habitual adiro 100mg/24h, enalapril 5mg/12h, quetiapina 25mg/24h, sertralina 100mg/24. proces actual la familia explica perdida de peso de 8 kg de dos meses asociando polidipsia y poliuria desde hace 15 dias y presentando el pasado dia 17.06 una caida desde la cama sin perdida de conocimiento ni tce asociado.
 al dia siguiente el paciente presenta nasueas y vomitos sin relacion con la ingesta ni dolor abdominal y mal estado general, motivo por el que el 22.06 avisan al sem que acude a domicilio derivandolo a urgencias de nuestro centro tras evidenciar hiperglucemia.
-exploracio fisica ta: 117/66mmhg, fc: 99lpm, t: 36.4ºc, sato2: 96 % (aa).
-buen estado general, sequedad de mucosas, caquectico . cardiovascular: tonos cardiacos ritmicos, no ausculto soplos, no ingurguitacion yugular ni reflujo hepatoyugular, pulsos perfiericos presentes simetricos.
+exploracio fisica ta: 117/66mmhg, fc: 99lpm, t: 36.4ºc, sato2: 96 % (aa). buen estado general, sequedad de mucosas, caquectico . cardiovascular: tonos cardiacos ritmicos, no ausculto soplos, no ingurguitacion yugular ni reflujo hepatoyugular, pulsos perfiericos presentes simetricos.
 no signos de tvp.
 respiratorio: eupneico en reposo con disminucion del murmullo vesicular de forma generalizada sin ruidos sobreañadidos.
 abdomen no doloroso a la palpacion, no palpo masas ni visceromegalias, peristaltismo conservado.
 no signos de peritonitis.
 neurologico: consciente, desorientado en tiempo y espacio sin aparente focalidad neurologica aguda, sensibilidad y fuerza conservadas.
-nhc ** *** *** (********) age-v-mi2 1/3 lopd exploracio complementaria -eab : ph 7.27, pco2 37mmhg, po2 43mmhg, hco3 17.2mmol/l, eb -9.9mmol/l, glucemia &gt; 750mg/dl.
-cetonemia high.
--ecg : eje a -60º, politopia auricular a 100lpm, pr 120msg, qrs 80msg, t negativas en di avl , v2 -analitica urgente : ck: 2.
-6 - 2.
-5 - 3.
-7 ng/ml; troponina i: 0.143 - 0.151 - 0.226 ng/ml.
--sedimento de orina : leucocits 4.8cel/il, eritrocits 11cel/il, cel·lules epitelials 2.6cel/il, cilindres hialins 1.32cil/il, bacteris 121 bact/il.
+nhc ** *** *** (********) age-v-mi2 1/3 lopd exploracio complementaria -eab : ph 7.27, pco2 37mmhg, po2 43mmhg, hco3 17.2mmol/l, eb -9.9mmol/l, glucemia &gt; 750mg/dl. cetonemia high.
+-ecg : eje a -60º, politopia auricular a 100lpm, pr 120msg, qrs 80msg, t negativas en di avl , v2 -analitica urgente : ck: 2.6 - 2.5 - 3.7 ng/ml; troponina i: 0.143 - 0.151 - 0.226 ng/ml. -sedimento de orina : leucocits 4.8cel/il, eritrocits 11cel/il, cel·lules epitelials 2.6cel/il, cilindres hialins 1.32cil/il, bacteris 121 bact/il.
 cultivo de orina contaminado.
--analitica de ingreso : hb 13.
-0 g/dl, leucocitos 8.130 (can 6.800, cal 400), plaquetas 90.000; tp 82%; glucosa 62mg/dl, hba1c 13.
-9%, urea 29 mg/dl, cr 0.57 mg/dl, urato 2.
-7 mg/dl, bilirrubina 0.65 mg/dl; na+ 140.
-8 mmol/l, k+ 3.39 mmol/l, ca2+ 8.
-2 mg/dl; ast/alt 38/21 ui/l, fa 84 ui/l, ggt 25 ui/l; colesterol 140 mg/dl, tags 113 mg/dl; proteina 4.
-9 g/dl, albumina 2.
-6 g/dl; tsh 3.426 mu/l, t4l 1.25 ng/dl.
-*marcadores tumorales: cea 1.
-0 ng/ml, ca-19-9 13.
-7 u/ml.
--radiografia de torax : rotada, ict &gt; 0.
-5, parenquima pulmonar sin aparentes condensaciones, senos costofrenicos no valorables.
+-analitica de ingreso : hb 13.0 g/dl, leucocitos 8.130 (can 6.800, cal 400), plaquetas 90.000; tp 82%; glucosa 62mg/dl, hba1c 13.9%, urea 29 mg/dl, cr 0.57 mg/dl, urato 2.7 mg/dl, bilirrubina 0.65 mg/dl; na+ 140.8 mmol/l, k+ 3.39 mmol/l, ca2+ 8.2 mg/dl; ast/alt 38/21 ui/l, fa 84 ui/l, ggt 25 ui/l; colesterol 140 mg/dl, tags 113 mg/dl; proteina 4.9 g/dl, albumina 2.6 g/dl; tsh 3.426 mu/l, t4l 1.25 ng/dl. *marcadores tumorales: cea 1.0 ng/ml, ca-19-9 13.7 u/ml. -radiografia de torax : rotada, ict &gt; 0.5, parenquima pulmonar sin aparentes condensaciones, senos costofrenicos no valorables.
 - tc abdominal : glandula pancreatica de pequeño tamaño, atrofica, con lipomatosis difusa, sin identificarse lesiones focales ni dilatacion significativa del conducto pancreatico.
 ureterohidronefrosis bilateral secundaria a globo vesical , observandose una vejiga de paredes trabeculadas, probablemente en relacion a patologia prostatica.
 evolucio clinica a su llegada a urgencias estable, afebril, destacando a la exploracion fisica sequedad mucosa.
@@ -48,8 +27,7 @@ bajo la sospecha de cetoacidosis diabetica se inicia sueroterapia con reposicion
 se solicita valoracion por cardiologia que realiza ecoscopia sin evidenciar disfuncion sistolica aparente.
 en planta permanece estable.
 revisando analiticas previas ambulatorias, en marzo se objetivaba alteracion de glucemia en ayunas (190mg/dl), sin recibir tratamiento.
-se solicita analitica con hba1c de 13.
-9% y funcion tiroidal que es normal; marcadores tumorales negativos.
+se solicita analitica con hba1c de 13.9% y funcion tiroidal que es normal; marcadores tumorales negativos.
 ampliamos estudio con tc abdominal que descarta patologia tumoral subyacente pero muestra globo vesical con ureterohidronefrosis bilateral; se recoloca sonda vesical , retirada a su llegada a planta, y se inicia tamsulosina.
 se ajusta insulinoterapia y se realiza educacion diabetologica, considerando por las caracteristicas del paciente prioritatio evitar hipoglucemias.
 ante estabilidad clinica se decide alta a domicilio.
@@ -58,11 +36,9 @@ hipertension arterial.
 deterioro cognitivo moderado.
 globo vesical.
 ureterohidronefrosis bilateral secundaria.
-tractament i recomanacions a l'alta -dieta sin sal y de diabetico (se adjunta).
--insulina lantus 28 unidades por la mañana.
+tractament i recomanacions a l'alta -dieta sin sal y de diabetico (se adjunta). -insulina lantus 28 unidades por la mañana.
 nhc ** *** *** (********) age-v-mi2 2/3 lopd -tamsulosina 0.4mg 1 comprimido por la mañana.
--medicacion habitual sin cambios: adiro 100mg/24h, enalapril 5mg/12h, quetiapina 25mg/24h, sertralina 100mg/24.
-control acudir a su ambulatorio en 10 dias para retirar sonda vesical.
+-medicacion habitual sin cambios: adiro 100mg/24h, enalapril 5mg/12h, quetiapina 25mg/24h, sertralina 100mg/24. control acudir a su ambulatorio en 10 dias para retirar sonda vesical.
 derivar de forma preferente a urologo/a de zona.
 control por su medico de familia y resto de especialistas habituales.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-mi2 3/3 lopd

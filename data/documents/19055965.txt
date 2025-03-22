@@ -1,6 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 06.11.1963 edat: 54 anys procedencia cex mateix hosp servei raquis data d'ingres 01.08.2018 data d'alta 08.08.2018 11:24:04 ates per sol.
-licitant, sol.
-licitant; ****************, ******; **********, *****; *********, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents antecedents patologic asma intermitent lleu, sense complicacions altres tipus d'hiperlipidemia hipertensio (primaria) essencial paciente intervenida previamente de artroplastita cervivcal c5c6 y c6c7 hace 5 años secundario a fracturas en contexto de accidente de trafico.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 06.11.1963 edat: 54 anys procedencia cex mateix hosp servei raquis data d'ingres 01.08.2018 data d'alta 08.08.2018 11:24:04 ates per sol.licitant, sol.licitant; ****************, ******; **********, *****; *********, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents antecedents patologic asma intermitent lleu, sense complicacions altres tipus d'hiperlipidemia hipertensio (primaria) essencial paciente intervenida previamente de artroplastita cervivcal c5c6 y c6c7 hace 5 años secundario a fracturas en contexto de accidente de trafico.
 sindrome de fatiga cronica, fibromialgia, refiere estar cansada todo el dia.
 obesidad.
 // j45.20 ("asma intermitent lleu, sense complicacions") // j45.20 ("asma intermitent lleu, sense complicacions") otras intervenciones: monorrena(retirade riñon izquierdo), ligadura tubarica, histerctomia, artrodsis cervial c6, medicacio habitual medicacion ( anagastra,citalopram,deprax,hidroclorotiazida,valsartan, relvar, ventolin, simvastatina,lyrica,deprax ) proces actual paciente que ingresa de fomra porgramada para intervenirse de pfsi cervical a cargo de la unidad de raquis . exploracio complementaria pruebas comeplementarias que no contraindican la cirugia.
@@ -11,11 +9,9 @@ controles analiticos y radiologicos correctos.
 diuresis y deposciciones conservadas, dieta bien tolerada.
 se realiza tc el dia 7.8.2018, de control, valorado por equipo de raquis, sin alteraciones que requieran de tto en el momento actual.
 nhc ** *** *** (********) atr-v-raq 1/2 lopd debido a la buena evolucion se decide alta hospitalaria bajo las siguientes indicaciones.
-orientacio diagnostica 336.
-9/3 mielopatia g95.29 altres tipus de compressio medul·lar tractament i recomanacions a l'alta reposo relativo curas topicas periodicas.
+orientacio diagnostica 336.9/3 mielopatia g95.29 altres tipus de compressio medul·lar tractament i recomanacions a l'alta reposo relativo curas topicas periodicas.
 retirada de agrafes cutaneos en 15 dias postoperatorios.
-collarin cervical hasta visita en cex para sedestacion y deambulacion (blando).
-para usar transporte publico o desplazamiento en coche usar collarin rigido.
+collarin cervical hasta visita en cex para sedestacion y deambulacion (blando). para usar transporte publico o desplazamiento en coche usar collarin rigido.
 continuar con pauta de medicacion habitual.
 sumar: zaldiar 1g/8 horas nolotil 575mg/8 horas alternas omeprazol 20mg/24 horas.
 control control en cex raq segun hoja adjunta si signos de alarma reconsultar en urgencias.

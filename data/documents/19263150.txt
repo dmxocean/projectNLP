@@ -18,13 +18,8 @@ no otra sintomatologia de interes adjunto exploraciones del hospital de mollet: 
 eco abd : feto unico en podalica, doroso derecho, movimientos fetales activos, biometrias concordantes con edad gestacional.
 ecotv : lc de 8mm, con funneling importante.
 nst: ausencia de du objetivable.
-as: hb 11.
-3; htco 34; leucocitos 13630 sin neutrofilia (66.
-4%), plaquetas 290000, tp 96%,; ttpa 21 segundos; pcr 0.3.
-serologias vhb, vhc, vih negativas.
-su: negativo resumen gestacional nacionalidad: ecuador (llego hace 1 mes) analiticas: nhc ** *** *** (********) ami-v-aro 1/3 lopd 1t: no consta 2t: hb 11.
-4; ht 33.
-9 serologias y estudios de zika no constan urocultivo: negativo o'sullivan: no consta ts: no realizado ecografias: 1t: no consta 2t: morfologia normal, sexo femenino, lc: 8mm.
+as: hb 11.3; htco 34; leucocitos 13630 sin neutrofilia (66.4%), plaquetas 290000, tp 96%,; ttpa 21 segundos; pcr 0.3. serologias vhb, vhc, vih negativas.
+su: negativo resumen gestacional nacionalidad: ecuador (llego hace 1 mes) analiticas: nhc ** *** *** (********) ami-v-aro 1/3 lopd 1t: no consta 2t: hb 11.4; ht 33.9 serologias y estudios de zika no constan urocultivo: negativo o'sullivan: no consta ts: no realizado ecografias: 1t: no consta 2t: morfologia normal, sexo femenino, lc: 8mm.
 exploracio fisica beg.
 nc y nh expl.
 abdominal: abdomen gravido de acuerdo con las semanas de gestacion.
@@ -34,13 +29,9 @@ especulo: cervix y vagina normales.
 no metrorragia ni hidrorrea.
 se tomanb muestras para cultivos vgainal, endocervical, y rectovaginal.
 ecotv: lc de 14mm.
-funneling +.
-eco abd: feto unico en podalica, lcf +, placenta anterior, lan.
-dopplers normales ip au 1.54, ip acm 1.72 icp 1.116.
-nst (toco): 2 contracciones aisladas en 1h de monitorizacion.
-as: hb 10.
-6, hto 32.
-8%, leucos 12200 (n n60%), plaquetas 270000, pcr 0.34 evolucio clinica ingresa gestante de 22+1 semanas por cervix corto.
+funneling +. eco abd: feto unico en podalica, lcf +, placenta anterior, lan.
+dopplers normales ip au 1.54, ip acm 1.72 icp 1.116. nst (toco): 2 contracciones aisladas en 1h de monitorizacion.
+as: hb 10.6, hto 32.8%, leucos 12200 (n n60%), plaquetas 270000, pcr 0.34 evolucio clinica ingresa gestante de 22+1 semanas por cervix corto.
 antecedente de parto prematuro a las 31 semanas.
 se realiza amniocentesis para descartar corioamnionitis subclinica.
 procedimiento sin incidencias.

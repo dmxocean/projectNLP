@@ -1,21 +1,15 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 24.07.1934 edat: 84 anys procedencia domicil/res.
-soc servei neurotraumatologia data d'ingres 25.07.2018 data d'alta 28.07.2018 08:08:55 ates per **************, **** informe d'alta d'hospitalitzacio motiu d'ingres alteracion del estado general.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 24.07.1934 edat: 84 anys procedencia domicil/res.soc servei neurotraumatologia data d'ingres 25.07.2018 data d'alta 28.07.2018 08:08:55 ates per **************, **** informe d'alta d'hospitalitzacio motiu d'ingres alteracion del estado general.
 antecedents - alergias : tetraciclina , sulfametoxazol, pirazolonas , espiramicina.
 - hipertension arterial.
 - dm2 - disnea y angor cf ii-iii.
-ecocardiograma con hipertrofia severa asimetrica no confirmada por rm cardiaca ( - hipertension arteria pulmonar severa en ecocardiograma (2014).
-espirometria con patron restrictivo, no severo.
+ecocardiograma con hipertrofia severa asimetrica no confirmada por rm cardiaca ( - hipertension arteria pulmonar severa en ecocardiograma (2014). espirometria con patron restrictivo, no severo.
 - fibrilacion auricular permanente . s - disena multifactorial - obesidad . - intervenciones previas: cataratas bilateral, sinusitis en la juventud.
-medicacio habitual atenolol 100mg 1/24h; diazepam 5mg 1/12h; ferrocur 40mg bebible 1amp/24h; furosemida 40mg 1/24h; hidroferol 0,1mg gotas 1ml x 7 dias; losartan 50mg segun dia; masdil 120mg 1/24; metformina 850mg 1/12h; omeprazol 20mg 1/24h; palexia retard 50mg 3/24h; pradaxa 110mg 1/12h; simvastatina 20mg 1/24h; tirodril 5mg 0,5/24h.
-proces actual paciente mujer de 84 años anticoagulada con davigatran que acude a urgencias por cuadro de alteracion fluctuante del nivel de cosnciencia desde el domingo 22 coincidiendo con hipoglucemia.
+medicacio habitual atenolol 100mg 1/24h; diazepam 5mg 1/12h; ferrocur 40mg bebible 1amp/24h; furosemida 40mg 1/24h; hidroferol 0,1mg gotas 1ml x 7 dias; losartan 50mg segun dia; masdil 120mg 1/24; metformina 850mg 1/12h; omeprazol 20mg 1/24h; palexia retard 50mg 3/24h; pradaxa 110mg 1/12h; simvastatina 20mg 1/24h; tirodril 5mg 0,5/24h. proces actual paciente mujer de 84 años anticoagulada con davigatran que acude a urgencias por cuadro de alteracion fluctuante del nivel de cosnciencia desde el domingo 22 coincidiendo con hipoglucemia.
 la familia refiere que desde entonces ha alternado episodios de somnolencia con nivel de consciencia normal, ademas refieren empeoramiento de la marcha, desorientacion y alteraciones del lenguaje.
 la familia refiere vida activa normal, independiente, vive con su hermana.
-sale a pasear acompañada (refieren algunos ''despiestes'' en los ultimos meses).
-no datos de crisis comicial, no nauseas ni vomitos.
-en la anamnesis dirigida refieren caida hace 2 semanas sin que se pueda precisar si hubo traumatismo craneal (caida no presenciada, la paciente no lo recuerda).
-exploracio fisica al ingreso: - conciente, orientada y colaboradora.
-glasgow 15.
-- pupilas isocoricas (lentes intraoculares), normorreactivas.
+sale a pasear acompañada (refieren algunos ''despiestes'' en los ultimos meses). no datos de crisis comicial, no nauseas ni vomitos.
+en la anamnesis dirigida refieren caida hace 2 semanas sin que se pueda precisar si hubo traumatismo craneal (caida no presenciada, la paciente no lo recuerda). exploracio fisica al ingreso: - conciente, orientada y colaboradora.
+glasgow 15. - pupilas isocoricas (lentes intraoculares), normorreactivas.
 - fuerza simetrica en miembros superiores, dudosa asimetria en inferiores con debilidad en izquierda.
 - reflejo plantar flexor bilateral.
 nhc ** *** *** (********) atr-v-ntr 1/2 lopd exploracio complementaria - tc craneal (25.
@@ -34,5 +28,4 @@ tractament i recomanacions a l'alta - paracetamol 1 gr cada 8 horas si tiene dol
 - enoxaparina 40 mg: 1 inyeccion subcutanea cada 24 horas hasta revision enconsultas.
 - no tomar davigatran.
 - resto de tratamiento continuar igual que venia realizando.
-control acudir a consulta de revision con la dra. ******** el dia 1 de julio a las 12:00 horas en consultas de neurocirugia (la planta 0 del hospital de traumatologia).
-destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-ntr 2/2 lopd
+control acudir a consulta de revision con la dra. ******** el dia 1 de julio a las 12:00 horas en consultas de neurocirugia (la planta 0 del hospital de traumatologia). destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-ntr 2/2 lopd

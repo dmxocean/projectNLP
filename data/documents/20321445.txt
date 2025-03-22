@@ -1,14 +1,9 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 17.02.2006 edat: 13 anys procedencia cex mateix hosp servei nefrologia ped.
-data d'ingres 03.10.2019 data d'alta 04.10.2019 13:47:59 ates per *************, ******; *************, **** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 13 años con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal . antecedents antecedentes personales - nacido en brasil el 17/2/2006.
-embarazo controlado.
+data d'ingres 03.10.2019 data d'alta 04.10.2019 13:47:59 ates per *************, ******; *************, **** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 13 años con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal . antecedents antecedentes personales - nacido en brasil el 17/2/2006. embarazo controlado.
 gemelar ii.
-rnpt/paeg (37 sem/2100kg).
-cesarea por gemelar.
+rnpt/paeg (37 sem/2100kg). cesarea por gemelar.
 -actualmente cursa segundo año con buen desempeño escolar y buena relacion con sus pares.
--convive con la madre (47 años, medicada con ansioliticos).
-2 hermanos ( gemelo y otro de 17 años sanos ).
-los padres se divorciaron hace un año.
-el padre convive con nueva esposa y 2 hijastros.
+-convive con la madre (47 años, medicada con ansioliticos). 2 hermanos ( gemelo y otro de 17 años sanos ). los padres se divorciaron hace un año. el padre convive con nueva esposa y 2 hijastros.
 antecedentes patologicos: - agosto 2008(2 años): se interna en mexico por oliguria y edemas, en contexto de tratamiento por escarlatina.
 proteinuria 148 mg/m2/hora.
 hipercolesterolemia.
@@ -23,13 +18,10 @@ no negtiviza proteinuria (11mg/m2/hora) -15 de mayo 2009: biopsia renal: 15 glom
 lesiones glomerulares minimas.
 enfermedad de celulas epiteliales viscerales con 2 sinequias.
 sin esclerosis.
-fibrosis intersticial grado 0.
-comienza tratamiento con ciclosporina 5mg/kg -junio 2010: segunda recaida . realiza 12 semanas de prednisona no recuerda dosis.
+fibrosis intersticial grado 0. comienza tratamiento con ciclosporina 5mg/kg -junio 2010: segunda recaida . realiza 12 semanas de prednisona no recuerda dosis.
 -septiembre 2011: tercera recaida.
 no recuerda tratamiento.
--diciembre 2011: infeccion por herpes(proteinuria negativa).
--septiembre 2012: toxicidad a la ciclosporina ( aumento de transaminasas).
-se decide disminuir dosis a 2.5mg/kg . normalizacion de transaminasas en un mes.
+-diciembre 2011: infeccion por herpes(proteinuria negativa). -septiembre 2012: toxicidad a la ciclosporina ( aumento de transaminasas). se decide disminuir dosis a 2.5mg/kg . normalizacion de transaminasas en un mes.
 suspende ciclosporina en febrero 2013 . -abril 2013: cuarta recaida.
 infeccion respiratoria.
 tto: prednisona por 12 semanas . reinicia tratamiento para la hipertension con propanolol a 3mg/kg.
@@ -39,65 +31,37 @@ comienza en enero 2014 levamisole.
 comienza con cliclosporina ( no recuerda cuanto tiempo) -diciembre 2014-mayo 2015: septima y octava recaida.
 tratamiento con prednisona.
 -junio 2015: novena recaida.
-tratamiento con rituximab ( junio y julio 2015 en londres).
-refiere libre de recaidas por un año (unico periodo de la enfermedad libre de recaidas y libre de tratamiento) -agosto 2016: comienza seguimiento en españa con dr. ***** que alterna tratamiento entre corticoides y micofenolato.
+tratamiento con rituximab ( junio y julio 2015 en londres). refiere libre de recaidas por un año (unico periodo de la enfermedad libre de recaidas y libre de tratamiento) -agosto 2016: comienza seguimiento en españa con dr. ***** que alterna tratamiento entre corticoides y micofenolato.
 desde junio 2019 se encuentra con tratamiento combinado con prednisolona 60mg/m2/dia y micofenolato 750 mg cada 12 hs diario.
 - 19 septiembre de 2019 ingresa para bolus de corticoides.
-se administra metilprednisolona 1g a dias alternos los dias 19.09, 21.09 y 23.09.
-previo a la ultima dosis de corticoide se objetiva negativizacion de la proteinuria.
+se administra metilprednisolona 1g a dias alternos los dias 19.09, 21.09 y 23.09. previo a la ultima dosis de corticoide se objetiva negativizacion de la proteinuria.
 pendientes: nhc ** *** *** &nbsp;(********) &nbsp;ami-v-nfp 1/4 lopd - en el control general del paciente destada hipogammaglobulinemia marcada (igg 200mg/dl) con serologias negativas a parotiditis y sarampion.
-quedara pendiente en la evolucion revacunar (solicitada primera visita a medicina preventiva).
-- el paciente presento una fractura de tibia y perone derechos el pasado año.
-ademas aqueja dolores oseos intermitentes en ambas extremidades.
+quedara pendiente en la evolucion revacunar (solicitada primera visita a medicina preventiva). - el paciente presento una fractura de tibia y perone derechos el pasado año. ademas aqueja dolores oseos intermitentes en ambas extremidades.
 quedara pendiente, en el seguimiento, realizar densitometria.
 edad osea correspondiente a edad.
-medicacio habitual dacortin 30mg: 2 comprimidos al dia micofenolato mofetilo 500mg: 2comprimidos cada 12 horas simvastatina 10mg al dia (por la noche).
-vitamina d 2000ui/ml: 1ml cada 24 horas septrin forte (160+800mg): 1 comprimido los lunes, miercoles y viernes.
-omeprazol 20mg: 1 comprimido cada 24 horas (por la mañana).
-proces actual paciente de 13 años con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal.
+medicacio habitual dacortin 30mg: 2 comprimidos al dia micofenolato mofetilo 500mg: 2comprimidos cada 12 horas simvastatina 10mg al dia (por la noche). vitamina d 2000ui/ml: 1ml cada 24 horas septrin forte (160+800mg): 1 comprimido los lunes, miercoles y viernes.
+omeprazol 20mg: 1 comprimido cada 24 horas (por la mañana). proces actual paciente de 13 años con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal.
 en tratamiento con corticoides a dosis plenas y micofenolato desde junio 2019 sin respuesta.
 ingresa el 19.09.2019 para administracion de 3 bolus de corticoides a dias alternos.
 previo a la ultima dosis de corticoide, se objetiva negativizacion de la proteinuria.
-se realizo una orina 24 horas cursada el 26.09.2019.
-exploracio fisica peso: 52.
-5 kg (p44) talla: 155 cm (p21) imc: 21.89 kg/m2(pc62) sc: 1.
-5 m2 afebril, constantes estables: fc: 83 lpm , ta:103/73 - 96/56- 98/55 mmhg percentiles de ta para su edad, sexo y talla: p99-95 para la edad 118-110/79-71mmhg tep estable paciente cob buen estado general, normohidratado, normocoloreado, normoperfundido.
+se realizo una orina 24 horas cursada el 26.09.2019. exploracio fisica peso: 52.5 kg (p44) talla: 155 cm (p21) imc: 21.89 kg/m2(pc62) sc: 1.5 m2 afebril, constantes estables: fc: 83 lpm , ta:103/73 - 96/56- 98/55 mmhg percentiles de ta para su edad, sexo y talla: p99-95 para la edad 118-110/79-71mmhg tep estable paciente cob buen estado general, normohidratado, normocoloreado, normoperfundido.
 - aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
 espiracion normal.
 - aparato cardiocirculatorio: tonos ritmicos, no ausculto soplos, pulsos perifericos presentes y simetricos.
 perfusion distal conservada.
-llenado capilar menor 2".
-- abdomen: blando y depresible, no masas ni megalias, no doloroso a la palpacion.
+llenado capilar menor 2". - abdomen: blando y depresible, no masas ni megalias, no doloroso a la palpacion.
 peristaltismo conservado.
 - genitales: prepucion rebatible, testiculos se palpan en bolsa escrotal.
 vello pubico fino claro y escaso en base del pene.
 tanner 2/3 - nrl: consciente y orientado.
 no signos de irritacion meningea ni focalidad neurologica.
-exploracio complementaria orina 24h 26.09.2019: volumen 1900ml, proteinuria 2.5mg/m2/h.
-analitica al ingreso 03.10.2019 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-nfp 2/4 lopd hemograma: hemoglobina 14.
-5 g/dl, hematoccrito 41.
-5%, vcm 75.3fl, reticulocitos 90.9x10e9/l, leucocitos 15.97x109/l (neutrogilos 63.
-3%, linfocitos 26.
-4%), plaquetas 199x10e9/l, coagulacion: tiempo de protrombina 11.
-9 segundos, inr 1, ttpa 0.88 ratio, ttpa 25 segundos, fibrinogeno derivado 4.58g/l, bioquimica: glucosa 76 mg/dl, urea 39 mg/dl, creatinina 0.45 mg/dl, urato 5.
-7 mg/dl, na 138.4mmol/l, k 4.22 mmol/l, cl 103 mmol/l, p 4.
-7 mg/dl, mg 2.
-2 mg/dl, ca 9.
-1 mg/dl, ast 23 ui/l, alt 36 ui/l, colesterol 240 mg/dl, hdl 61 mg/dl, ldl 162 mg/dl, trigliceridos 85 mg/dl, proteina 5.
-8 g/dl, albumina 3.
-8 g/dl, igm 79 mg/dl, iga 79 mg/dl, igg 227 mg/dl.
-farmacos: acido micogenolico 4.07 ug/ml metabolismo calcio/fosforo: calcidiol 21.
-1 ng/ml, paratirina 72.
-6 pg/ml.
-analisis de orina: sedimento negativo, prot/cr 0.076g/g, b2 y albuminuria negativas.
+exploracio complementaria orina 24h 26.09.2019: volumen 1900ml, proteinuria 2.5mg/m2/h. analitica al ingreso 03.10.2019 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-nfp 2/4 lopd hemograma: hemoglobina 14.5 g/dl, hematoccrito 41.5%, vcm 75.3fl, reticulocitos 90.9x10e9/l, leucocitos 15.97x109/l (neutrogilos 63.3%, linfocitos 26.4%), plaquetas 199x10e9/l, coagulacion: tiempo de protrombina 11.9 segundos, inr 1, ttpa 0.88 ratio, ttpa 25 segundos, fibrinogeno derivado 4.58g/l, bioquimica: glucosa 76 mg/dl, urea 39 mg/dl, creatinina 0.45 mg/dl, urato 5.7 mg/dl, na 138.4mmol/l, k 4.22 mmol/l, cl 103 mmol/l, p 4.7 mg/dl, mg 2.2 mg/dl, ca 9.1 mg/dl, ast 23 ui/l, alt 36 ui/l, colesterol 240 mg/dl, hdl 61 mg/dl, ldl 162 mg/dl, trigliceridos 85 mg/dl, proteina 5.8 g/dl, albumina 3.8 g/dl, igm 79 mg/dl, iga 79 mg/dl, igg 227 mg/dl. farmacos: acido micogenolico 4.07 ug/ml metabolismo calcio/fosforo: calcidiol 21.1 ng/ml, paratirina 72.6 pg/ml. analisis de orina: sedimento negativo, prot/cr 0.076g/g, b2 y albuminuria negativas.
 radiologia biopsia renal 03.10.2019: bag de riñon guiada por ecografia.
 se realiza biopsia ecoguiada con aguja de 18g (1 pases de 22 mm) en tercio inferior del riñon izquierdo bajo sedacion, previa administracion de anestesia local.
 en el estudio postbiopsia se aprecia discreto hematoma perirrenal con signos de sangrado activo pericapsular focal.
-posteriormente a compresion manual se aprecia colapso y desaparicion de dicho punto pericapsular en el estudio doppler color, resultando hematoma perirrenal de 40 x 10 mm (alrededor de polo inferior).
-sin otras incidencias durante el procedimiento.
+posteriormente a compresion manual se aprecia colapso y desaparicion de dicho punto pericapsular en el estudio doppler color, resultando hematoma perirrenal de 40 x 10 mm (alrededor de polo inferior). sin otras incidencias durante el procedimiento.
 se recomienda reposo absoluto, control de constantes y ecografia de control en 24 horas segun protocolo.
-ecografia control tras biopsia renal 04.10.2019: hematoma perirrenal en polo inferior del riñon de 8.
-2 mm de diametro maximo.
+ecografia control tras biopsia renal 04.10.2019: hematoma perirrenal en polo inferior del riñon de 8.2 mm de diametro maximo.
 no identifico imagenes de fistulas arteriovenosas.
 evolucio clinica paciente de 13 años con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal.
 a su ingreso hemodinamicamente estable, sin incidencias desde ultimo ingreso.
@@ -112,21 +76,14 @@ buena evolucion posterior.
 ecografia a las 24h muestra estabilidad del hematoma (incluso reduccion) y ausencia de presencia de fistulas arteriovenosas.
 paciente asintomatico, sin dolor y con correcta ingesta.
 pendiente de estudio anatomopatologico al alta.
-se reduce corticoterapia de 60mg/m2/dia a 40mg/m2/48h.
-debera mantener esta dosis al menos un mes para descenso posterior progresivo.
+se reduce corticoterapia de 60mg/m2/dia a 40mg/m2/48h. debera mantener esta dosis al menos un mes para descenso posterior progresivo.
 se da de alta de hospitalizacion el dia 04.10.2019 con una exploracion compatible con la normalidad.
 ta conservadas al alta (110/60mmhg), afebril y con buen estado general.
 ausencia de proteinuria.
-orientacio diagnostica z87.441 antecedents personals de sindrome nefrotica nhc ** *** *** &nbsp;(********) &nbsp;ami-v-nfp 3/4 lopd procediments analitica general via periferica biopsia renal guiada ecograficamente ecografia renal tractament i recomanacions a l'alta dacortin 30mg: 1.
-5 comprimidos cada 48 horas (45mg en total a dias alternos).
-micofenolato mofetilo: 1 gramo cada 12 horas simvastatina 10mg al dia (por la noche).
-vitamina d 2000ui/ml: 1ml cada 24 horas septrin forte (160+800mg): 1 comprimido los lunes, miercoles y viernes.
-omeprazol 20mg: 1 comprimido cada 24 horas (por la mañana).
-control proxima visita el 14.10.2019 para entrega resultados y control analitico.
+orientacio diagnostica z87.441 antecedents personals de sindrome nefrotica nhc ** *** *** &nbsp;(********) &nbsp;ami-v-nfp 3/4 lopd procediments analitica general via periferica biopsia renal guiada ecograficamente ecografia renal tractament i recomanacions a l'alta dacortin 30mg: 1.5 comprimidos cada 48 horas (45mg en total a dias alternos). micofenolato mofetilo: 1 gramo cada 12 horas simvastatina 10mg al dia (por la noche). vitamina d 2000ui/ml: 1ml cada 24 horas septrin forte (160+800mg): 1 comprimido los lunes, miercoles y viernes.
+omeprazol 20mg: 1 comprimido cada 24 horas (por la mañana). control proxima visita el 14.10.2019 para entrega resultados y control analitico.
 se entregan citaciones.
 pendiente - en el control general del paciente destada hipogammaglobulinemia marcada (igg 200mg/dl) con serologias negativas a parotiditis y sarampion.
-quedara pendiente al reducir dosis de corticoide revacunar (solicitada primera visita a medicina preventiva).
-- el paciente presento una fractura de tibia y perone derechos el pasado año.
-ademas aqueja dolores oseos intermitentes en ambas extremidades.
+quedara pendiente al reducir dosis de corticoide revacunar (solicitada primera visita a medicina preventiva). - el paciente presento una fractura de tibia y perone derechos el pasado año. ademas aqueja dolores oseos intermitentes en ambas extremidades.
 quedara pendiente, en el seguimiento, realizar densitometria.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-nfp 4/4 lopd

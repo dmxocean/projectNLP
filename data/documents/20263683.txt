@@ -1,11 +1,9 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 22.09.2018 edat: 11 mesos procedencia cex mateix hosp servei medicina pediatrica data d'ingres 12.09.2019 data d'alta 16.09.2019 11:31:04 ates per ****************, ****; ************, ****; ***********, ***; *****;;; *************, mariona informe d'alta d'hospitalitzacio motiu d'ingres paciente de 11 meses que ingresa en unidad de hospitalizacion pediatrica el dia 12.09.2019 por absceso cutaneo.
 antecedents sin alergias conocidas calendario vacunal al dia antecedentes patologicos: - fistula en manubrio esternal de 17mm longitud, 4x3mm axial.
 en seguimiento por cirugia maxilofacial.
-un episodio de sobreinfeccion en junio de 2019.
-medicacio habitual no refiere.
+un episodio de sobreinfeccion en junio de 2019. medicacio habitual no refiere.
 proces actual paciente que acude por presentar absceso cutaneo en region esternal.
-habia sido visitada dos veces en urgencias por presentar, desde hace 7 dias aproximadamente, masa en region esternal edematosa y caliente en zona de trayecto fistuloso (ya conocido).
-se orienta como absceso cutaneo por lo que se pauta amoxicilina/ac.
+habia sido visitada dos veces en urgencias por presentar, desde hace 7 dias aproximadamente, masa en region esternal edematosa y caliente en zona de trayecto fistuloso (ya conocido). se orienta como absceso cutaneo por lo que se pauta amoxicilina/ac.
 clavulanico y altan a domicilio.
 la madre refiere que a pesar de la administracion antibiotica, con la que relaciona la aparicion de lesiones cutaneas en cara y cuello, la masa ha incrementado de tamaño pero no ha presentado supuracion alguna y paciente se ha mantenido afebril en todo momento.
 no presenta otra sintomatologia.
@@ -14,22 +12,7 @@ exploracio fisica fc bpm tªaxi ºc fr rpm tªrec ºc ta s mmhg sat o2 % ta d mm
 buen estado general.
 masa en region esternal (a nivel de manubrio esternal) masa de 3x4cm aproximadamente dura sin fluctuacion aparente, no adherida a planos profundos y dolorosa a la palpacion.
 exploracion neurologica: activa y reactiva.
-exploracio complementaria analisis sanguineos: - analitica sanguinea (12.09): hb 13.
-0 g/dl, hcto 37.
-9 %, vcm 80.
-3 fl, hcm 27.
-5 pg, leucocitos 16.84 x10e9/l, n 50.
-8 %, l 37.
-0 %, m 8.
-0 %, e 3.
-8 %, b 0.
-4 %, can 8.
-6 x10e9/l, cal 6.
-2 x10e9/l, plaquetas 400 x10e9/l, urea 22 mg/dl, creatinina 0.20 mg/dl, na 134.
-9 mmol/l, k 4.43 mmol/l, ca 11.
-3 mg/dl, ast 50 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 1/3 lopd ui/l, alt 15 ui/l, pcr 0.72 mg/dl.
-- estudio hemostasia (13.09): quick 73 %, inr 1.20, ttpa ratio 0.84 , fibr 3.
-6 g/l microbiologia: - hemocultivo (12/09): negativo** - cultivo pus absceso (12.09): positivo a flora polimicrobiana aerobia y anerobia evolucio clinica paciente de 11 meses que ingresa en la unidad de hospitalizacion pediatrica el 13/09 bajo control clinico y de constantes habituales.
+exploracio complementaria analisis sanguineos: - analitica sanguinea (12.09): hb 13.0 g/dl, hcto 37.9 %, vcm 80.3 fl, hcm 27.5 pg, leucocitos 16.84 x10e9/l, n 50.8 %, l 37.0 %, m 8.0 %, e 3.8 %, b 0.4 %, can 8.6 x10e9/l, cal 6.2 x10e9/l, plaquetas 400 x10e9/l, urea 22 mg/dl, creatinina 0.20 mg/dl, na 134.9 mmol/l, k 4.43 mmol/l, ca 11.3 mg/dl, ast 50 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 1/3 lopd ui/l, alt 15 ui/l, pcr 0.72 mg/dl. - estudio hemostasia (13.09): quick 73 %, inr 1.20, ttpa ratio 0.84 , fibr 3.6 g/l microbiologia: - hemocultivo (12/09): negativo** - cultivo pus absceso (12.09): positivo a flora polimicrobiana aerobia y anerobia evolucio clinica paciente de 11 meses que ingresa en la unidad de hospitalizacion pediatrica el 13/09 bajo control clinico y de constantes habituales.
 visitada el 13.09 en cex de cirugia maxilofacial, donde se realiza drenaje de abceso cutaneo, obteniendose muestra para cultivo.
 se decide ingreso para antibioterapia endovenosa.
 ingresa en unidad de hospitalizacion bajo control clinico y de constantes, se canaliza via periferica y se inicia antibioticoterapia endovenosa empirica con amoxicilina-clavulanico 100mg/kg/dia.

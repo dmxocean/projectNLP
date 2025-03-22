@@ -1,10 +1,7 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 17.11.1952 edat: 65 anys procedencia domicil/res.
-soc servei medicina interna data d'ingres 21.09.2018 data d'alta 28.09.2018 10:00:00 ates per dr ****** (dra *****, dra *******, dr *****) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 65 años que es derivada por hallazgo incidental de tromboembolismo pulmonar.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 17.11.1952 edat: 65 anys procedencia domicil/res.soc servei medicina interna data d'ingres 21.09.2018 data d'alta 28.09.2018 10:00:00 ates per dr ****** (dra *****, dra *******, dr *****) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 65 años que es derivada por hallazgo incidental de tromboembolismo pulmonar.
 antecedents alergias: no alergias medicamentosas conocidas.
 habitos toxicos: no refiere.
-antecedentes patologicos: -adenocarcinoma sobre adenoma g2t1 sm1 con margen de deteccion sin infiltracion detectado tras polipectomia en colonoscopia de programa de deteccion precoz en 2016.
-seguimiento por cirugia (dr. *******).
-ultima colonoscopia (febrero 2018) con cicatriz de polipectomia previa en fondo de ciego y a 25 cm de margen anal de aspecto normal, hemorroides internas de pequeño tamaño, resto sin hallazgos patologicos, y tc abdominal (febrero 2018) con afectacion mutlifocal hepatica de aspecto quisitico, estable y marco colico integro.
+antecedentes patologicos: -adenocarcinoma sobre adenoma g2t1 sm1 con margen de deteccion sin infiltracion detectado tras polipectomia en colonoscopia de programa de deteccion precoz en 2016. seguimiento por cirugia (dr. *******). ultima colonoscopia (febrero 2018) con cicatriz de polipectomia previa en fondo de ciego y a 25 cm de margen anal de aspecto normal, hemorroides internas de pequeño tamaño, resto sin hallazgos patologicos, y tc abdominal (febrero 2018) con afectacion mutlifocal hepatica de aspecto quisitico, estable y marco colico integro.
 proximo control (cea, tc y colonoscopia) en 6 meses.
 -dos cesareas . situacion sociofuncional: independiente para todas las actividades de la vida diaria.
 jubilada.
@@ -20,20 +17,9 @@ hemodinamicamente estable, afebril, bien hidratada y perfundida, buena coloracio
 -abdomen: blando, depresible, no doloroso a la palpacion superficial ni profunda, no palpo masas ni megalias, no signos de peritonismo, peristaltismo conservado, puño-percusion bilateral negativa.
 -neurologico: consciente, orientada, colaboradora, no signos de meningismo ni focalidad neurologica aguda, no flapping.
 nhc ** *** *** (********) age-v-mi2 1/2 lopd exploracio complementaria - ecg : ritmo sinusal a 80ppm.
-eje electrico a 0º.
-pr de 0.14seg.
-qrs de 0.08seg con progresion de r en v3-4.
-sin alteraciones agudas de la repolarizacion.
--analitica general : hemoglobina 13.
-5 g/dl, hematocrit 40.
-1%, vcm 95.
-9 fl, hcm 32.
-3 pg, ade 13.
-4%, leucocits 6.120, neutrofils 3.600, limfocits 1.900, plaquetes 212.000, tp 12.5s, ttpa 30.4s, inr 1.03, fibrinogen 3.04g/l.
-glucosa 91 mg/dl, urea 25 mg/dl, creatinini 0.59 mg/dl, na+ 140.
-5 mmol/l, k+ 4.85 mmol/l, ast 30 ui/l, alt 16 ui/l.
-marcadores cardiacos: troponina i &lt;0.006 ng/ml, peptid natriuretic cerebral 69 pg/ml.
-- tc toracoabdominal (19/09/18): sin signos de recidiva de la enfermedad de base.
+eje electrico a 0º. pr de 0.14seg.
+qrs de 0.08seg con progresion de r en v3-4. sin alteraciones agudas de la repolarizacion.
+-analitica general : hemoglobina 13.5 g/dl, hematocrit 40.1%, vcm 95.9 fl, hcm 32.3 pg, ade 13.4%, leucocits 6.120, neutrofils 3.600, limfocits 1.900, plaquetes 212.000, tp 12.5s, ttpa 30.4s, inr 1.03, fibrinogen 3.04g/l. glucosa 91 mg/dl, urea 25 mg/dl, creatinini 0.59 mg/dl, na+ 140.5 mmol/l, k+ 4.85 mmol/l, ast 30 ui/l, alt 16 ui/l. marcadores cardiacos: troponina i &lt;0.006 ng/ml, peptid natriuretic cerebral 69 pg/ml. - tc toracoabdominal (19/09/18): sin signos de recidiva de la enfermedad de base.
 hallazgo incidental de defectos de replecion en el territorio arterial pulmonar compatibles con tep a ramas lobar, segmentos y subsegmentos del lobulo inferior derecho, sin repercusion sobre el tronco comun de la arteria pulmonar ni las cavidades cardiacas derechas.
 - doppler de miembros inferiores : venas de ambas extremidades inferiores compresibles y con una correcta señal doppler.
 evolucio clinica a su llegada estable hemodinamicamente, y asintomatica desde el punto de vista cardiorrespiratorio.
@@ -46,8 +32,7 @@ ante estabilidad clinica se decide alta a domicilio con control en consultas de 
 orientacio diagnostica tep subsegmentario lid.
 adenocarcinoma de colon resecado.
 libre de enfermedad.
-tractament i recomanacions a l'alta -anticoagulacion segun pauta (se adjunta).
--paracetamol 1g 1 comp cada 8 horas si dolor.
+tractament i recomanacions a l'alta -anticoagulacion segun pauta (se adjunta). -paracetamol 1g 1 comp cada 8 horas si dolor.
 control acudir a ccee medicina interna (dr. ********) el dia y hora que le seran notificados por telefono o correo.
 acudir a ccee hematologia (unidad de trombofilias) el dia y hora que le seran notificados por telefono o correo.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-mi2 2/2 lopd

@@ -1,11 +1,8 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 07.03.1930 edat: 88 anys procedencia domicil/res.
-soc servei traumatics data d'ingres 23.06.2018 data d'alta 03.07.2018 08:39:45 ates per ********, ***************; ************, ************; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres fx persubtrocantera femur i antecedents neoplasia de colon hace 13 años hiperplasia benigna de prostata situacion sociofuncional: - vive en domicilio con apoyo familiar en la comunidad - deambulacion previa sin ayuda - idependiente abvd exploracio fisica parrilla costal: - no tumefaccion ni hematoma evidentes.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 07.03.1930 edat: 88 anys procedencia domicil/res.soc servei traumatics data d'ingres 23.06.2018 data d'alta 03.07.2018 08:39:45 ates per ********, ***************; ************, ************; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres fx persubtrocantera femur i antecedents neoplasia de colon hace 13 años hiperplasia benigna de prostata situacion sociofuncional: - vive en domicilio con apoyo familiar en la comunidad - deambulacion previa sin ayuda - idependiente abvd exploracio fisica parrilla costal: - no tumefaccion ni hematoma evidentes.
 - no dificultad respiratoria.
-saturacion 95%.
-- dolor a la palpacion pared anterior torax izquierdo - nvd conservado cadera izquierda: - no tumefaccion ni hematoma - dolor e impotencia funcional - extremidad inferior derecha acortada y en rotacion externa - nvd conservado exploracio complementaria radiografia: fractura persubtrocanterea de femur izquierdo evolucio clinica el dia 26.06.18 el paciente se interviene realizandose una reduccion abierta y fijacion interna de fractura persubtrocanterica de femur izquierdo mediante clavo endomedular trigen intertan + cerclaje tipo supercable sin incidencias intraoperatorias.
+saturacion 95%. - dolor a la palpacion pared anterior torax izquierdo - nvd conservado cadera izquierda: - no tumefaccion ni hematoma - dolor e impotencia funcional - extremidad inferior derecha acortada y en rotacion externa - nvd conservado exploracio complementaria radiografia: fractura persubtrocanterea de femur izquierdo evolucio clinica el dia 26.06.18 el paciente se interviene realizandose una reduccion abierta y fijacion interna de fractura persubtrocanterica de femur izquierdo mediante clavo endomedular trigen intertan + cerclaje tipo supercable sin incidencias intraoperatorias.
 dres.
-****** y *******.
-durante el postoperatorio el paciente se mantiene hemodinamicamente estable y afebril.
+****** y *******. durante el postoperatorio el paciente se mantiene hemodinamicamente estable y afebril.
 control analitico y radiografico correcto.
 herida quirurgica con buena evolucion.
 dolor controlado con analgesia.
@@ -29,42 +26,25 @@ no caigudes.
 no ennuegaments.
 continent biesfinteria.
 no restrenyiment que hagi precisat enemes pero si laxants previament.
-tractament: dutasterida 0.5mg/d.
-mc: presneta una caiguda a domicili sense tce, sincope, ... ef: gcs 15.
-nc; nh.
+tractament: dutasterida 0.5mg/d. mc: presneta una caiguda a domicili sense tce, sincope, ... ef: gcs 15. nc; nh.
 mvc sense sorolls sobreafegits.
 tcr.
 no bufs.
-no signes d'icd/e.
-abdomen tou, no doloros.
+no signes d'icd/e. abdomen tou, no doloros.
 no palpo masses ni megalies.
 no peritonisme.
-ecg: rs a 60bpm, pr normal constant, qrs estret amb eix +15º i amb r=s en v3.
-ona t aplanada en v4-v6 agu: hto 47.
-8% plaqu 175000.
-coagulacio normal.
-urea/creat 42/0.71 ionograma normal prot 7.
-s/o: l 221 e 29 b 400.
-uc: e.
-coli cipro-r, c3g-r, tazo-i, amoxi/clav-i, resta s.
-rx torax: decubit.
+ecg: rs a 60bpm, pr normal constant, qrs estret amb eix +15º i amb r=s en v3. ona t aplanada en v4-v6 agu: hto 47.8% plaqu 175000. coagulacio normal.
+urea/creat 42/0.71 ionograma normal prot 7. s/o: l 221 e 29 b 400. uc: e. coli cipro-r, c3g-r, tazo-i, amoxi/clav-i, resta s. rx torax: decubit.
 ict en el limit.
 scf lliures.
 no clara condensacio parenquimatosa.
-ag: hb 12,3 g/dl; htc 36,4 %, vcm 91,2 fl; leucos 9,3 x10e9/l; can 7.700/mcl, cal 600/mcl; plaq 151 x10e9/l; inr 0,94 (112%), glucosa 109 mg/dl, urea 49 mg/dl, cr 0,69 mg/dl, fg 85 ml/min/1,73m2; na 138.
-5 mmol/l, k 4.32 mmol/l,ast 31 ui/l, alt 19 ui/l, port 5,7, alb 3.
-4 g/dl, pcr 12.09 mg/dl, vsg 54 mm/h.
-complicacions durant l'iingres: 1) po fx maluc.
+ag: hb 12,3 g/dl; htc 36,4 %, vcm 91,2 fl; leucos 9,3 x10e9/l; can 7.700/mcl, cal 600/mcl; plaq 151 x10e9/l; inr 0,94 (112%), glucosa 109 mg/dl, urea 49 mg/dl, cr 0,69 mg/dl, fg 85 ml/min/1,73m2; na 138.5 mmol/l, k 4.32 mmol/l,ast 31 ui/l, alt 19 ui/l, port 5,7, alb 3.4 g/dl, pcr 12.09 mg/dl, vsg 54 mm/h. complicacions durant l'iingres: 1) po fx maluc.
 no complicacions locals associades.
 s'ha fet suplementacio proteica, vitamina d i ferro.
-2) bacteriuria asimptomatica per e.
-coli pel que ha fet tractament amb ertapenem x 7 dies.
+2) bacteriuria asimptomatica per e. coli pel que ha fet tractament amb ertapenem x 7 dies.
 profilaxi quirurgica amb septrim.
-3) sindrome confusional aguda amb clinica d'agitacio de &lt; 12 hores i que amb haloperidol 1/2amp i.m.
-ha remes.
+3) sindrome confusional aguda amb clinica d'agitacio de &lt; 12 hores i que amb haloperidol 1/2amp i.m. ha remes.
 proposta de tractament a l'alta: iniciar: ferogradumet 1c/d x 8 setmanes.
 hidroferol 266mcg, 1amp/4 setmanes.
-resta de tractament sense canvis: dutasterida 0.5mg/d.
-dada la correcta evolucion se decide alta hospitalaria con las siguientes indicaciones: orientacio diagnostica s72.142s fractura intertrocanteriana desplaçada, femur esquerre, s procediments 89.08 altra consulta 79.15 reduccio tancada de fractura amb fixacio interna, femur nhc ** *** *** (********) atr-v-tra 2/3 lopd tractament i recomanacions a l'alta clexane 40mg/24h sc durante 30 dias paracetamol 1gr/8h vo alterno con nolotil 575mg/8h vo continuar medicacion domiciliaria habitual cura cada 48-72h de herida quirurgica con betadine retirar puntos de sutura a los 15 dias de la intervencion en cap de zona deambulacion con ayuda de caminador control control en cex tra r.
-eq.
+resta de tractament sense canvis: dutasterida 0.5mg/d. dada la correcta evolucion se decide alta hospitalaria con las siguientes indicaciones: orientacio diagnostica s72.142s fractura intertrocanteriana desplaçada, femur esquerre, s procediments 89.08 altra consulta 79.15 reduccio tancada de fractura amb fixacio interna, femur nhc ** *** *** (********) atr-v-tra 2/3 lopd tractament i recomanacions a l'alta clexane 40mg/24h sc durante 30 dias paracetamol 1gr/8h vo alterno con nolotil 575mg/8h vo continuar medicacion domiciliaria habitual cura cada 48-72h de herida quirurgica con betadine retirar puntos de sutura a los 15 dias de la intervencion en cap de zona deambulacion con ayuda de caminador control control en cex tra r. eq.
 dr. ****** segun hoja adjunta acudir a urgenciasi si complicaciones destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-tra 3/3 lopd

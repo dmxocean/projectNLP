@@ -1,7 +1,6 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 27.04.1977 edat: 41 anys procedencia aguts servei cirurgia oral i data d'ingres 05.07.2018 data d'alta 11.07.2018 11:06:46 ates per ***********, ****; ****************, ********; ************, ****** informe d'alta d'hospitalitzacio motiu d'ingres fractura facial proces actual valoracion cmf: paciente sin amc ni api acude a huvh por traumatismo ocular derivado de h sant pau.
 relata traumatismo de media energia ( puñetazo) agresion directa durante la noche del 3 al 4 de julio (hace 36h) sin perdida de consciencia ni amnesia retrograda o anterograda.
-glasgow 15.
-unico impacto en macizo facial.
+glasgow 15. unico impacto en macizo facial.
 exploracio fisica beg y eupneico.
 tercio frontal sin hundimientos ni heridas.
 tercio medio orbitario con importante equimosis y edema periorbitario derecho.

@@ -1,35 +1,24 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 14.11.1976 edat: 42 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 08.09.2019 data d'alta 11.09.2019 11:17:28 ates per ***************, *****; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergias medicamentosas conocidas antecedentes patologicos: hipotiroidismo en tratramiento sustitutivo intervenciones quirurgicas:amigdalectomia, mamoplastia de reduccion niega habitos toxicos no medicacion habitual proces actual -edad: 42 años -tpal: 0-0-2-0 ( 1 interrupcion voluntaria del embarazo, 1 aborto espontaneo) - fur: 02/12/2018 -sg: 39 +6 - grupo sanguineo: a rh + coombs indirecto: negativo -nacionalidad: colombiana barrera idiomatica: no -peso inicial: 62 kg peso final: 72 kg talla: resumen gestacional control en centro de atencion primaria y dog alto riesgo obstetrico edad materna y sospecha de zica ( negativo) -analiticas: 3er trimestre: hemoglobina 11.
-5 , hematocrito 35.
-3 , plaquetas 217 , coagulacion: t quik 118, ttpa 26.
-6 -triple screening: bajo riesgo.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 14.11.1976 edat: 42 anys procedencia domicil/res.soc servei obstetricia data d'ingres 08.09.2019 data d'alta 11.09.2019 11:17:28 ates per ***************, *****; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergias medicamentosas conocidas antecedentes patologicos: hipotiroidismo en tratramiento sustitutivo intervenciones quirurgicas:amigdalectomia, mamoplastia de reduccion niega habitos toxicos no medicacion habitual proces actual -edad: 42 años -tpal: 0-0-2-0 ( 1 interrupcion voluntaria del embarazo, 1 aborto espontaneo) - fur: 02/12/2018 -sg: 39 +6 - grupo sanguineo: a rh + coombs indirecto: negativo -nacionalidad: colombiana barrera idiomatica: no -peso inicial: 62 kg peso final: 72 kg talla: resumen gestacional control en centro de atencion primaria y dog alto riesgo obstetrico edad materna y sospecha de zica ( negativo) -analiticas: 3er trimestre: hemoglobina 11.5 , hematocrito 35.3 , plaquetas 217 , coagulacion: t quik 118, ttpa 26.6 -triple screening: bajo riesgo.
 -serologias: negativas para vih, vhb, vhc, lues, zica , chagas y toxoplamosis.
 rubeola inmune.
 -o´sullivan: 84 -urocultivo: negativo -cultivo vaginal/rectal: negativo fecha de realizacion: -ecografia 3er trimestre : 34+4 sg : presentacion:cefalica , peso fetal estimado: 2376 , percentil: , liquido amniotico normal, doppler normal, insercion placentaria: lateral derecha , cordon tres vasos.
 exploracio fisica -buen estado general, consciente y orientada, normohidratada y normocoloreada.
--constantes al ingreso: tension arterial: 135/75 mmhg , frecuencia cardiaca: 75 x', temperatura: 36.
-2 -abdomen: gravido, acorde con semanas de gestacion, no hipertono, no hipersensibilida nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/3 lopd -latido fetal con sonicaid: positivo -no metrorragia, no hidrorrea.
+-constantes al ingreso: tension arterial: 135/75 mmhg , frecuencia cardiaca: 75 x', temperatura: 36.2 -abdomen: gravido, acorde con semanas de gestacion, no hipertono, no hipersensibilida nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/3 lopd -latido fetal con sonicaid: positivo -no metrorragia, no hidrorrea.
 -tv:cx.
 centrado, borrado, 3 cm de dilatacion, cefalica enen i ph , bolsa amniotica integra orientacion diagnostica: -trabajo de parto plan: -ingreso en partos por trabajo de parto: desea analgesia peridural desea lactancia materna evolucio clinica ingresa gestante de 39+6 semanas en trabajo de parto.
 correcta evolucion del trabajo de parto.
 se administra anestesia peridural.
-se consigue dilatacion completa sin conseguir descenso de la presentacion fetal por mas de 4h.
-se diagnostica de desproporcion pelvico fetal.
+se consigue dilatacion completa sin conseguir descenso de la presentacion fetal por mas de 4h. se diagnostica de desproporcion pelvico fetal.
 se decide cesarea de recurso.
 la paciente entiende y fimra consentimiento informado.
-el 08.09.19 se obitene en cefallica a las 17:18h recien nacido vivo de sexo masculino, de 3320g de peso, apgar 9/10/10, ph 7.30/7.31.
-se objetiva poco tono uterino por lo que se adminsitra methergin y 4 misoprostoles rectales consiguiendo utero tonico.
+el 08.09.19 se obitene en cefallica a las 17:18h recien nacido vivo de sexo masculino, de 3320g de peso, apgar 9/10/10, ph 7.30/7.31. se objetiva poco tono uterino por lo que se adminsitra methergin y 4 misoprostoles rectales consiguiendo utero tonico.
 el puerperio clinico transcurre con normalidad.
 la paciente permanece con buen estado general, buen control del dolor, normotensa y apiretica.
 utero tonico con perdidas vaginales escasas.
 herida quirurgica con cicatrizacion correcta.
 esta realizando lactancia mixta.
-analitica sanguinea de control(10/09/19): hb 10.
-1, 31.
-2, lecocitos 15.480 (n 82.
-6%), plaquetas 200, tp 118%, ttpa 29.4seg, creatinina 0.69, fg&gt;90, ast/alt 17/14 debido a la buena evolucion clinica, se decide alta hospitalaria.
-orientacio diagnostica cesarea lactancia mixta puerperio clinico normal hemorragia postparto procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea cesarea: sutura intradermica profilaxis antibiotica profilaxis antitrombotica nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/3 lopd analgesicos ferroterapia curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor).
-clexane 40 mg cada 24 horas subcutaneo durante 10 dias desde la cesarea.
+analitica sanguinea de control(10/09/19): hb 10.1, 31.2, lecocitos 15.480 (n 82.6%), plaquetas 200, tp 118%, ttpa 29.4seg, creatinina 0.69, fg&gt;90, ast/alt 17/14 debido a la buena evolucion clinica, se decide alta hospitalaria.
+orientacio diagnostica cesarea lactancia mixta puerperio clinico normal hemorragia postparto procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea cesarea: sutura intradermica profilaxis antibiotica profilaxis antitrombotica nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/3 lopd analgesicos ferroterapia curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor). clexane 40 mg cada 24 horas subcutaneo durante 10 dias desde la cesarea.
 paracetamol 1gr cada 8 horas si precisa para el dolor acido folico 1 al dia durante la lactancia.
 control control por su matrona de zona en 7-10 dias.
 se recomienda esperar minimo un año para buscar nuevo embarazo.

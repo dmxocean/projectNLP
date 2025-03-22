@@ -1,11 +1,7 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 05.11.1943 edat: 74 anys procedencia cex mateix hosp servei raquis data d'ingres 26.06.2018 data d'alta 09.07.2018 14:05:20 ates per ****************, ******; **********, *************; *********, ***** informe de trasllat a sociosanitari motiu d'ingres ingres iq antecedents antecedentes personales - no amc - ex fumador (1.
-5 # 2 pq/dia) - dm tipo 2 - dlp - obesidad - glaucoma - ac x fa - cardiopatia isquemica silent amb infart apical, feve 50% per rm cardiaca l'any 2014, actualment 40%.
-fa de debut (d'inici incert).
-medicacion habitual: atorvastatina, emconcor 10 mg, enalapril 5 mg (2/24 hrs) , furosomida 40 mg (2/24 hrs), lixiana (edoxaban 60 mg), metformina, xalatan, zaldiar.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 05.11.1943 edat: 74 anys procedencia cex mateix hosp servei raquis data d'ingres 26.06.2018 data d'alta 09.07.2018 14:05:20 ates per ****************, ******; **********, *************; *********, ***** informe de trasllat a sociosanitari motiu d'ingres ingres iq antecedents antecedentes personales - no amc - ex fumador (1.5 # 2 pq/dia) - dm tipo 2 - dlp - obesidad - glaucoma - ac x fa - cardiopatia isquemica silent amb infart apical, feve 50% per rm cardiaca l'any 2014, actualment 40%. fa de debut (d'inici incert). medicacion habitual: atorvastatina, emconcor 10 mg, enalapril 5 mg (2/24 hrs) , furosomida 40 mg (2/24 hrs), lixiana (edoxaban 60 mg), metformina, xalatan, zaldiar.
 ea: rnm.
 - anterolistesi degenerativa grau 1 de l4 que provoca una estenosi greu del canal raquidi l4-l5, i dels forats de conjuncio de forma bilateral.
-estenosi lumbar degenerativa multisegmentaria moderada l1-l2 i greu l2-l3-l4.
-clinicam igual con dolor y claudicacion cada vez mas severa.
+estenosi lumbar degenerativa multisegmentaria moderada l1-l2 i greu l2-l3-l4. clinicam igual con dolor y claudicacion cada vez mas severa.
 proces actual paciente que ingresa de forma programada para intervenirse de laminectomia descompresiva por parte de la unidad de raquis de nuestro centro.
 exploracio complementaria pruebas complementarias que no contraindican la cirugia.
 evolucio clinica el dia 26.6.2018 es intervenido de laminectomia descompresiva l2-3 , l3-4, l4-5 + tlif l4-l5 (caja titan 9) + plif l4-l5 (fire bird) sin incidencias intraoperatorias durante la estancia postoperatoria el paciente se mantiene hemodinamicamente estable y afebril.

@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 15.08.1974 edat: 43 anys procedencia domicil/res.
-soc servei cirurgia plastica i data d'ingres 12.06.2018 data d'alta 13.07.2018 09:01:20 ates per **************, ***; ***********, ******; ******************, ************ informe d'alta d'hospitalitzacio motiu d'ingres sobreinfeccion herida quirurgica antecedents no amc fumador de 10 cig/dia - bronquitis simple que ha tratado con inh - hidrosadenitis supurativa el dia 11/05/2018 se procede a realiar intervencion quirurgica (drs.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 15.08.1974 edat: 43 anys procedencia domicil/res.soc servei cirurgia plastica i data d'ingres 12.06.2018 data d'alta 13.07.2018 09:01:20 ates per **************, ***; ***********, ******; ******************, ************ informe d'alta d'hospitalitzacio motiu d'ingres sobreinfeccion herida quirurgica antecedents no amc fumador de 10 cig/dia - bronquitis simple que ha tratado con inh - hidrosadenitis supurativa el dia 11/05/2018 se procede a realiar intervencion quirurgica (drs.
 saez, verdaguer), bajo anestesia general e intubacion orotraqueal, de exeresis radical de hidrosadenitis en ingles e hipoabdomen.
 sin incidencias.
 proces actual paciente varon de 43 años que ingresa desde consultas externas por empeoramiento de las heridas quirurgicas tratatadas en el ingreso previo.
@@ -10,8 +9,7 @@ exploracio complementaria estudio preoperatorio valorado favorablemente por serv
 el dia 13/06/18 realiza un pico febril, por lo que se obtiene hemocultivos y una muestra de exsudado inguinal izquierdo, siendo los hemocultivos negativos y el cultivo de herida quirurgica positivo a marsa . el dia 15/06/18 se aprecia empeoramiento de las heridas, con aspecto mas exsudativo y maloliente.
 se solicita interconsulta a infecciosas, que contacta con microbiologia para acelerar el resultado de los cultivos, apreciandose un mrsa en la herida inguinal.
 se aplica aislamiento de contacto y se cambia la pauta antibiotica a linezolid vo.
-por la tarde, presenta nuevo pico febril mantenido de hasta 39,5ºc.
-se comenta el caso con uci, que recomienda cambio a antibiotico endovenoso y añade meropenem al tratamiento.
+por la tarde, presenta nuevo pico febril mantenido de hasta 39,5ºc. se comenta el caso con uci, que recomienda cambio a antibiotico endovenoso y añade meropenem al tratamiento.
 tras evolucion lenta de las heridas se propone cirugia para acelerar el cierre de las mismas, por lo que el dia 26/06 se procede a cirugia: desbridar zonas cruentas en abdomen muslos y genitales cerrando las heridas reaproximables con nylon 2-0, y fijando ai mallados 1:2 obtenidos de muslo izq, a pliegues inguinales.
 se deja vac en herida central de abdomen.
 nhc ** *** *** (********) atr-v-cpl 1/2 lopd postoperatorio inmediato correcto.
@@ -20,8 +18,6 @@ la infeccion por marsa se ha tratado con 15 dias de tratamiento antibiotico con 
 los injertos han realizado siembra epitelial en practicamente todas las heridas de los muslos, estando estas practicamente curadas.
 la zona dehicente abdominal presenta buen aspecto, con tejido de granulacion y las cavidades van cerrando con terapia tipo vac.
 dada la buena evolucion del paciente se decide alta hospitalaria y control en consultas externas de cirugia plastica.
-orientacio diagnostica l73.
-2 hidroadenitis supurativa procediments 89.08 altra consulta ( 3 ) 86.22 desbridament excisional de ferida, infeccio o cremada.
+orientacio diagnostica l73.2 hidroadenitis supurativa procediments 89.08 altra consulta ( 3 ) 86.22 desbridament excisional de ferida, infeccio o cremada.
 extraccio: necrosi, escara, teixit desvitalitzat 86.60 empelt cutani lliure, no especificat de cap altra manera tractament i recomanacions a l'alta mantener medicacion habitual mantener heridas limpias y secas curas con: - linitul + aquacel ag en muslos - tpn tipo vac en herida abdominal, a recambiar segun citas adjuntas.
-analgesia habitual a demanda: paracetamol 1g/8h mas nolotil 575mg/8h alternos si dolor acudir a ccee cpl dr bosacoma segun citas adjuntas: miercoles 18/07/18 a las 9.40h.
-acudir a urgencias si signos de alarma o complicaciones destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-cpl 2/2 lopd
+analgesia habitual a demanda: paracetamol 1g/8h mas nolotil 575mg/8h alternos si dolor acudir a ccee cpl dr bosacoma segun citas adjuntas: miercoles 18/07/18 a las 9.40h. acudir a urgencias si signos de alarma o complicaciones destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-cpl 2/2 lopd

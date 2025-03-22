@@ -1,20 +1,14 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 12.08.1984 edat: 33 anys procedencia aguts servei obstetricia data d'ingres 16.02.2018 data d'alta 17.02.2018 08:12:25 ates per **************, **** informe d'alta d'hospitalitzacio motiu d'ingres ile proces actual edad: 33 años fur 5-11-2017 tpal: 0000.
-gsrh: o positivo sg: 14 + 6 paciente ingresa para ile por feto afecto de sd.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 12.08.1984 edat: 33 anys procedencia aguts servei obstetricia data d'ingres 16.02.2018 data d'alta 17.02.2018 08:12:25 ates per **************, **** informe d'alta d'hospitalitzacio motiu d'ingres ile proces actual edad: 33 años fur 5-11-2017 tpal: 0000. gsrh: o positivo sg: 14 + 6 paciente ingresa para ile por feto afecto de sd.
 tuner.
 resumen gestacional.
 analitica de 1º trismestre: coombs indirecto negativo.
 hemograma normal.
 lues (-) / toxo (-) / rub inmune.
-hiv (-) / hbsag (-) / anti-hvc (-).
-urocultivo (-).
-chagas negativo eco 12w con crl 63mm y tn 9mm con aspecto de higroma quistico y edema subcutaneo generalizado.
+hiv (-) / hbsag (-) / anti-hvc (-). urocultivo (-). chagas negativo eco 12w con crl 63mm y tn 9mm con aspecto de higroma quistico y edema subcutaneo generalizado.
 dv reverso.
-cariotipo 45x0 (22) / 46xy(3).
-biopsia corial realizado por feto con tn 9mm con aspecto de higroma quistico y edema subcutaneo generalizado.
-cribado 1/2.
-exploracio fisica od: ile plan: - ingreso en sala de partos - venoclisis - aprd - iniciar induccion al parto segun protocolo con misoprostol.
-evolucio clinica ingresa gestante de 14+6sg para ile por s.
-turner.
+cariotipo 45x0 (22) / 46xy(3). biopsia corial realizado por feto con tn 9mm con aspecto de higroma quistico y edema subcutaneo generalizado.
+cribado 1/2. exploracio fisica od: ile plan: - ingreso en sala de partos - venoclisis - aprd - iniciar induccion al parto segun protocolo con misoprostol.
+evolucio clinica ingresa gestante de 14+6sg para ile por s. turner.
 se instaura anestesia peridural.
 se realiza maduracion cervical con prostaglandinas segun protocolo.
 el dia 17/02/2018 a las 4:30h se asiste a expulsivo de feto muerto de 55gr, sexo femenino.

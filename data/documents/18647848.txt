@@ -1,37 +1,28 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 16.04.1935 edat: 82 anys procedencia domicil/res.
-soc servei hematologia i data d'ingres 23.03.2018 data d'alta 31.03.2018 17:00:00 ates per *************, ******; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres hombre de 82 años que acude a urgencias por disnea . antecedents antecedentes personales: -alergias: sin alergias medicamentosas conocidas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 16.04.1935 edat: 82 anys procedencia domicil/res.soc servei hematologia i data d'ingres 23.03.2018 data d'alta 31.03.2018 17:00:00 ates per *************, ******; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres hombre de 82 años que acude a urgencias por disnea . antecedents antecedentes personales: -alergias: sin alergias medicamentosas conocidas.
 -habitos toxicos: exfumador de 1 paquete al dia hasta hace 20 años.
 niega consumo de otros toxicos.
 antecedentes patologicos: -diabetes mellitus tipo 2 en tratamiento con antidiabeticos orales.
 -dislipemia en tratamiento con estatinas.
--cardiopatia isquemica que debuto hace 18 años como iam . segun refiere familiar, se le colocaron tres stents (no dispongo informes).
--neoplasia de mama izquierda diagnosticada en 2014: t1n0mx.
+-cardiopatia isquemica que debuto hace 18 años como iam . segun refiere familiar, se le colocaron tres stents (no dispongo informes). -neoplasia de mama izquierda diagnosticada en 2014: t1n0mx.
 tratada mediante mastectomia simple, sin haber recibido rt u hormonoterapia por comorbilidad cardiovascular.
-seguimiento por oncologia medica, ned hasta 2017.
--proceso neoplasico diseminado en estudio.
+seguimiento por oncologia medica, ned hasta 2017. -proceso neoplasico diseminado en estudio.
 consulto en febrero 2018 por aparicion de adenopatias a nivel axilar y supraclavicular.
 ha sido estudiado en el cai, objetivandose neoplasia diseminada, pendiente de filiar origen del primario.
 *pet-tac (12/03/18): signos sugestivos de proceso neoformativo diseminado con lesiones pulmonares bilaterales, multiples esplenicas, pleura derecha y signos de infiltracion adenopatica supra e infradiafragmatica en las localizaciones descritas.
 asimetria con aumento de actividad en region sacroiliaca derecha, que dentro del contexto clinico del paciente no permite descartar malignidad.
-los hallazgos descritos sugieren como primera opcion diagnostica recidiva de su patologia de base (n.
-mama), sin poder descartar otras etiologias neoformativas primarias.
+los hallazgos descritos sugieren como primera opcion diagnostica recidiva de su patologia de base (n. mama), sin poder descartar otras etiologias neoformativas primarias.
 *paaf adenopatia supraclavicular izquierda: positivo para celulas malignas, metastasis de carcinoma.
 el resultado de las tecnicas de inmunohistoquimica descarta el diagnostico de carcinoma metastasico de origen epitelial dado que la expresion de citoqueratinas es negativa en la celularidad atipica.
 morfologicamente tambien se planteaba el diagnostico de carcinoma de celula pequeña que tambien se descarta dada la no expresion de marcadores neuroendocrinos asi como tampoco de citoqueratina.
-la celularidad atipica expresa cd45 y cd20 (ki67+ 80%).
-este perfil de expresion es compatible con el diagnostico de neoplasia de estirpe linfode (linfoma).
-se recomienda ver nuevo informe de citologia 18-c-10071 y exeresis ganglionar para tipificacion histologica.
-pendiente de biologia molecular (reordenamientos limfoides).
-situacion sociofuncional: vive con su esposa.
+la celularidad atipica expresa cd45 y cd20 (ki67+ 80%). este perfil de expresion es compatible con el diagnostico de neoplasia de estirpe linfode (linfoma). se recomienda ver nuevo informe de citologia 18-c-10071 y exeresis ganglionar para tipificacion histologica.
+pendiente de biologia molecular (reordenamientos limfoides). situacion sociofuncional: vive con su esposa.
 independiente para las abvd.
 sin deterioro cognitivo.
-medicacio habitual aas 100 mg c/24h, simvastatina 20 mg c/24h, metformina 850 mg c/12h, bisoprolol 2.
-5 mg c/24h, omeprazol 20 g/24h, calcipotriol/betametasona 50mcg/0.5mg/g pomada, nhc ** *** *** (********) age-v-hem 1/4 lopd proces actual refiere persistencia de la disnea por la que ya consulto el 17/03/18, de una semana de tiempo de evolucion aproximadamente, que le impide el descanso nocturno con ortopnea.
+medicacio habitual aas 100 mg c/24h, simvastatina 20 mg c/24h, metformina 850 mg c/12h, bisoprolol 2.5 mg c/24h, omeprazol 20 g/24h, calcipotriol/betametasona 50mcg/0.5mg/g pomada, nhc ** *** *** (********) age-v-hem 1/4 lopd proces actual refiere persistencia de la disnea por la que ya consulto el 17/03/18, de una semana de tiempo de evolucion aproximadamente, que le impide el descanso nocturno con ortopnea.
 se acompaña hiporexia y de dolor epigastrico que refiere tiene mas tiempo de evolucion.
 niega clinica infecciosa asociada.
 niega dolor toracico, palpitaciones o edemas en eeii.
-exploracio fisica exploracion fisica en urgencias: ta 155/57, fc 114 lpm, fr 18 rpm, tª 36.8ºc.
-hemodinamicamente estable, normocoloreado, normohidratado y normoperfundido.
+exploracio fisica exploracion fisica en urgencias: ta 155/57, fc 114 lpm, fr 18 rpm, tª 36.8ºc. hemodinamicamente estable, normocoloreado, normohidratado y normoperfundido.
 bloque adenopatico cervical izquierdo y axilar derecho.
 aparato cardiovascular: tonos cardiacos ritmicos rapidos sin soplos audibles.
 sin edemas perifericos, sin ingurgitacion yugular ni reflujo hepatoyugular.
@@ -48,8 +39,7 @@ exploracion fisica en planta de hospitalizacion: ta 128/69 mmhg, fc 99 lpm, tª 
 gcs 15 sin focalidades neurologicas, pupilas isocoricas normorreactivas.
 fuerza conservada.
 no asterixis.
-eupneico aire ambiente, necesidad de oxigenoterapia, saturacion 94-95%.
-no trabajo respiratorio.
+eupneico aire ambiente, necesidad de oxigenoterapia, saturacion 94-95%. no trabajo respiratorio.
 auscultacion con murmullo vesicular conservado con hipofonesis en ambas bases mas marcado en base izquierda.
 percusion con hallazgos de matidez en bases, fremito disminuido.
 normotension.
@@ -61,10 +51,7 @@ no ingurgitacion yugular ni reflujo hepatoyugular.
 abdomen blando depresible sin masas ni megalias en la palpacion profunda.
 ruidos hidroaereos presentes.
 adenopatias petreas, fijas a planos profundos, localizadas en region supraclavicular izquierda, axilar derecha, e inguinal bilateral.
-exploracio complementaria -analitica : hb 11.2g/dl; hto 34%; vcm 83fl; reticulocitos 14.
-1/1000hem leucocitos 7750; neutrofilos 72%; linfocitos 14%; plaquetas 330000; t.
-de quick 101%; tp 12.1sg, ttpa 29.4sg ; inr 0.99; fibrinogeno 4.06g/l; glucosa 104mg/dl; urea 50mg/dl; creatinina 0.73mg/dl; fg 86ml/min/1.73 m2; sodio 133.7mmol/l; potasio 4.24mmol/l; calcio 9.7mg/dl; ast 36ui/l; alt 35ui/l; proteina 6.8g/dl.
-bnp 14.4pg/ml, ldh 1007ui/l, b2mg 2.7mg/l, timidin cinasa &gt;100ui/l, componente monoclonal 0.4g/dl, igg 536mg/dl, iga 354mg/dl, igm 283mg/dl -serologias viricas: hiv negativo, vhb negativo, vhc negativo -tuberculosis interferon gamma: negativo -estudio de anemias: ferritina 116ng/ml, transferrina 212mg/dl, ferro 33ug/dl, ist 16%, b12 284pg/ml, folico nhc ** *** *** (********) age-v-hem 2/4 lopd 5.9ng/ml -rx de torax : ict norma, derrame pleural izquierdo, scf derecho pinzado, sin imagen de condensacion en parenquima pulmonar.
+exploracio complementaria -analitica : hb 11.2g/dl; hto 34%; vcm 83fl; reticulocitos 14.1/1000hem leucocitos 7750; neutrofilos 72%; linfocitos 14%; plaquetas 330000; t. de quick 101%; tp 12.1sg, ttpa 29.4sg ; inr 0.99; fibrinogeno 4.06g/l; glucosa 104mg/dl; urea 50mg/dl; creatinina 0.73mg/dl; fg 86ml/min/1.73 m2; sodio 133.7mmol/l; potasio 4.24mmol/l; calcio 9.7mg/dl; ast 36ui/l; alt 35ui/l; proteina 6.8g/dl. bnp 14.4pg/ml, ldh 1007ui/l, b2mg 2.7mg/l, timidin cinasa &gt;100ui/l, componente monoclonal 0.4g/dl, igg 536mg/dl, iga 354mg/dl, igm 283mg/dl -serologias viricas: hiv negativo, vhb negativo, vhc negativo -tuberculosis interferon gamma: negativo -estudio de anemias: ferritina 116ng/ml, transferrina 212mg/dl, ferro 33ug/dl, ist 16%, b12 284pg/ml, folico nhc ** *** *** (********) age-v-hem 2/4 lopd 5.9ng/ml -rx de torax : ict norma, derrame pleural izquierdo, scf derecho pinzado, sin imagen de condensacion en parenquima pulmonar.
 -inmunofenotipo sangre periferica : no se detecta poblacion patologica -inmunofenotipo ganglionar : no se detecta poblacion patologica -biopsia ganglionar : linfoma difuso de celulas grandes b pendiente de inmunohistoquimica.
 -ecg : ritmo sinusal a 100 lpm, sin alteraciones en la repolarizacion.
 evolucio clinica a su llegada a urgencias hemodinamicamente estable, taquicardico, con requerimiento de oxigeno a bajo flujo.

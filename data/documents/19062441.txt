@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 22.01.1939 edat: 79 anys procedencia domicil/res.
-soc servei cirurgia general data d'ingres 02.08.2018 data d'alta 10.08.2018 10:24:36 ates per ***********, *************; *********, ******; **************, *******;; ***************, ********* informe d'alta d'hospitalitzacio motiu d'ingres neoplaisa de ciego oclusiva antecedents no refiere alergias toxicomedicamentosas conocidas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 22.01.1939 edat: 79 anys procedencia domicil/res.soc servei cirurgia general data d'ingres 02.08.2018 data d'alta 10.08.2018 10:24:36 ates per ***********, *************; *********, ******; **************, *******;; ***************, ********* informe d'alta d'hospitalitzacio motiu d'ingres neoplaisa de ciego oclusiva antecedents no refiere alergias toxicomedicamentosas conocidas.
 - hiperuricemia en tratamiento farmacologico.
 - sindrome anemico en tratamiento farmacologico.
 - diagnostico de neoplasia de colon derecho (a 90 cm del margen anal) estenosante, biopsia muestra adenocarcinoma.
@@ -24,23 +23,12 @@ tacto rectal : se palpa esfinter anal normotonico.
 no se palpan masas ni abombamientos en canal anal.
 heces en ampolla rectal de consistencia blanda, no se palpa fecaloma.
 dedo de guante con heces sin productos patologicos.
-exploracio complementaria ag: hb 14.
-0; hematocrito 45.
-1% ; leucocitos 13.36x10e9/l (n79.
-3% l 14.
-0%); plaquetas 382x10e9/l;glucosa 136; urea 34; creatinina 0.95; fg 76;bilirubina 0.48; bilirubina esterificada 0.25; asat/alat 23/13; fa 120; ggt 19; alfa amilasa pancreatica 15; pcr 0.94;hemostasia basica no valorable por falta de muestra.
+exploracio complementaria ag: hb 14.0; hematocrito 45.1% ; leucocitos 13.36x10e9/l (n79.3% l 14.0%); plaquetas 382x10e9/l;glucosa 136; urea 34; creatinina 0.95; fg 76;bilirubina 0.48; bilirubina esterificada 0.25; asat/alat 23/13; fa 120; ggt 19; alfa amilasa pancreatica 15; pcr 0.94;hemostasia basica no valorable por falta de muestra.
 nhc ** *** *** (********) age-v-cgc 1/3 lopd rx torax: no se observan signos de perforacion intestinal.
 rx abdomen : se observa camara gastrica dilatada.
 no se observan signos de perforacion.
 tac abdominal con contraste: neoplasia primaria de ciego ya conocida con leve dilatacion retrograda de las asas ileales y de apendice cecal, discretamente mas evidente que en estudio previo.
-ag control 6 a.m.
-: hb 10.
-9; hematocrito 33.
-7%; leucocitos 9.71x10e9/l (n68.
-6% l19.
-9%); plaquetas 315x10e9/l;glucosa 117;urea 35; creatinina 0.92; fg 79; sodio 135.
-2; asat/alat 13/8; pcr 0.98.
-tc abdominal (06/08/2018): sin visualizar directamente dehiscencia de sutura, aunque se observa abundante neumoperitoneo y liquido intraabdominal, que podria sugerirlo.
+ag control 6 a.m.: hb 10.9; hematocrito 33.7%; leucocitos 9.71x10e9/l (n68.6% l19.9%); plaquetas 315x10e9/l;glucosa 117;urea 35; creatinina 0.92; fg 79; sodio 135.2; asat/alat 13/8; pcr 0.98. tc abdominal (06/08/2018): sin visualizar directamente dehiscencia de sutura, aunque se observa abundante neumoperitoneo y liquido intraabdominal, que podria sugerirlo.
 a valorar clinica y evolutivamente.
 evolucio clinica con orientacion diagnostica de neoplasia de ciego oclusiva se decide intervencion quirurgica urgente.
 intervencion quirurgica urgente (02/08/2018; dr. *********, dra. *****) se realiza hemicolectomia derecha por laparotomia media con anastomosis ileocolica manual laterolateral isoperistaltica.
@@ -55,13 +43,11 @@ deambulacion bien tolerada.
 en analiticas de control se objetiva elevacion de parametros inflamatorios por lo que se realiza tc abdominal el dia 06/08 donde nos e objetiva claros signos de fallo de sutura.
 se inicia tratamiento antibiotico con piperacilina/tazobactam que por mejoria analitica se decide desescalar a amoxicilina/clavulanico.
 dada la buena evolucion clinica y analitica del paciente se decide alta a domicilio con normas de reconsulta y controles en consultas externas.
-orientacio diagnostica c18.
-0 neoplasia maligna, cec procediments tc abdominal urgente colocacion de sonda nasogastrica anestesia general + intubacio orotraqueal hemicolectomia derecha abierta anastomosis ileocolica laterolateral manual isoperistaltica sueroterapia analgesia profilaxis antibiotica, antitrombotica y antiulcerosa nhc ** *** *** (********) age-v-cgc 2/3 lopd tc abdominal tratameinto con piperacilina/tazobactam y amoxicilina/clavulanico.
+orientacio diagnostica c18.0 neoplasia maligna, cec procediments tc abdominal urgente colocacion de sonda nasogastrica anestesia general + intubacio orotraqueal hemicolectomia derecha abierta anastomosis ileocolica laterolateral manual isoperistaltica sueroterapia analgesia profilaxis antibiotica, antitrombotica y antiulcerosa nhc ** *** *** (********) age-v-cgc 2/3 lopd tc abdominal tratameinto con piperacilina/tazobactam y amoxicilina/clavulanico.
 tractament i recomanacions a l'alta dieta blanda, hidratacion abundante.
 continuar con su medicacion habitual.
 lavar las heridas con agua y jabon, mantenerlas limpias y secas.
-retirar grapas a partir de 10-12 dias de la cirugia en cap de zona (pedir cita con enfermeria).
-amoxicilina/clavulanico 875/125mg 1 comprimido cada 8 horas durante 7 dias.
+retirar grapas a partir de 10-12 dias de la cirugia en cap de zona (pedir cita con enfermeria). amoxicilina/clavulanico 875/125mg 1 comprimido cada 8 horas durante 7 dias.
 omeprazol 20 mg cada 24 horas, media hora antes del desayuno mientras tome medicacion para el dolor.
 paracetamol 1g cada 8 horas si dolor metamizol 575 mg cada 8 horas, alternado con paracetamol cada 4 horas si dolor persistente clexane 40 mg subcutaneo cada 24 horas hasta completar 28 dias de tratamiento.
 reconsultar en urgencias si dolor intenso, vomitos y/o nauseas, fiebre elevada, empeoramiento del estado general.

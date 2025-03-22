@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 13.01.1977 edat: 42 anys procedencia aten.
-primaria servei medicina interna 1 data d'ingres 21.02.2019 data d'alta 01.03.2019 14:08:03 ates per equipo dr. ***** (************, ************, ********) informe d'alta d'hospitalitzacio motiu d'ingres varon de 42 años que acude derivado por alteracion analitica.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 13.01.1977 edat: 42 anys procedencia aten.primaria servei medicina interna 1 data d'ingres 21.02.2019 data d'alta 01.03.2019 14:08:03 ates per equipo dr. ***** (************, ************, ********) informe d'alta d'hospitalitzacio motiu d'ingres varon de 42 años que acude derivado por alteracion analitica.
 antecedents -sin alergias medicamentosas conocidas.
 - exfumador de unos 5 cigarrillos/dia desde hace 2 años y medio.
 antecedentes patologicos - dislipemia en tratamiento farmacologico con simvastatina.
@@ -14,25 +13,20 @@ ambos riñones de tamaño, morfologia y eoestructura normal sin dilatacion del s
 vejiga urinaria colapsada.
 conclusion: moderada esteatosis hepatica.
 polipo vesicular de 4mm . situacion sociofuncional: vive con sus padres, independiente para las actividades de la vida diaria, trabaja de taxista.
-medicacio habitual simvastatina 40mg 0-0-1.
-proces actual paciente que acude a urgencias derivado de medico de atencion primaria por alteracion de la bioquimica hepatica: ast 250, alt 188, fa 173, ggt 312, previa del 14.11.18 ast 48, alt 85, fa 37, ggt 63; antivhc y antihbc de junio 2018 negativos.
+medicacio habitual simvastatina 40mg 0-0-1. proces actual paciente que acude a urgencias derivado de medico de atencion primaria por alteracion de la bioquimica hepatica: ast 250, alt 188, fa 173, ggt 312, previa del 14.11.18 ast 48, alt 85, fa 37, ggt 63; antivhc y antihbc de junio 2018 negativos.
 analiticas previas desde 2013-2014 en las que ya tenia ligera elevacion de transaminasas con predominio de enzimas de colestasis (no hay determinacio de bilirrubina), motivo por el cual se solicito en abril ecografia que objetivo esteatosis hepatica.
 el paciente refiere estar asintomatico, a excepcion de cuadro respiratorio por el que acudio a urgencias el 11.02, realizandose analitica de control el 13.02, e iniciando tratamiento con bisolvon (bromhexina hidrocloruro), ibuprofeno y paracetamol puntual.
 su familia explica que a principios de mes lo encontraban "hinchado" en la cara (edema de predominio palpebral) y en el abdomen, llegando a ganar 8kg de peso en pocos dias.
 incluso impresionaba de edema de lengua, y voz gangosa, actualmente en resolucion.
-niega esfuerzos fisicos en los dias anteriores a la analitica, niega fatigabilidad de la cintura escapular (refiere mialgias y astenia, pero las relaciona siempre con el ejercicio fisico).
-niega consumo de oh u otras drogas, no viajes al extranjero, no relaciones sexuales de riesgo, no transfusiones de hemoderivados, no otros farmacos a excepcion de estatina y los mencionados previamente.
+niega esfuerzos fisicos en los dias anteriores a la analitica, niega fatigabilidad de la cintura escapular (refiere mialgias y astenia, pero las relaciona siempre con el ejercicio fisico). niega consumo de oh u otras drogas, no viajes al extranjero, no relaciones sexuales de riesgo, no transfusiones de hemoderivados, no otros farmacos a excepcion de estatina y los mencionados previamente.
 se suspendio fenofibrato en noviembre 2018 por mejoria del perfil lipidoco.
-en marzo 2017 se aumento simvastatina de 20 a 40mg (iniciado tratamiento en 2013).
-refiere infusiones de plantas medicinales que dice que tienen en el pueblo.
-come embutido de carne de corzo (chorizo) unas 4-5 veces al año.
-refiere que hicieron matanza las ultimas navidades aunque explican que la carne siempre pasa un control veterinario antes de la ingesta.
+en marzo 2017 se aumento simvastatina de 20 a 40mg (iniciado tratamiento en 2013). refiere infusiones de plantas medicinales que dice que tienen en el pueblo.
+come embutido de carne de corzo (chorizo) unas 4-5 veces al año. refiere que hicieron matanza las ultimas navidades aunque explican que la carne siempre pasa un control veterinario antes de la ingesta.
 nhc ** *** *** &nbsp;(********) &nbsp;age-v-mir 1/4 lopd exploracio fisica exploracion en urgencias pa: 126/85mmhg.
 fc: 86lpm.
 fr: 18rpm.
 spo2: 99% aa.
-tª: 36ºc.
-buen estado general.
+tª: 36ºc. buen estado general.
 normocoloreado, normohidratado, normoperfundido.
 no estigmas de enolismo.
 cardiovascular: auscultacion ritmica, sin tonos ni soplos sobreañadidos.
@@ -56,8 +50,7 @@ habla y comprension del lenguaje sin alteraciones.
 pares craneales sin alteraciones.
 campos visuales por confrontacion sin alteraciones.
 sensibilidad conservada.
-fuerza 5/5.
-reflejos osteotendinosos presentes, simetricos.
+fuerza 5/5. reflejos osteotendinosos presentes, simetricos.
 reflejo cutaneo plantar flexor bilateral.
 ausencia de disdiadococinesia y de dismetria.
 miller fisher negativo.
@@ -65,75 +58,36 @@ romberg negativo.
 marcha sin alteraciones.
 ausencia de asterixis.
 exploracion fisica en planta de medicina interna.
-ta 93/49, fc 72, tª axilar 36.5º, sat.
-o2 95% aa.
-buen estado general, mucosas hidratadas, llenado capilar 2".
-no presenta estigmas de hepatopatia cronica.
+ta 93/49, fc 72, tª axilar 36.5º, sat.o2 95% aa.
+buen estado general, mucosas hidratadas, llenado capilar 2". no presenta estigmas de hepatopatia cronica.
 cardiovascular: tonos cardiacos ritmicos, sin soplos ni roces.
 ingurgitacion yugular y reflujo hepoatoyugular no valorables.
 sin signos de trombosis venosa profunda.
 edemas duros en extremidades inferiores hasta tobillos.
-fovea -.
-respiratorio: eupneico y sin trabajo respiratorio, murmullo vesicualr conservado, sin ruidos sobreañadidos.
+fovea -. respiratorio: eupneico y sin trabajo respiratorio, murmullo vesicualr conservado, sin ruidos sobreañadidos.
 abdomen: globuloso, blando y depresible.
 ruidos hidroaereos presentes.
 no palpo masas ni visceromegalias.
 neurologico: consciente y orientado, colaborador.
 sin alteraciones del habla ni del lenguaje, sin alteraciones de la bipedestacion ni de la marcha, sin signos de encefalopatia ni meningismo.
-exploracio complementaria pruebas complementarias en urgencias -eab: ph 7.
-4, pco2 50mmhg, lactato 0.8mmol/l, hb 11.9g/dl, hco3-c 31mmhg, beecf 6.2mmol/l, ag 8mmol/l.
--analitica: hb 11 g/dl, hcto 31.
-3%, vcm 91.
-3 fl, hcm 32.
-1 pg, leucocitos 13.55 x10e9/l (can 9.
-4 x10e9/l, cal 2.
-2 x10e9/l), plaquetas 441 x10e9/l, tquick 108%, inr 0.96, ttpar 1.03, fibrinogeno 4.24 g/l, glucosa 99 mg/dl, urea 19 mg/dl, creatinina 0.92 mg/dl, fg &gt;90 ml/min/1,73m2, bilirrubina total 0.52 mg/dl, bilirrubina directa 0.19 mg/dl, na 122.
-7 mmol/l, k 4.23 mmol/l, ast 412 ui/l, alt 166 ui/l, fa 102 ui/l, ggt 167 ui/l, proteinas.
-7.
-3 g/dl, albumina 4.
-2 g/dl *ck 13880ui/l *estudio de anemias: ferritina 449 ng/ml, transferrina 376 mg/dl, sideremia 79 ug/dl, isat transferrina 21%, cobalaminas 433 pg/ml, acido folico 7,2 ng/ml.
-*estudio de hepatitis agudas: vhe negativo, vha negativo, antivhbc negativo, vhc y vhe negativos - ecg : ritmo sinusal a 60lpm, pr 120ms, eje 30º, qrs 80ms, adecuada progresion rs en precordiales, sin alteraciones agudas de la repolarizacion.
-- radiografia de torax : poco inspirada, estructuras mediastinicas centradas, indice cardiotoracico &lt;0.
-5, senos nhc ** *** *** &nbsp;(********) &nbsp;age-v-mir 2/4 lopd costofrenicos libres, sin condensaciones pulmonares.
--ionograma orina: creatinina 119 mg/dl, urea 932 mg/dl, osmolalidad 265 mosm/kg, na 13 mmol/l, k 25 mmol/l, cl 16 mmol/l.
--labstix : normal.
+exploracio complementaria pruebas complementarias en urgencias -eab: ph 7.4, pco2 50mmhg, lactato 0.8mmol/l, hb 11.9g/dl, hco3-c 31mmhg, beecf 6.2mmol/l, ag 8mmol/l. -analitica: hb 11 g/dl, hcto 31.3%, vcm 91.3 fl, hcm 32.1 pg, leucocitos 13.55 x10e9/l (can 9.4 x10e9/l, cal 2.2 x10e9/l), plaquetas 441 x10e9/l, tquick 108%, inr 0.96, ttpar 1.03, fibrinogeno 4.24 g/l, glucosa 99 mg/dl, urea 19 mg/dl, creatinina 0.92 mg/dl, fg &gt;90 ml/min/1,73m2, bilirrubina total 0.52 mg/dl, bilirrubina directa 0.19 mg/dl, na 122.7 mmol/l, k 4.23 mmol/l, ast 412 ui/l, alt 166 ui/l, fa 102 ui/l, ggt 167 ui/l, proteinas.
+7.3 g/dl, albumina 4.2 g/dl *ck 13880ui/l *estudio de anemias: ferritina 449 ng/ml, transferrina 376 mg/dl, sideremia 79 ug/dl, isat transferrina 21%, cobalaminas 433 pg/ml, acido folico 7,2 ng/ml. *estudio de hepatitis agudas: vhe negativo, vha negativo, antivhbc negativo, vhc y vhe negativos - ecg : ritmo sinusal a 60lpm, pr 120ms, eje 30º, qrs 80ms, adecuada progresion rs en precordiales, sin alteraciones agudas de la repolarizacion.
+- radiografia de torax : poco inspirada, estructuras mediastinicas centradas, indice cardiotoracico &lt;0.5, senos nhc ** *** *** &nbsp;(********) &nbsp;age-v-mir 2/4 lopd costofrenicos libres, sin condensaciones pulmonares.
+-ionograma orina: creatinina 119 mg/dl, urea 932 mg/dl, osmolalidad 265 mosm/kg, na 13 mmol/l, k 25 mmol/l, cl 16 mmol/l. -labstix : normal.
 no proteinuria ni hematuria.
-exploracion complementaria en planta de medicina interna: - analitica general de ingreso: hb 10.
-9 g/dl, htc 332.
-6, vcm 93.
-9 fl, leucocitos 8,34, plaquetas 429 x10e9/l, tiempos de coagulacion normales, glucosa 84 mg/dl, urea 25 mg/dl, creatinina 1.02 mg/dl, urato 4.
-1 mg/dl, bilirrubina total 0.47 mg/dl, na 129.
-9 mmol/l, k 4.52 mmol/l, p 4.
-2 mg/dl, ca 9.
-2 mg/dl, ast 91 ui/l, alt 72 ui/l, fa 72 ui/l, ggt 124 ui/l, ldh 813 ui/l, colesterol 250 mg/dl, tg 217 mg/dl, proteinas 6.
-6 g/dl, albumina 4.
-1 g/dl, pcr 0.18 mg/dl, hb1ac 6,1%.
-*perfil tiroideo: tirotropina 150 ,473 mu/l, triiodotironina 0,32 pg/ml, tiroxina 0,28 ng/dl *proteinograma normal *ck 10746 --&gt; 9595 --&gt; 2489 ui/l - emg : miopatia en extremidades superiores e inferiores de intes idad ligera y con signos de destruccion muscular aguda (indicando necros is y/o inflamacion muscular aguda.
-- analitica previa al alta : hb 10,6 g/dl; hto 33,1%; vcm 97,9 fl; hcm 31,4 pg; leucocitos 7,38 x10e9/l (can 3,7 x10e9/l; cal 1,9 x10e9/l); plaquetas 392 x10e9/l; glucosa 88 mg/dl; urea 21 mg/dl; creatinina 1,02 mg/dl; fg &gt;90 ml/min/1.73m2, bilirrubina total 0,49 mg/dl, bilirrubina directa 0,19 mg/dl; sodio 131,2 mmol/l; potasio 4,44 mmol/l; cloruro 98 mmol/l, p 4,5 mg/dl, calcio 9,4 mg/dl; ast 73 ui/l; alt 66 ui/l; fa 67 ui/l, ggt 113 ui/l, ldh 677 ui/l.
-ck 2243 ui/l.
-evolucio clinica a su llegada a urgencias paciente con buen estado general, hemodinamicamente estable, afebril, manteniendo buenas saturaciones a aire ambiente.
+exploracion complementaria en planta de medicina interna: - analitica general de ingreso: hb 10.9 g/dl, htc 332.6, vcm 93.9 fl, leucocitos 8,34, plaquetas 429 x10e9/l, tiempos de coagulacion normales, glucosa 84 mg/dl, urea 25 mg/dl, creatinina 1.02 mg/dl, urato 4.1 mg/dl, bilirrubina total 0.47 mg/dl, na 129.9 mmol/l, k 4.52 mmol/l, p 4.2 mg/dl, ca 9.2 mg/dl, ast 91 ui/l, alt 72 ui/l, fa 72 ui/l, ggt 124 ui/l, ldh 813 ui/l, colesterol 250 mg/dl, tg 217 mg/dl, proteinas 6.6 g/dl, albumina 4.1 g/dl, pcr 0.18 mg/dl, hb1ac 6,1%. *perfil tiroideo: tirotropina 150 ,473 mu/l, triiodotironina 0,32 pg/ml, tiroxina 0,28 ng/dl *proteinograma normal *ck 10746 --&gt; 9595 --&gt; 2489 ui/l - emg : miopatia en extremidades superiores e inferiores de intes idad ligera y con signos de destruccion muscular aguda (indicando necros is y/o inflamacion muscular aguda.
+- analitica previa al alta : hb 10,6 g/dl; hto 33,1%; vcm 97,9 fl; hcm 31,4 pg; leucocitos 7,38 x10e9/l (can 3,7 x10e9/l; cal 1,9 x10e9/l); plaquetas 392 x10e9/l; glucosa 88 mg/dl; urea 21 mg/dl; creatinina 1,02 mg/dl; fg &gt;90 ml/min/1.73m2, bilirrubina total 0,49 mg/dl, bilirrubina directa 0,19 mg/dl; sodio 131,2 mmol/l; potasio 4,44 mmol/l; cloruro 98 mmol/l, p 4,5 mg/dl, calcio 9,4 mg/dl; ast 73 ui/l; alt 66 ui/l; fa 67 ui/l, ggt 113 ui/l, ldh 677 ui/l. ck 2243 ui/l. evolucio clinica a su llegada a urgencias paciente con buen estado general, hemodinamicamente estable, afebril, manteniendo buenas saturaciones a aire ambiente.
 a la exploracion fisica edemas duros en miembros inferiores, sin fovea, sin otros hallazgos.
-ecg con ritmo sinusal sin alteraciones, radiografia sin hallazgos patologicos, analitica que confirma alteracion de las transaminasas (ast 412 ui/l, alt 166 ui/l, fa 102 ui/l, ggt 167 ui/l) probablemente en contexto de ck 13880ui/l, aunque podria asociar cierto componente por esteatosis hepatica, ademas de hiponatremia de 122mmol/l hipoosmolar normovolemica sin criterios de siadh (osm plasmatica 254, osm urinaria 265, na+u 13).
-labstix que descarta hematuria y proteinuria.
+ecg con ritmo sinusal sin alteraciones, radiografia sin hallazgos patologicos, analitica que confirma alteracion de las transaminasas (ast 412 ui/l, alt 166 ui/l, fa 102 ui/l, ggt 167 ui/l) probablemente en contexto de ck 13880ui/l, aunque podria asociar cierto componente por esteatosis hepatica, ademas de hiponatremia de 122mmol/l hipoosmolar normovolemica sin criterios de siadh (osm plasmatica 254, osm urinaria 265, na+u 13). labstix que descarta hematuria y proteinuria.
 bajo la sospecha de posible miopatia por estatinas retiro simvastatina, inicio sueroterapia y curso ingreso hospitalario.
 a su llegada a planta de medicina interna el paciente se encuentra hemodinamicamente estable, en buen estado general, afebril.
 en la exploracion fisica destaca unicamente edemas duros en eeii hasta tobillos.
 se realiza analitica de ingreso con perfil de miositis,que resulta negativo.
-un control analitico posterior (primera muestra no apta para evaluacion) mostro una elevavcion de tsh con descenso de t4l.
-reinterrogado el paciente, niega clinica sugestiva de hipotiroidismo ni de tiroiditis.
-el emg mostro un patron de miopatia en extremidades superiores e inferiores de intensidad ligera y con signos de destruccion muscular aguda que se interpretan como probablemente en relacion a su hipotiroidismo dada la progresiva y espontanea mejoria analitica, la ausencia de clinica y la negatividad para la determinacion de acs.
-asociados a miopatia.
-se inicio levotiroxina ev seguida de levotiroxina oral decidiendo alta a domicilio y visita de control en ccee de mi (dr. *****).
-ck al alta: 2489.
-nhc ** *** *** &nbsp;(********) &nbsp;age-v-mir 3/4 lopd orientacio diagnostica 1.
-hipotiroidismo primario 2.
-hiponatremia hipoosmolar 3.
-eosinofilia leve 4.
-esteatosis hepatica . tractament i recomanacions a l'alta suspender simvastatina por el momento.
+un control analitico posterior (primera muestra no apta para evaluacion) mostro una elevavcion de tsh con descenso de t4l. reinterrogado el paciente, niega clinica sugestiva de hipotiroidismo ni de tiroiditis.
+el emg mostro un patron de miopatia en extremidades superiores e inferiores de intensidad ligera y con signos de destruccion muscular aguda que se interpretan como probablemente en relacion a su hipotiroidismo dada la progresiva y espontanea mejoria analitica, la ausencia de clinica y la negatividad para la determinacion de acs. asociados a miopatia.
+se inicio levotiroxina ev seguida de levotiroxina oral decidiendo alta a domicilio y visita de control en ccee de mi (dr. *****). ck al alta: 2489. nhc ** *** *** &nbsp;(********) &nbsp;age-v-mir 3/4 lopd orientacio diagnostica 1. hipotiroidismo primario 2. hiponatremia hipoosmolar 3. eosinofilia leve 4. esteatosis hepatica . tractament i recomanacions a l'alta suspender simvastatina por el momento.
 levotiroxina 100mcg, 1 comprimido cada 24h se explican signos de alarma y normas de reconsulta.
 control control y seguimiento por su medico de atencion primaria y demas especialistas de referencia.
-acudir a cex medicina interna (dr. *****) el proximo 02/04 a las 8:40h.
-acudir a h.
-de dia de endocrinologia, previo control analitico.
+acudir a cex medicina interna (dr. *****) el proximo 02/04 a las 8:40h. acudir a h. de dia de endocrinologia, previo control analitico.
 sera avisado telematicamente.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;age-v-mir 4/4 lopd

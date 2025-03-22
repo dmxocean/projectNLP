@@ -1,12 +1,8 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 10.07.1936 edat: 81 anys procedencia cex mateix hosp servei urologia data d'ingres 21.02.2018 data d'alta 21.02.2018 15:25:43 ates per ************, ************; ****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de forma programada para inyeccion de toxina botulinica antecedents alergias: no.
-h.
-toxicos: niega.
-antecedentes - artrosis generalizada , pies cavos , camina con baston - temblor esencial - diabetes mellitus tipo 2.
-buenos controles hba1c 5,9 %.
--quiste maxilar (pared quistica con componente linfoplasmocitario, sin malignidad) - hipertension arterial.
+h. toxicos: niega.
+antecedentes - artrosis generalizada , pies cavos , camina con baston - temblor esencial - diabetes mellitus tipo 2. buenos controles hba1c 5,9 %. -quiste maxilar (pared quistica con componente linfoplasmocitario, sin malignidad) - hipertension arterial.
 - litiasis renales tratadas mediante litotricia - artrodesis entre pie izquierdo y tobillo.
-proces actual paciente con antecedente de vejiga hiperactiva refractaria a tratamiento medico, por lo que se propone inyeccion de toxina botulinica en vejiga urinaria en febrero de 2017.
-a pesar de ello persiste con clinica de urgeincontinencia, por lo que se propone nueva infiltracion de toxina botulinica intravesical.
+proces actual paciente con antecedente de vejiga hiperactiva refractaria a tratamiento medico, por lo que se propone inyeccion de toxina botulinica en vejiga urinaria en febrero de 2017. a pesar de ello persiste con clinica de urgeincontinencia, por lo que se propone nueva infiltracion de toxina botulinica intravesical.
 evolucio clinica el 21 de febrero de 2018 previa firma de consentimiento informado y comprobacion de pruebas preoperatorias correctas se realiza inyeccion de 100iu de botox intravesical a nivel del detrusor.
 el paciente es trasladado a planta de hospitalizacion donde permanece con buen estado general, hemodinamicamente estable y afebril.
 diuresis conservada con orina clara.

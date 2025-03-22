@@ -1,22 +1,14 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 16.07.1980 edat: 38 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 23.01.2019 data d'alta 28.01.2019 11:59:20 ates per ******************, *****; ***************, ****; ***************, ************ informe d'alta d'hospitalitzacio motiu d'ingres rotura prematura de membranas a termino antecedents no alergias medicamentosas conocidas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 16.07.1980 edat: 38 anys procedencia domicil/res.soc servei obstetricia data d'ingres 23.01.2019 data d'alta 28.01.2019 11:59:20 ates per ******************, *****; ***************, ****; ***************, ************ informe d'alta d'hospitalitzacio motiu d'ingres rotura prematura de membranas a termino antecedents no alergias medicamentosas conocidas.
 intervenciones quirurgicas: quiste mucinoso pancreas antecedentes patologicos: asma fumadora de 5 cig/dia no medicacion habitual.
-proces actual edad 37 años tpal 0000 fur 10/4/18 sg : 41s + 1d gsrh o positivo primigesta de 41+1 semanas de gestacion que acude para hidrorrea de aguas claras 22.01.19 a las 21h.
-refiere sensacion de dinamica uterina muy ocasional.
+proces actual edad 37 años tpal 0000 fur 10/4/18 sg : 41s + 1d gsrh o positivo primigesta de 41+1 semanas de gestacion que acude para hidrorrea de aguas claras 22.01.19 a las 21h. refiere sensacion de dinamica uterina muy ocasional.
 no metrorragia.
 movimientos fetales activos.
 no otra sintomatologia de interes.
-gestacion controlada en el cap sin incidencias resumen gestacional analiticas: - 1 º t: hb: 12,9 ht: 36,2.
-- 2 º t: hb: 12.
-2; ht: 37.5.
-- 3 º t: hb: 12.
-1; ht: 36; plaquetas y coagulacion correctas serologias: rubeola inmune, toxoplasma no immune, lues vih, vhb y vhc negativos.
-- o'sullivan: 1rt 163, 2ºt 122.
-ttog normal.
+gestacion controlada en el cap sin incidencias resumen gestacional analiticas: - 1 º t: hb: 12,9 ht: 36,2. - 2 º t: hb: 12.2; ht: 37.5. - 3 º t: hb: 12.1; ht: 36; plaquetas y coagulacion correctas serologias: rubeola inmune, toxoplasma no immune, lues vih, vhb y vhc negativos.
+- o'sullivan: 1rt 163, 2ºt 122. ttog normal.
 - urocultivo:negativo.
 - cultivos r / v: positivo (multisensible) - triple screening: bajo riesgo.
-ecografias: - 1º t: tn: 1,80.
-congruente.
+ecografias: - 1º t: tn: 1,80. congruente.
 - 2º t: morfologia normal.
 placenta fundica.
 - 3º t: 36+3 sg.
@@ -34,8 +26,7 @@ orientacion diagnostica: rotura prematura de membranas a termino el dia 22.01.19
 bajar a urgencias a las 18:00h del dia 23.01.19 si no ha iniciado trabajo de parto antes.
 evolucio clinica primigesta de 41s+1d que ingresa para induccion al parto por rotura prematura de membranas a termino.
 se inicia maduracion cervical con propess y posterior estimulacion oxitocinica . se objetiva tacto vaginal analogo (2cm de canal, 1cm de dilatacion) por lo que se indica cesarea de recurso por fracaso de induccion . el dia 24.01.19 se realiza cesarea tipo cohen.
-extraccion a las 16.37h de recien nacido vivo, sexo femenino, sin dificultad, peso 3560g, apgar 9/10, ph 7.28/7.33.
-sin incidencias.
+extraccion a las 16.37h de recien nacido vivo, sexo femenino, sin dificultad, peso 3560g, apgar 9/10, ph 7.28/7.33. sin incidencias.
 intradermica en piel.
 el pueperio clinico transcurre con normalidad.
 la paciente permanece con buen estado general, buen control del dolor, normotensa y apiretica.
@@ -43,13 +34,11 @@ utero tonico con perdidas vaginales escasas.
 herida quirurgica con cicatrizacion correcta.
 esta realizando lactancia materna.
 debido a la buena evolucion clinica, se decide alta hospitalaria.
-orientacio diagnostica rotura prematura de membranas a termino induccion al parto cesarea de recurso nhc ** *** *** (********) ami-v-obs 2/3 lopd lactancia materna puerperio clinico normal procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea cesarea: sutura intradermica profilaxis antibiotica profilaxis antitrombotica analgesicos ferroterapia curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor).
-acido folico 1 al dia durante la lactancia.
+orientacio diagnostica rotura prematura de membranas a termino induccion al parto cesarea de recurso nhc ** *** *** (********) ami-v-obs 2/3 lopd lactancia materna puerperio clinico normal procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea cesarea: sutura intradermica profilaxis antibiotica profilaxis antitrombotica analgesicos ferroterapia curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor). acido folico 1 al dia durante la lactancia.
 paracetamol 1gr cada 8 horas si precisa para el dolor clexane 40ui/dia durante 6 semanas.
 control control por su comadrona de zona en 7-10 dias.
 la sutura intradermica se reabsorbe sola.
 se recomienda esperar minimo un año para buscar nuevo embarazo.
-se informa de signos / sintomas de alarma (fiebre termometrada en domicilio, eritema mamario o aumento de la temperatura local, secrecion purulenta por la herida quirurgica, secrecion vaginal maloliente, entre otros).
-se recomienda consumir abundante ingesta de liquidos y comida variada y equilibrada, lavar a diario la herida quirurgica con agua y jabon neutro, realizar actividad fisica leve/moderada.
+se informa de signos / sintomas de alarma (fiebre termometrada en domicilio, eritema mamario o aumento de la temperatura local, secrecion purulenta por la herida quirurgica, secrecion vaginal maloliente, entre otros). se recomienda consumir abundante ingesta de liquidos y comida variada y equilibrada, lavar a diario la herida quirurgica con agua y jabon neutro, realizar actividad fisica leve/moderada.
 se recomienda no realizar inmersion en bañera, piscina o mar hasta finalizar el puerperio.
 destinacio a l'alta: a domicili nhc ** *** *** (********) ami-v-obs 3/3 lopd

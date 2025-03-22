@@ -1,67 +1,37 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 19.06.2013 edat: 4 anys procedencia cex mateix hosp servei pneumologia ped data d'ingres 29.05.2018 data d'alta 04.06.2018 13:21:36 ates per ************, ******; ************, ******; ***********, ********; ************, ******* informe d'alta d'hospitalitzacio motiu d'ingres paciente de 4 años y 11 meses que ingresa el dia 29/5/2018 en la planta de hospitalizacion de neumologia pediatrica por exacerbacion respiratoria.
 presenta fiebre de maximo 38.3ºc las 48 horas previas al ingreso acompañada de tos productiva y mucosidad.
-antecedents alergias: asparaginasa e.
-coli, asparaginasa erwinia.
+antecedents alergias: asparaginasa e. coli, asparaginasa erwinia.
 antecedentes patologicos: - fibrosis quistica (f508del/712-1g&gt;t) diagnosticada en periodo neonatal.
 pdp positivo.
-debut con ileo meconial, resuelto con enemas y transito esofago-gastro-duodenal con gastrografin; no preciso intervencion quirurgica (h.
-de sant pau).
-ingreso en nuestro hospital a las 3 semanas por suboclusion, preciso nuevamente gastrografin y seinicio tratamiento con movicol y acetilcisteina (oral y en enema).
-- cuatro episodios de p.
-aeruginosa cultivo (30/11/15): 4ª vez p.
-aeruginosa, antibiograma: cipro-tobra-coli sensible (ultima ps 16.12.14).
-ultimo cultivo orofaringeo 09/10/17 negativo (plan: continuar con tratamiento con colimicina nebulizada).
-- leucemia linfoblastica aguda b comun de riesgo intermedio diagnosticado en marzo del 2016 estando asintomatico, en una analitica de control realizada en consultas externas de fibrosis quistica.
+debut con ileo meconial, resuelto con enemas y transito esofago-gastro-duodenal con gastrografin; no preciso intervencion quirurgica (h. de sant pau). ingreso en nuestro hospital a las 3 semanas por suboclusion, preciso nuevamente gastrografin y seinicio tratamiento con movicol y acetilcisteina (oral y en enema). - cuatro episodios de p.aeruginosa cultivo (30/11/15): 4ª vez p. aeruginosa, antibiograma: cipro-tobra-coli sensible (ultima ps 16.12.14). ultimo cultivo orofaringeo 09/10/17 negativo (plan: continuar con tratamiento con colimicina nebulizada). - leucemia linfoblastica aguda b comun de riesgo intermedio diagnosticado en marzo del 2016 estando asintomatico, en una analitica de control realizada en consultas externas de fibrosis quistica.
 realizo induccion ia segun protocolo sehop-pethema 2013, sin complicaciones significativas del tratamiento.
-buena respuesta el dia +8 (&lt;1000blastos en sangre periferica), el dia +14 (enfermedad medular residual: se detectan un 1.
-7% de celulas blasticas) y el dia +33 (enfermedad medular residual indetectable).
-realizo induccion ib segun protocolo msehop-pethema 2013 de forma ambulatoria.
+buena respuesta el dia +8 (&lt;1000blastos en sangre periferica), el dia +14 (enfermedad medular residual: se detectan un 1.7% de celulas blasticas) y el dia +33 (enfermedad medular residual indetectable). realizo induccion ib segun protocolo msehop-pethema 2013 de forma ambulatoria.
 enfermedad medular residual preconsolidacion: indetectable.
 como complicaciones presento un ingreso en abril del 2016 por neutropenia febril, con cultivos negativos.
-realizo consolidacion hasta el 2.08.16.
-aislamiento de campylobacter en coprocultivo y hemocultivo, por lo que recibio tratamiento antibiotico con amoxicilina-clavulanico durante 10 dias, comprobandose hemocultivo negativo y correcta evolucion clinica posterior.
-durante la reinduccion: asparaginasa administrada el 30.08.16.
-presento anafilaxia: reaccion anafilactica de causa no filiada por la que requirio ingreso del 01.09.2016 al 02.09.2016.
-se adminisitro adrenalina im, dexametasona, difenhidramina, ranitidina.
-inicia fase de mantenimiento en octubre de 2016.
-actualmente pendiente de amo preretirada del tratamiento.
+realizo consolidacion hasta el 2.08.16. aislamiento de campylobacter en coprocultivo y hemocultivo, por lo que recibio tratamiento antibiotico con amoxicilina-clavulanico durante 10 dias, comprobandose hemocultivo negativo y correcta evolucion clinica posterior.
+durante la reinduccion: asparaginasa administrada el 30.08.16. presento anafilaxia: reaccion anafilactica de causa no filiada por la que requirio ingreso del 01.09.2016 al 02.09.2016. se adminisitro adrenalina im, dexametasona, difenhidramina, ranitidina.
+inicia fase de mantenimiento en octubre de 2016. actualmente pendiente de amo preretirada del tratamiento.
 exploraciones complementarias: -tc torax (12.06.2017): estudio artefactado por movimiento.
 el parenquima pulmonar presenta un aspecto normal.
-no identifico alteraciones de ventilacion.
-la traquea y el arbol bronquial son normales.
+no identifico alteraciones de ventilacion.la traquea y el arbol bronquial son normales.
 las estructuras mediastinicas no aparecen engrosadas.
 id: exploracion normal - analitica julio 2017: normal.
-vit e 15, vta 1,6.
-vit d 61,3 - fenir agosto 2017: 6% , aigua 67% - ecografia abdomen (03.10.2017): higado de tamaño conservado, discretamente heterogeneo, sin lesiones focales ocupantes de espacio evidentes.
+vit e 15, vta 1,6. vit d 61,3 - fenir agosto 2017: 6% , aigua 67% - ecografia abdomen (03.10.2017): higado de tamaño conservado, discretamente heterogeneo, sin lesiones focales ocupantes de espacio evidentes.
 colelitiasis puntiformes, la mayor de 3 mm.
 vesicula biliar de paredes finas.
 via biliar no dilatada.
 bazo homogeneo de tamaño normal.
 riñones de tamaño, morfologia y ecoestructura dentro de la normalidad sin dilatacion las vias excretoras.
-area pancreatica y discretamente ecogenica y disminuida de tamaño.
-ganglios linfaticos milimetricos inespecificos en hilio hepatico y mesenterico.
+area pancreatica y discretamente ecogenica y disminuida de tamaño. ganglios linfaticos milimetricos inespecificos en hilio hepatico y mesenterico.
 no liquido libre en pelvis menor.
 nhc ** *** *** (********) ami-v-pnp 1/5 lopd cultivos: -mayo 2014: 1 º vez pseudomona aeruginosa, sensible a todo.
-tratamiento bramitob nebulizado previa administracion de salbutamol (bien tolerado).
-se inicia ciprofloxacino.
+tratamiento bramitob nebulizado previa administracion de salbutamol (bien tolerado). se inicia ciprofloxacino.
 -21 julio 2014: 2 º vez pseudomona aeruginosa, sensible a todo.
 no se trata con atb oral (pq no se entendio que llamaran) -4/11/14: 3º psa sensible, enterobacter cloacae.
-hongos: rhodotorula sp -30/11/15: 4ª vez p.
-aeruginosa, antibiograma: cipro-tobra-coli sensible (ultima ps 16.12.14) -20.1.2016, 20/06/16, 13/07/16, 29/07/16, 17.08.17, 18.10.17: flora orofaringea -30.11.17: p.
-aeruginosa -posteriormente 5 cultivo negativos.
-ultimo cultivo: 14/5/18: flora orofaringea espirometrias: *efr 16.01.2017: fvc 1.04 (67%, fev1 1.04 (76%), rel 95.
-6% mmef 1.
-8 (153%) *efr 96.02.2018: fvc 1.03 (66%, fev1 0.95 (69%), rel 98% mmef 1.47 (119%) medicacio habitual -salbutamol 2 inh cada 12 horas -flumil 3 ml c/8h -dekas 1 ml /24h -ursochol 6 ml /12h -auxina e 400 1 al dia -nexium 10 mgr al dia -kreon 5000 (5-9-5-9).
--aciclovir 2.
-5 ml cada 8 horas -septrin 3.
-5 ml cada 12 horas (lunes-miercoles-viernes), -mercaptopurina solucion oral ( 20 mg/1 ml): 1.
-8 ml/24 horas (36 mg ).
--metotrexate cp 2.
-5 mg : 6 cp/semanal (15mg, los lunes ).
-exploracio fisica peso: 19 kg.
+hongos: rhodotorula sp -30/11/15: 4ª vez p. aeruginosa, antibiograma: cipro-tobra-coli sensible (ultima ps 16.12.14) -20.1.2016, 20/06/16, 13/07/16, 29/07/16, 17.08.17, 18.10.17: flora orofaringea -30.11.17: p. aeruginosa -posteriormente 5 cultivo negativos.
+ultimo cultivo: 14/5/18: flora orofaringea espirometrias: *efr 16.01.2017: fvc 1.04 (67%, fev1 1.04 (76%), rel 95.6% mmef 1.8 (153%) *efr 96.02.2018: fvc 1.03 (66%, fev1 0.95 (69%), rel 98% mmef 1.47 (119%) medicacio habitual -salbutamol 2 inh cada 12 horas -flumil 3 ml c/8h -dekas 1 ml /24h -ursochol 6 ml /12h -auxina e 400 1 al dia -nexium 10 mgr al dia -kreon 5000 (5-9-5-9). -aciclovir 2.5 ml cada 8 horas -septrin 3.5 ml cada 12 horas (lunes-miercoles-viernes), -mercaptopurina solucion oral ( 20 mg/1 ml): 1.8 ml/24 horas (36 mg ). -metotrexate cp 2.5 mg : 6 cp/semanal (15mg, los lunes ). exploracio fisica peso: 19 kg.
 talla: 109 cm.
-sc: 0.75 m2.
-tª 36.5ºc buen estado general.
+sc: 0.75 m2. tª 36.5ºc buen estado general.
 activo y reactivo.
 normocoloreado y normohidratado.
 no lesiones cutaneas.
@@ -70,67 +40,8 @@ aparato cardiocirculatorio: tonos ritmico, sin soplos, pulsos presentes y simetr
 perfusion distal conservada.
 abdomen blando y depresible, no masas ni megalias, no doloroso a la palpacion.
 peristaltismo conservado.
-exploracio complementaria laboratorio: *analitica general (29/05/18): hematies 3.32 x10e12/l, hemoglobina 11.
-1 g/dl, hematocrit 31.
-0 %, volum corpuscular mig (vcm) 93.
-4 fl, hemoglobina corpuscular mitja (hcm) 33.
-4 pg, concentracio hgb corpuscular mitja 35.80 g/dl, ample distribucio eritrocits (ade) 16.
-4 %, leucocits 1.54 x10e9/l, neutrofils 33.
-7 %, limfocits 57.
-6 %, monocits 7.
-6 %, eosinofils 0.
-0 %, basofils 1.
-1 %, neutrofils 0.
-5 x10e9/l, limfocits 0.
-9 x10e9/l, monocits nhc ** *** *** (********) ami-v-pnp 2/5 lopd 0.
-1 x10e9/l, eosinofils 0.
-0 x10e9/l, basofils 0.
-0 x10e9/l, plaquetes 331 x10e9/l, volum plaquetari mig 9.
-6 fl, urea 14 mg/dl, creatinini 0.25 mg/dl, sodi 138.
-1 mmol/l, potassi 4.05 mmol/l, clorur 103 mmol/l, aspartat-aminotransferasa 134 ui/l, alanina-aminotransferasa 273 ui/l, proteïna c reactiva 0.09 mg/dl.
-*analitica general (31/05/18): hematies 3.63 x10e12/l, hemoglobina 12.
-1 g/dl, hematocrit 33.
-7 %, volum corpuscular mig (vcm) 92.
-8 fl, hemoglobina corpuscular mitja (hcm) 33.
-3 pg, concentracio hgb corpuscular mitja 35.90 g/dl, ample distribucio eritrocits (ade) 16.
-6 %, leucocits 1.57 x10e9/l, neutrofils % 15.
-4 %, limfocits % 66.
-2 %, monocits % 14.
-6 %, eosinofils % 2.
-5 %, basofils % 1.
-3 %, neutrofils 0.
-2 x10e9/l, limfocits 1.
-0 x10e9/l, monocits 0.
-2 x10e9/l, eosinofils 0.
-0 x10e9/l, basofils 0.
-0 x10e9/l, plaquetes 353 x10e9/l, volum plaquetari mig 9.
-7 fl, bilirubina 0.37 mg/dl, bilirubina esterificada 0.19 mg/dl, aspartat-aminotransferasa 77 ui/l, alanina-aminotransferasa 173 ui/l, fosfatasa alcalina 203 ui/l, gamma-glutamiltransferasa 17 ui/l.
-*analitica general (04/06/18): hematies 3.79 x10e12/l, hemoglobina 12.
-3 g/dl, hematocrit 35.
-7 %, volum corpuscular mig (vcm) 94.
-2 fl, hemoglobina corpuscular mitja (hcm) 32.
-5 pg, concentracio hgb corpuscular mitja 34.50 g/dl, ample distribucio eritrocits (ade) 15.
-9 %, leucocits 3.69 x10e9/l, neutrofils % 23.
-4 %, limfocits % 53.
-3 %, limfoc.
-nucl.
-(centr/prolimf) 12.
-1 %, monocits % 9.
-3 %, eosinofils % 0.
-9 %, basofils % 0.
-9 %, neutrofils 0.
-9 x10e9/l, limfocits 2.
-0 x10e9/l, monocits 0.
-3 x10e9/l, eosinofils 0.
-0 x10e9/l, basofils 0.
-0 x10e9/l, plaquetes 528 x10e9/l, glucosa 73 mg/dl, urea 23 mg/dl, creatinini 0.24 mg/dl, bilirubina 0.31 mg/dl, bilirubina esterificada 0.15 mg/dl, sodi 139.
-4 mmol/l, potassi 4.61 mmol/l, clorur 105 mmol/l, fosfat 5.
-1 mg/dl, calci 9.
-5 mg/dl, aspartat-aminotransferasa 43 ui/l, alanina-aminotransferasa 76 ui/l, fosfatasa alcalina 207 ui/l, gamma-glutamiltransferasa 16 ui/l, proteïna 5.
-9 g/dl, albumina 4.
-0 g/dl, proteïna c reactiva 0.04 mg/dl.
-microbiologia: *cultivo de exsudado faringo/amigdalar (29/05/18): flora orofaringea *deteccion de virus respiratorios por pcr a tiempo real en aspirado nasofaringeo (29/05/18): positivo a virus parainfluenza 3.
-*sedimento de orina y urocultivo (29/05/18): negativo.
+exploracio complementaria laboratorio: *analitica general (29/05/18): hematies 3.32 x10e12/l, hemoglobina 11.1 g/dl, hematocrit 31.0 %, volum corpuscular mig (vcm) 93.4 fl, hemoglobina corpuscular mitja (hcm) 33.4 pg, concentracio hgb corpuscular mitja 35.80 g/dl, ample distribucio eritrocits (ade) 16.4 %, leucocits 1.54 x10e9/l, neutrofils 33.7 %, limfocits 57.6 %, monocits 7.6 %, eosinofils 0.0 %, basofils 1.1 %, neutrofils 0.5 x10e9/l, limfocits 0.9 x10e9/l, monocits nhc ** *** *** (********) ami-v-pnp 2/5 lopd 0.1 x10e9/l, eosinofils 0.0 x10e9/l, basofils 0.0 x10e9/l, plaquetes 331 x10e9/l, volum plaquetari mig 9.6 fl, urea 14 mg/dl, creatinini 0.25 mg/dl, sodi 138.1 mmol/l, potassi 4.05 mmol/l, clorur 103 mmol/l, aspartat-aminotransferasa 134 ui/l, alanina-aminotransferasa 273 ui/l, proteïna c reactiva 0.09 mg/dl. *analitica general (31/05/18): hematies 3.63 x10e12/l, hemoglobina 12.1 g/dl, hematocrit 33.7 %, volum corpuscular mig (vcm) 92.8 fl, hemoglobina corpuscular mitja (hcm) 33.3 pg, concentracio hgb corpuscular mitja 35.90 g/dl, ample distribucio eritrocits (ade) 16.6 %, leucocits 1.57 x10e9/l, neutrofils % 15.4 %, limfocits % 66.2 %, monocits % 14.6 %, eosinofils % 2.5 %, basofils % 1.3 %, neutrofils 0.2 x10e9/l, limfocits 1.0 x10e9/l, monocits 0.2 x10e9/l, eosinofils 0.0 x10e9/l, basofils 0.0 x10e9/l, plaquetes 353 x10e9/l, volum plaquetari mig 9.7 fl, bilirubina 0.37 mg/dl, bilirubina esterificada 0.19 mg/dl, aspartat-aminotransferasa 77 ui/l, alanina-aminotransferasa 173 ui/l, fosfatasa alcalina 203 ui/l, gamma-glutamiltransferasa 17 ui/l. *analitica general (04/06/18): hematies 3.79 x10e12/l, hemoglobina 12.3 g/dl, hematocrit 35.7 %, volum corpuscular mig (vcm) 94.2 fl, hemoglobina corpuscular mitja (hcm) 32.5 pg, concentracio hgb corpuscular mitja 34.50 g/dl, ample distribucio eritrocits (ade) 15.9 %, leucocits 3.69 x10e9/l, neutrofils % 23.4 %, limfocits % 53.3 %, limfoc.nucl.
+(centr/prolimf) 12.1 %, monocits % 9.3 %, eosinofils % 0.9 %, basofils % 0.9 %, neutrofils 0.9 x10e9/l, limfocits 2.0 x10e9/l, monocits 0.3 x10e9/l, eosinofils 0.0 x10e9/l, basofils 0.0 x10e9/l, plaquetes 528 x10e9/l, glucosa 73 mg/dl, urea 23 mg/dl, creatinini 0.24 mg/dl, bilirubina 0.31 mg/dl, bilirubina esterificada 0.15 mg/dl, sodi 139.4 mmol/l, potassi 4.61 mmol/l, clorur 105 mmol/l, fosfat 5.1 mg/dl, calci 9.5 mg/dl, aspartat-aminotransferasa 43 ui/l, alanina-aminotransferasa 76 ui/l, fosfatasa alcalina 207 ui/l, gamma-glutamiltransferasa 16 ui/l, proteïna 5.9 g/dl, albumina 4.0 g/dl, proteïna c reactiva 0.04 mg/dl. microbiologia: *cultivo de exsudado faringo/amigdalar (29/05/18): flora orofaringea *deteccion de virus respiratorios por pcr a tiempo real en aspirado nasofaringeo (29/05/18): positivo a virus parainfluenza 3. *sedimento de orina y urocultivo (29/05/18): negativo.
 *cultivo de exsudado faringo/amigdalar (04/06/18): pendiente imagen: * radiografia de torax (29/05/18): punto acceso venoso correcto, con cateteres retrocediendo por la yugular derecha, y extremo distal en posicion alta en la cava superior.
 discreta cardiomegalia.
 campos pulmonares sin hallazgos significativos.
@@ -141,38 +52,25 @@ se inicia tratamiento antibiotico empirico con ceftazidima y amikacina endovenos
 se mantiene su tratamiento de base habitual a excepcion del metotrexate y la mercaptopurina, que se suspenden dado el episodio febril actual y que el paciente ya estaba pendiente de finalizacion del tratamiento quimioterapico.
 a las 24 horas de ingreso se obtiene resultado positivo a parainfluenza 3 en el aspirado nasofaringeo.
 el resto de estuidos microbiologicos son negativos.
-a nivel analitico destaca neutropenia (de hasta 0.
-2 neutrofilosx10e9/l) y discreta hipertransaminasemia que se orientan como probablemente secundarios a viriasis actual.
+a nivel analitico destaca neutropenia (de hasta 0.2 neutrofilosx10e9/l) y discreta hipertransaminasemia que se orientan como probablemente secundarios a viriasis actual.
 no presenta elevacion de reactantes de fase aguda.
-se valora conjuntamente con el equipo de hematologia pediatrica y se decide realizar aspirado de medula osea (pendiente para valoracion de la finalizacion del tratamiento quimioterapico).
-el dia 01/06/18 se realiza el procedimiento bajo sedacion sin incidencias, resultado pendiente.
-en control analitico posteriores presenta aumento de la cifra de neutrofilos (0.
-9 neutrofilosx10e9/l) y normalizacion de las transaminasas.
+se valora conjuntamente con el equipo de hematologia pediatrica y se decide realizar aspirado de medula osea (pendiente para valoracion de la finalizacion del tratamiento quimioterapico). el dia 01/06/18 se realiza el procedimiento bajo sedacion sin incidencias, resultado pendiente.
+en control analitico posteriores presenta aumento de la cifra de neutrofilos (0.9 neutrofilosx10e9/l) y normalizacion de las transaminasas.
 durante el ingreso se mantiene estable, con buen estado general y correcta tolerancia oral.
 presenta fiebre durante las primeras 24 horas, manteniendose afebril posteriormente.
 se decide alta a domicilio el dia 04/06/018, habiendo completado 6 dias de tratamiento endovenoso.
 exploracion fisica al alta con buena entrada de aire bilateral, sin ruidos sobreañadidos ni signos de dificultad respiratoria, persistiendo leve tos y mucosidad blanquecina.
-orientacio diagnostica e84.
-9 fibrosi quistica no especificada r50.
-9 febre no especificada d70.
-9 neutropenia no especificada b34.
-9 infeccio virica no especificada c91.01 leucemia limfoblastica aguda, en remissio procediments antibioterapia endovenosa antibioterapia nebulitzada analitica sanguinia.
+orientacio diagnostica e84.9 fibrosi quistica no especificada r50.9 febre no especificada d70.9 neutropenia no especificada b34.9 infeccio virica no especificada c91.01 leucemia limfoblastica aguda, en remissio procediments antibioterapia endovenosa antibioterapia nebulitzada analitica sanguinia.
 aspirat nasofaringi.
 cultiu d'exudat faringo-amigdalar.
 sediment d'orina urocultiu.
 radiografia de torax.
 aspirat de moll d'os.
 tractament i recomanacions a l'alta -salbutamol 2 inh cada 12 horas.
--flumil 3 ml c/8h.
--dekas 1 ml /24h.
--ursochol 6 ml /12h.
--auxina e 400 1 al dia.
+-flumil 3 ml c/8h. -dekas 1 ml /24h. -ursochol 6 ml /12h. -auxina e 400 1 al dia.
 nhc ** *** *** (********) ami-v-pnp 4/5 lopd -nexium 10 mgr al dia.
--kreon 5000 (5-9-5-9).
--aciclovir 2.
-5 ml cada 8 horas.
--septrin 3.
-5 ml cada 12 horas (lunes-miercoles-viernes), -amoxicilina/clavulanico (suspension 100+12.5mg/ml): 5ml cada 8 horas hasta el dia de la consulta.
+-kreon 5000 (5-9-5-9). -aciclovir 2.5 ml cada 8 horas.
+-septrin 3.5 ml cada 12 horas (lunes-miercoles-viernes), -amoxicilina/clavulanico (suspension 100+12.5mg/ml): 5ml cada 8 horas hasta el dia de la consulta.
 -colistina (1 mui): 1 vial nebulizado cada 12 horas.
 control control en consultas externas el 11/06/18 segun citacion.
 destinacio a l'alta: a domicili nhc ** *** *** (********) ami-v-pnp 5/5 lopd

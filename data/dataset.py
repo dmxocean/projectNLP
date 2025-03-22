@@ -158,9 +158,6 @@ def extract_annotations(data):
                 "end": None,  # No end position
                 "label": "No Prediction",  # Special label to indicate absence
                 "text": None,  # No specific text segment
-                "context": text[:50] + "..."
-                if len(text) > 50
-                else text,  # First 50 chars for context
             }
             rows.append(row)
             continue
@@ -196,6 +193,121 @@ def extract_annotations(data):
     return pd.DataFrame(rows)
 
 
+def extract_annotations_and_split_documents(data):
+    """
+    Extracts annotations, splits documents into lines, and adjusts annotation indices.
+
+    This function combines the functionality of extracting annotations and
+    splitting documents into lines while correctly adjusting the annotation
+    indices to match the new line-based structure.
+
+    Args:
+        data (list): List of document JSON objects.
+
+    Returns:
+        pd.DataFrame: DataFrame containing all annotations, with indices
+                      adjusted for line breaks.  Also saves each document
+                      as a text file, split by lines.
+    """
+
+    rows = []
+    for doc_index, doc in enumerate(data):
+        doc_id = doc["data"]["id"]
+        text = doc["data"]["text"]
+        original_text = doc["data"]["text"]  # Keep the original for splitting
+
+        # Get punctuation stops and split the document
+        stops = get_punctuation_stops(text)
+        line_start = 0
+        line_number = 0
+        processed_text = ""  # Accumulate lines with \n
+        line_offsets = []  # Store (start, end) of each line in original text
+
+        for stop in stops:
+            line_text = original_text[line_start : stop + 1].strip()
+            if line_text:
+                line_offsets.append((line_start, stop + 1))
+                processed_text += line_text + "\n"
+                line_number += 1
+            line_start = stop + 1
+
+        # Handle remaining text
+        remaining_text = original_text[line_start:].strip()
+        if remaining_text:
+            line_offsets.append((line_start, len(original_text)))
+            processed_text += remaining_text + "\n"
+            line_number += 1
+
+        # Save the processed document (split into lines)
+        with open(f"../data/documents/{doc_id}.txt", "w") as f:
+            f.write(processed_text)
+
+        # Handle empty predictions
+        if "predictions" not in doc or not doc["predictions"]:
+            row = {
+                "doc_index": doc_index,
+                "doc_id": doc_id,
+                "result_id": None,
+                "start": None,
+                "end": None,
+                "label": "No Prediction",
+                "text": None,
+                "line_number": None,  # Add line number.
+            }
+            rows.append(row)
+            continue
+
+        # Process predictions and adjust indices
+        for pred_index, pred in enumerate(doc["predictions"]):
+            if "result" in pred:
+                for res_index, res in enumerate(pred["result"]):
+                    if "value" in res and "labels" in res["value"]:
+                        original_start = res["value"]["start"]
+                        original_end = res["value"]["end"]
+                        print(original_start, original_end)
+
+                        # Find the line number and adjusted start/end
+                        line_num, adjusted_start, adjusted_end = -1, -1, -1
+                        for i, (line_s, line_e) in enumerate(line_offsets):
+                            if line_s <= original_start <= line_e:
+                                line_num = i
+                                adjusted_start = original_start - line_s
+                                # also adjust the end
+                                adjusted_end = original_end - line_s
+                                break  # Found the line
+
+                        # Sanity Check
+                        if line_num == -1:
+                            print(
+                                f"Warning: Could not find line for annotation in doc {doc_id}"
+                            )
+                            continue
+
+                        # Now, reconstruct line text *from the line offsets and original text*
+                        segment_text = original_text[
+                            line_offsets[line_num][0] : line_offsets[line_num][1]
+                        ][adjusted_start:adjusted_end]
+                        print(adjusted_start, adjusted_end)
+
+                        for label in res["value"]["labels"]:
+                            row = {
+                                "doc_index": doc_index,
+                                "doc_id": doc_id,
+                                "result_id": res["id"],
+                                "start": adjusted_start-1,  # Adjusted start
+                                "end": adjusted_end-1,  # Adjusted end
+                                "label": label,
+                                "text": segment_text,
+                                "line_number": line_num,  # Add line number
+                            }
+                            rows.append(row)
+
+    # Create DataFrame and sort
+    df = pd.DataFrame(rows)
+    df = df.sort_values(by=["doc_index", "line_number", "start"])
+    return df
+
+
 def get_punctuation_stops(text: str) -> list[int]:
     indices = []
     regex = r"\.(?!\d\w)"  # Match dots not followed by digits
@@ -218,6 +330,32 @@ def get_punctuation_stops(text: str) -> list[int]:
             pass
         elif text[index - 1] == " ":
             pass
+        elif (text[index - 1] in string.ascii_lowercase) and (
+            text[index - 2] not in string.ascii_lowercase
+        ):
+            pass
+        elif (text[index - 1] in string.ascii_lowercase) and (
+            text[index + 1] in string.ascii_lowercase
+        ):
+            pass
+        elif (text[index - 1] not in string.ascii_lowercase) and (
+            text[index + 1] not in string.ascii_lowercase
+        ):
+            pass
+        elif text[index - 6 : index] == "strept":
+            pass
+        elif text[index - 3 : index] == "dii":
+            pass
+        elif text[index - 3 : index] == "/dl":
+            pass
+        elif text[index - 3 : index] == "/ml":
+            pass
+        elif text[index - 2 : index] == "/l":
+            pass
+        elif text[index - 3 : index] == " ac":
+            pass
+        elif text[index - 4 : index] == " acs":
+            pass
         else:
             indices.append(index)
 
@@ -226,7 +364,7 @@ def get_punctuation_stops(text: str) -> list[int]:
 
 def extract_documents(data):
     """
-    Extract all documents to a DataFrame
+    Extract all documents to individual text files
     """
 
     for doc_index, doc in enumerate(data):
@@ -315,3 +453,35 @@ def group_labels(df):
 
     return df
 
+def transform_scope(df):
+    """Transforms the 'scope' column as specified.
+
+    Args:
+        df: The input pandas DataFrame.
+
+    Returns:
+        A new DataFrame with the transformed 'scope' column.
+    """
+    df_copy = df.copy()  # Create a copy to avoid modifying the original
+    df_copy['new_scope'] = -1  # Initialize a new column with a default value
+
+    for doc_id in df_copy['doc_id'].unique():
+        doc_df = df_copy[df_copy['doc_id'] == doc_id]
+        unique_scopes = doc_df['scope'].unique()
+        num_scopes = 0
+
+        # Create a mapping dictionary for this document
+        scope_mapping = {}
+        for scope_val in unique_scopes:
+           scope_mapping[scope_val] = str(doc_id) + '_' + str(num_scopes)
+           num_scopes +=1
+
+        # Apply the mapping using the dictionary
+        for index, row in doc_df.iterrows():
+            df_copy.loc[index, 'new_scope'] = scope_mapping[row['scope']]
+
+
+    df_copy.drop(columns=['scope'], inplace=True)  # Drop the original 'scope'
+    df_copy.rename(columns={'new_scope': 'scope'}, inplace=True) #Rename new_scope
+
+    return df_copy

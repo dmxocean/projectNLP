@@ -2,58 +2,36 @@ nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixeme
 no habitos toxicos refiere miopia y astigmatismo . le recomendaron hace años que evitara esfuerzo en el parto.
 no aporta informes.
 proces actual edad: 27 años tpal: 0000 fur: 02/12/2018 sg: 39 +3 gsrh: a + coombs indirecto negativo gestacion controlada en unidad de medicina fetal por bicorial/biamniotico (bc/ca) con obito de primer feto a las 23 semanas .ingresa para induccion por tension arteral limite + gestacion bc/ba.
-resumen gestacional as1t: hb 13.
-7, htc 40.
-1 as2t: hb 13.
-2, htc 38.
-9 as: hb 12.
-7, ht 38%, plaq 236.000.
-pc ok.
+resumen gestacional as1t: hb 13.7, htc 40.1 as2t: hb 13.2, htc 38.9 as: hb 12.7, ht 38%, plaq 236.000. pc ok.
 bq ok.
-falc 203, ldh 460.
-proteïnuria 24h 171.
-prot/crea 307.
-serologias: rubeola inmune, vhb, vhc, vih, lues negativa o s ullivan 170 - ttog normal.
+falc 203, ldh 460. proteïnuria 24h 171. prot/crea 307. serologias: rubeola inmune, vhb, vhc, vih, lues negativa o s ullivan 170 - ttog normal.
 ts 1er trimestre: feto 1 t21 1/36875 t18 1/100000 feto 2 t21 1/40027 t18 1/100000 cultivo v/r: negativo urinocultivo negativo.
-eco 1er trimestre: bc/ba crl: 55/52 tn: 1,28/1,1.
-uterinas normales eco 16 semanas.
+eco 1er trimestre: bc/ba crl: 55/52 tn: 1,28/1,1. uterinas normales eco 16 semanas.
 feto 1: placenta posterior, lcf+, lan.
 feto 2 placenta posterior, lan.
 eco 23 semanas: bc/ba.
-obito feto 2.
-feto 1 morfologia normal, sexo femenino, placenta posterior, lan.
-lc: 43mm ecoumf 23.
-6: feto 1 obito.
-feto 2 en cefalica, lcf+, lan, placenta posterior, pfe: 668, ipau: normal, uterinas normales, lc de 43mm eco 25.
-5: fetus 1 obit a oci.
+obito feto 2. feto 1 morfologia normal, sexo femenino, placenta posterior, lan.
+lc: 43mm ecoumf 23.6: feto 1 obito.
+feto 2 en cefalica, lcf+, lan, placenta posterior, pfe: 668, ipau: normal, uterinas normales, lc de 43mm eco 25.5: fetus 1 obit a oci.
 fetus 2 creixement correcte, lan.
 plac post.
 lc 43 mm.
-eco 28.
-5: pod.
-pfe 1300g, doppler n.
-lan.
+eco 28.5: pod.
+pfe 1300g, doppler n. lan.
 plac post.
 fetus obit a oci.
 lc 43 mm.
-eco 31.
-5: cef.
-pfe 1800g, doppler n.
-lan.
+eco 31.5: cef.
+pfe 1800g, doppler n. lan.
 plac post.
-nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/3 lopd eco 36.
-5: cefalica dant.
+nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/3 lopd eco 36.5: cefalica dant.
 pef 2600 gr doppler normal.
-feto reducido en oci (de pequeño tamaño).
-lc 29 mm.
-eco 37.
-5: cef.
-pfe 2907g, doppler n.
-lan.
+feto reducido en oci (de pequeño tamaño). lc 29 mm.
+eco 37.5: cef.
+pfe 2907g, doppler n. lan.
 plac fundica.
 fetus obit en primera posicio.
-eco 38.
-4: cefalica, lan, pl.
+eco 38.4: cefalica, lan, pl.
 posterior, pfe 3000 (p40), doppler normal.
 exploracio fisica plan: ingresa en sala de partos venoclisis monitorizacion fetal.
 induccion al parto con dinoprostona conducta obstetrica habitual.
@@ -61,9 +39,7 @@ se recomienda parto vaginal.
 en el tacto vaginal, se palparan partes fetales de feto obito, pero pareceria que no tendria que limitar la via vaginal evolucio clinica ingresa para induccion por tension arterial limite (descartada preeclampsia) + gestacion bicorial/biamniotico.
 correcta evolucion del trabajo de parto.
 se adminsitra anestesia peridural . el 04/09/19 se asiste a expulsivo a las 19:20 de feto 1 obito papiraceo de sexo femenino de 195g de peso.
-a las 19:30 se obtiene mediante vaccum por acortamiento de explusivo a recien nacido de sexo femenino de 3145g de peso, apgar 9/10.
-ph 7.24/7.25.
-alumbramiento a los 3 min de ambas placentas en bloque.
+a las 19:30 se obtiene mediante vaccum por acortamiento de explusivo a recien nacido de sexo femenino de 3145g de peso, apgar 9/10. ph 7.24/7.25. alumbramiento a los 3 min de ambas placentas en bloque.
 se objetiva desgarro cervical derecho que sutura sin incidencias.
 se sutura episiotomia media lateral derecha sin incidencias el puerperio clinico transcurre con normalidad.
 la paciente permanece con buen estado general, buen control del dolor, normotensa sin necesidad de medicacion antihipertensiva, y apiretica.
@@ -71,12 +47,9 @@ utero tonico con perdidas vaginales escasas.
 puntos con cicatrizacion correcta.
 esta realizando lactancia materna.
 debido a la buena evolucion clinica se decide alta hospitalaria.
-orientacio diagnostica trabajo de parto parto distocico: vaccum lactancia materna puerperio clinico normal z33.
-3 estat de gestacio, portadora gestacional procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea atencion al parto revision de canal blando del parto sutura de episiotomia analgesicos ferroterapia nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/3 lopd curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor).
-paracetamol 1gr cada 8 horas si precisa para el dolor acido folico 1 al dia durante la lactancia.
+orientacio diagnostica trabajo de parto parto distocico: vaccum lactancia materna puerperio clinico normal z33.3 estat de gestacio, portadora gestacional procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea atencion al parto revision de canal blando del parto sutura de episiotomia analgesicos ferroterapia nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/3 lopd curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor). paracetamol 1gr cada 8 horas si precisa para el dolor acido folico 1 al dia durante la lactancia.
 control control por su matrona de zona en 7-10 dias.
 se recomienda abundante ingesta de liquidos y dieta variada y equilibrada.
 lavado diario de herida quirurgica con agua y jabon neutro y realizacion progresiva de actividad fisica, asi como evitar inmersion en bañera o piscina hasta finalizar el puerperio.
 se informa de signos y sintomas de alarma (fiebre termometrada en domicilio, eritema mamario, secrecion purulenta por herida quirurgica o secrecion vaginal maloliente) por los que debe volver a consultar por urgencias.
-acudir a visita de control en unidad de suelo pelvico (ver hoja de citacion adjunta).
-destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 3/3 lopd
+acudir a visita de control en unidad de suelo pelvico (ver hoja de citacion adjunta). destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 3/3 lopd

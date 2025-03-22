@@ -1,6 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 29.06.1944 edat: 73 anys procedencia domicil/res.
-soc servei cg hepatobilipancr i data d'ingres 31.05.2018 data d'alta 04.06.2018 09:36:30 ates per *********, ***************; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres dolor abdominal y tumoracion antecedents - alergia a penicilina . - antritis erosiva cronica : por reflujo biliar , diagnosticada por fgs realizada en julio del 2014.
-actualmente sin tratamiento.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 29.06.1944 edat: 73 anys procedencia domicil/res.soc servei cg hepatobilipancr i data d'ingres 31.05.2018 data d'alta 04.06.2018 09:36:30 ates per *********, ***************; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres dolor abdominal y tumoracion antecedents - alergia a penicilina . - antritis erosiva cronica : por reflujo biliar , diagnosticada por fgs realizada en julio del 2014. actualmente sin tratamiento.
 prueba del test del aliento positiva para helicobacter pylori.
 ha realizado tratamiento antibiotico erradicador.
 pendiente de consulta de seguimiento para control.
@@ -11,12 +9,7 @@ exploracio fisica paciente consciente y orientada.
 estado general conservado.
 normocoloreada y nomohidratada abdomen blando y depresible.
 tumoracion de 5 x 5 cm diametro, dolorosa a la palpacion compatible con hernia inguinal/crural derecha incarcerada.
-exploracio complementaria eqv: hb 12.
-5, ht 38%, ph 7.43, po2 46, pco2 42, hco3 27.
-9, beb 3.
-2, lactatos 0.
-9 por imposible reducion manual se diagnostica de hernia inguinal incarcerada se decide ingreso hospitalario y intervencion quirurgica urgente evolucio clinica intervencion quirurgica urgente (dra *****/dra *****) 31.05.2018: bajo anestesia general e intubacion orotraqueal se realiza reseccion de saco herniarios (epiplon) y hernioplastia de hernia crural derecha con confeccion de plug con malla de optilene 15x15.
-sin incidencias.
+exploracio complementaria eqv: hb 12.5, ht 38%, ph 7.43, po2 46, pco2 42, hco3 27.9, beb 3.2, lactatos 0.9 por imposible reducion manual se diagnostica de hernia inguinal incarcerada se decide ingreso hospitalario y intervencion quirurgica urgente evolucio clinica intervencion quirurgica urgente (dra *****/dra *****) 31.05.2018: bajo anestesia general e intubacion orotraqueal se realiza reseccion de saco herniarios (epiplon) y hernioplastia de hernia crural derecha con confeccion de plug con malla de optilene 15x15. sin incidencias.
 se deja drenaje.
 postoperatorio inmediato correcto en rea por lo que pasa a planta de hospitalizacion donde se mantiene hemodinamicamente estable, eupneica y afebril.
 dolor controlado con analgesia pautada.

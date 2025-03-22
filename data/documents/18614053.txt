@@ -1,25 +1,19 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 21.09.1941 edat: 76 anys procedencia aten.
-primaria servei urologia data d'ingres 14.03.2018 data d'alta 17.03.2018 11:23:02 ates per *****************, ******; ************, ***** informe d'alta d'hospitalitzacio motiu d'ingres obstruccio cateter ureteral dret . antecedents alergias: sin alergias medicamentosas conocidas.
-habitos toxicos: exfumador desde 1992.
-antecedentes patologicos: - hipertension arterial en tratamiento farmacologico.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 21.09.1941 edat: 76 anys procedencia aten.primaria servei urologia data d'ingres 14.03.2018 data d'alta 17.03.2018 11:23:02 ates per *****************, ******; ************, ***** informe d'alta d'hospitalitzacio motiu d'ingres obstruccio cateter ureteral dret . antecedents alergias: sin alergias medicamentosas conocidas.
+habitos toxicos: exfumador desde 1992. antecedentes patologicos: - hipertension arterial en tratamiento farmacologico.
 refiere cifras de ta sistolica habituales en torno a 140 mmhg.
 en tratamiento farmacologico.
 - fibrilacion auricular permanente.
 en tratamiento con acenocumarol y digoxina.
 *ecocardiograma '06: vi conservado con ligera dilatacion de ai.
 - enfermedad cerebrovascular que debuto en forma de infarto isquemico de la acm derecha de etiologia cardioembolica en 2007, requiriendo fibrinolisis intra-arterial percutanea, realizada en hospital vall d´hebron.
-como secuelas presenta hemipareisa izquierda residual . - neumonia bibasal por germen desconocido por la que requirio ingreso en octubre de 2006.
-- hemorragia digestiva baja en forma de rectorragias en enero de 2012 siendo diagnosticado de polipos colonicos ,con ap de adenoma tubular con displasia epitelial de bajo grado y adenoma tubulovelloso con displasia epitelial de alto grado, con ausencia de signos de infiltracion.
+como secuelas presenta hemipareisa izquierda residual . - neumonia bibasal por germen desconocido por la que requirio ingreso en octubre de 2006. - hemorragia digestiva baja en forma de rectorragias en enero de 2012 siendo diagnosticado de polipos colonicos ,con ap de adenoma tubular con displasia epitelial de bajo grado y adenoma tubulovelloso con displasia epitelial de alto grado, con ausencia de signos de infiltracion.
 colonoscopia de control en junio 2013: sin formaciones polipoides.
 nuevo ingreso en marzo de 2016 por hemorragia digestiva baja con fgs normal y fcs que objetiva a 7cm de margena anal gran lesion polipoidea de aspecto velloso de 3cm de diametro.
-ingreso programado para polipectomia en marzo de 2016 con sangrado importante durante el procedimiento que requiere 7 hemoclips, posteriormente resangrado y revision mediante rectosigmoidoscopia que se controla con 4 hemoclips mas.
-anatomia patologica adenoma tubular con focos de displasia de alto grado.
-- carcinoma uroterial papilar diagnosticado en 2016 pt1a.
-rtu en junio de 2016 con 15% de metapalasia escamosa.
+ingreso programado para polipectomia en marzo de 2016 con sangrado importante durante el procedimiento que requiere 7 hemoclips, posteriormente resangrado y revision mediante rectosigmoidoscopia que se controla con 4 hemoclips mas.anatomia patologica adenoma tubular con focos de displasia de alto grado.
+- carcinoma uroterial papilar diagnosticado en 2016 pt1a. rtu en junio de 2016 con 15% de metapalasia escamosa.
 rertu en septiembre de 2016 con ap normal.
 ha realizado tratamiento con bcg hasta hace un mes segun refiere.
-cistoscopia y citologia negativas en noviembre de 2017.
-- colocacion de nefrostomia bilateral cuando acude a urgencias en diciembre de 2017 por empeoramiento de al funcion renal con uhn bilateral.
+cistoscopia y citologia negativas en noviembre de 2017. - colocacion de nefrostomia bilateral cuando acude a urgencias en diciembre de 2017 por empeoramiento de al funcion renal con uhn bilateral.
 posteriormente cistoscopia armada con reseccion de meato ureteral derecho - diverticulosis pancolonica.
 - hemorroides internas congestivas.
 - neoplasia de vejiga - apendicectomia . - herniorrafia umbilical.
@@ -40,17 +34,14 @@ nefrostomia izquierda productiva.
 puñopercusion lumbar derecha negativa.
 sonda vesical en buen estado.
 se comprueba permeabilidad con lavado manual.
-exploracio complementaria eco abdominal : dilatacio pielocalicilar i ureteral dreta de les mides descrites, identificant el cateter doble j a nivell de la pelvis renal.
-contingut ecogen mobil a l´interior del sistema excretor a valorar detritus, pus versus component hematic.
-parenquima renal bilateral aprimat.
-hiperecogencitat del parenquima dreta possiblement per la dilatacio de la via excretora.
+exploracio complementaria eco abdominal : dilatacio pielocalicilar i ureteral dreta de les mides descrites, identificant el cateter doble j a nivell de la pelvis renal.contingut ecogen mobil a l´interior del sistema excretor a valorar detritus, pus versus component hematic.
+parenquima renal bilateral aprimat.hiperecogencitat del parenquima dreta possiblement per la dilatacio de la via excretora.
 globus de la sonda urinaria intravesical evolucio clinica se orienta el caso como nueva obstruccion del cateter jj.
 se decide ingreso hospitalario para colocacion de nefrostomia se solicita analitica urgente que muesta inr 3 por lo que se administra fitomenadiona y se inicia antibioterapia para correccion de coagulacion.
 ante estabilidad clinica se decide no puncion de nefrostomia.
 buena evolucion en planta, afebril, hemodinamicamente estable, tolera dieta y sedestacion.
 los valores analiticos se normalizan progresivamente y mantiene diuresis de nefrostomia izquierda.
 dada la buena evolucion se decide lbirar el alta domiciliaria.
-orientacio diagnostica n13.
-1 hidronefrosi amb estenosi ureteral no classificada a cap altre lloc tractament i recomanacions a l'alta ingesta de abundantes liquidos paracetamol 1g/8h si dolor pendiente de intervencio quirurgica programada.
+orientacio diagnostica n13.1 hidronefrosi amb estenosi ureteral no classificada a cap altre lloc tractament i recomanacions a l'alta ingesta de abundantes liquidos paracetamol 1g/8h si dolor pendiente de intervencio quirurgica programada.
 le avisaran acudir a urgencias si fiebre &gt;38ºc, malestar general u otras complicaciones.
 nhc ** *** *** (********) age-v-uro 2/3 lopd destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-uro 3/3 lopd

@@ -1,13 +1,11 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 13.10.1945 edat: 72 anys procedencia aguts servei oncologia medica data d'ingres 03.07.2018 data d'alta 05.07.2018 13:37:08 ates per ************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa en planta de oncologia por colangitis aguda . antecedents sin alergias medicamentosas conocidas.
 exfumadora de 1 paquete/dia por 10 años.
-10 paq-año.
-no enolismo.
+10 paq-año. no enolismo.
 antecedentes patologicos: - hipertension arterial esencial en tratamiento farmacologico.
 - dislipemia en tratamiento farmacologico.
 - no cardiopatias ni neumopatias conocidas.
 - no hepatopatias conocidas.
-- angiomiolipoma renal derecho y multiples quistes renales asociado a hematies dismorficos en orina de enero 2016.
-se realiza estudios de glomerulonefritis que no muestran alteraciones.
+- angiomiolipoma renal derecho y multiples quistes renales asociado a hematies dismorficos en orina de enero 2016. se realiza estudios de glomerulonefritis que no muestran alteraciones.
 en seguimiento anual por nefrologia de huvh.
 - infecciones de orina de repeticion . - sindrome depresivo en tratamiento farmagologico ocasional.
 - hemorragia digestiva alta por ulcus hace &gt; 10 años.
@@ -21,40 +19,24 @@ tc toracoabdominal 14.09.2017: engrosamiento mural a nivel de angulo hepatico de
 ausencia de plano de separacion de la neoformaciondescrita con porcion vertical de duodeno que no permite descartar infiltracion del mismo.
 angiomiolipoma renal derecho sin cambios.
 ap biopsia colon: infiltracion por adenocarcinoma.
-cea pre-iq: 18.1.
-intervencion quirurgica electiva (05/12/2017) dr. *******/ dra. ********/ dra. *****: se realiza reseccion en bloque de neoplasia de angulo hepatico t4 (infiltra duodeno), realizandose hemicolectomia derecha + reseccion de pastilla duodenal en su rodilla + anastomosis duodenoyeyunal l-l manual doble plano (asa en omega desde 30cm de treitz) y hemicolectomia derecha con anastomosis ileocolica l-l manual doble plano.
-sin incidencias complicaciones post-iq: ileo paralitico post-iq, dehiscencia de la sutura duodenoyeyunal + abscesos intraabdominales que requiere reintervencion urgente el dia 14.12.2017.
-fistula pancreatica, coleccion nhc ** *** *** (********) age-v-onc 1/3 lopd subhepatica drenada guiada por ecografia.
-ap pieza quirurgica: adk convencional con componente mucinosos del 20% con extensa necrosis, g3, p t4 b (infiltracion duodenal), p n1a (1/28),il +, iv+, ipn+, margenes negativos,.
-mmr-deficiency: mlh1 y msh6 negativos.
+cea pre-iq: 18.1. intervencion quirurgica electiva (05/12/2017) dr. *******/ dra. ********/ dra. *****: se realiza reseccion en bloque de neoplasia de angulo hepatico t4 (infiltra duodeno), realizandose hemicolectomia derecha + reseccion de pastilla duodenal en su rodilla + anastomosis duodenoyeyunal l-l manual doble plano (asa en omega desde 30cm de treitz) y hemicolectomia derecha con anastomosis ileocolica l-l manual doble plano.
+sin incidencias complicaciones post-iq: ileo paralitico post-iq, dehiscencia de la sutura duodenoyeyunal + abscesos intraabdominales que requiere reintervencion urgente el dia 14.12.2017. fistula pancreatica, coleccion nhc ** *** *** (********) age-v-onc 1/3 lopd subhepatica drenada guiada por ecografia.
+ap pieza quirurgica: adk convencional con componente mucinosos del 20% con extensa necrosis, g3, p t4 b (infiltracion duodenal), p n1a (1/28),il +, iv+, ipn+, margenes negativos,. mmr-deficiency: mlh1 y msh6 negativos.
 braf negativo.
-seguimiento ccee oncologia dra. *********.
-proces actual derivade cai por fiebre.
-diagnostico de bacteriemia por e.
-coli de foco biliar.
+seguimiento ccee oncologia dra. *********. proces actual derivade cai por fiebre.
+diagnostico de bacteriemia por e. coli de foco biliar.
 se decide ingreso para control evolutivo y asegurar cumplimiento terapeutico.
 . exploracio fisica ecog 1, estable, afebril no ictericia.
 no dificutlad respiratoria, auscultaicon cardiopulmonar normal.
 abdomen blando, sin dolor.
 extremidades sin edemas.
-exploracio complementaria urgencias: analitica 02/07: hb 11.6g/dl, l 6840 /mm3, can 4900 /mm3, plaq 199000 /mm3, cr 1.15mg/dl, bilirrubina 0.68mg/dl, na 139.6mmol/l, k 3.86mmol/l, ast 14u/l, alt 6u/l, alb 3.5g/dl.
-hemocultivos 02/07: e.
-coli r a aminopenicilinas y piperacilina /tazobactam.
-planta de hospitalizacion: analitica 05/07: hb 9.
-5 g/dl, leuc 6.40 x10e9/l, can 4.
-0 x10e9/l, plaq 292 x10e9/l.
-urea 48 mg/dl, creat 0.87 mg/dl, na 143.
-5 mmol/l, k 3.87 mmol/l, bil t 0.38 mg/dl, bil d 0.21 mg/dl, ast 12 ui/l, alt 5 ui/l, f alc 64 ui/l, ggt 19 ui/l, alb 2.
-7 g/dl, pcr 1.25 mg/dl.
-evolucio clinica paciente de 72 años con adk de colon dcho pt4bn1a con infiltracion duodenal intervenido en dic17.
-no adyuvancia.
+exploracio complementaria urgencias: analitica 02/07: hb 11.6g/dl, l 6840 /mm3, can 4900 /mm3, plaq 199000 /mm3, cr 1.15mg/dl, bilirrubina 0.68mg/dl, na 139.6mmol/l, k 3.86mmol/l, ast 14u/l, alt 6u/l, alb 3.5g/dl. hemocultivos 02/07: e. coli r a aminopenicilinas y piperacilina /tazobactam.
+planta de hospitalizacion: analitica 05/07: hb 9.5 g/dl, leuc 6.40 x10e9/l, can 4.0 x10e9/l, plaq 292 x10e9/l. urea 48 mg/dl, creat 0.87 mg/dl, na 143.5 mmol/l, k 3.87 mmol/l, bil t 0.38 mg/dl, bil d 0.21 mg/dl, ast 12 ui/l, alt 5 ui/l, f alc 64 ui/l, ggt 19 ui/l, alb 2.7 g/dl, pcr 1.25 mg/dl. evolucio clinica paciente de 72 años con adk de colon dcho pt4bn1a con infiltracion duodenal intervenido en dic17. no adyuvancia.
 recidiva local duodenal y retroperitoneal con dudoso implante capsular hepatico.
 msi,ras/braf wt.
 en curso 1ª linea folfox.
-ingresa por colangitis aguda por e.
-coli r a aminopenicilinas y piperacilina /tazobactam.
-tratamiento atb dirigido con ciprofloxacino fi 03/07.
-clinicamente estable, actualmente asintomatica y sin mas incidencias.
+ingresa por colangitis aguda por e. coli r a aminopenicilinas y piperacilina /tazobactam.
+tratamiento atb dirigido con ciprofloxacino fi 03/07. clinicamente estable, actualmente asintomatica y sin mas incidencias.
 dada la estabilidad clinica y de acuerdo con la paciente se decide alta domiciliaria.
 orientacio diagnostica adenocarcinoma de colon recidivado.
 colangitis aguda bacteriemica.
@@ -62,9 +44,7 @@ procediments medicos, analiticos, microbiologicos.
 nhc ** *** *** (********) age-v-onc 2/3 lopd tractament i recomanacions a l'alta omeprazol 20mg cada dia en ayunas.
 metoclopramida 10mg cada 8 horas si nauseas o vomitos.
 citalopram 20mg cada dia.
-ciprofloxacino 500mg cada 12 horas hasta el dia 13/07/2018 (inclusive).
-dexametasona 4mg cada dia (valorar pauta descendente en consulta).
-septrin forte 160/800mg cada lunes, miercoles y viernes.
+ciprofloxacino 500mg cada 12 horas hasta el dia 13/07/2018 (inclusive). dexametasona 4mg cada dia (valorar pauta descendente en consulta). septrin forte 160/800mg cada lunes, miercoles y viernes.
 paracetamol 1g cada 8 horas si precisa.
 control acudira a consulta externa de oncologia segun citacion.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-onc 3/3 lopd

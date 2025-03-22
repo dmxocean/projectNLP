@@ -1,38 +1,26 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 03.06.1960 edat: 58 anys procedencia cex mateix hosp servei pneumologia data d'ingres 09.09.2018 data d'alta 14.09.2018 17:30:00 ates per **************, ******; ***************, ***** v.
-; informe d'alta d'hospitalitzacio motiu d'ingres mujer de 58 años que ingresa de forma programada para evaluacion de trasplante pulmonar.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 03.06.1960 edat: 58 anys procedencia cex mateix hosp servei pneumologia data d'ingres 09.09.2018 data d'alta 14.09.2018 17:30:00 ates per **************, ******; ***************, ***** v.; informe d'alta d'hospitalitzacio motiu d'ingres mujer de 58 años que ingresa de forma programada para evaluacion de trasplante pulmonar.
 antecedents datos de filiacion -lugar de residencia: barcelona -tiempo de viaje hasta el hospital: -medico habitual: dra ******** (hospital del mar) -telefono del paciente: ********0 antecedentes epidemiologicos -sin alergias medicamentosas conocidas.
 -sin habitos toxicos.
 -laborales: no exposicion a ambientes humedos ni contacto con plumas.
-antecedentes patologicos -artristis reumatoide seropositiva erosiva activa dx en 2008.
-dificil control, con varios brotes graves que han obligado a cambios de tratamiento.
+antecedentes patologicos -artristis reumatoide seropositiva erosiva activa dx en 2008. dificil control, con varios brotes graves que han obligado a cambios de tratamiento.
 actualmente con sulfasalazina, hidroxicloroquina y prednisona 15mg/dia.
-se asocia raynaud y esclerodactilia , y ac.
-anticentromero.
+se asocia raynaud y esclerodactilia , y ac. anticentromero.
 - gammapatia monoclonal igg lambda.
 seguimiento en ccee hematologia.
 - osteoporosis en tratamiento con ca, vit d, denosumab.
 - neuralgia postherpetica . paracetamol, pregabalina y lidocaina parches.
 ccee neuro.
-- infarto lacunar detectado en rmn cerebral (mayo 2017) - sepsis urinaria por e.
-coli sensible en 2015.
-historia neumologica -enfermedad pulmonar intersticial difusa asociada a ar, diagnosticada en el año 2008.
-sospecha inicial de toxicidad por metotrexate (cuadro clinico-radiologico sugestivo de neumonia organizativa).
-buena evolucion inicial clinica, radiologica y funcional tras retirar metotrexate y con corticoides sistemicos (a dosis intermedias).
-ha tenido varios ingresos posteriores por infecciones graves, en el contexto de tratamiento inmunosupresor: - 2013: virus h1n1 y herpes.
+- infarto lacunar detectado en rmn cerebral (mayo 2017) - sepsis urinaria por e. coli sensible en 2015. historia neumologica -enfermedad pulmonar intersticial difusa asociada a ar, diagnosticada en el año 2008. sospecha inicial de toxicidad por metotrexate (cuadro clinico-radiologico sugestivo de neumonia organizativa). buena evolucion inicial clinica, radiologica y funcional tras retirar metotrexate y con corticoides sistemicos (a dosis intermedias). ha tenido varios ingresos posteriores por infecciones graves, en el contexto de tratamiento inmunosupresor: - 2013: virus h1n1 y herpes.
 preciso uci-iot.
 - 2013: neumonia neumococica que curso con shock septico.
 uci-iot.
-- 2014 bronquitis por h.
-influenza y p.
-aeruginosa sensible a quinolonas.
-- 2016: gripe b.
-- 2017: neumonia de la comunidad.
+- 2014 bronquitis por h. influenza y p. aeruginosa sensible a quinolonas.
+- 2016: gripe b. - 2017: neumonia de la comunidad.
 -2018: neumonia extrahospitalaria grave (neumococica/coinfeccion por rhinovirus-metapneumovirus) con insuficiencia respiratoria aguda hipercapnica que preciso ingreso a uci con necesidad de vmi y ecmo-vv.
 ultimas exploraciones: - pfr (abril 2018): fev1/fvc 78%, fev1 37% ref.
 , 960 ml; fvc 36%; dlco 20% ref.
 , kco 40% ref.
-- prueba de la marcha 6´(diciembre 2017): 373 metros; sp02 minina 74%, sp02 media 80%.
-- tc(abr'18): cambios cronicos muy importantes con extensa fibrosis difusa.
+- prueba de la marcha 6´(diciembre 2017): 373 metros; sp02 minina 74%, sp02 media 80%. - tc(abr'18): cambios cronicos muy importantes con extensa fibrosis difusa.
 patron de nine/no.
 nhc ** *** *** (********) age-v-nml 1/5 lopd - las pre-evaluacion: 41,3350 medicacio habitual - sintrom (acenocumarol) 4mg 3/4 de comprimido cada 24 horas (0-0-3/4) - prednisona 10mg 2 capsulas cada 24 horas (2-0-0) - natecal d flas (calcio carbonato+colecalciferol) 1 capsula cada 24 horas (1-0-0) - prolia (denosumab) 60mg 1 cada 6 meses (proxima pauta en enero/2019) - ferro (ferroglicina) 1 capsula cada 24 horas (1-0-0) - duloxetina 30mg 1 capsula cada 12 horas (1-0-1) - lyrica (pregabalina) 150mg 1 capsula cada 12 horas (1-0-1) - paracetamol 1g si dolor - lorazepam 0.25mg 1 comprimido cada 24 horas (0-0-1) por dos semanas, luego suspender.
 - omeprazol 20mg 1 capsula cada 24 horas (0-0-1) proces actual mujer de 58 años que ingresa de forma programada para evaluacion de trasplante pulmonar.
@@ -45,92 +33,53 @@ cardiovascular: tonos cardiacos ritmicos.
 no ausculto soplos.
 no edemas en miembros inferiores, ingurgitacion yugular ni reflujo hepato - yugular.
 pulsos distales presentes y simetricos.
-respiratorio: eupneica en reposo, con gafas nasales a 2l sato2 98%.
-crepitantes secos en ambos pulmones.
+respiratorio: eupneica en reposo, con gafas nasales a 2l sato2 98%. crepitantes secos en ambos pulmones.
 abdomen depresible no doloroso a la palpacion.
 no palpo masas ni megalias.
 peristaltismo conservado, sin signos de peritonismo.
 puñopercusion lumbar negativa.
 neurologicamente consciente y orientado, sin signos de focalidad aguda ni de irritacion meningea.
 sin asterixis.
-exploracio complementaria peso 61kg talla 165cm imc 22,41 las 39,5636 evaluacion de la funcion pulmonar -gsa: ph 7,40, pco2 56mmhg, po2 55mmhg, hco3- 34,7mmol/l, be 9,9mmol/l, so2 93%.
-- pfr completas: fvc 1,16l (34,8%), fev1 0,94l (35,7%), fev1/fvc 80,77, r 101,7% tlc 43,8%, rv 57,6%, rv/tlc 49,35%, ic 0,69l.
--6mwt: test 250m recorridos con sato2 inicial de 93% aa, sato2 media de 77,15%, desaturacion maxima 66%.
-nhc ** *** *** (********) age-v-nml 2/5 lopd fc inicial 89lpm.
-tiempo de recuperacion 3min 20s.
-borg post-esfuerzo: 7.
-- tc torax : tc toracico que muestra signos radiologicos de neumopatia intersticial cronica de distribucion usual con evolucion a fibrosis pulmonar establecida.
+exploracio complementaria peso 61kg talla 165cm imc 22,41 las 39,5636 evaluacion de la funcion pulmonar -gsa: ph 7,40, pco2 56mmhg, po2 55mmhg, hco3- 34,7mmol/l, be 9,9mmol/l, so2 93%. - pfr completas: fvc 1,16l (34,8%), fev1 0,94l (35,7%), fev1/fvc 80,77, r 101,7% tlc 43,8%, rv 57,6%, rv/tlc 49,35%, ic 0,69l. -6mwt: test 250m recorridos con sato2 inicial de 93% aa, sato2 media de 77,15%, desaturacion maxima 66%. nhc ** *** *** (********) age-v-nml 2/5 lopd fc inicial 89lpm.
+tiempo de recuperacion 3min 20s. borg post-esfuerzo: 7. - tc torax : tc toracico que muestra signos radiologicos de neumopatia intersticial cronica de distribucion usual con evolucion a fibrosis pulmonar establecida.
 - gammagrafia pulmonar (perfusion): pendiente de informe.
 evaluacion cardiaca - ecg : ritmo sinusal a 65lpm, qrs estrecho, sin alteraciones de la conduccion, sin desniveles de st ni alteraciones de la repolarizacion.
-- ecocardio-doppler : ventriculo izquierdo no dilatado ni hipertrofico con funcion sistolica global conservada (fevi 59%).
-no se objetivan alteraciones de la contractilidad segmentaria.
+- ecocardio-doppler : ventriculo izquierdo no dilatado ni hipertrofico con funcion sistolica global conservada (fevi 59%). no se objetivan alteraciones de la contractilidad segmentaria.
 valvula aortica trivalva con velos finos, apertura y cierre conservado.
 valvula mitral de morfologia normal, con apertura y cierre conservado.
 auricula izquierda no dilatada raiz de aorta y aorta ascendente no dilatadas.
 cavidades derechas de tamaño normal.
 ventriculo derecho con funcion sistolica conservada (tapse 17mm, s´ 10cm/s).
-vena cava inferior no dilatada con colapso inspiratorio mayor del 50%.
-ausencia de derrame pericardico.
+vena cava inferior no dilatada con colapso inspiratorio mayor del 50%. ausencia de derrame pericardico.
 insuficiencia tricuspidea ligera que permite estimar paps de 21 mmhg - cateterismo cardiaco derecho / d+i: coronariografia : arteries coronaries sense lesions significatives.
 dominancia dreta.
 cateterisme dret: ao: 121/73/90; ap: 20/9/13; pcp 5; ad: 6 mmhg.
-gc (fick): 3.19 l/min; ic: 1,91 l/min/m2.
-rvp: 2,51 uw; rpt: 4,07 uw.
+gc (fick): 3.19 l/min; ic: 1,91 l/min/m2. rvp: 2,51 uw; rpt: 4,07 uw.
 hematologia hemograma: hb 13,2g/dl, ht 45,7%, vcm 90,5fl, hcm 26,1pg serie blanca: leucocitos 8,29x10e9/l(n 3,8x10e9/l, l 3,3x10e9/l), plaquetas: 280x10e9/l coagulacion: tiempo de protrombina 17%, inr 3, 44, ttpa r , fibrinogen derivat 3,19g/l pruebas de inmunohematologia basica -grupo sanguineo y factor rh: o+ ; antiglobulina directa (coombs directe): negatiu eritropatologia.
-estudio basico de anemias: ferritina ng/ml, transferrina mg/dl, ferro mcg/dl, indice de saturacion de la transferrina %, vitamina b12 pg/ml, acid folic ng/ml, haptoglobina 2,2g/l vsg 72mm/h bioquimica funcion renal: urea 26mg/dl, creatinina 0,63mg/dl funcion hepatica: bilirrubina 0,29mg/dl, bilirrubina esterificada 0,15mg/dl, ast 16ui/l, alt 15ui/l, fa 50ui/l, ggt 34ui/l, electrolitos: sodio 143,6mmol/l, potasio 4,03mmol/l, calcio 9,5mg/dl, estudio de lipidos: colesterol mg/dl, triglicerid mg proteïna 6,4g/dl, albumina 3,6g/dl.
-evaluacion metabolismo oseo y grado de osteoporosis - metabolismo calcio/fosforo: calcidiol ng/ml, paratirina 112pg/ml, osteocalcina 3,74ng/ml nhc ** *** *** (********) age-v-nml 3/5 lopd analisis orina.
--orina 24horas: volumen 1600ml, creatinina 74mg/dl, excrecion creatinina 1184mg/24h depuracio de creatinina ml/min, ca 18,4mg/dl, excrecion ca 294,4mg/24h, proteina 11mg/dl, excrecion proteina 176mg/24h.
--sedimento de orina: leucocitos 26,9cel/mcl, eritrocitos 0,9cel/mcl, celulas epiteliales 0,5cel/mcl, cilindros hialinos 0cil/mcl, bacterias 324bact/mcl . inmunoproteinas.
-immunoglobulinas: ig g 1002mg/dl, ig a 102mg/dl, ig m 160mg/dl.
-microbiologia -cultivo de esputo: no procesado por falta de muestra -igg anti-aspergillus fumigatus: -quantiferon tbc: negatiu -ac igg treponema pallidum: -ac igg varicela zoster positiu (2134mui/ml) -ac igg epstein-barr virus -ac igg cmv positiu (&gt;180mui/ml) -ac igg parotiditis virus -ac igg rubeola virus -ac igg sarampion -hiv-1/-2.
-ac.
-totals i ag p24: -virus hepatitis: ac.
-anti-vhe , vhb y vhc: ac.
-igg anti-vha quantitatiu &gt;100.00 ui/l, antigeno de superficie vhb negativo, ac.
-anti-antigeno superficie vhb &lt;10.00 ui/l, ac.
-anti-antigeno core vhb negativo, ac.
-anti-vhc negativo.
+estudio basico de anemias: ferritina ng/ml, transferrina mg/dl, ferro mcg/dl, indice de saturacion de la transferrina %, vitamina b12 pg/ml, acid folic ng/ml, haptoglobina 2,2g/l vsg 72mm/h bioquimica funcion renal: urea 26mg/dl, creatinina 0,63mg/dl funcion hepatica: bilirrubina 0,29mg/dl, bilirrubina esterificada 0,15mg/dl, ast 16ui/l, alt 15ui/l, fa 50ui/l, ggt 34ui/l, electrolitos: sodio 143,6mmol/l, potasio 4,03mmol/l, calcio 9,5mg/dl, estudio de lipidos: colesterol mg/dl, triglicerid mg proteïna 6,4g/dl, albumina 3,6g/dl. evaluacion metabolismo oseo y grado de osteoporosis - metabolismo calcio/fosforo: calcidiol ng/ml, paratirina 112pg/ml, osteocalcina 3,74ng/ml nhc ** *** *** (********) age-v-nml 3/5 lopd analisis orina.
+-orina 24horas: volumen 1600ml, creatinina 74mg/dl, excrecion creatinina 1184mg/24h depuracio de creatinina ml/min, ca 18,4mg/dl, excrecion ca 294,4mg/24h, proteina 11mg/dl, excrecion proteina 176mg/24h. -sedimento de orina: leucocitos 26,9cel/mcl, eritrocitos 0,9cel/mcl, celulas epiteliales 0,5cel/mcl, cilindros hialinos 0cil/mcl, bacterias 324bact/mcl . inmunoproteinas.
+immunoglobulinas: ig g 1002mg/dl, ig a 102mg/dl, ig m 160mg/dl. microbiologia -cultivo de esputo: no procesado por falta de muestra -igg anti-aspergillus fumigatus: -quantiferon tbc: negatiu -ac igg treponema pallidum: -ac igg varicela zoster positiu (2134mui/ml) -ac igg epstein-barr virus -ac igg cmv positiu (&gt;180mui/ml) -ac igg parotiditis virus -ac igg rubeola virus -ac igg sarampion -hiv-1/-2. ac. totals i ag p24: -virus hepatitis: ac. anti-vhe , vhb y vhc: ac. igg anti-vha quantitatiu &gt;100.00 ui/l, antigeno de superficie vhb negativo, ac. anti-antigeno superficie vhb &lt;10.00 ui/l, ac. anti-antigeno core vhb negativo, ac. anti-vhc negativo.
 -ac igg toxoplasma gondii . genotipo -genotip hla a pendiente -genotip hla b pendiente -genotip hla-drb pendiente -aloanticossos anti hla en fase solida (citometria) muestra enviada a hospital clinic pendiente interconsultas -reumatologia:pacient de 58 anys ingressada per a valoracio de trasplantament pulmonar.
-ar diagnosticada a 2008 amb afectacio pulmonar un any despres.
-ha realitzat tractament amb mtx fins fa 2 mesos, retirat coincidint amb un ingres tractament durant aquests anys amb dosis continuades de prednisona, dosis habituals de 10 mg/d.
-els ultims mesos ha realitzat dosis mes elevades, de 20 mg.
-fa tractament amb natecal d i deosumab (2 dosis), controlada per reumatologia h.
-mar.
-no fractures, no antecedent familiar de fractures menopausa als 51 a.
-no hernia de hiat ni rge, no litiasi renal, no altra patologia osteopenitzant.
+ar diagnosticada a 2008 amb afectacio pulmonar un any despres.ha realitzat tractament amb mtx fins fa 2 mesos, retirat coincidint amb un ingres tractament durant aquests anys amb dosis continuades de prednisona, dosis habituals de 10 mg/d. els ultims mesos ha realitzat dosis mes elevades, de 20 mg.
+fa tractament amb natecal d i deosumab (2 dosis), controlada per reumatologia h.mar.
+no fractures, no antecedent familiar de fractures menopausa als 51 a. no hernia de hiat ni rge, no litiasi renal, no altra patologia osteopenitzant.
 tto sintrom per tep.
-- ag: cr 0.63, ca 9.
-5, pth 112, no vit d, oc 3.74, cao 294.
-4 - rx dorso-lumbar : no fractures pte de realitzacio de dxa, completare la valoracio amb els resultats nhc ** *** *** (********) age-v-nml 4/5 lopd -unidad de soporte nutricional: valoramos a paciente de 58 años diagnosticada de enfermedad pulmonar intersticial difusa que ingresa de forma programada para evaluacion de trasplante pu lmonar.
+- ag: cr 0.63, ca 9.5, pth 112, no vit d, oc 3.74, cao 294.4 - rx dorso-lumbar : no fractures pte de realitzacio de dxa, completare la valoracio amb els resultats nhc ** *** *** (********) age-v-nml 4/5 lopd -unidad de soporte nutricional: valoramos a paciente de 58 años diagnosticada de enfermedad pulmonar intersticial difusa que ingresa de forma programada para evaluacion de trasplante pu lmonar.
 paciente con orexia conservada que durante ingreso realiza una dieta basal con un cumplimiento del 100% de lo que se le ofrece.
 no presenta complicaciones ni dificultares con respecto a su alimentacion.
 -psiquiatria: valoracion ps protocolo pretxp ingresada, no acompañada.
-dx de enfisema en el 2007.
-portadora de oxigeno hace 1.5a.
-derivada del h: mar nacio en asturias y vino a barcelona con 17a.
-eran 8 hermanos (ahora 7) y ella es la 4ª, su hermana de 45a.
-vive cerca.
-separada desde hace 12a.
-vive con el hijo de 38a.
-, desde hace 5 a.
-que se separo con 2 niñas de 12 y 8a.
-que viven parciamente con ellos.
-tiene otro hijo de 30a.
-ya independizado.
-estudios primarios trabajo en el servicio domestico y en un restaurante durante 9a.
-desde 2007 larga enfermedad.
+dx de enfisema en el 2007. portadora de oxigeno hace 1.5a. derivada del h: mar nacio en asturias y vino a barcelona con 17a. eran 8 hermanos (ahora 7) y ella es la 4ª, su hermana de 45a. vive cerca.
+separada desde hace 12a. vive con el hijo de 38a., desde hace 5 a. que se separo con 2 niñas de 12 y 8a. que viven parciamente con ellos.
+tiene otro hijo de 30a. ya independizado.
+estudios primarios trabajo en el servicio domestico y en un restaurante durante 9a. desde 2007 larga enfermedad.
 no conduce y vive en una casa sin ascensor niega antecedentes ps personales ni toxicos.
 tiene una hermana con tdm y oh ausencia de psicopatologia.
 biorritmos ok.
 personalidad bien adaptada.
 capacidades cognitivas y volitivas adecuadas.
 conclusion : no presenta contraindicacion ps para ser incluida en lista -rehabilitacion: se pauta ft respiratoria en contexto de valoracion pretransplante.
-hare revaloracion durante el ingreso -medicina preventiva: mujer de 58 años ingresada para evaluacion pre trasplante pulmonar.
-antecedentes de enfermedad pulmonar intersticial difusa secundaria a tratamiento con metotrexate por artristis reumatoide seropositiva erosiva activa diagnosticada en 2008.
-en tratamiento actualmente con prednisona 20mg/d.
-en situacion de insuficiencia respiratoria, por lo que esportadora de oxigeno domiciliario.
-antecedentes serologicos pendientes (10/09/2018) antecedentes vacunales: antigripal y pneumo 23v en 2013.
-no constan otras dosis en registro electronico.
+hare revaloracion durante el ingreso -medicina preventiva: mujer de 58 años ingresada para evaluacion pre trasplante pulmonar.antecedentes de enfermedad pulmonar intersticial difusa secundaria a tratamiento con metotrexate por artristis reumatoide seropositiva erosiva activa diagnosticada en 2008. en tratamiento actualmente con prednisona 20mg/d. en situacion de insuficiencia respiratoria, por lo que esportadora de oxigeno domiciliario.
+antecedentes serologicos pendientes (10/09/2018) antecedentes vacunales: antigripal y pneumo 23v en 2013. no constan otras dosis en registro electronico.
 pendiente confirmar antecedentes vacunales y resultados de serologia prevacunal para programar calendario vacunal.
 dejo abierta interconsulta.
 evolucio clinica paciente afecto de fibrosis pulmonar asociada a ar, que ingresa para valoracion de trasplante pulmonar.

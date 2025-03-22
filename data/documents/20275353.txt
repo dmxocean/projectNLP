@@ -1,7 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 27.07.1977 edat: 42 anys procedencia aguts servei obstetricia data d'ingres 17.09.2019 data d'alta 18.09.2019 11:10:10 ates per **************, *****;; ***************, ****** informe d'alta d'hospitalitzacio motiu d'ingres ile antecedents no alergias medicamentosas ex-fumadora desde el inicio de la gestacion no transfusiones sanguineas iq: estrabismo obesidad morbida proces actual edad: 42 años tpal: 0040 (4 ae de 1er t) fur: 10.04.19 sg: 22+6 gs: o rh positivo ingresa primigesta de 22+6 semanas para ile por disgenesia de cuerpo calloso confirmada por rm resumen gestacional -a/s 1er t: hb: 15.5.
-hto: 47.2.
-plaq: 334.
-tsh: 1.02 -serologias: rub inm.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 27.07.1977 edat: 42 anys procedencia aguts servei obstetricia data d'ingres 17.09.2019 data d'alta 18.09.2019 11:10:10 ates per **************, *****;; ***************, ****** informe d'alta d'hospitalitzacio motiu d'ingres ile antecedents no alergias medicamentosas ex-fumadora desde el inicio de la gestacion no transfusiones sanguineas iq: estrabismo obesidad morbida proces actual edad: 42 años tpal: 0040 (4 ae de 1er t) fur: 10.04.19 sg: 22+6 gs: o rh positivo ingresa primigesta de 22+6 semanas para ile por disgenesia de cuerpo calloso confirmada por rm resumen gestacional -a/s 1er t: hb: 15.5. hto: 47.2. plaq: 334. tsh: 1.02 -serologias: rub inm.
 lues neg.
 vih neg.
 vhb neg.
@@ -11,19 +8,16 @@ doppler aa uterinas normal - eco: 21+1 semanas.
 feto en podalica.
 astas posteriores de ventriculos laterales en el limite superior de la normalidad.
 imagen de cavum septum pellucidum dudosa.
-en el corte sagital se identifica estructura sugestiva de cuerpo calloso de tamaño inferior a lo esperado para la edad gestacional (longitud 11 mm).
-fosa posterior impresiona correcta.
+en el corte sagital se identifica estructura sugestiva de cuerpo calloso de tamaño inferior a lo esperado para la edad gestacional (longitud 11 mm). fosa posterior impresiona correcta.
 cisura de silvio impresiona normal.
 la valoracion neurosonografica es muy limitada dada la presentacion podalica y imc.
 - rmn fetal: hallazgos compatibles con disgenesia (agenesia subtotal) de cuerpo calloso, sin clara evidencia en la actual exploracion de otras anomalias asociadas en el encefalo fetal.
 evolucio clinica ingresa primigesta de 20+6 semanas para ile por disgenesia de cuerpo calloso.
-se instaura analgesia peridural, se realiza maduracion cervical con misoporostol . a las 8.00h del dia 18.09.19 se asiste a expulsivo vaginal de feto muerto de 480g.
-alumbramiento a los 5 minutos, objetivando placenta aparentemente integra.
+se instaura analgesia peridural, se realiza maduracion cervical con misoporostol . a las 8.00h del dia 18.09.19 se asiste a expulsivo vaginal de feto muerto de 480g. alumbramiento a los 5 minutos, objetivando placenta aparentemente integra.
 se repasa con legra y se comprueba vacuidad uterina ecograficamente.
 hemostasia correcta.
 se adminstra cabergolina.
 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/2 lopd el puerperio inmediato transcurre con normalidad, permaneciendo la paciente hemodinamicamente estable en todo momento.
 se decide alta a domiclio.
-orientacio diagnostica ile z33.
-3 estat de gestacio, portadora gestacional procediments anestesia peridural venoclisis maduracion cervical asistencia a parto vaginal ecografias legrado tractament i recomanacions a l'alta se explican signos de alarma y normas de recosnutla a urgencias control acudir a visitas de control en asesorament de dol perinatal y untiat de diagnostic prenatal segun citacion adjunta.
+orientacio diagnostica ile z33.3 estat de gestacio, portadora gestacional procediments anestesia peridural venoclisis maduracion cervical asistencia a parto vaginal ecografias legrado tractament i recomanacions a l'alta se explican signos de alarma y normas de recosnutla a urgencias control acudir a visitas de control en asesorament de dol perinatal y untiat de diagnostic prenatal segun citacion adjunta.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/2 lopd

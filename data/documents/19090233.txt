@@ -1,35 +1,25 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 08.01.1974 edat: 44 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 17.08.2018 data d'alta 20.08.2018 12:00:00 ates per ******************, *****; *****************, ************** informe d'alta d'hospitalitzacio motiu d'ingres ruptura prematura de membranas en gestante a termino.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 08.01.1974 edat: 44 anys procedencia domicil/res.soc servei obstetricia data d'ingres 17.08.2018 data d'alta 20.08.2018 12:00:00 ates per ******************, *****; *****************, ************** informe d'alta d'hospitalitzacio motiu d'ingres ruptura prematura de membranas en gestante a termino.
 antecedents no alergias medicamentosas conocidas.
 intervenciones quirurgicas: tibia y perone no otros antecedentes patologicos.
 exfumadora hace 5 meses.
 no medicacion habitual.
 proces actual edad 44 años tpal 0030 (3 abortos espontaneos) fur 24.11.18 sg: 38semanas gsrh a positivo . coombs negativo.
 gestacion controlada en cap de sant andreu sin incidencias.
-primigesta de 38 semanas de gestacion que acude para hidrorrea de aguas claras desde las 22 h del dia 17.8.18.
-refiere sensacion de dinamica uterina cada 5 minutos.
+primigesta de 38 semanas de gestacion que acude para hidrorrea de aguas claras desde las 22 h del dia 17.8.18. refiere sensacion de dinamica uterina cada 5 minutos.
 leve metrorragia.
 movimientos fetales activos.
 no otra sintomatologia de interes.
-resumen gestacional analiticas: - 1 º t: hb:12.
-7 ; ht: 37.7.
-- 2 º t: hb: 12; ht: 36.2.
-- 3 º t: hb: 11.
-4; ht: 34.
-8; plaquetas: 306000 ; coagulacion: tp &gt;120%, ttpa 23.6s.
-serologias: rubeola inmune, toxoplasma no immune, lues vih, vhb y vhc negativos.
+resumen gestacional analiticas: - 1 º t: hb:12.7 ; ht: 37.7. - 2 º t: hb: 12; ht: 36.2. - 3 º t: hb: 11.4; ht: 34.8; plaquetas: 306000 ; coagulacion: tp &gt;120%, ttpa 23.6s. serologias: rubeola inmune, toxoplasma no immune, lues vih, vhb y vhc negativos.
 - o'sullivan: 176 mg/dl ttog normal.
 - urocultivo: negativo - cultivos r / v: positivo.
 multisensible.
-- triple screening: riesgo 1/266, recalculado con marcadores secundarios 1/5693.
-ecografias: - 1º t: tn: 2.30mm.
+- triple screening: riesgo 1/266, recalculado con marcadores secundarios 1/5693. ecografias: - 1º t: tn: 2.30mm.
 congruente.
 - 2º t: morfologia normal.
 placenta posterior.
 sexo masculino.
 - 3º t: 33+6 sg.
-cefalica, pfe: 2395(p.
-71), placenta posterior, lan, cordon de 3 vasos, doppler normal.
+cefalica, pfe: 2395(p. 71), placenta posterior, lan, cordon de 3 vasos, doppler normal.
 nhc ** *** *** (********) ami-v-obs 1/3 lopd exploracio fisica buen estado general, normocoloreada, normohidratada.
 expl.
 abdominal: abdomen gravido de acuerdo con las semanas de gestacion.
@@ -39,15 +29,12 @@ especulo: cervix y vagina normales.
 no metrorragia.
 se objetiva hidrorrea.
 pruebas de amniorrexis: ph vira tacto vaginal: cervix posterior, permeable a pulpejo, cefalica libre.
-eco abd: feto unico en cefalica, lcf +, placenta posterior, lan nst: variable y reactivo a 145 lpm, du irregular od: rpm a termino evolucio clinica ingresa gestante por rpm el 16.8.18 a las 22h.
-evolucion espontanea de trabajo de parto.
+eco abd: feto unico en cefalica, lcf +, placenta posterior, lan nst: variable y reactivo a 145 lpm, du irregular od: rpm a termino evolucio clinica ingresa gestante por rpm el 16.8.18 a las 22h. evolucion espontanea de trabajo de parto.
 aprd.
 buena evolucion hasta dilatacion completa en i plano de hodge.
 se objetiva bradicardia sostenida de 10 minutos que recupera con prepar.
-se realiza ph de calota: 7,14.
-se indica cesarea urgente.
-el 17.08.18 se realiza cesarea tipo cohen y se extrae en cefalica sin dificultad rn varon de 2950g, apgar 9/10, ph: 7,17/7,22.
-alumbramiento espontaneo.
+se realiza ph de calota: 7,14. se indica cesarea urgente.
+el 17.08.18 se realiza cesarea tipo cohen y se extrae en cefalica sin dificultad rn varon de 2950g, apgar 9/10, ph: 7,17/7,22. alumbramiento espontaneo.
 hemostasia correcta.
 intradermica en piel.
 el pueperio clinico transcurre con normalidad.
@@ -60,10 +47,8 @@ orientacio diagnostica ruptura prematura de membranas.
 cesarea urgente.
 puerperio clinico normal.
 lactancia materna.
-procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea cesarea: sutura intradermica profilaxis antibiotica profilaxis antitrombotica analgesicos ferroterapia curas de enfermeria nhc ** *** *** (********) ami-v-obs 2/3 lopd tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor).
-acido folico 1 al dia durante la lactancia.
-paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor).
-clexane 40 mg ( 1 aplicacion al dia durante 10 dias) si presenta grietas en los pezones se puede aplicar purelan crema despues de las tomas.
+procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea cesarea: sutura intradermica profilaxis antibiotica profilaxis antitrombotica analgesicos ferroterapia curas de enfermeria nhc ** *** *** (********) ami-v-obs 2/3 lopd tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor). acido folico 1 al dia durante la lactancia.
+paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor). clexane 40 mg ( 1 aplicacion al dia durante 10 dias) si presenta grietas en los pezones se puede aplicar purelan crema despues de las tomas.
 control control por su comadrona de zona en 7-10 dias.
 se recomienda esperar minimo un año para buscar nuevo embarazo.
 se informa de signos / sintomas de alarma.

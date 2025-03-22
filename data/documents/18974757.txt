@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 11.02.2001 edat: 17 anys procedencia domicil/res.
-soc servei cirurgia ort i data d'ingres 02.07.2018 data d'alta 06.07.2018 11:08:24 ates per ***** vicente, ******; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres coleccion antebrazo der antecedents sin antecedentes medico-quirurgicos de interes.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 11.02.2001 edat: 17 anys procedencia domicil/res.soc servei cirurgia ort i data d'ingres 02.07.2018 data d'alta 06.07.2018 11:08:24 ates per ***** vicente, ******; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres coleccion antebrazo der antecedents sin antecedentes medico-quirurgicos de interes.
 namc medicacio habitual niega.
 proces actual paciente que inicia cuadro hace 6 dias tras picadura de mosquito inicia aumento de volumen en antebrazo derecho con eriteme y dolor a la movilizacion activa y pasiva pero sin impotencia funcional.
 ademas fiebre cuantificada de hasta 38ºc, sin clinica de bacteriemia aparentes.
@@ -27,18 +26,7 @@ pares craneales normales.
 no rigidez de nuca.
 no signos de focalidad neurologica aguda.
 no flapping.
-exploracio complementaria - ag: hb: 14.
-6 g/dl; hto: 43.
-6 %; vcm: 83.
-8 fl; leucocitos: 19.14 x10e9/l; neutrofilos: 79.
-8 x10e9/l; linfocitos: 9.
-5 x10e9/l; plaquetas: 398 x10e9/l; t.
-de quick: 69 %, inr: 1.23, ttpa: 32.
-8 seg, fibrinogeno: 5.
-7 g/l; glucosa 114 mg/dl; urea 33 mg/dl; creatinina 0.99 mg/dl; fg: 90 ml/min/1.73m2; sodio: 135 mmol/l; potasio: 3.61 mmol/l; calcio: 10.
-1 mg/dl; ast: 13 ui/l; alt: 11 ui/l; proteina: 8.
-5 g/dl, pcr 16.
-nhc ** *** *** (********) atr-v-cot 1/2 lopd evolucio clinica iq dia 2/07/2018 desbridamiento absceso antebrazo derecho por dr. ***** y dra ****** sin incidencias intraoperatorias durante el postoperatorio el paciente se encuentra hemodinamicamente estable y con buen control del dolor.
+exploracio complementaria - ag: hb: 14.6 g/dl; hto: 43.6 %; vcm: 83.8 fl; leucocitos: 19.14 x10e9/l; neutrofilos: 79.8 x10e9/l; linfocitos: 9.5 x10e9/l; plaquetas: 398 x10e9/l; t. de quick: 69 %, inr: 1.23, ttpa: 32.8 seg, fibrinogeno: 5.7 g/l; glucosa 114 mg/dl; urea 33 mg/dl; creatinina 0.99 mg/dl; fg: 90 ml/min/1.73m2; sodio: 135 mmol/l; potasio: 3.61 mmol/l; calcio: 10.1 mg/dl; ast: 13 ui/l; alt: 11 ui/l; proteina: 8.5 g/dl, pcr 16. nhc ** *** *** (********) atr-v-cot 1/2 lopd evolucio clinica iq dia 2/07/2018 desbridamiento absceso antebrazo derecho por dr. ***** y dra ****** sin incidencias intraoperatorias durante el postoperatorio el paciente se encuentra hemodinamicamente estable y con buen control del dolor.
 controles analiticos sin alteraciones destacables.
 herida quirurgica con buena evolucion.
 realiza rehabilitacion bien tolerada, segun protocolo.

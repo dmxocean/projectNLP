@@ -1,49 +1,27 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 23.02.1940 edat: 79 anys procedencia domicil/res.
-soc servei unitat d'ictus data d'ingres 11.05.2019 data d'alta 16.05.2019 12:29:35 ates per *************, ****; *************************, *****; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 79 años que acude como codigo ictus.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 23.02.1940 edat: 79 anys procedencia domicil/res.soc servei unitat d'ictus data d'ingres 11.05.2019 data d'alta 16.05.2019 12:29:35 ates per *************, ****; *************************, *****; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 79 años que acude como codigo ictus.
 antecedents -no alergias medicamentosas conocidas.
 en historias previas consta intolerancia a metoclopramida.
 -no habitos toxicos.
 antecedentes patologicos - hipertension arterial esencial en tratamiento farmacologico.
 buenos controles tensionales.
 - dislipemia en tratamiento con estatina.
--cardiopatia isquemica con iam en 2009 (portadora de 1 stent ).
-- colitis ulcerosa controlada.
+-cardiopatia isquemica con iam en 2009 (portadora de 1 stent ). - colitis ulcerosa controlada.
 - osteoporosis con multiples fx vertebrales por lo que se ha realizado artrodesis . - enfermedad de parkinson en tto con levodopa ssf: parcialmente dependiente para abvd.
 vive con su marido en domicilio.
 buen soporte familiar.
-mrs 3.
-medicacio habitual atorvastatina 10mg cada 24 horas, carvedilol 6.25mg cada 24h, acido 5 aminosalicilico 500mg cada 8 horas, clopidogrel 75mg cada 24 horas, paracetamol 1g cada 6 horas, eplerenona 25mg cada 24 horas, calcifediol 0.266mg cada mes, omeprazol 80mg cada 24 horas, cianocobalamina 1000mcg cada mes, lorazepam 1mg cada 24 horas, levodopa+carbidopa 25/100mg 6 cada 24 horas, tramadol 75mg cada 24 horas.
+mrs 3. medicacio habitual atorvastatina 10mg cada 24 horas, carvedilol 6.25mg cada 24h, acido 5 aminosalicilico 500mg cada 8 horas, clopidogrel 75mg cada 24 horas, paracetamol 1g cada 6 horas, eplerenona 25mg cada 24 horas, calcifediol 0.266mg cada mes, omeprazol 80mg cada 24 horas, cianocobalamina 1000mcg cada mes, lorazepam 1mg cada 24 horas, levodopa+carbidopa 25/100mg 6 cada 24 horas, tramadol 75mg cada 24 horas.
 proces actual acude como codigo ictus por clinica objetivada durante reunion familiar a las 17:10 del dia 11/05/19 consistente en dificultad para el habla, perdida de fuerza en hemicuerpo derecho y disminucion de la vision ipsilateral.
 la familia explica estabilidad clinica hasta el momento de la anamnesis.
 previamente no ha presentado clinica neurologica objetivada.
 no fiebre ni infecciones recientes.
-s'activa codi ictus el dia11/05/2019 a les 17:48:00 hores, a nivell sem arriba al nostre centre a les19:08:00 del 11/05/2019 exploracio fisica ta 1 52/83 mmhg, fc 69 bpm, glucemia capilar 123.
-regular estado general.
+s'activa codi ictus el dia11/05/2019 a les 17:48:00 hores, a nivell sem arriba al nostre centre a les19:08:00 del 11/05/2019 exploracio fisica ta 1 52/83 mmhg, fc 69 bpm, glucemia capilar 123. regular estado general.
 normocoloreada, normohidratada.
-nrl (ucias): somnolencia (1), loc c 0/2 (2), loc q 0/2 (2), afasia global (3), poc izquierda (1), hemianopsia homonima derecha (2), pfsn leve (1), paresia braquiocrural (4+4), sensibilidad no valorable (1), nihss 21 nhc ** *** *** &nbsp;(********) &nbsp;age-v-ict 1/3 lopd nrl (u.
-ictus): vigil, afasia global,l mutismo (7), hh d por amenaza (2), hemiplejia fbc d (2+4+4), probable hemihipoestesia (1).
-nihss=20 exploracio complementaria - ecg : prueba vibrada.
+nrl (ucias): somnolencia (1), loc c 0/2 (2), loc q 0/2 (2), afasia global (3), poc izquierda (1), hemianopsia homonima derecha (2), pfsn leve (1), paresia braquiocrural (4+4), sensibilidad no valorable (1), nihss 21 nhc ** *** *** &nbsp;(********) &nbsp;age-v-ict 1/3 lopd nrl (u. ictus): vigil, afasia global,l mutismo (7), hh d por amenaza (2), hemiplejia fbc d (2+4+4), probable hemihipoestesia (1). nihss=20 exploracio complementaria - ecg : prueba vibrada.
 impresiona de ritmo sinusal a 88lpm, presencia de extrasistoles ventriculares con pausa compensadora posterior.
 buena progresion de onda r en precordiales.
 sin desnivelaciones del segmento st.
--analitica sanguinea: hb 11.
-7 g/dl, hcto 35.
-9 %, vcm 103.
-2 fl, hcm 33.
-6 pg, leucocitos 5.85 x10e9/l, n 42.
-5 %, l 38.
-8 %, m 12.
-5 %, e 5.
-0 %, b 1.
-2 %, can 2.
-5 x10e9/l, cal 2.
-3 x10e9/l, plaquetas 213 x10e9/l, quick 114 %, inr 0.93, ttpa ratio 1.08 , fibr 3.04 g/l, glucosa 113 mg/dl, urea 46 mg/dl, creatinina 0.76 mg/dl, fge 75 ml/min/1,73, na 137.
-2 mmol/l, k 4.12 mmol/l, ca 9.
-3 mg/dl, ast 24 ui/l, alt 7 ui/l, prots.
-5.
-9 g/dl -tc multimodal: estudio multimodal que muestra signos de isquemia aguda en el territorio de vascularizacion superficial de acm izquierda (aspects 7/10), con defecto de llenado endoluminal focal en acm-m1 distal izquierda y con mismatch en dicho territorio en los mapas de perfusion (&gt;20%).
-- trombectomia cerebral: entra en sala a las 20:27h hemodinamicamente estable y neurologicamente sin cambios (nihss 20).
-tras puncion femoral derecha a las 20:41h, en primera serie (20:53h) se objetiva permeabilidad completa de territorio anterior (recanalizacion completa con tpa), por lo que se finaliza el procedimiento en este punto.
+-analitica sanguinea: hb 11.7 g/dl, hcto 35.9 %, vcm 103.2 fl, hcm 33.6 pg, leucocitos 5.85 x10e9/l, n 42.5 %, l 38.8 %, m 12.5 %, e 5.0 %, b 1.2 %, can 2.5 x10e9/l, cal 2.3 x10e9/l, plaquetas 213 x10e9/l, quick 114 %, inr 0.93, ttpa ratio 1.08 , fibr 3.04 g/l, glucosa 113 mg/dl, urea 46 mg/dl, creatinina 0.76 mg/dl, fge 75 ml/min/1,73, na 137.2 mmol/l, k 4.12 mmol/l, ca 9.3 mg/dl, ast 24 ui/l, alt 7 ui/l, prots.
+5.9 g/dl -tc multimodal: estudio multimodal que muestra signos de isquemia aguda en el territorio de vascularizacion superficial de acm izquierda (aspects 7/10), con defecto de llenado endoluminal focal en acm-m1 distal izquierda y con mismatch en dicho territorio en los mapas de perfusion (&gt;20%). - trombectomia cerebral: entra en sala a las 20:27h hemodinamicamente estable y neurologicamente sin cambios (nihss 20). tras puncion femoral derecha a las 20:41h, en primera serie (20:53h) se objetiva permeabilidad completa de territorio anterior (recanalizacion completa con tpa), por lo que se finaliza el procedimiento en este punto.
 procedimiento sin incidencias sin requerir sedacion.
 - tc craneal control 24h : estudio urgente que muestra aparicion de zona hipodensa en territorio de la acm izquierda que sugiere infarto de cronologia aguda.
 se acompaña de signos de edema que condiciona obliteracion parcial de los surcos, colapso parcial del vl homolateral y desviacion de la linea media hacia la derecha de unos 3 mm.
@@ -58,12 +36,7 @@ patron transmitral compatible con alteracion de la relajacion.
 no se observan imagenes sugestivas de trombo intrauricular ni ventricular.
 no se detectan placas de ateroma significativas en arco aortico.
 - tc cerebral control : extensa infart establert que afecta el territori superficial i profund irrigat per l'arteria cerebral mitjana esquerra amb signes de transformacio hemorragica i component d'hemorragia subaracnoïdal, que no s'ha modificat significativament respecte estudiprevi, si be ha progressat lleugerament l'efecte compressiu que condicionava la lesio.
-- analitica general : hb 11, leucocitos 12860, plaquetas 238mil, inr 1.11, alt 31, ast 71, fa 60, ggt 16, br total 1.51, directa 0.43, calcio 7.
-6, albumina 3.
-2, colesterol total 139, ldl 57, creatinina 0.57, urea 24, hba1c 5.
-7%, sodio 136, potasio 3.
-4, tsh 2.03, t4 libre 1.38.
-- telemetria cardiaca de 72h : sin evidencia de arritmias potencialmente emboligenas nhc ** *** *** &nbsp;(********) &nbsp;age-v-ict 2/3 lopd evolucio clinica paciente derivada a urgencias como codigo ictus por clinica de inicio a las 17:10h de dificultad para la emision del lenguaje y debilidad de extremidades derechas, presenciada por la familia.
+- analitica general : hb 11, leucocitos 12860, plaquetas 238mil, inr 1.11, alt 31, ast 71, fa 60, ggt 16, br total 1.51, directa 0.43, calcio 7.6, albumina 3.2, colesterol total 139, ldl 57, creatinina 0.57, urea 24, hba1c 5.7%, sodio 136, potasio 3.4, tsh 2.03, t4 libre 1.38. - telemetria cardiaca de 72h : sin evidencia de arritmias potencialmente emboligenas nhc ** *** *** &nbsp;(********) &nbsp;age-v-ict 2/3 lopd evolucio clinica paciente derivada a urgencias como codigo ictus por clinica de inicio a las 17:10h de dificultad para la emision del lenguaje y debilidad de extremidades derechas, presenciada por la familia.
 a su llegada a urgencias, presenta clinica compatible con taci izquierdo y nihss 21, confirmando mediante neuroimagen ictus isquemico agudo en territorio de acm i con aspects 7, oclusion de acm i y mismatch significativo.
 por este motivo se instaura tratamiento trombolitico endovenoso y se activa guardia ictus (19:40h) para valoracion de tratamiento de reperfusion intrarterial de rescate.
 se valoran riesgos/beneficios con familia y, ante potencial beneficio de tratamiento frente a situacion funcional y riesgos se indica tratamiento de reperfusion intrarterial de rescate, objetivando ausencia de oclusion en territorio anterior (recanalizacion completa con tpa), por lo que se finaliza el procedimiento y la paciente ingresa en la unidad de ictus para control evolutivo.

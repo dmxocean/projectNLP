@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 19.12.1931 edat: 86 anys procedencia domicil/res.
-soc servei cg hepatobilipancr i data d'ingres 13.05.2018 data d'alta 26.05.2018 10:21:20 ates per *********, ***************; ************, *****; ************, ********** informe d'alta d'hospitalitzacio motiu d'ingres pancreatitis aguda antecedents no amc.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 19.12.1931 edat: 86 anys procedencia domicil/res.soc servei cg hepatobilipancr i data d'ingres 13.05.2018 data d'alta 26.05.2018 10:21:20 ates per *********, ***************; ************, *****; ************, ********** informe d'alta d'hospitalitzacio motiu d'ingres pancreatitis aguda antecedents no amc.
 intolerancia dudosa a tramadol - hta proces actual paciente mujer de 86 años de edad con los antecedentes descritos acude a urgencias por dolor en todo hemiabdomen superior de 12 horas de evolucion, de tipo continuo.
 refiere nauseas, sin vomitos.
 no fiebre ni sensacion febril.
@@ -10,10 +9,7 @@ exploracio fisica paciente con reg, hemodinamicamente estable, afebril.
 abdomen blando y depresible, doloroso en todo hemiabdomen superior, con defensa a nivel de hcd.
 murphy dudoso.
 puñopercusion lumbar bilateral negativa.
-exploracio complementaria agu: hb: 12.
-7, leucos: 13 790, pmn: 92.
-9%, plaquetas: 289 000, tq: 101%, urea: 43, cr: 0.68, na: 135, ast/alt: 1035/494, amilasa: 2095, bt: 2.
-8, bd: 2.21, pcr: 0.89 sedimento: bacteriuria abundante, sin leucocituria.
+exploracio complementaria agu: hb: 12.7, leucos: 13 790, pmn: 92.9%, plaquetas: 289 000, tq: 101%, urea: 43, cr: 0.68, na: 135, ast/alt: 1035/494, amilasa: 2095, bt: 2.8, bd: 2.21, pcr: 0.89 sedimento: bacteriuria abundante, sin leucocituria.
 rx torax: sin datos de consolidacion ni derrames.
 normal.
 rx abdomen: luminograma inespecifico: normal.

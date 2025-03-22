@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 26.11.2007 edat: 11 anys procedencia cex mateix hosp servei c.
-ort i traumatologia ped data d'ingres 18.08.2019 data d'alta 13.09.2019 10:00:00 ates per *************, ******; *****************, *******; *********; **********, ****** informe d'alta d'hospitalitzacio motiu d'ingres ingreso programado para cirugia por osteomielitis cronica de femur izquierdo . antecedents antecedentes familiares: padres naturales de gambia, no consanguineos.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 26.11.2007 edat: 11 anys procedencia cex mateix hosp servei c. ort i traumatologia ped data d'ingres 18.08.2019 data d'alta 13.09.2019 10:00:00 ates per *************, ******; *****************, *******; *********; **********, ****** informe d'alta d'hospitalitzacio motiu d'ingres ingreso programado para cirugia por osteomielitis cronica de femur izquierdo . antecedents antecedentes familiares: padres naturales de gambia, no consanguineos.
 viven aqui desde hace 20 años.
 el paciente ha nacido aqui.
 portadores de hbs.
@@ -14,23 +13,14 @@ antecedentes patologicos: diagnosticado de drepanocitosis homocigota a los 11 me
 en tratamiento de base con hidroxiurea, acido folico y amoxicilina.
 evolucion de anemia hemolitica compensada con hb alrededor de 9g / dl, sin necesidades transfusionales.
 crisis de dolor oseo leves controladas con ibuprofeno oral.
--infartos oseos politopicos en sacro, d11, d12, d9, d7, d6, humero y tibia izquierdos (gammagrafia 2010) -ingreso en hospital josep trueta por crisis vasooclusiva pierna d.
-(octubre 2010) ecografia abdominal normal.
--ingresado en h.
-de granollers (octubre 2013) por crisis vasooclusiva lumbar.
+-infartos oseos politopicos en sacro, d11, d12, d9, d7, d6, humero y tibia izquierdos (gammagrafia 2010) -ingreso en hospital josep trueta por crisis vasooclusiva pierna d. (octubre 2010) ecografia abdominal normal.
+-ingresado en h. de granollers (octubre 2013) por crisis vasooclusiva lumbar.
 -dolor retroesternal marzo 2014 controlado con ibuprofeno oral.
-inicio de hidroxiurea en enero de 2015.
-suspendida durante 2 meses por intolerancia digestiva.
-reiniciada en mayo de 2015.
-- ingreso del 20.12.
-2016 a 4.01.2016 por osteomielitis femur izquierdo.
-de h.
-granollers, previo ingreso en septiembre por osteomielitis de femur izquierdo (aislado salmonella enteritidis).
-orientado como om cronica por la evolucion proces actual ingreso programado para cirugia por osteomielitis cronica de femur izquierdo.
+inicio de hidroxiurea en enero de 2015. suspendida durante 2 meses por intolerancia digestiva.
+reiniciada en mayo de 2015. - ingreso del 20.12. 2016 a 4.01.2016 por osteomielitis femur izquierdo.
+de h. granollers, previo ingreso en septiembre por osteomielitis de femur izquierdo (aislado salmonella enteritidis). orientado como om cronica por la evolucion proces actual ingreso programado para cirugia por osteomielitis cronica de femur izquierdo.
 inicia en junio de 2019 bultoma en zona de cicatriz, sin dolor, sin cojera, sin fiebre.
-el 1.7.
-se realiza rm en granollers: osteomielitis cronica femur con absceso intraoseo que comunica a traves de cloaca con absceso de partes blandas exploracio fisica fc 99 bpm tªaxi 36.
-0 ºc fr rpm tªrec ºc ta s 100 mmhg sat o2 100.00 % ta d 64 mmhg pes 32.400 kg nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cop 1/4 lopd tep: estable buen estado general.
+el 1.7. se realiza rm en granollers: osteomielitis cronica femur con absceso intraoseo que comunica a traves de cloaca con absceso de partes blandas exploracio fisica fc 99 bpm tªaxi 36.0 ºc fr rpm tªrec ºc ta s 100 mmhg sat o2 100.00 % ta d 64 mmhg pes 32.400 kg nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cop 1/4 lopd tep: estable buen estado general.
 normocoloreado.
 normohidratado.
 no lesiones cutaneas agudas.
@@ -40,85 +30,17 @@ no edemas.
 espiracion normal.
 - aparato cardiocirculatorio: tonos ritmicos, no ausculto soplos, pulsos perifericos presentes y simetricos.
 perfusion distal conservada.
-llenado capilar menor 2".
-- abdomen: blando y depresible, no masas ni megalias, no doloroso a la palpacion.
+llenado capilar menor 2". - abdomen: blando y depresible, no masas ni megalias, no doloroso a la palpacion.
 peristaltismo conservado.
 - nrl: consciente y orientado.
 no signos de irritacion meningea ni focalidad neurologica.
 - ap locomotor: se palpa bultoma en cicatriz en muslo izquierdo.
 no doloroso a la palpacion.
 no limitacion de la movilidad ni de la marcha.
-exploracio complementaria estudios analiticos: -analitica sanguinea al ingreso: hb 12.
-0 g/dl, hcto 34.
-6 %, vcm 84.
-8 fl, hcm 29.
-4 pg, reticulocitos 228.
-1 x10e9/l, leucocitos 8.53 x10e9/l, n 53.
-8 %, l 32.
-4 %, m 10.
-2 %, e 3.
-0 %, b 0.
-6 %, can 4.
-6 x10e9/l, cal 2.
-8 x10e9/l, plaquetas 206 x10e9/l -analitica sanguinea (23.08.2019): hb 10.
-0 g/dl, hcto 29.
-9 %, vcm 86.
-9 fl, hcm 29.
-1 pg, leucocitos 13.15 x10e9/l, n 69.
-1 %, l 21.
-1 %, m 8.
-3 %, e 1.
-0 %, b 0.
-5 %, can 9.
-1 x10e9/l, cal 2.
-8 x10e9/l, plaquetas 247 x10e9/l, quick 81 %, inr 1.12, ttpa ratio 1.00 , fibr 6.77 g/l, glucosa 98 mg/dl, urea 16 mg/dl, creatinina 0.26 mg/dl, na 133.
-2 mmol/l, k 3.95 mmol/l, ast 34 ui/l, alt 12 ui/l, fa 168 ui/l, ggt 12 ui/l, albumina 3.
-6 g/dl -analitica sanguinea (29.08.2019): hb 9.
-8 g/dl, hcto 29.
-6 %, vcm 86.
-0 fl, hcm 28.
-5 pg, leucocitos 12.79 x10e9/l, n 66.
-8 %, l 24.
-2 %, m 7.
-1 %, e 1.
-4 %, b 0.
-5 %, can 8.
-6 x10e9/l, cal 3.
-1 x10e9/l, plaquetas 401 x10e9/l, glucosa 97 mg/dl, urea 17 mg/dl, creatinina 0.29 mg/dl, bilir.
+exploracio complementaria estudios analiticos: -analitica sanguinea al ingreso: hb 12.0 g/dl, hcto 34.6 %, vcm 84.8 fl, hcm 29.4 pg, reticulocitos 228.1 x10e9/l, leucocitos 8.53 x10e9/l, n 53.8 %, l 32.4 %, m 10.2 %, e 3.0 %, b 0.6 %, can 4.6 x10e9/l, cal 2.8 x10e9/l, plaquetas 206 x10e9/l -analitica sanguinea (23.08.2019): hb 10.0 g/dl, hcto 29.9 %, vcm 86.9 fl, hcm 29.1 pg, leucocitos 13.15 x10e9/l, n 69.1 %, l 21.1 %, m 8.3 %, e 1.0 %, b 0.5 %, can 9.1 x10e9/l, cal 2.8 x10e9/l, plaquetas 247 x10e9/l, quick 81 %, inr 1.12, ttpa ratio 1.00 , fibr 6.77 g/l, glucosa 98 mg/dl, urea 16 mg/dl, creatinina 0.26 mg/dl, na 133.2 mmol/l, k 3.95 mmol/l, ast 34 ui/l, alt 12 ui/l, fa 168 ui/l, ggt 12 ui/l, albumina 3.6 g/dl -analitica sanguinea (29.08.2019): hb 9.8 g/dl, hcto 29.6 %, vcm 86.0 fl, hcm 28.5 pg, leucocitos 12.79 x10e9/l, n 66.8 %, l 24.2 %, m 7.1 %, e 1.4 %, b 0.5 %, can 8.6 x10e9/l, cal 3.1 x10e9/l, plaquetas 401 x10e9/l, glucosa 97 mg/dl, urea 17 mg/dl, creatinina 0.29 mg/dl, bilir.
 total 0.58 mg/dl, bilir.
-directa 0.24 mg/dl, na 135.
-2 mmol/l, k 3.96 mmol/l, ast 31 ui/l, alt 11 ui/l, albumina 3.
-6 g/dl -analitica sanguinea (2.09.2019): hb 9.
-8 g/dl, hcto 30.
-2 %, vcm 86.
-0 fl, hcm 27.
-9 pg, leucocitos 12.50 x10e9/l, n 72.
-9 %, l 19.
-9 %, m 5.
-0 %, e 1.
-7 %, b 0.
-5 %, can 9.
-1 x10e9/l, cal 2.
-5 x10e9/l, plaquetas 434 x10e9/l, glucosa 90 mg/dl, urea 18 mg/dl, creatinina 0.26 mg/dl, na 136.
-2 mmol/l, k 4.03 mmol/l, ca 10.
-6 mg/dl, ast 30 ui/l, alt 9 ui/l, prots 8.
-1 g/dl, albumina 3.
-6 g/dl -analitica sanguinea prealta (9.09.2019): hb 10.
-0 g/dl, hcto 29.
-3 %, vcm 85.
-4 fl, hcm 29.
-2 pg, leucocitos 7.65 x10e9/l, n 68.
-3 %, l 23.
-1 %, m 6.
-7 %, e 1.
-4 %, b 0.
-5 %, can 5.
-2 x10e9/l, cal 1.
-8 x10e9/l, plaquetas 318 x10e9/l, vsg 52 mm/h, glucosa 100 mg/dl, urea 17 mg/dl, creatinina 0.23 mg/dl, na 135.
-9 mmol/l, k 3.67 mmol/l, ast 40 ui/l, alt 18 ui/l, prots.
-7.
-9 g/dl, alb 3.
-7 g/dl, pcr 0.92 mg/dl microbiologia: - cultivos absceso partes blandas y hueso (20.08.2019): salmonella spp - anatomia patologico de absceso y hueso (2.09.2019): fragmentos oseos con moderado infiltrado inflamatorio linfoplasmocitario , compatible con osteomielitis cronica, no se identifican microorganismos en el material remitido, tecnicas histoquimicas para nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cop 2/4 lopd gram, pas y plata metenamina negativas -cultivo herida quirurgica (1.09.2019): negativo - cultivos intraoperatorios (02.09.2019: aerobio negativo, anaerobios pendiente al cierre de este informe.
+directa 0.24 mg/dl, na 135.2 mmol/l, k 3.96 mmol/l, ast 31 ui/l, alt 11 ui/l, albumina 3.6 g/dl -analitica sanguinea (2.09.2019): hb 9.8 g/dl, hcto 30.2 %, vcm 86.0 fl, hcm 27.9 pg, leucocitos 12.50 x10e9/l, n 72.9 %, l 19.9 %, m 5.0 %, e 1.7 %, b 0.5 %, can 9.1 x10e9/l, cal 2.5 x10e9/l, plaquetas 434 x10e9/l, glucosa 90 mg/dl, urea 18 mg/dl, creatinina 0.26 mg/dl, na 136.2 mmol/l, k 4.03 mmol/l, ca 10.6 mg/dl, ast 30 ui/l, alt 9 ui/l, prots 8.1 g/dl, albumina 3.6 g/dl -analitica sanguinea prealta (9.09.2019): hb 10.0 g/dl, hcto 29.3 %, vcm 85.4 fl, hcm 29.2 pg, leucocitos 7.65 x10e9/l, n 68.3 %, l 23.1 %, m 6.7 %, e 1.4 %, b 0.5 %, can 5.2 x10e9/l, cal 1.8 x10e9/l, plaquetas 318 x10e9/l, vsg 52 mm/h, glucosa 100 mg/dl, urea 17 mg/dl, creatinina 0.23 mg/dl, na 135.9 mmol/l, k 3.67 mmol/l, ast 40 ui/l, alt 18 ui/l, prots.
+7.9 g/dl, alb 3.7 g/dl, pcr 0.92 mg/dl microbiologia: - cultivos absceso partes blandas y hueso (20.08.2019): salmonella spp - anatomia patologico de absceso y hueso (2.09.2019): fragmentos oseos con moderado infiltrado inflamatorio linfoplasmocitario , compatible con osteomielitis cronica, no se identifican microorganismos en el material remitido, tecnicas histoquimicas para nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cop 2/4 lopd gram, pas y plata metenamina negativas -cultivo herida quirurgica (1.09.2019): negativo - cultivos intraoperatorios (02.09.2019: aerobio negativo, anaerobios pendiente al cierre de este informe.
 - hemocultivo (1.09.2019): negativo imagen: - rx de femur : cambios postquirurgicos en femur distal con calcificaciones de partes blandas.
 evolucio clinica ingresa el dia 18.08.2019 de manera programada, el 19.08.2019 se coloca cateter hickman de dos luces sin incidencias y se realiza recambio de hematies.
 el dia 20.08.2019 se procede a cirugia, realizandose exeresis del absceso encapsulado anteromeidal y desbridamiento abundante con sistema ria (synthes) con fresa de 12mm en sentido proximal y distal desde la ventana osea previa.
@@ -128,26 +50,18 @@ sin incidencias durante la cirugia.
 se remiten muestras a microbiologia y anatomia patologica que resultan positivas para salmonella sp, y de acuerdo con antibiogrmaa, se inicia tratamiento antibiotico dirigido con ciprofloxacino ev.
 en el postoperatorio se inicia cateter epidural de bupivacaina con buen control del dolor, asi como tambien hidratacion con sueroterapia de mantenimiento al 100% de necesidades basales y oxigenoterapia con canulas nasales.
 se mantiene con sondaje urinario para control de diuresis hasta supension del cateter epidural.
-se mantiene con antibioterapia endovenosa con ciprofloxacino complentando 8 dias de tratamiento y posteriormente pasando a via oral el 29.08.2019.
-no obstante, el paciente presenta evolucion torpida de la herida con importante hematoma y dehiscencia de herida con dos picos febriles de 38ºc el 30.08.2019, por lo cual se decide conjuntamente entre cirugia ortopedica pediatrica e infecciosas realizar una nueva cirugia de desbridamiento asi como tambien reiniciar antibioterapia por via endovenosa.
+se mantiene con antibioterapia endovenosa con ciprofloxacino complentando 8 dias de tratamiento y posteriormente pasando a via oral el 29.08.2019. no obstante, el paciente presenta evolucion torpida de la herida con importante hematoma y dehiscencia de herida con dos picos febriles de 38ºc el 30.08.2019, por lo cual se decide conjuntamente entre cirugia ortopedica pediatrica e infecciosas realizar una nueva cirugia de desbridamiento asi como tambien reiniciar antibioterapia por via endovenosa.
 asi pues, el dia 02/09/2019 se realiza nueva cirugia de urgencia, desbridamiento con friedrich de herida y toma de multiples muestras para cultivo, sin incidencias intraoperatorias.
 se coloca un sistema de tpn incisional tipo vivano a 80mmhg.
 se reinicia cateter epidural de bupivacaina con control correcto del dolor que se suspende el 7.09.2019, retirandose tambien sondaje urinario.
 los nuevos cultivos resultan negativos por lo que se mantiene tratamiento con ciporfloxacino endovenoso hasta el dia 12.09.2019 habiendo realizado en total 22 dias de tratamiento, pudiendose pasar a via oral, con buena tolerancia.
-guardia de cirugia pediatrica (dra. ******, dr. *****).
-nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cop 3/4 lopd el 12/09/2019.
-bajo sedacion + respiracion espontanea, se realiza extraccion de cateter de via central vyid (hickman).
-cierre de incision con punto suelto de monocryl 5/0.
-procedimiento sin incidencias.
+guardia de cirugia pediatrica (dra. ******, dr. *****). nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cop 3/4 lopd el 12/09/2019. bajo sedacion + respiracion espontanea, se realiza extraccion de cateter de via central vyid (hickman). cierre de incision con punto suelto de monocryl 5/0. procedimiento sin incidencias.
 finalmente se mantiene con buen control del dolor y afebril, iniciando deambulacion y carga sobre la extremidad afecta en los dias previos al alta.
 en las analiticas de control seriadas realizadas durante su estancia se constata descenso de reactantes de fase aguda.
 se decide alta el 13.09.2019, con buen aspecto a nivel de la herida quirurgica y con resto de la exploracion compatible con la normalidad.
-orientacio diagnostica d57.
-1 malaltia drepanocitica sense crisi m86.
-9 osteomielitis no especificada procediments - cateter central - sueroterapia - oxigenoterapia convencional.
+orientacio diagnostica d57.1 malaltia drepanocitica sense crisi m86.9 osteomielitis no especificada procediments - cateter central - sueroterapia - oxigenoterapia convencional.
 - analitica sanguinea.
 - hemocultivo - cirugia de desbridamiento - cultivos y anatomia patologica - cateter epidural de bupivacaina - antibioterapia endovenosa - vac - transfusion de concentrado de hematies tractament i recomanacions a l'alta ciprofloxacino (comprimidos de 500 mg) 1 comprimido cada 12 horas hasta revalroacion en consultas hydrea 500mg cada 24 horas acido folico 5mg cada 24 horas si fiebre o dolor, acudir a urgencias.
 control control por hematologia de su centro segun citaciones.
-control en cex de upiip en h.
-vall d'hebron segun citacion.
+control en cex de upiip en h. vall d'hebron segun citacion.
 control en cex traumatologia pediatrica segun citacion destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cop 4/4 lopd

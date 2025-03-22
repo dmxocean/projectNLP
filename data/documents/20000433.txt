@@ -1,6 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 18.04.1960 edat: 59 anys procedencia domicil/res.
-soc servei unitat d'ictus data d'ingres 09.06.2019 data d'alta 11.06.2019 14:31:39 ates per *************, ****; **************, *****; *****************, *****;; **************************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente varon de 59 años que ingresa por infarto isquemico (paci) d.
-antecedents -no alergias medicamentosas conocidas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 18.04.1960 edat: 59 anys procedencia domicil/res.soc servei unitat d'ictus data d'ingres 09.06.2019 data d'alta 11.06.2019 14:31:39 ates per *************, ****; **************, *****; *****************, *****;; **************************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente varon de 59 años que ingresa por infarto isquemico (paci) d. antecedents -no alergias medicamentosas conocidas.
 -habitos toxicos: fumador de 1/2 paquete dia (hasta enero'18 2 pq/24h) antecedentes patologicos -hipertension arterial esencial en tratamiento con ieca.
 buenos controles tensionales.
 -dislipemia en tratamiento con atorvastatina 40mg (no tolero dosis de 80mg por mialgias y fatigabilidad) - infarto isquemico en territorio de acm derecha en enero'2018, ingreso por disartria y mano torpe izquierda.
@@ -10,58 +8,26 @@ como secuela del ictus presenta hipoestesia braquiocrural izquierda muy leve.
 - gammapatia monoclonal de significado incierto tipo igg lambda transitoria, siguio controles con hematologia -probable bronquitis cronica , pendiente de pfr por su map.
 ssf: independiente para abvd.
 vive en domicilio con su mujer e hijos.
-mrs 1.
-medicacio habitual atorvastatina 40mg, diazepam 5mg, eliquis 5mg, enalapril 5mg, pantoprazol 20mg, tamsulosina 0.4mg, ultibro breezhaler 85/43mcg/24h proces actual paciente traido como codigo ictus por el sem por clinica del despertar consistente en hemiparesia y hemihipoestesia braquiocrural izquierdas, que se resolvieron completamente a su llegada a urgencias.
+mrs 1. medicacio habitual atorvastatina 40mg, diazepam 5mg, eliquis 5mg, enalapril 5mg, pantoprazol 20mg, tamsulosina 0.4mg, ultibro breezhaler 85/43mcg/24h proces actual paciente traido como codigo ictus por el sem por clinica del despertar consistente en hemiparesia y hemihipoestesia braquiocrural izquierdas, que se resolvieron completamente a su llegada a urgencias.
 previamente el paciente se habia ido a dormir alrededor de las 23:30 sin ningun sintoma.
 no otros sintomas a la anamnesis por aparatos.
-exploracio fisica urgencias ta 143/64, fc 66, bmt 100 mg/dl.
-buen estado general.
+exploracio fisica urgencias ta 143/64, fc 66, bmt 100 mg/dl. buen estado general.
 nc.
 nh.
 paciente inquieto en contexto de situacion clinica.
 nrl: alerta y vigil.
 consciente y orientado en las tres esferas.
-loc c 2/2.
-loc q 2/2.
-no deficits campimetricos por confrontacion.
-pfsn leve (1).
-hemiparesia crural izquierda (1).
-hemihipoestesia braquiocrural izquierda (2).
-no nhc ** *** *** &nbsp;(********) &nbsp;age-v-ict 1/4 lopd dismetria dedo-nariz.
+loc c 2/2. loc q 2/2. no deficits campimetricos por confrontacion.
+pfsn leve (1). hemiparesia crural izquierda (1). hemihipoestesia braquiocrural izquierda (2). no nhc ** *** *** &nbsp;(********) &nbsp;age-v-ict 1/4 lopd dismetria dedo-nariz.
 no extinciones ni negligencias.
-nihss 4.
-unidad de ictus ta 139/65, fc 60.
-afebril.
-disartria leve (1).
-pfsn i (1).
-hipoetesia esi (1).
-nihss 3 exploracio complementaria urgencias -analitica general : hb 12.
-5 g/dl, hcto 39.
-5 %, vcm 92.
-7 fl, hcm 29.
-3 pg, leucocitos 7.67 x10e9/l, n 70.
-0 %, l 20.
-9 %, m 8.
-7 %, e 0.
-0 %, b 0.
-4 %, can 5.
-4 x10e9/l, cal 1.
-6 x10e9/l, plaquetas 161 x10e9/l, glucosa 108 mg/dl, urea 55 mg/dl, creatinina 0.85 mg/dl, fge &gt;90 ml/min/1,73, na 138.
-9 mmol/l, k 4.04 mmol/l, ca 8.
-6 mg/dl, ast 25 ui/l, alt 14 ui/l, prots.
-6.
-2 g/dl.
--ecg : rs a 62lpm.
+nihss 4. unidad de ictus ta 139/65, fc 60. afebril.
+disartria leve (1). pfsn i (1). hipoetesia esi (1). nihss 3 exploracio complementaria urgencias -analitica general : hb 12.5 g/dl, hcto 39.5 %, vcm 92.7 fl, hcm 29.3 pg, leucocitos 7.67 x10e9/l, n 70.0 %, l 20.9 %, m 8.7 %, e 0.0 %, b 0.4 %, can 5.4 x10e9/l, cal 1.6 x10e9/l, plaquetas 161 x10e9/l, glucosa 108 mg/dl, urea 55 mg/dl, creatinina 0.85 mg/dl, fge &gt;90 ml/min/1,73, na 138.9 mmol/l, k 4.04 mmol/l, ca 8.6 mg/dl, ast 25 ui/l, alt 14 ui/l, prots.
+6.2 g/dl. -ecg : rs a 62lpm.
 pr 0.12ms, qrs 0.08ms.
-eje 60º.
-buena progresion de r en precordiales.
+eje 60º. buena progresion de r en precordiales.
 no hipertrofia ni desnivelacion del segmento st.
--tc multimodal: estudio craneal multifasico que no muestra alteraciones densitometricas agudas parenquimatosas valorables, aunque se evidencia estenosis focal en segmento m1 prebifurcacional de la acm derecha con permeabilidad de las estructuras vasculares intra y extracraneales (incluyendo los vasos distales al punto estenotico descrito).
-discreto aumento del ttp y ttd en la practica totalidad del territorio de la acm derecha, sin alteracion en el ttm, mapa de flujo (cbf) y volumen (cbv) que sugiera de areas de infarto establecido o penumbra.
-unidad de ictus -analitica general: destaca ldl 116, resto sin hallazgos significativos (se adjunta) - ecografia doppler-duplex color transcraneal: estenosis severa de acm d con vps 180.
-1 cm/s a 61 mm, flujo amortiguado a nivel distal e importante desarrollo de circulacion colateral por ramas de acp-2 d.
-no se objetiva hiperaflujo de aca-1 d.
-resto de estudio sin objetivarse alteraciones.
+-tc multimodal: estudio craneal multifasico que no muestra alteraciones densitometricas agudas parenquimatosas valorables, aunque se evidencia estenosis focal en segmento m1 prebifurcacional de la acm derecha con permeabilidad de las estructuras vasculares intra y extracraneales (incluyendo los vasos distales al punto estenotico descrito). discreto aumento del ttp y ttd en la practica totalidad del territorio de la acm derecha, sin alteracion en el ttm, mapa de flujo (cbf) y volumen (cbv) que sugiera de areas de infarto establecido o penumbra.
+unidad de ictus -analitica general: destaca ldl 116, resto sin hallazgos significativos (se adjunta) - ecografia doppler-duplex color transcraneal: estenosis severa de acm d con vps 180.1 cm/s a 61 mm, flujo amortiguado a nivel distal e importante desarrollo de circulacion colateral por ramas de acp-2 d. no se objetiva hiperaflujo de aca-1 d. resto de estudio sin objetivarse alteraciones.
 -telemetria 72 horas: sin evidencia de arritmias con potencial emboligeno - ecoscan cardiaco ictus (ecocardioscopia ictus) : estudio limitado por ventana acustica suboptima y paciente bradicardico . ventriculo izquierdo levemente dilatado no hipertrofico.
 no alteraciones segmentarias de la contractilidad con fraccion de eyeccion aparentemente conservada aunque estudio limitado por bradicardia sinusal mantenida.
 auricula izquierda no dilatada no valvulopatia significativa.
@@ -71,17 +37,13 @@ no se detectan placas de ateroma significativas en arco aortico.
 evolucio clinica a su llegada a urgencias, paciente hemodinamicamente estable y afebril.
 a la exploracion fisica, se objetiva nihss de 4 a expensas de pfsn leve, hemihipoestesia braquiocrural izquierda y parestesia leve mii.
 realizamos ecg en rs, analitica sin alteraciones y tc multimodal que evidencia estenosis focal en segmento m1 prebifurcacional de la acm derecha con permeabilidad de las estructuras vasculares intra y extracraneales (incluyendo los vasos distales al punto estenotico descrito), sin areas de infarto establecido o penumbra.
-se desestima tratamiento fibrinolitico ev por anticoagulacion concomitante y endovascular por deficit minor sin oclusion (solo estenosis significativa).
-nhc ** *** *** &nbsp;(********) &nbsp;age-v-ict 2/4 lopd en resumen, paciente de 59 años fumador activo, hta y dislipemico, que acude a urgencias por sindrome hemisferico derecho con poca afectacion clinica objetivandose en el tc multimodal hecho una estenosis en tercio distal de acm-d (m1) severa no conocida (no prueba vascular intracraneal previa) con buena evolucion clinica sin tratamiento.
+se desestima tratamiento fibrinolitico ev por anticoagulacion concomitante y endovascular por deficit minor sin oclusion (solo estenosis significativa). nhc ** *** *** &nbsp;(********) &nbsp;age-v-ict 2/4 lopd en resumen, paciente de 59 años fumador activo, hta y dislipemico, que acude a urgencias por sindrome hemisferico derecho con poca afectacion clinica objetivandose en el tc multimodal hecho una estenosis en tercio distal de acm-d (m1) severa no conocida (no prueba vascular intracraneal previa) con buena evolucion clinica sin tratamiento.
 su evolucion en la unidad de ictus ha sido satisfactoria, persistiendo asimetria facial, disartria leve e hipoestesia esi.
 se orienta el cuadro como probable estenosis de acm-m1 derecha distal ateromatosa sintomatica, por lo que se inicia doble antiagregacion, se mantienen estatinas a dosis media (dado que no tolera dosis superior) y se solicita tratamiento con alirocumab dado el alto riesgo vascular.
 una analitica general muestra ldl de 114 sin otros hallazgos.
 ante la estabilidad, se decide el alta hospitalaria con control por ecodoppler ambulatorio y solicitando rm cerebral de control.
 al alta, nihss=3 , mrs=1 orientacio diagnostica ictus isquemico (paci) acm d de probable etiologia aterotrombotica por estenosis acm-m1 derecha &gt;70% probablemente ateromatosa.
-dislipemia hipertension arterial habito tabaquico i63.
-9 infart cerebral no especificat procediments tc craneal multimodal telemetria cardiaca ecoscan cardiaco ictus ecodoppler tsa /tc tractament i recomanacions a l'alta abstencion tabaquica dieta sin sal pobre en grasas.
-actividad fisica diaria suave 1.
-aas 100mg 1 comp/dia vo 2.
-clopidogrel 75mg 1 comp/dia vo stop eliquis.
+dislipemia hipertension arterial habito tabaquico i63.9 infart cerebral no especificat procediments tc craneal multimodal telemetria cardiaca ecoscan cardiaco ictus ecodoppler tsa /tc tractament i recomanacions a l'alta abstencion tabaquica dieta sin sal pobre en grasas.
+actividad fisica diaria suave 1. aas 100mg 1 comp/dia vo 2. clopidogrel 75mg 1 comp/dia vo stop eliquis.
 resto de su medicacion habitual sin cambios sera contactado para inicio de tratamiento con alirocumab si se confirma la indicacion desde el servicio de farmacologia de nuestro centro control sera contactado telematicamente desde nuestra unidad de ictus para realizarle unas preguntas sobre su estado de salud control con ecodoppler el proximo dia 16/10/2019 a las 9:00 horas en 2º planta unidad de ictus- laboratorio nhc ** *** *** &nbsp;(********) &nbsp;age-v-ict 3/4 lopd neurosonologia.
 tras la realizacion del ecodoppler, acudir a control en cex ictus (3ª planta anexos) destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;age-v-ict 4/4 lopd

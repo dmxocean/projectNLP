@@ -1,16 +1,10 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 01.03.1953 edat: 65 anys procedencia domicil/res.
-soc servei neurocirurgia data d'ingres 05.07.2018 data d'alta 09.07.2018 08:52:17 ates per ****************, ****; ************, **************; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingreso para intervencion quirurgica electiva antecedents alergias medicamentosas: no alergias medicamentosas conocidas habitos toxicos: exfumador de 8-10cig/d (14-63años).
-ex habito enolico.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 01.03.1953 edat: 65 anys procedencia domicil/res.soc servei neurocirurgia data d'ingres 05.07.2018 data d'alta 09.07.2018 08:52:17 ates per ****************, ****; ************, **************; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingreso para intervencion quirurgica electiva antecedents alergias medicamentosas: no alergias medicamentosas conocidas habitos toxicos: exfumador de 8-10cig/d (14-63años). ex habito enolico.
 antecedentes medicoquirurgicos: -meningitis en la infancia.
 - hta - dlp - acxfa en tratamiento aco, en diciembre de 2017 cambio tratamiento con sintrom a edoxaban.
 - adenocarcinoma de prostata gleason 7, t2a-bn0, psa: 7,27, recibio radioterapia.
 tratamiento con bloqueo hormonal neoadyuvante * 6 meses.
 seguimiento en urologia.
-- sahs grave diagnosticado en 2008.
-iah 94,2, ct90-45,2%.
-portador de cpap a 10cmh20.
-- leucoencefalopatia por la que ingreso en nuestro centro desde 14.02 hasta 07.03 de 2018.
--lesion ocupante de espacio en region frontal derecha antecedentes quirurgicos: - facoemulsificacion i aspiracion de catarata con insercion de isercion de lio - litotomia por litiasis medicacio habitual atenolol 25 mg/dia, edoxaban 60 mg/dia, simvastatina 20 mg/dia, tamsulosina, gabapentina.
+- sahs grave diagnosticado en 2008. iah 94,2, ct90-45,2%. portador de cpap a 10cmh20. - leucoencefalopatia por la que ingreso en nuestro centro desde 14.02 hasta 07.03 de 2018. -lesion ocupante de espacio en region frontal derecha antecedentes quirurgicos: - facoemulsificacion i aspiracion de catarata con insercion de isercion de lio - litotomia por litiasis medicacio habitual atenolol 25 mg/dia, edoxaban 60 mg/dia, simvastatina 20 mg/dia, tamsulosina, gabapentina.
 proces actual varon de 64 años con leucoencefalopatia en seguimiento en consultas externas de neurologia.
 el 02.06.2018 se realiza una rm cerebral de control en la que se muestra incremento de la extension de la lesion que afecta la sustancia blanca subcortical frontal derecho asi como leve incremento de la afectacion de la sustancia blanca periventricular frontal contralateral, de origen indeterminado.
 ingresa en neurocirugia para biopsia de la lesion frontal derecha.
@@ -20,5 +14,4 @@ el paciente pasa a rea para control postquirurgico.
 se realiza un tc craneal de control que no muestra complicaciones tras la intervencion.
 no se producen incidencias durante la estancia hospitalaria.
 en condiciones de estabilidad clinica se concede el alta a domicilio para control en consultas externas de neurocirugia.
-orientacio diagnostica leucoencefalopatia procediments 06.07.2018 qx: biopsia guiada por neuronavegacion de lesion subcortical frontal derecha tractament i recomanacions a l'alta continuar medicacion habitual si dolor tomar paracetamol 1g c/8h, alternando con metamizol 575mg c/8h control retirar puntos/grapas el 19/07/2018 en consultas externas de neurotraumatologia (dr.*******).
-destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-nrc 2/2 lopd
+orientacio diagnostica leucoencefalopatia procediments 06.07.2018 qx: biopsia guiada por neuronavegacion de lesion subcortical frontal derecha tractament i recomanacions a l'alta continuar medicacion habitual si dolor tomar paracetamol 1g c/8h, alternando con metamizol 575mg c/8h control retirar puntos/grapas el 19/07/2018 en consultas externas de neurotraumatologia (dr.*******). destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-nrc 2/2 lopd

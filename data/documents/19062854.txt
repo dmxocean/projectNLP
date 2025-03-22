@@ -1,30 +1,19 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 20.06.1999 edat: 19 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 02.08.2018 data d'alta 06.08.2018 11:28:06 ates per ******************, *****; teixido troyano, anna informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergia medicamentosa conocidas ap: epilepsia en tratamiento no intervenciones quirurgicas no transfusiones no habitos toxicos medicacio habitual lamotrigina 50 mg 1/2 - 0 - 1/2 proces actual edad: 19 tpal: 0010 (ae por convulsion) fur: 26.10.17 sg: 39s + 6d gsrh: o positivo gestacion controlada en aro por agenesia renal unilateral - nacionalidad: peru analiticas: - 1 º t: hb: 9.
-6 ; ht: 29.
-5 . - 3 º t(06/07): hb:9.
-6 ; ht:31.
-8 ; plaquetas: 225.000; coagulacion: tp &gt;120%.
-, ttpa: 25.5s serologias: rubeola inmune, toxoplasma no immune, lues vih, vhb y vhc negativos.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 20.06.1999 edat: 19 anys procedencia domicil/res.soc servei obstetricia data d'ingres 02.08.2018 data d'alta 06.08.2018 11:28:06 ates per ******************, *****; teixido troyano, anna informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergia medicamentosa conocidas ap: epilepsia en tratamiento no intervenciones quirurgicas no transfusiones no habitos toxicos medicacio habitual lamotrigina 50 mg 1/2 - 0 - 1/2 proces actual edad: 19 tpal: 0010 (ae por convulsion) fur: 26.10.17 sg: 39s + 6d gsrh: o positivo gestacion controlada en aro por agenesia renal unilateral - nacionalidad: peru analiticas: - 1 º t: hb: 9.6 ; ht: 29.5 . - 3 º t(06/07): hb:9.6 ; ht:31.8 ; plaquetas: 225.000; coagulacion: tp &gt;120%., ttpa: 25.5s serologias: rubeola inmune, toxoplasma no immune, lues vih, vhb y vhc negativos.
 - o'sullivan: 81 - urocultivo: negativo - cultivos r / v: negativo - triple screening: no realizado.
-ecografias: - 22+3w dbp 56.7.
-placenta anterior.
+ecografias: - 22+3w dbp 56.7. placenta anterior.
 lan.
 pfe 506 - 28w: agenesia renal unilateral derecha.
 vejiga normal.
 sexo femenino, cefalica, lan, cordon 3 vasos.
 doppler normal, pfe: 1118 (p43) - 3º t: 32+1 sg.
-cefalica, pfe: 1766(p.
-28), placenta anterior alta, lan, cordon de 3 vasos, doppler normal.
+cefalica, pfe: 1766(p. 28), placenta anterior alta, lan, cordon de 3 vasos, doppler normal.
 peso inicial 57, talla 153 nhc ** *** *** (********) ami-v-obs 1/3 lopd exploracio fisica tacto en triaje: cervix borrado, dialtada 3 cm, bolsa amniotica integra, cefalica insinuada refiere dinamica uterina irregular dolorosa cada 3 minutos.
 factores de riesgo: - epilepsia materna - anemia materna - mal control gestacional - agenesia renal unilateral fetal evolucio clinica ingresa getsante de 39+6 semanas de getsaicon que ingresa en trabajo de parto.
-tpal 0010.
-epilpesia + anemia materna y agenesia renal unilateral fetal.
+tpal 0010. epilpesia + anemia materna y agenesia renal unilateral fetal.
 se instaura anestesia peridural.
-a los 7 cm de dialtacion se evidencia registro cardiotocografico sospechoso (dips ii ) con ph de calota fetal: 7,17.
-se administra prepar endovenoso (250 y) con ph posteriores de 7,23 y 7,24 a pesar de tratamiento tocolitico.
+a los 7 cm de dialtacion se evidencia registro cardiotocografico sospechoso (dips ii ) con ph de calota fetal: 7,17. se administra prepar endovenoso (250 y) con ph posteriores de 7,23 y 7,24 a pesar de tratamiento tocolitico.
 el 2.08.18 se indica cesarea por sospecha de perdida de bienestar fetal.
-a las 20.25 h se obtiene recien nacido vivo mujer de 3.380 gr, apgar 9(10, ph 7.22-7.27.
-hemostasia correcta.
+a las 20.25 h se obtiene recien nacido vivo mujer de 3.380 gr, apgar 9(10, ph 7.22-7.27. hemostasia correcta.
 sondaje vesical: orina clara.
 procedimiento sin incidencias.
 intradermica en piel.
@@ -34,10 +23,8 @@ utero tonico con perdidas vaginales escasas.
 herida quirurgica con cicatrizacion correcta.
 esta realizando lactancia materna.
 debido a la buena evolucion clinica, se decide alta hospitalaria.
-orientacio diagnostica trabajo de parto sospecha perdida de bienestar fetal cesarea lactancia materna puerperio clinico normal procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea ph calota fetal cesarea: sutura intradermica profilaxis antibiotica nhc ** *** *** (********) ami-v-obs 2/3 lopd profilaxis antitrombotica analgesicos ferroterapia curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor).
-acido folico 1 al dia durante la lactancia.
-paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor).
-si presenta grietas en los pezones se puede aplicar purelan crema despues de las tomas.
+orientacio diagnostica trabajo de parto sospecha perdida de bienestar fetal cesarea lactancia materna puerperio clinico normal procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea ph calota fetal cesarea: sutura intradermica profilaxis antibiotica nhc ** *** *** (********) ami-v-obs 2/3 lopd profilaxis antitrombotica analgesicos ferroterapia curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor). acido folico 1 al dia durante la lactancia.
+paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor). si presenta grietas en los pezones se puede aplicar purelan crema despues de las tomas.
 control control por su ginecologo de zona en 7-10 dias.
 control cex nrl el 8/8/2018 a las 12.44h se recomienda esperar minimo un año para buscar nuevo embarazo.
 se informa de signos / sintomas de alarma.

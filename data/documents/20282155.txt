@@ -1,33 +1,19 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 25.10.1985 edat: 33 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 18.09.2019 data d'alta 21.09.2019 11:11:47 ates per sol.
-licitant, sol.
-licitant; **************, **************; ******************, ***** informe d'alta d'hospitalitzacio motiu d'ingres rpm a termino antecedents no amq de interes, no amc no toxicos medicacion: clexane 40mgsc, aas 150mg proces actual edad: 33a tpal: 1001 (2015-induccion pe leve rn 38+6w 2555g (p3) fur: 29.12.2018 sa: 37 +4w gsrh: a positivo gestacion controlada en el aro por riesgo de pe + anteced pe leve + cir no diagnosticado en gestacion previa + obesidad . secundigesta de 37+4 semanas de gestacion que acude para hidrorrea de aguas claras desde las 8 h del dia 18/9/19.
-refiere sensacion de dinamica uterina irregular.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 25.10.1985 edat: 33 anys procedencia domicil/res.soc servei obstetricia data d'ingres 18.09.2019 data d'alta 21.09.2019 11:11:47 ates per sol.licitant, sol.licitant; **************, **************; ******************, ***** informe d'alta d'hospitalitzacio motiu d'ingres rpm a termino antecedents no amq de interes, no amc no toxicos medicacion: clexane 40mgsc, aas 150mg proces actual edad: 33a tpal: 1001 (2015-induccion pe leve rn 38+6w 2555g (p3) fur: 29.12.2018 sa: 37 +4w gsrh: a positivo gestacion controlada en el aro por riesgo de pe + anteced pe leve + cir no diagnosticado en gestacion previa + obesidad . secundigesta de 37+4 semanas de gestacion que acude para hidrorrea de aguas claras desde las 8 h del dia 18/9/19. refiere sensacion de dinamica uterina irregular.
 no metrorragia.
 movimientos fetales activos.
 no otra sintomatologia de interes.
-resumen gestacional analiticas: - 1 º t: hb: 13.
-4; ht:38.
-5 . - 2 º t: hb:11.
-7 ; ht:34.
-4 . - 3 º t: hb 11.
-5 hct 34.
-6 plq 214000 coag correcta serologias: rubeola inmune, lues vih, vhb y vhc negativos.
+resumen gestacional analiticas: - 1 º t: hb: 13.4; ht:38.5 . - 2 º t: hb:11.7 ; ht:34.4 . - 3 º t: hb 11.5 hct 34.6 plq 214000 coag correcta serologias: rubeola inmune, lues vih, vhb y vhc negativos.
 - o'sullivan: 117 - urocultivo: negativo - cultivos r / v: negativo - triple screening: bajo riesgo.
 ecografias: - 1º t: congruente, marcadores negativos, araus.
-tn 1.
-6 - 2º t: morfologia normal.
+tn 1.6 - 2º t: morfologia normal.
 placenta posterior alta.
 sexo masculino.
-eco 28+6sa: cefalica, la normal, placenta ni, pfe enp17.
-doppler maternofetal normal.
+eco 28+6sa: cefalica, la normal, placenta ni, pfe enp17. doppler maternofetal normal.
 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/4 lopd eco 33+2 gabinete: cefalica, pfe 1805g (p8), placenta posterior alta, lan.
 doppler maternofetal normal.
 - 3º t 35+3: cefalica, pfe en p11, placenta posterior, lan.
 doppler maternofetal normal.
-peso inicial 74.
-5, talla 163.
-exploracio fisica buen estado general, consciente y orientada.
+peso inicial 74.5, talla 163. exploracio fisica buen estado general, consciente y orientada.
 normocoloreada y normohidratada.
 expl.
 abdominal: abdomen gravido de acuerdo con las semanas de gestacion.
@@ -38,8 +24,7 @@ hidrorrea franca.
 ph vira tacto vaginal: cervix posterior, 2 cm de canal, 1 cm de dilatacion, cefalica insinuada eco abd: feto unico en cefalica, lcf +, placenta anterior izquierda, oligoamnios nst: variable y reactivo a 145 lpm, no dinamica uterina od: rpm a termino plan ingresa a sala de hospitalizacion si a las 20h no inicia trabajo de parto espontaneamente bajar a sala de partos para induccion a las 2am del 19/9/19 iniciar antibioticoterapia.
 evolucio clinica dia del parto parto eutocico el dia 19.09.19 a las 4:05 horas.
 obtencion de rn sexo masculino.
-apgar 9/10.
-peso 2660gr rubeola: inmune gs rh de la madre: a positivo (coombs indirecto negativo) rh rn: ab positivo lactancia materna.
+apgar 9/10. peso 2660gr rubeola: inmune gs rh de la madre: a positivo (coombs indirecto negativo) rh rn: ab positivo lactancia materna.
 se realiza educacion sanitaria para la lactancia.
 perdidas vaginales normales y adecuada involucion uterina.
 constantes dentro de la normalidad.
@@ -49,17 +34,14 @@ mamas: calostro bilateral.
 abd: no doloroso, utero tonico, au: 0/1 perine:integro.
 tv: libre de taponamiento, loquios no malolientes.
 no signos de tvp, no edemas maleolares.
-nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/4 lopd plan: alta 21/09 orientacio diagnostica z33.
-3 estat de gestacio, portadora gestacional o80 assistencia per a part a terme no complicat procediments 03.91 injeccio en el conducte raquidi d'anestesic per a analgesia tractament i recomanacions a l'alta el puerperio transcurre dentro de la normalidad, permaneciendo apiretica, normotensa, no taquicardica y con buen estado general.
+nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/4 lopd plan: alta 21/09 orientacio diagnostica z33.3 estat de gestacio, portadora gestacional o80 assistencia per a part a terme no complicat procediments 03.91 injeccio en el conducte raquidi d'anestesic per a analgesia tractament i recomanacions a l'alta el puerperio transcurre dentro de la normalidad, permaneciendo apiretica, normotensa, no taquicardica y con buen estado general.
 utero bien contraido, con perdidas vaginales escasas.
 mamas: calostro bilateral.
 diagnosticos trabajo de parto puerperio procedimientos venoclisis monitorizacion atencion del parto alumbramiento dirigido anestesia peridural revision del canal blando del parto uterotonicos analgesicos ferroterapia sueroterapia analiticas recomendaciones control por su comadrona de zona en 7 dias.
 volver a urgencias ante cualquier sintoma de alarma.
-hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja o fruta con vitamina c para mejorar la absorcion).
-yodocefol 1 al dia durante la lactancia.
+hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja o fruta con vitamina c para mejorar la absorcion). yodocefol 1 al dia durante la lactancia.
 paracetamol 1gr cada 8 horas si precisa para el dolor.
-(puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor o mamas ingurgitadas).
-abundante ingesta de liquidos y comida variada y equilibrada.
+(puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor o mamas ingurgitadas). abundante ingesta de liquidos y comida variada y equilibrada.
 lavado diario del perine con agua y jabon neutro.
 mantenerlo bien seco con ayuda de una compresa o toalla.
 no nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 3/4 lopd realizar inmersion en bañera, piscina o mar hasta finalizado el puerperio.
@@ -70,11 +52,9 @@ amamantar frecuentemente al bebe.
 si persiste dolor despues de la toma, aplicar frio local.
 control recomendaciones control por su comadrona de zona en 7 dias.
 volver a urgencias ante cualquier sintoma de alarma.
-hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja o fruta con vitamina c para mejorar la absorcion).
-yodocefol 1 al dia durante la lactancia.
+hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja o fruta con vitamina c para mejorar la absorcion). yodocefol 1 al dia durante la lactancia.
 paracetamol 1gr cada 8 horas si precisa para el dolor.
-(puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor o mamas ingurgitadas).
-abundante ingesta de liquidos y comida variada y equilibrada.
+(puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor o mamas ingurgitadas). abundante ingesta de liquidos y comida variada y equilibrada.
 lavado diario del perine con agua y jabon neutro.
 mantenerlo bien seco con ayuda de una compresa o toalla.
 no realizar inmersion en bañera, piscina o mar hasta finalizado el puerperio.

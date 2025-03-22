@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 29.10.1999 edat: 18 anys procedencia domicil/res.
-soc servei traumatics data d'ingres 10.07.2018 data d'alta 18.07.2018 14:00:00 ates per ***********, *****; ****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres des de urgencies per fractura diafisaria de femur dret antecedents nega amc, nega ap proces actual caiguda des de propia alçada jugant a futbol , contusio lateral.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 29.10.1999 edat: 18 anys procedencia domicil/res.soc servei traumatics data d'ingres 10.07.2018 data d'alta 18.07.2018 14:00:00 ates per ***********, *****; ****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres des de urgencies per fractura diafisaria de femur dret antecedents nega amc, nega ap proces actual caiguda des de propia alçada jugant a futbol , contusio lateral.
 nega dolor sord previ o altra simptomatologia sistemica exploracio fisica ef: no hematoma.
 nv distal conservat.
 impotencia funcional, exploracio complementaria radiografia ingres: traç transvers no conminut fx diafisaria femur.

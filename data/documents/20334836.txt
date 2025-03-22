@@ -1,12 +1,10 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 24.05.2016 edat: 3 anys procedencia aten.
-primaria servei cirurgia pediatrica data d'ingres 06.10.2019 data d'alta 07.10.2019 16:16:50 ates per gine ******, ******; ****************, *****; ************, ***** informe d'alta d'hospitalitzacio motiu d'ingres traumatismo craneal antecedents no alergias medicamentosas conocidas calendario vacunal actualizado.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 24.05.2016 edat: 3 anys procedencia aten.primaria servei cirurgia pediatrica data d'ingres 06.10.2019 data d'alta 07.10.2019 16:16:50 ates per gine ******, ******; ****************, *****; ************, ***** informe d'alta d'hospitalitzacio motiu d'ingres traumatismo craneal antecedents no alergias medicamentosas conocidas calendario vacunal actualizado.
 no antecedentes de interes.
 proces actual paciente varon de 3 años de edad, es traido a urgencias por familiares tras caida accidental de sus propios pies con contusion a nivel facial y centro abdominal (familiares no saben precisar se tuvo contusiones a nivel craneal) sin perdida de conocimiento, pero refieren varios vomitos inmediatamente posteriores a la contusion, acompañado de hipotonia, hipoactividad, palidez generalizada, dificultades para la marcha, no movimentos anomalos.
 durante su estancia en urgencia presenta 2 nuevos episodios de vomitos.
 exploracio fisica tep inestable por apariencia: regular estado general, consciente.
 hipoactivo pero reactivo.
-gcs 15.
-pupilas isocoricas y normorreactivas.
+gcs 15. pupilas isocoricas y normorreactivas.
 pares craneales normales.
 movilidad y tono de extremidades dentro de la normalidad.
 coordinacion correcta.
@@ -24,9 +22,7 @@ sistema ventricular de morfologia y tamaño acorde a la profundidad de los surco
 cisternas de la base y perimesencefalicas libres.
 amigdalas cerebelosas de disposicion normal.
 marco oseo sin alteraciones significativas conclusion:ausencia de alteraciones agudas intracraneales.
--analitica sanguinea: hb 11.
-4, hto 33.
-6%, leucocitos 13.47 (n 72%), plaquetas 387, ast/alt 30/10, pcr 0.64 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cpe 1/2 lopd evolucio clinica se mantiene en observacion en urgencias.
+-analitica sanguinea: hb 11.4, hto 33.6%, leucocitos 13.47 (n 72%), plaquetas 387, ast/alt 30/10, pcr 0.64 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cpe 1/2 lopd evolucio clinica se mantiene en observacion en urgencias.
 durante su estancia el paciente se mantiene hemodinamicamente estable, mantiene hipoactividad.
 se inicia ingesta oral con mala tolerancia por sensacion nauseosa y un vomito, se realiza tac craneal ausencia de alteraciones agudas intracraneales.
 . se cursa ingreso hospitalario para control evolutivo.
@@ -38,9 +34,7 @@ cede con antitermia convencional.
 exploracion fisica anodina.
 analitica con leucocitosis, sin otros hallazgos patologicos.
 dada la buena evolucion, se decide alta a domicilio con normas de reconsulta.
-orientacio diagnostica s06.2x0a traumatisme cranial difus sense perdua de consciencia, a b34.
-9 infeccio virica no especificada tractament i recomanacions a l'alta - paracetamol 100mg/ml: 2.
-2 ml cada 8 horas si dolor o fiebre.
+orientacio diagnostica s06.2x0a traumatisme cranial difus sense perdua de consciencia, a b34.9 infeccio virica no especificada tractament i recomanacions a l'alta - paracetamol 100mg/ml: 2.2 ml cada 8 horas si dolor o fiebre.
 en caso de fiebre &gt;38º, vomitos de repeticion, dolor abdominal intenso o empeoramiento del estado general acudir a urgencias.
 control controles habituales por pediatria.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cpe 2/2 lopd

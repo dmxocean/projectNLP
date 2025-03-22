@@ -1,16 +1,10 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 25.02.1969 edat: 48 anys procedencia domicil/res.
-soc servei oncologia medica data d'ingres 19.02.2018 data d'alta 01.03.2018 13:35:20 ates per dra. *******, dra. ********, dr. *****.
-dr. ***** informe d'alta d'hospitalitzacio motiu d'ingres ingreso programado antecedents paciente hombre de 48a, natural de georgia.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 25.02.1969 edat: 48 anys procedencia domicil/res.soc servei oncologia medica data d'ingres 19.02.2018 data d'alta 01.03.2018 13:35:20 ates per dra. *******, dra. ********, dr. *****. dr. ***** informe d'alta d'hospitalitzacio motiu d'ingres ingreso programado antecedents paciente hombre de 48a, natural de georgia.
 vive con su primo.
 barrera idiomatica limitante, no sabe catalan, castellano, ingles; hablo con el a traves de su primo.
 a patologicos -no amc.
-fumador de 1-2 paq/d.
-no habito enolico actual, previamente leve (vino y vodka ocasional?).
--vhc+, no ha realizado tto.
-- posible tbc hace 8a.
-- niega otras comorbilidades.
-h oncologica ingreso en ucias por cuadro de suboclusion alta, es dx de neoplasia gastrica antral (ap adk tubular, her2 ish neg, mss, ebv neg) estadio ct3-4n++m1 (adp retrop y dudosa carcinomatosis peritoneal (revisado en comite).
-proces actual ingreso programado exploracio fisica buen estado general.
+fumador de 1-2 paq/d. no habito enolico actual, previamente leve (vino y vodka ocasional?). -vhc+, no ha realizado tto.
+- posible tbc hace 8a. - niega otras comorbilidades.
+h oncologica ingreso en ucias por cuadro de suboclusion alta, es dx de neoplasia gastrica antral (ap adk tubular, her2 ish neg, mss, ebv neg) estadio ct3-4n++m1 (adp retrop y dudosa carcinomatosis peritoneal (revisado en comite). proces actual ingreso programado exploracio fisica buen estado general.
 consciente y orientado.
 aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
 aparato cardiocirculatorio: tonos ritmico, sin soplos, pulsos presentes y simetricos.
@@ -38,10 +32,8 @@ en antro gastrico se observa mucosa de aspecto infiltrativo.
 a este nivel protesis metalica normoposicionada y permeable que permite el paso del endoscopio hasta duodeno.
 evolucio clinica paciente de 48 años, fumador , vhc +, actual recien dx n gastrica antral estenosante estadio iv por adp retroperitoneales y probable carciomatosis peritoneal . ecog 1 limitado por la disfagia.
 ap: adk tubular, her2 neg, ebv neg, mss.
-ingresa desde domicilio para colocacion de protesis esofagica (programada 20/2/18).
-se lleva a cabo inicialmente sin incidencias aunque presentando vomitos biliosos postrprandiales por lo que ha continuado ingesta de forma intermitente.
-se ha descartado complicacion de la misma por tc (23/2/18).
-el dia 28/02 se realiza comprobacion endoscopica de la protesis, en las cuales no se evidencia complicacion.
+ingresa desde domicilio para colocacion de protesis esofagica (programada 20/2/18). se lleva a cabo inicialmente sin incidencias aunque presentando vomitos biliosos postrprandiales por lo que ha continuado ingesta de forma intermitente.
+se ha descartado complicacion de la misma por tc (23/2/18). el dia 28/02 se realiza comprobacion endoscopica de la protesis, en las cuales no se evidencia complicacion.
 el paciente refiere que los vomitos se asocian a sensacion de pirosis y reflujo, por lo que se intensifica tratamiento antiacido, con mejoria de la clinica.
 es valorado por servicio de hepatologia quienes de momento dado pronostico de paciente y de que la infeccion por vhc es una entidad no relacianada con cancer gastrico, no requiere de momento tratamiento y se decide priorzar tratamiento sistemico con qt.
 el paciente presenta evolucion clinica favorable con correcta tolerancia a via oral, por lo que se decide alta a domicilio.

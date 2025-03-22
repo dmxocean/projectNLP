@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 06.07.1940 edat: 78 anys procedencia domicil/res.
-soc servei pneumologia data d'ingres 10.06.2019 data d'alta 14.06.2019 09:05:44 ates per ************, ***; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 78 años que ingresa de forma programada para estudio de derrame pleural . antecedents niega alergias medicamentosas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 06.07.1940 edat: 78 anys procedencia domicil/res.soc servei pneumologia data d'ingres 10.06.2019 data d'alta 14.06.2019 09:05:44 ates per ************, ***; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 78 años que ingresa de forma programada para estudio de derrame pleural . antecedents niega alergias medicamentosas.
 ex-fumador desde hace 4 años de 4-5 puros al dia desde los 23 años.
 antecedentes patologicos: - hipertension arterial por la que actualmente no sigue tratamiento farmacologico.
 - dislipemia por la que actualmente sigue tratamiento farmacologico.
@@ -14,11 +13,7 @@ no infecciones respiratorias frecuentes.
 no disnea de esfuerzo habitual.
 no exposicion a asbesto.
 no antecedentes de exposicion a humos, ceramicas.
-pruebas complementarias: -pfr (julio 2017): fvc 2.59l (57.
-9%), fev1 1.95l (62.
-5%), fev1% fvc 75.27%, rv 2.50l, tlc 5.14l, tlco sb 62.
-5% tlco/va 82.
-6% -tc torax 1.2019 aparicion de derrame pleural izquierdo y condensacion basal izquierda, con broncograma.
+pruebas complementarias: -pfr (julio 2017): fvc 2.59l (57.9%), fev1 1.95l (62.5%), fev1% fvc 75.27%, rv 2.50l, tlc 5.14l, tlco sb 62.5% tlco/va 82.6% -tc torax 1.2019 aparicion de derrame pleural izquierdo y condensacion basal izquierda, con broncograma.
 como primera opcion diagnostica proceso inflamatorio/infeccioso, a correlacionar con la clinica y valorar nuevo control en 4-6 semanas.
 situacion sociofuncional: ha trabajado de administrativo.
 independiente para actividades basicas de la vida diaria.
@@ -31,10 +26,7 @@ nrl: vigil y orientado en las tres esferas, lenguaje conservado, moviliza las cu
 exploracio complementaria ecografia toracica : se identifica liquido pleural izquierdo con septos en su interior, condicionando colapso del lii.
 se realiaz marcaje cutaneo en zona con las siguientes distancias de seguridad: piel a inicio de liquido: 26mm; grosor maximo de liquido: 39mm; piel a epicentro de liquido: 36mm.
 toracocentesis : se realiza toracocentesis tras marcaje por ecografia, con salida de 60cc de liquido color ambar, sin incidencias.
-analisis liquido pleural: glu 115, ldh 255, prot 2.
-6, pmn 1.
-2%, bnp 1251 (&lt;125), col 30, tg 14.
-ada pendiente de resultado.
+analisis liquido pleural: glu 115, ldh 255, prot 2.6, pmn 1.2%, bnp 1251 (&lt;125), col 30, tg 14. ada pendiente de resultado.
 citologia lp: pendiente de resultados.
 microbiologia de lp: pendiente de resultados.
 rxtx control: sin signos de neumotorax.

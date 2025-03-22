@@ -1,22 +1,8 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 25.06.1979 edat: 40 anys procedencia cex mateix hosp servei obstetricia data d'ingres 02.10.2019 data d'alta 05.10.2019 10:47:32 ates per *****************, **** informe d'alta d'hospitalitzacio motiu d'ingres induccion parto por gestacion cronicamente prolongada antecedents - no alergias medicamentosas - fumadora 8-10 cig/dia - no transfusiones sanguineas - no intervenciones quirurgicas - no antecedentes medicos de interes proces actual edad 40 años tpal 2012 (ile 21w 2008; 2 eutoc 2009 y 2012) fur 21.12.2018.
-sg 40+5 semanas.
-gsrh a positivo . coombs indirecto positivo (anti-lea titulo 1/1.
-sin repercusion fetal).
-controlada en udp por antecedente de ile por t21.
-bc normal.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 25.06.1979 edat: 40 anys procedencia cex mateix hosp servei obstetricia data d'ingres 02.10.2019 data d'alta 05.10.2019 10:47:32 ates per *****************, **** informe d'alta d'hospitalitzacio motiu d'ingres induccion parto por gestacion cronicamente prolongada antecedents - no alergias medicamentosas - fumadora 8-10 cig/dia - no transfusiones sanguineas - no intervenciones quirurgicas - no antecedentes medicos de interes proces actual edad 40 años tpal 2012 (ile 21w 2008; 2 eutoc 2009 y 2012) fur 21.12.2018. sg 40+5 semanas.
+gsrh a positivo . coombs indirecto positivo (anti-lea titulo 1/1. sin repercusion fetal). controlada en udp por antecedente de ile por t21. bc normal.
 alta y posterior control en cap sin incidencias.
-tercigesta de 40 +5 semanas ingresa para induccion al parto por gcp + dga1 . resumen gestacional analiticas: -a/s 1er t: hb 14.
-7 hto 43.
-5% as 2t: hb 12.
-8, hto 37.
-6% as 3t: hb 13.
-9, hto 40.
-4%, plaquetas 227000, tp 94%, ttpa 29.2s.
-urinocultivo negativo cribado 1er t cromosomopatias: t21 1/4547 t13/18 1/100000 sgb negativo o sullivan 182 mg/dl.
-ttog patologica.
-serologias: lues neg hiv neg vhb neg vhc neg rub inm toxo neg ecografias: ecografia 1er t: crl 58.
-4 tn 1.
-6 marcadores secundarios negativos.
+tercigesta de 40 +5 semanas ingresa para induccion al parto por gcp + dga1 . resumen gestacional analiticas: -a/s 1er t: hb 14.7 hto 43.5% as 2t: hb 12.8, hto 37.6% as 3t: hb 13.9, hto 40.4%, plaquetas 227000, tp 94%, ttpa 29.2s. urinocultivo negativo cribado 1er t cromosomopatias: t21 1/4547 t13/18 1/100000 sgb negativo o sullivan 182 mg/dl. ttog patologica.
+serologias: lues neg hiv neg vhb neg vhc neg rub inm toxo neg ecografias: ecografia 1er t: crl 58.4 tn 1.6 marcadores secundarios negativos.
 doppler aa uterinas normal.
 eco 2t: morfologia normal, sexo femenino, placenta posterior.
 eco 3t: 34+3 semanas.
@@ -27,14 +13,8 @@ induccion al parto con dinoprostona vaginal.
 evolucio clinica ingresa tercigesta de 40+5 semanas para induciion al parto por gestacion cronologicamente prolongada.
 se instaura anestesia peridural.
 se le ha administrado una dosis antibiotica . progresion adecuada de la dilatacion hasta llegar a la dilatacion completa.
-rotura artificial de membranas a las 15:30h del dia 02/10/2019.
-el dia 03/10/2019 a las 12:30h se asiste parto eutocico, obteniendose recien nacido vivo, sexo femenino.
-apgar 9/10.
-peso: 2720g.
-pha 7.26, phv 7.17 (be -6.
-5/-7.
-9).
-se administra profilaxis con eritromicina y vitamina k intramuscular.
+rotura artificial de membranas a las 15:30h del dia 02/10/2019. el dia 03/10/2019 a las 12:30h se asiste parto eutocico, obteniendose recien nacido vivo, sexo femenino.
+apgar 9/10. peso: 2720g. pha 7.26, phv 7.17 (be -6.5/-7.9). se administra profilaxis con eritromicina y vitamina k intramuscular.
 se retira vuelta de cordon laxa sin incidencias.
 alumbramiento espontaneo, placenta aparentemente integra.
 se revisa canal blando del parto : perine integro.
@@ -51,11 +31,9 @@ mamas: calostro bilateral.
 profilaxis antitrombotica con clexane 40 mg cada 24h durante 10 dias.
 diagnosticos diabetes gestacional tipo 1 induccion por gestacion cronologicamente prolongada trabajo de parto puerperio procedimientos venoclisis monitorizacion anestesia peridural ruptura artificial de membranas estimulacion oxitocinica antibioterapia atencion del parto alumbramiento espontaneo revision del canal blando del parto uterotonicos analgesicos nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/3 lopd ferroterapia sueroterapia analiticas profilaxis antitrombotica recomendaciones control por su comadrona de zona en 7 dias.
 volver a urgencias ante cualquier sintoma de alarma.
-hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja o fruta con vitamina c para mejorar la absorcion).
-yodocefol 1 al dia durante la lactancia.
+hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja o fruta con vitamina c para mejorar la absorcion). yodocefol 1 al dia durante la lactancia.
 paracetamol 1gr cada 8 horas si precisa para el dolor.
-(puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor o mamas ingurgitadas).
-clexane 40 mg.
+(puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor o mamas ingurgitadas). clexane 40 mg.
 cada 24 horas drante 10 dias.
 abundante ingesta de liquidos y comida variada y equilibrada.
 lavado diario del perine con agua y jabon neutro.

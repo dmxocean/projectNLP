@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 12.12.2015 edat: 3 anys procedencia domicil/res.
-soc servei medicina pediatrica data d'ingres 09.02.2019 data d'alta 15.02.2019 11:20:39 ates per ****************, ****; ****************, *** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 3 años ingresa en la unidad de hospitalizacion pediatrica el dia 09.02.19 por gastroenteritis aguda.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 12.12.2015 edat: 3 anys procedencia domicil/res.soc servei medicina pediatrica data d'ingres 09.02.2019 data d'alta 15.02.2019 11:20:39 ates per ****************, ****; ****************, *** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 3 años ingresa en la unidad de hospitalizacion pediatrica el dia 09.02.19 por gastroenteritis aguda.
 antecedents sin alergias conocidas.
 calendario vacunal al dia.
 antecedentes patologicos: bronquitis de repeticion sin tratamiento de base.
@@ -11,8 +10,7 @@ refieren tos y mucosidad asociada.
 durante el dia de hoy ha realizado mas de 30 vomitos de contenido alimenticio.
 una media de 3-4 deposiciones diarreicas diarias.
 antecedentes epidemiologicos: padre con cuadro febril sin clinica gestrointestinal.
-exploracio fisica fc 120 bpm tªaxi 37.
-2 ºc fr rpm tªrec ºc ta s mmhg sat o2 98 % ta d mmhg pes 13.000 kg triangulo de evaluacion padiatrico:shock compensado normocoloreada.
+exploracio fisica fc 120 bpm tªaxi 37.2 ºc fr rpm tªrec ºc ta s mmhg sat o2 98 % ta d mmhg pes 13.000 kg triangulo de evaluacion padiatrico:shock compensado normocoloreada.
 deshidratacion leve-moderada.
 hipoactiva pero reactiva.
 no focalidad neurologica aparente.
@@ -26,54 +24,19 @@ aparato cardiovascular: tonos cardiacos ritmicos.
 soplos: no.
 bien perfundida.
 abdomen: blando y depresible, no se palpan masas ni megalias, no doloroso a la palpacion, peristaltismo conservado.
-exploracio complementaria -glucemia (09.02.19): 53 mg/dl.
-- cetonemia (09.02.19): 6.
-2 mmol/l.
--gasometria venosa (09.02.19): ph 7.31, pco2 30 mmhg, na 133 mmol/l, k 3.
-9 mmol/l, cl 99 mg/dl, ca 4.88 mg/dl, glu 46 mg/dl, lac 1.
-1 mmol/l.
-hb 12.
-5 g/dl.
-be (b) -9.
-9 mmol/l.
-ag 23 mmol/l.
-hco3std 16.
-8 mmol/l.
--analitica sanguinea (09.02): hematies 4.11 x10e12/l; hemoglobina .11.
-3 g/dl; leucocits 8.85 x10e9/l; neutrofils % .69.
-3 %; limfocits % .22.
-4 %; monocits % . 7.
-7 %; eosinofils % . 0.
-1 %; basofils % . 0.
-5 %; plaquetes 292 x10e9/l; glucosa - 137 mg/dl; urea . 24 mg/dl; bilirubina 0.28 mg/dl; creatinini . 0.24 mg/dl; io sodi 127.
-9 mmol/l; io potassi . 3.79 mmol/l; clorur 97 mmol/l; calci . 9.
-2 mg/dl; aspartat-aminotransferasa 48 ui/l; nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 1/3 lopd alanina-aminotransferasa 21 ui/l; fosfatasa alcalina . 130 ui/l; gamma-glutamiltransferasa . 8 ui/l; proteïna 7.
-2 g/dl; albumina . 4.
-2 g/dl; proteïna c reactiva 5.09 mg/dl.
--analitica sanguinea (10.02.19): leucocits 6.36 x10e9/l; monocits % 7.
-7 %; eosinofils % 0.
-0 %; basofils % 0.
-3 %; glucosa - 123 mg/dl; urea .8 mg/dl; creatinini .0.23 mg/dl;io sodi 132.
-8 mmol/l; io potassi 3.37 mmol/l; clorur . 104 mmol/l; calci 8.
-7 mg/dl; proteïna 6.
-2 g/dl; albumina 3.
-6 g/dl; proteïna c reactiva 3.25 mg/dl.
-- serologies viricas (veb, cmv, toxoplasma): negativas.
+exploracio complementaria -glucemia (09.02.19): 53 mg/dl. - cetonemia (09.02.19): 6.2 mmol/l. -gasometria venosa (09.02.19): ph 7.31, pco2 30 mmhg, na 133 mmol/l, k 3.9 mmol/l, cl 99 mg/dl, ca 4.88 mg/dl, glu 46 mg/dl, lac 1.1 mmol/l. hb 12.5 g/dl. be (b) -9.9 mmol/l. ag 23 mmol/l. hco3std 16.8 mmol/l. -analitica sanguinea (09.02): hematies 4.11 x10e12/l; hemoglobina .11.3 g/dl; leucocits 8.85 x10e9/l; neutrofils % .69.3 %; limfocits % .22.4 %; monocits % . 7.7 %; eosinofils % . 0.1 %; basofils % . 0.5 %; plaquetes 292 x10e9/l; glucosa - 137 mg/dl; urea . 24 mg/dl; bilirubina 0.28 mg/dl; creatinini . 0.24 mg/dl; io sodi 127.9 mmol/l; io potassi . 3.79 mmol/l; clorur 97 mmol/l; calci . 9.2 mg/dl; aspartat-aminotransferasa 48 ui/l; nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 1/3 lopd alanina-aminotransferasa 21 ui/l; fosfatasa alcalina . 130 ui/l; gamma-glutamiltransferasa . 8 ui/l; proteïna 7.2 g/dl; albumina . 4.2 g/dl; proteïna c reactiva 5.09 mg/dl. -analitica sanguinea (10.02.19): leucocits 6.36 x10e9/l; monocits % 7.7 %; eosinofils % 0.0 %; basofils % 0.3 %; glucosa - 123 mg/dl; urea .8 mg/dl; creatinini .0.23 mg/dl;io sodi 132.8 mmol/l; io potassi 3.37 mmol/l; clorur . 104 mmol/l; calci 8.7 mg/dl; proteïna 6.2 g/dl; albumina 3.6 g/dl; proteïna c reactiva 3.25 mg/dl. - serologies viricas (veb, cmv, toxoplasma): negativas.
 -hemocultivo (09.02.19): negativo -aspirado nasofaringeo para virus (09.02.19): negativo para gripe.
 positivo para rinhovirus.
 -antigenos para virus en heces (11.02.19): positivo para rotavirus - rx de torax (12.02.19): i nfiltrados peribronquiales.
 ç - urocultivo (12/2): negativo.
-evolucio clinica a su llegada a urgencias llama la atencion deshidratacion moderada, se canaliza via periferica , se extrae muestra para gasometria que muestra acidosis metabolica parcialmente compensada e hipoglucemia . se realizan hasta dos bolus de glucosado al 10% (2cc/kg) para conseguir normoglucemia y se administra una carga de plasmalyte (20cc/kg).
-se acuerda ingreso para rehidratacion endovenosa con sueroterapia de mantenimiento a necesidades basales.
+evolucio clinica a su llegada a urgencias llama la atencion deshidratacion moderada, se canaliza via periferica , se extrae muestra para gasometria que muestra acidosis metabolica parcialmente compensada e hipoglucemia . se realizan hasta dos bolus de glucosado al 10% (2cc/kg) para conseguir normoglucemia y se administra una carga de plasmalyte (20cc/kg). se acuerda ingreso para rehidratacion endovenosa con sueroterapia de mantenimiento a necesidades basales.
 durante el ingreso se realiza analitica general que muestra disfuncion prerenal en contexto de deshidratacion con hiponatremia minima de 127mmol/l con analitica de control a las 12 horas de ingreso donde se evidencia normalizacion de la funcion renal y la natremia con glucemias correctas y correccion de la acidosis metabolica.
 presenta elevacion de reactantes de fase aguda compatible con cuadro infeccioso gastrointestinal.
 se realiza ademas aspirado nasofaringeo para descartar gripe por mucosidad de vias altas y fiebre elevada, el cual es positivo para rinhovirus . desde el ingreso presenta solo tres deposiciones liquidas, pero mantiene varios episodios emeticos con limitacion de la tolerancia oral.
 se reintroduce tolerancia oral con lo que se resitringe el suero al 80% de las necesidades basales.
 posteriormente el 12.02 presenta extravasacion de la via, por lo que dado la correcta tolerancia oral en ese momento se suspende sueroterapia . persiste febril con buen estado general y pcr en descenso compatible con cuadro virico, aunque con sintomas respiratorios con abundante tos y presencia de crepitantes basales izquierdos por lo que se realiza rx de torax que muestra aumento de densidad izquierdo por lo que se inicia amoxicilina a 80mg/kg/d que se mantiene 4 dias.
 dada la correcta evolucion clinica se decide alta a domicilio el dia 15/2/19 con una exploracion normal.
-orientacio diagnostica r11.10 vomits a08.
-0 enteritis causada per rotavirus cva procediments canalizacion de via periferica equilibrio acido base analitica sanguinea sueroterapia endovenosa rx de torax cultius nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 2/3 lopd tractament i recomanacions a l'alta dieta habitual sin forzar.
+orientacio diagnostica r11.10 vomits a08.0 enteritis causada per rotavirus cva procediments canalizacion de via periferica equilibrio acido base analitica sanguinea sueroterapia endovenosa rx de torax cultius nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 2/3 lopd tractament i recomanacions a l'alta dieta habitual sin forzar.
 asegurar correcta reposicion de perdidas con suero de rehidratacion frio de nevera si fiebre &gt; 38ºc: paracetamol (100mg/ml) 2ml cada 8 horas o ibuprofeno (20mg/ml) 3.5ml cada 8 horas.
 si precisa puede alternar cada 4 horas.
-control control por pediatra el lunes 18/2.
-destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 3/3 lopd
+control control por pediatra el lunes 18/2. destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 3/3 lopd

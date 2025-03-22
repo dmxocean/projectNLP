@@ -1,33 +1,24 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 11.07.1992 edat: 27 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 10.09.2019 data d'alta 12.09.2019 12:06:20 ates per ******************, *****; ********************, ****** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergias medicamentosas conocidas no intervenciones quirurgicas ni otros antecedentes patologicos exfumadora durante la gestacion no medicacion habitual proces actual edad: 27 años tpal 0000 dur 29/11/2019 hoy 40 +5w grupo sanguineo.
-a.
-rh negativo.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 11.07.1992 edat: 27 anys procedencia domicil/res.soc servei obstetricia data d'ingres 10.09.2019 data d'alta 12.09.2019 12:06:20 ates per ******************, *****; ********************, ****** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergias medicamentosas conocidas no intervenciones quirurgicas ni otros antecedentes patologicos exfumadora durante la gestacion no medicacion habitual proces actual edad: 27 años tpal 0000 dur 29/11/2019 hoy 40 +5w grupo sanguineo.
+a. rh negativo.
 administrada anti-d fecha: 21/6/2019 gestacion unica controlada en el cap sin incidencias acude por sensacion de dinamica c/3-4 minutos de 3 horas de evolucion.
 no metrorragia, no hidrorrea.
-mfa+.
-no fiebre y no otra sintomatologia de interes desea parto natural sin anestesia peridural resumen gestacional nacionalidad: uruguay as3t: hb 12.
-4 g/dl, hto 33.
-9% plaquetas 225.000.
-coagulacion normal serologias: rubeola inmune, sifilis, vih, vhb, vhc negativos o'sullivan 108 mg/dl urocultivo 16w negativo cultivo sgb: negativo triple screening bajo riesgo eco3t: 34+1w podalica, 2373g p58, placenta posterior.
+mfa+. no fiebre y no otra sintomatologia de interes desea parto natural sin anestesia peridural resumen gestacional nacionalidad: uruguay as3t: hb 12.4 g/dl, hto 33.9% plaquetas 225.000. coagulacion normal serologias: rubeola inmune, sifilis, vih, vhb, vhc negativos o'sullivan 108 mg/dl urocultivo 16w negativo cultivo sgb: negativo triple screening bajo riesgo eco3t: 34+1w podalica, 2373g p58, placenta posterior.
 lan, cordon de 3 vasos. . exploracio fisica eco hoy 40+5w: feto unico en cefalica, fcf+, placenta posterior.
 lan rctg: variable y reactivo a 130 lp'm, dinamica uterina regular cada 3-5 minutos tv: dilatacion completa, cefalica ii plano de hodge.
 bolsa amniotica integra.
 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/3 lopd evolucio clinica parto eutocico el dia 10/9/2019 a las 10.01h ingresa gestante de 40+5w tpav 0000 en trabajo de parto.
 sgb: negativo no anestesia epidural a las 10.01 se asiste parto eutocico.
 amniorrexis espontanea de liquido amniotico ligeramente teñido en el momento del expulsivo.
-nace recien nacido vivo, sexo mujer, apgar 9/10, ph de vena umbilical 7.27.
-peso: 3170g alumbramiento espontaneo a lo 10 minutos del nacimiento.
+nace recien nacido vivo, sexo mujer, apgar 9/10, ph de vena umbilical 7.27. peso: 3170g alumbramiento espontaneo a lo 10 minutos del nacimiento.
 placenta y membranas aparentemente integras.
 revision del canal del parto: perine integro se administra pomada eritromicina oftalmica gs rh de la madre: a negativo rh rn: negativo no precisa gammaglobulina anti d el puerperio transcurre dentro de la normalidad, permaneciendo apiretica, normotensa, no taquicardica y con buen estado general.
 utero bien contraido, con perdidas vaginales escasas.
 mamas: calostro bilateral.
 diagnosticos madre rh negativo trabajo de parto puerperio procedimientos venoclisis monitorizacion atencion del parto natural alumbramiento dirigido revision del canal blando del parto uterotonicos analgesicos ferroterapia sueroterapia analiticas recomendaciones control por su comadrona de zona en 7 dias.
 volver a urgencias ante cualquier sintoma de alarma.
-hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja o fruta con vitamina c para mejorar la absorcion).
-yodocefol 1 al dia durante la lactancia.
+hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja o fruta con vitamina c para mejorar la absorcion). yodocefol 1 al dia durante la lactancia.
 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/3 lopd paracetamol 1gr cada 8 horas si precisa para el dolor.
-(puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor o mamas ingurgitadas).
-abundante ingesta de liquidos y comida variada y equilibrada.
+(puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor o mamas ingurgitadas). abundante ingesta de liquidos y comida variada y equilibrada.
 lavado diario del perine con agua y jabon neutro.
 mantenerlo bien seco con ayuda de una compresa o toalla.
 no realizar inmersion en bañera, piscina o mar hasta finalizado el puerperio.
@@ -36,5 +27,4 @@ evitar coger peso y ejercicios de alto impacto.
 si presenta congestion de las mamas dar un masaje antes de las tomas.
 amamantar frecuentemente al bebe.
 si persiste dolor despues de la toma, aplicar frio local.
-orientacio diagnostica z33.
-3 estat de gestacio, portadora gestacional o80 assistencia per a part a terme no complicat destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 3/3 lopd
+orientacio diagnostica z33.3 estat de gestacio, portadora gestacional o80 assistencia per a part a terme no complicat destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 3/3 lopd

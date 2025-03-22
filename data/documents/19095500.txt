@@ -1,28 +1,17 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 12.08.2009 edat: 9 anys procedencia cex mateix hosp servei oncohematologia ped.
 data d'ingres 20.08.2018 data d'alta 24.08.2018 16:00:00 ates per *************, ******; **************, ***********; **************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 9 años afecto de neuroblastoma que ingresa el dia 20.08.2018 para recibir cuarta dosis de inmunoterapia con dinutuximab.
 antecedents antecedentes personales intolerancia a la lactosa - rast a plv a principios de 2017 negativo.
-descartada alergia a amoxicilina/clavulanico (prueba de provocacion negativa).
-calendario vacunal al dia herniorrafia inguinal bilateral.
+descartada alergia a amoxicilina/clavulanico (prueba de provocacion negativa). calendario vacunal al dia herniorrafia inguinal bilateral.
 hstoria oncologica diagnostico de neuroblastoma de muy alto riesgo.
 anatomia patologica de suprarrenal derecha (21.08.17): neuroblastoma en diferenciacion segun clasificacion de shimada-joshi con reseccion tumoral completa.
-se remite muestra al lab del h.
-la fe de valencia para estudios moleculares: a la resolucion definida previamente para el array, se informa el cariotipo molecular patologico detectandose ganancia completa del cromosoma 12 (cuatro copias).
-por otra parte, se detecta perdida de heterocigosidad (loh) en los cromosomas 1, 2, 7, 12 y 15.
-por ultimo, se detectan alteraciones cromosomicas segmentarias en 1q, 2p, 11p, 11q, 17q y otras.
+se remite muestra al lab del h. la fe de valencia para estudios moleculares: a la resolucion definida previamente para el array, se informa el cariotipo molecular patologico detectandose ganancia completa del cromosoma 12 (cuatro copias). por otra parte, se detecta perdida de heterocigosidad (loh) en los cromosomas 1, 2, 7, 12 y 15. por ultimo, se detectan alteraciones cromosomicas segmentarias en 1q, 2p, 11p, 11q, 17q y otras.
 no presenta amplificacion de los genes alk, ddx, mycn o nag.
 estudio de extension de patologia neoplasica al diagnostico: - gammagrafia: destaca infiltracion/ocupacion de medula osea e infartos diseminados de ambas cabezas femorales, asi como imagen gammagrafica hipercaptante a nivel de tibias, femures, humeros proximales y pelvis no compatibles con proceso infeccioso.
 - amo: medula osea con infiltracion de celulas patologicas de probable origen no hematologico que no expresan cd45 ni marcadores de linea mieloide ni linfoide y que expresan intensamente cd56 sugiriendo infiltracion por una neoplasia no hematologica de origen neural.
 - elevacion de ldh y enolasa plasmaticos.
-catecolaminas en orina: 5-hidroxiindolilacetat 8.75 mg/24h, noradrenalina 116.
-9 mcg/24h, adrenalini 2.
-3 mcg/24h, dopamina 889 mcg/24h, 3-metoxinoradrenalini 389 mcg/24h, 3-metoxiadrenalini 81.
-9 mcg/24h, 3-metoxitiramina 186.
-7 mcg/24h, hidroxi-3-metoximandelat 234.
-8 mg/g creat, hidroxi-3-metoxifenil acetat 202.
-3 mg/g creat.
+catecolaminas en orina: 5-hidroxiindolilacetat 8.75 mg/24h, noradrenalina 116.9 mcg/24h, adrenalini 2.3 mcg/24h, dopamina 889 mcg/24h, 3-metoxinoradrenalini 389 mcg/24h, 3-metoxiadrenalini 81.9 mcg/24h, 3-metoxitiramina 186.7 mcg/24h, hidroxi-3-metoximandelat 234.8 mg/g creat, hidroxi-3-metoxifenil acetat 202.3 mg/g creat.
 - mibg 04.08.17: multiples metastasis oseas captantes.
-- rm whole body 07.08.17: lesion focal en glandula suprarrenal derecha, en el contexto posible tumor de estirpe simpatica (neuroblastoma).
-m1 oseas multiples.
+- rm whole body 07.08.17: lesion focal en glandula suprarrenal derecha, en el contexto posible tumor de estirpe simpatica (neuroblastoma). m1 oseas multiples.
 lesion de partes blandas metastasica en iliaco derecho.
 pequeño nodulo pulmonar de 5 mm en lii, inespecifico.
 - pet-tc 17.08.17: aumento de expresion de receptores de somatostatina tipo 2 y 5 difusamente en el componente medular del esqueleto oseo, asi como en glandula suprarenal derecha.
@@ -30,35 +19,22 @@ tales hallazgos sugieren un patron de infiltracion medular.
 la hiperfijacion en la glandula suprarrenal derecha podria estar en relacion a la lesion objetivada en rm del 07/08/17, a valorar dirigidamente.
 lesion nodular puntiforme en lii, que no muestra expresion de receptores 2 y 5 de somatostina.
 - radiografia de torax (19.08.17): no se aprecian condensaciones ni otras alteraciones pleuroparenquimatosas.
-protocolo hr-nbl-1/esiop: nhc ** *** *** (********) ami-v-onh 1/4 lopd - cojec a (23.08.17): vincristina 1.5mg/m2 dia +1, carboplatino 750mg/m2 dia +1, vp-16 175mg/m2 dia +1 y +2.
-- cojec b (02.09.17): vincristina 1.5mg/m2, cisplatino 80mg/m2.
-- cojec c (12.09.17): vincristina 1.5mg/m2 dia +1, vp-16 175mg/m2 dia +1 y +2, ciclofosfamida 1050 mg/m2 dia +1 y +2.
-- cojec b (22.09.17): vincristina 1.5mg/m2, cisplatino 80mg/m2.
-- cojec a (02.10.17): vincristina 1.5mg/m2 dia +1, carboplatino 750mg/m2 dia +1, vp-16 175mg/m2 dia +1 y +2.
-evaluacion de respuesta: ecografia abdominal el 3.10.17 sin hallazgos valorables y aspirado de medula osea el 04.10.17: normal - cojec b (11.10.17): vincristina 1.5mg/m2, cisplatino 80mg/m2.
-- cojec c (22.10.17): vincristina, ciclofosfamida, etoposido cirugia: el dia 21.08.2017 se realiza adrenalectomia derecha y colocacion de port-a-cath en yugular interna derecha sin incidencias.
+protocolo hr-nbl-1/esiop: nhc ** *** *** (********) ami-v-onh 1/4 lopd - cojec a (23.08.17): vincristina 1.5mg/m2 dia +1, carboplatino 750mg/m2 dia +1, vp-16 175mg/m2 dia +1 y +2. - cojec b (02.09.17): vincristina 1.5mg/m2, cisplatino 80mg/m2. - cojec c (12.09.17): vincristina 1.5mg/m2 dia +1, vp-16 175mg/m2 dia +1 y +2, ciclofosfamida 1050 mg/m2 dia +1 y +2. - cojec b (22.09.17): vincristina 1.5mg/m2, cisplatino 80mg/m2. - cojec a (02.10.17): vincristina 1.5mg/m2 dia +1, carboplatino 750mg/m2 dia +1, vp-16 175mg/m2 dia +1 y +2. evaluacion de respuesta: ecografia abdominal el 3.10.17 sin hallazgos valorables y aspirado de medula osea el 04.10.17: normal - cojec b (11.10.17): vincristina 1.5mg/m2, cisplatino 80mg/m2. - cojec c (22.10.17): vincristina, ciclofosfamida, etoposido cirugia: el dia 21.08.2017 se realiza adrenalectomia derecha y colocacion de port-a-cath en yugular interna derecha sin incidencias.
 trasplante de progenitores hematopoyeticos: *aferesis de progenitores hematopoyeticos: el dia 15.12.2017 se coloca cateter venoso central en quirofano sin incidencias.
-comienza la movilizacion el dia 16.12.2017 con g-csf a 10/mg/kg/ 12 horas sc , que recibe hasta el dia 20.12.17.
-se recogen en 3 bolsas los cd34 los dias 20 y 21.12.17, con una celularidad total de cd34 2.36 x 10e6/kg.
-*quimioterapia en altas dosis con rescate de progenitores hematopoyeticos (tph autologo): recibe acondicionamiento con busulfan 0.95 g/kg/dosis/ 6 h los dias -6, -5, -4 y -3 (22-25.12.17) total 16 dosis y melfalan 140mg/m2 el dia -1 (27.12.17).
-el acondicionamiento es bien tolerado sin detectarse toxicidad.
+comienza la movilizacion el dia 16.12.2017 con g-csf a 10/mg/kg/ 12 horas sc , que recibe hasta el dia 20.12.17. se recogen en 3 bolsas los cd34 los dias 20 y 21.12.17, con una celularidad total de cd34 2.36 x 10e6/kg.
+*quimioterapia en altas dosis con rescate de progenitores hematopoyeticos (tph autologo): recibe acondicionamiento con busulfan 0.95 g/kg/dosis/ 6 h los dias -6, -5, -4 y -3 (22-25.12.17) total 16 dosis y melfalan 140mg/m2 el dia -1 (27.12.17). el acondicionamiento es bien tolerado sin detectarse toxicidad.
 el dia 28.12.17 se administra infusion autologa de progenitores hematopoyeticos sangre periferica sin presentar reacciones adversas ni otras incidencias.
-se documenta recuperacion hematologica de: 500 pmn el dia + 15 (10.01.18) 1% de reticulocitos el dia + 14 (11.01.18) recuperacion de plaquetas +15 (10.01.2018) inmunoterapia: -primer ciclo de acido retinoico entre 14.04.2018 y 27.04.2018 (160 mg/m2/dia) -primer tratamiento con dinituximab (08.05.2018 - 18.05.2018), precisa hospitalizacion hasta 48 h previas a fin de tratamiento, alta el dia 16.05.18.
-presenta los siguientes efectos indeseados durante la infusion de la inmunoterapia : *fiebre desde el segundo dia de infusion, intermitente.
+se documenta recuperacion hematologica de: 500 pmn el dia + 15 (10.01.18) 1% de reticulocitos el dia + 14 (11.01.18) recuperacion de plaquetas +15 (10.01.2018) inmunoterapia: -primer ciclo de acido retinoico entre 14.04.2018 y 27.04.2018 (160 mg/m2/dia) -primer tratamiento con dinituximab (08.05.2018 - 18.05.2018), precisa hospitalizacion hasta 48 h previas a fin de tratamiento, alta el dia 16.05.18. presenta los siguientes efectos indeseados durante la infusion de la inmunoterapia : *fiebre desde el segundo dia de infusion, intermitente.
 se realizan tres hemocultivos, siendo el primero positivo a germen contaminante y los siguientes negativos.
 recibe un total de 5 dias de tratamiento con piperacilina tazobactam.
 *edema palpebral y enrojecimiento conjuntival.
 *mal manejo de liquido con aumento de peso.
 recibe dos dosis puntuales de furosemida.
--segundo ciclo de acido retinoico entre 19.05.2018 y 1.06.2018 (160 mg/m2/dia) -segundo tratamiento con dinutuximab (12.06.2018 al 22.06.2018).
-precisa hospitalizacion hasta 48 h previas a fin de tratamiento, alta el dia 14.6.2018.
-como efecto adverso destaca *fiebre de 38º, hemodinamicamente estable y sin afectacion del estado general, se realiza hemocultivo que resulta negativo y se mantiene conducta expectante.
+-segundo ciclo de acido retinoico entre 19.05.2018 y 1.06.2018 (160 mg/m2/dia) -segundo tratamiento con dinutuximab (12.06.2018 al 22.06.2018). precisa hospitalizacion hasta 48 h previas a fin de tratamiento, alta el dia 14.6.2018. como efecto adverso destaca *fiebre de 38º, hemodinamicamente estable y sin afectacion del estado general, se realiza hemocultivo que resulta negativo y se mantiene conducta expectante.
 -tercer ciclo de acido retinoico entre 23.06.2018 y 06.07.2018 (160 mg/m2/dia) nhc ** *** *** (********) ami-v-onh 2/4 lopd -tercer tratamiento con dinutuximab del dia 17.07.2018 al 26.07.2018, con infusion de dexclorfeniramina previa.
 tras completar el tratamiento presenta edema labial resuelto con administracion de corticoides ev y antihistaminico.
-recibe tercer ciclo de acido retionoico el 28.07.2018 al 10.08.2018.
--cuarto ciclo de acido retinoico entre 28.07.2018 y 10.08.2018 (160 mg/m2/dia) medicacio habitual -septrin pediatrico: 18 ml via oral lunes-miercoles-viernes exploracio fisica triangulo de evaluacion pediatrica: estable.
-buen estado general.
-normocoloreado.
+recibe tercer ciclo de acido retionoico el 28.07.2018 al 10.08.2018. -cuarto ciclo de acido retinoico entre 28.07.2018 y 10.08.2018 (160 mg/m2/dia) medicacio habitual -septrin pediatrico: 18 ml via oral lunes-miercoles-viernes exploracio fisica triangulo de evaluacion pediatrica: estable.
+buen estado general.normocoloreado.
 normohidratado.
 no lesiones cutaneas agudas.
 no petequias.
@@ -70,33 +46,17 @@ abdomen: blando y depresible, no masas ni megalias, no doloroso a la palpacion.
 peristaltismo conservado.
 nrl: consciente y orientado.
 no focalidad neurologica aparente.
-exploracio complementaria - analitica al ingreso (20.08.2018): hematies 3.31 x10e12/l, hemoglobina 10.
-3 g/dl, hematocrit 30.
-0 %, volum corpuscular mig (vcm) 90.
-6 fl, leucocits 7.72 x10e9/l, neutrofils 5.
-2 x10e9/l, limfocits 1.
-0 x10e9/l, monocits 1.
-2 x10e9/l, eosinofils 0.
-3 x10e9/l, basofils 0.
-0 x10e9/l, plaquetes 280 x10e9/l, volum plaquetari mig 9.
-9 fl, glucosa 94 mg/dl, urea 36 mg/dl, creatinini 0.36 mg/dl, io sodi 136.
-1 mmol/l, io potassi 3.46 mmol/l, aspartat-aminotransferasa 43 ui/l, alanina-aminotransferasa 50 ui/l - ecografia abdominal (24.08.2018): estudio dentro de los limites de la normalidad.
+exploracio complementaria - analitica al ingreso (20.08.2018): hematies 3.31 x10e12/l, hemoglobina 10.3 g/dl, hematocrit 30.0 %, volum corpuscular mig (vcm) 90.6 fl, leucocits 7.72 x10e9/l, neutrofils 5.2 x10e9/l, limfocits 1.0 x10e9/l, monocits 1.2 x10e9/l, eosinofils 0.3 x10e9/l, basofils 0.0 x10e9/l, plaquetes 280 x10e9/l, volum plaquetari mig 9.9 fl, glucosa 94 mg/dl, urea 36 mg/dl, creatinini 0.36 mg/dl, io sodi 136.1 mmol/l, io potassi 3.46 mmol/l, aspartat-aminotransferasa 43 ui/l, alanina-aminotransferasa 50 ui/l - ecografia abdominal (24.08.2018): estudio dentro de los limites de la normalidad.
 evolucio clinica ingresa de manera programada el dia 20.08.2018 en planta de oncohematologia pediatrica bajo control clinico y de constantes.
-se inicia infusion con dinutuximab el dia 21.08.2018 a las 12h.
-durante el ingreso hospitalario se mantiene hemodinamicamente estable, febricular/febril en algunos momentos como posible efecto secundario a la infusion del farmaco.
+se inicia infusion con dinutuximab el dia 21.08.2018 a las 12h. durante el ingreso hospitalario se mantiene hemodinamicamente estable, febricular/febril en algunos momentos como posible efecto secundario a la infusion del farmaco.
 recibe tratamiento con bomba de morfina y gabapentina para control del dolor (dosis maxima de morfina: 45 mcg/kg/h), pudiendose disminuir progresivamente la dosis de morfina hasta cambiarse a via oral el 24.08.2018, tolerando correctamente dicho cambio.
 durante el ingreso se incrementa la dosis de gabapentina por dolor neuropatico.
-dada la buena evolucion clinica se decide el alta a domicilio el dia 24.08.2018.
-continuara con bomba de infusion continua de dinutuximab hasta el dia 31.08.2018 a las 12h para complar un total de 10 dias de inmunoterapia.
-nhc ** *** *** (********) ami-v-onh 3/4 lopd orientacio diagnostica 194.
-0/5 neuroblastoma c74.02 neoplasia maligna de cortex, glandula suprarenal esquerra procediments bomba de infusion continua de dinutuximab analisis clinicos bomba de infusion continua de morfina serumterapia tractament i recomanacions a l'alta -bomba de infusion continua de dinutuximab (recambio cada 48 horas) -morfina (suspension oral 2 mg/ml): 3 ml cada 4 horas via oral.
+dada la buena evolucion clinica se decide el alta a domicilio el dia 24.08.2018. continuara con bomba de infusion continua de dinutuximab hasta el dia 31.08.2018 a las 12h para complar un total de 10 dias de inmunoterapia.
+nhc ** *** *** (********) ami-v-onh 3/4 lopd orientacio diagnostica 194.0/5 neuroblastoma c74.02 neoplasia maligna de cortex, glandula suprarenal esquerra procediments bomba de infusion continua de dinutuximab analisis clinicos bomba de infusion continua de morfina serumterapia tractament i recomanacions a l'alta -bomba de infusion continua de dinutuximab (recambio cada 48 horas) -morfina (suspension oral 2 mg/ml): 3 ml cada 4 horas via oral.
 si precisa, aumentar a 4 ml cada 4 horas.
--gabapentina (suspension oral 100 mg/ml): 4.
-3 ml cada 8 horas via oral.
--hidroxicina (suspension oral 2 mg/ml): 3.
-5 ml cada 6 horas via oral.
--septrin pediatrico: 18 ml via oral lunes-miercoles-viernes -si precisa, paracetamol (suspension oral 100 mg/ml) 4.
-5 ml via oral cada 8 horas.
+-gabapentina (suspension oral 100 mg/ml): 4.3 ml cada 8 horas via oral.
+-hidroxicina (suspension oral 2 mg/ml): 3.5 ml cada 6 horas via oral.
+-septrin pediatrico: 18 ml via oral lunes-miercoles-viernes -si precisa, paracetamol (suspension oral 100 mg/ml) 4.5 ml via oral cada 8 horas.
 -si exantema cutaneo, administrar un comprimido de metilprednisolona (urbason 20 mg comprimidos) via oral en dosis unica.
 consultar a urgencias si: fiebre persistente, exantema cutaneo asociado a dificultad respiratoria, clinica gastrointestinal o afectacion del estado general.
 control acudir mañana por la mañana a hospital de dia de oncohematologia pediatrica para recambio de la bomba de infusion continua de dinutuximab acudir a consultas externas de oncologia pediatrica el dia 27.08.2018 para control clinico y analitico y nuevo recambio de la bomba de infusion continua destinacio a l'alta: a domicili nhc ** *** *** (********) ami-v-onh 4/4 lopd

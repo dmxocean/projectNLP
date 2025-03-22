@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 16.05.1992 edat: 27 anys procedencia domicil/res.
-soc servei alt risc obstetric data d'ingres 30.09.2019 data d'alta 04.10.2019 12:00:00 ates per ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres hiperemesis . antecedents sin alergias medicamentosas conocidas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 16.05.1992 edat: 27 anys procedencia domicil/res.soc servei alt risc obstetric data d'ingres 30.09.2019 data d'alta 04.10.2019 12:00:00 ates per ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres hiperemesis . antecedents sin alergias medicamentosas conocidas.
 no antecedentes medicos de interes.
 no antecedentes quirurgicos de interes.
 no refiere habitos toxicos.
@@ -12,16 +11,10 @@ exploracio fisica fc 109 bpm tªaxi ºc fr rpm tªrec ºc ta s 111 mmhg sat o2 %
 ecotv : utero en anteversion con saco gestacional intrauterino con embrion con crl de 31.8mm, embriocardio positivo.
 ovarios de morfologia y tamaño normal.
 no liquido libre en fsd.
-as: hb 12.
-3; htco 36.
-0%; leucocitos 10460; plaquetas 254000; tp 88%; ttpa 27.
-4 segundos; creatinina 0.53; fg&gt; 90; sodio 134.
-1; potasio 3.55; ast/alt 22/22; pcr 0.69.
-se administra suero glucosado , tiamina, ranitidina y metoclopramida endovenosa.
+as: hb 12.3; htco 36.0%; leucocitos 10460; plaquetas 254000; tp 88%; ttpa 27.4 segundos; creatinina 0.53; fg&gt; 90; sodio 134.1; potasio 3.55; ast/alt 22/22; pcr 0.69. se administra suero glucosado , tiamina, ranitidina y metoclopramida endovenosa.
 la paciente presenta tolerancia parcial, sin mejoria completa a pesar de tratamiento endovenoso.
 por este motivo se decide ingreso hospitalario evolucio clinica ingresa en planta de hospitalizacion.
-nhc ** *** *** &nbsp;(********) &nbsp;ami-v-aro 1/2 lopd inicia tratamiento con metoclopramida, ranitidina, metilprednisolona y suero glucosada al 5%.
-se mantiene en dieta absoluta.
+nhc ** *** *** &nbsp;(********) &nbsp;ami-v-aro 1/2 lopd inicia tratamiento con metoclopramida, ranitidina, metilprednisolona y suero glucosada al 5%. se mantiene en dieta absoluta.
 as 1/10/2019: hb: 11,3 ht: 30,9 plaquetas: 241000 leucos: 9380 alt/ast.21/20 fa:20 ggt:25 amilasa:37 tsh:0,9 t4: 1,15 listeria: negativa.
 mejoria de sintomatologia.
 se inicia dieta progresiva con buena tolerancia.

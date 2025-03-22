@@ -13,14 +13,11 @@ posteriormente se mantiene en buen estado general, afebril, hemodinamicamente es
 aclarado progresivo de la orina con los lavados vesicales continuos, que permiten su retirada, conserva correcta diuresis.
 tolerancia correcta a dieta oral.
 dada la buena evolucion se decide alta domiciliaria siendo portador de sonda vesical.
-orientacio diagnostica n40.
-0 hiperplasia prostatica benigna sense simptomes en les vies urinaries inferiors procediments 04.81 injeccio en el nervi periferic d'anestesic per a analgesia 58.
-0 uretrotomia.
+orientacio diagnostica n40.0 hiperplasia prostatica benigna sense simptomes en les vies urinaries inferiors procediments 04.81 injeccio en el nervi periferic d'anestesic per a analgesia 58.0 uretrotomia.
 excisio de septe uretral, uretrostomia perineal, extraccio de calcul uretral per incisio sonda vesical profilaxis antibiotica, antilucerosa y antitrombotica tractament i recomanacions a l'alta -abundante ingesta de liquidos entorno a dos litros y medio de agua al dia.
 -puede orinar con restos de sangre durante las proximas semanas.
 -es normal que sienta escozor al orinar y que tenga algun escape de orina y urgencia miccional al retirar la sonda vesical.
-mantener sonda vesical durante 14 dias (dos semanas).
-ciprofloxacino 500mg cada 12h durante dos semanas.
+mantener sonda vesical durante 14 dias (dos semanas). ciprofloxacino 500mg cada 12h durante dos semanas.
 -paracetamol 1 g cada 8 horas si molestias.
 -si fiebre mayor de 38ºc, empeoramiento claro del estado general o imposibilidad miccional por obstruccion de sonda vesical o despues de su retirada, consultar con el servicio de urgencias.
 -control en consultas externas de urologia segun cita en hoja adjunta.

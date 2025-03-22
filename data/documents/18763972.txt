@@ -3,13 +3,11 @@ control cv.
 claudicometria 65 metros.
 dolor pierna izda - dislipemia en tratamiento con estatinas.
 - en 2008 prostatectomia radical laparoscopica por adk de prostata.
-- hepatitis a.
-historia oncologica primer sintoma( 28.03.18): remitido desde cv por hallazgo casual de nodulo pulmonar de bordes espiculados en lsd, sospechosa de proceso neoformativo, con infiltracion de la grasa mediastinica y supraclavicular derecha.
+- hepatitis a. historia oncologica primer sintoma( 28.03.18): remitido desde cv por hallazgo casual de nodulo pulmonar de bordes espiculados en lsd, sospechosa de proceso neoformativo, con infiltracion de la grasa mediastinica y supraclavicular derecha.
 presenta disfonia desde enero (que esta en estudio por orl); perdida de unos 7 kg en los 3 ultimos meses, no dolor toracico ni expect hemoptoico.
 tc torax (12.03.18): conclusio: signes d'emfisema pulmonar amb lesio nodular de vores espiculades al lsd sospitosa de proces neoformatiu.
 caldria correlacionar les troballes amb exploracions previes del pacient.
-granulomes calcificats hepatopulmonars i ganglis mediastinics calcificat que suggereixen antecedent de malaltia granulomatosa (tbc).
-pet-tc: proceso neoformativo primario pulmonar en lsd con signos de infiltracion adenopatica laterocervical y supraclavicular bilateral, en mediastino y de diseminacion extrapulmonar hepatica, suprarrenal y osea paaf adenopatia laterocervical derecha (26.03.18) positivo para malignidad.
+granulomes calcificats hepatopulmonars i ganglis mediastinics calcificat que suggereixen antecedent de malaltia granulomatosa (tbc). pet-tc: proceso neoformativo primario pulmonar en lsd con signos de infiltracion adenopatica laterocervical y supraclavicular bilateral, en mediastino y de diseminacion extrapulmonar hepatica, suprarrenal y osea paaf adenopatia laterocervical derecha (26.03.18) positivo para malignidad.
 adeconcarcinoma.
 controles equipo unidad de pulmon.
 dra ***** medicacio habitual segun receta electronica: - adiro 100mg 1 x 24 h - atroaldo 20mcg/puls 200 dosis10ml 3 x 8 h - hidroferol 1 x 1 m - praxilene 100mg 1 x 12 h - simvastatina 20mg 1 x 24 h nhc ** *** *** (********) age-v-onc 1/4 lopd - dolalgial 125mg 1 x 12 h - adolonta 100mg 1 x 12 h - metamizol 2 x 24 h proces actual remitido desde consultas por hallazgo casual de nodulo pulmonar de bordes espiculados en lsd, sospechosa de proceso neoformativo, con infiltracion de la grasa mediastinica y supraclavicular derecha.
@@ -33,8 +31,7 @@ ganglios linfaticos subcentimetricos en estacion paratraqueal izquierda sin camb
 cavidades pleurales sin alteraciones relevantes.
 enfisema pulmonar bilateral con engrosamientos bronquiales de distribucion difusa de predominio basal en relacion a broncopatia sin cambios.
 nodulo pulmonar solido espiculado de aproximadamente 29 mm de diametro axial.
-mayor en segmento apical de lsd en relacion a proceso neoformativo pulmonar primario ya conocido sin cambios respecto a exploracion de marzo de 2018.
-aparicion de opacidades nodulillares con zona de condensacion pulmonar irregular en periferia de lii sugestiva de patologia infeccioso - inflamatoria sobreañadida con ocupacion de estructuras bronquiales distales en segmento basal medial de lii, ya presentes en estudio previo, de aspecto inflamatorio.
+mayor en segmento apical de lsd en relacion a proceso neoformativo pulmonar primario ya conocido sin cambios respecto a exploracion de marzo de 2018. aparicion de opacidades nodulillares con zona de condensacion pulmonar irregular en periferia de lii sugestiva de patologia infeccioso - inflamatoria sobreañadida con ocupacion de estructuras bronquiales distales en segmento basal medial de lii, ya presentes en estudio previo, de aspecto inflamatorio.
 voluminosa bulla subpleural de localizacion basal anterior en lii sin cambios.
 higado homogeneo con multiples lesiones focales hipodensas de contornos mal definidos que afectan a ambos lobulos hepaticos en relacion a m1 alcanzando las de mayor tamaño 16 mm en segmento vi y 17 mm en segmento viii.
 vias biliares de calibre normal.
@@ -47,9 +44,7 @@ no se observan adenopatias de tamaño significativo en el estudio abdominal.
 cambios degenerativos en columna lumbar.
 - cultivos de esputo 14.05: bacils gram negativo.
 abundants cocs gram positiu posible estreptococ.
-bastants - analitica al alta (14.05) hb 13 can 12900 cal 1200 plaquetas 191000 quick 120% inr 0.90 creatinia 0.96 na 136.
-8 k 4.71 ast 29 alt 36 ggt 58 albumina 3.
-4 evolucio clinica paciente de 75 años con reciente diagnostico adk nsclc t2n3m1b, estadio ivb alk negativo, ros negativo y expresion de pdl1 &lt; 1% por biopsia hepatica realizada durante este ingreso.
+bastants - analitica al alta (14.05) hb 13 can 12900 cal 1200 plaquetas 191000 quick 120% inr 0.90 creatinia 0.96 na 136.8 k 4.71 ast 29 alt 36 ggt 58 albumina 3.4 evolucio clinica paciente de 75 años con reciente diagnostico adk nsclc t2n3m1b, estadio ivb alk negativo, ros negativo y expresion de pdl1 &lt; 1% por biopsia hepatica realizada durante este ingreso.
 es trasladado a oncologia por cuadro de dolor mal contralado en extremidad superior derecha de tipo neuropatico por lo que es valorado por la ucp iniciando perfusion de metadona y lyrica como coanalgesico.
 el 10/05 recibe el primer ciclo de cbdp-txl con buena tolerancia.
 al rotar a via oral presenta neurotoxicidad inducida por opioides . se suspende la metadona y se mantiene una aceptable control del dolor con analgesia de 1r escalon.
@@ -60,6 +55,5 @@ el dia previo al alta se recoge esputo purulento con aislamiento de baculos gram
 debera completar tratamiento durante 7 dias.
 ha sido valorado por pneumologia activandose oxigeno domiciliario orientacio diagnostica - nsclc (adenocarcinoma ) t2n3m1b, estadio ivb.
 procediments 89.08 altra consulta tractament i recomanacions a l'alta *amoxicilina ac clavulanico 875/125 mg 1 comprimido cada 8 horas por 7 dias y suspender *omeprazol 20 mg 1 comprimido antes del desayuno *atroaldo 3 inh cada 8 horas *adiro 100 mg 1 comprimido en la comida *hidroferol 1 ampolla bebible al mes *praxilene 100 mg segun pauta habitual.
-*simvastatina 1 comprimido por la noche *dexametasona 4 mg 1 comprimido en el desayuno y en la comida por 5 dias luego 1 comprimido en el desayuno ( valorar segun evolucion clinica) *pregabalina 75 mg 1 comprimido antes de ir a dormir nhc ** *** *** (********) age-v-onc 3/4 lopd *paracetamol 1 g c/ 8 horas alternar *nolotil 575 mg 1 comprimido cada 8 horas *tramadol 50 mg 1 comprimido cada 8 horas si dolor *septrin forte 1 comprimido lu-mierc-viern *furosemida 1 comprimido en el desayuno *primperam 10 mg 1 comprimido cada 8 horas si nauseas o vomitos *magnesia ( laxante) 1 sobre para deposiciones diarias control -se adjunta hoja de proximas visitas -se ha solicitado primera vistia con ucp ( recibira citacion con dia y hora) -recibira citacion para inicio de la rt consulta de atencion inmediata (cai): telefono de contacto: ********4.
-horario de atencion telefonica, lunes a viernes de 8-17 horas, dias laborables.
+*simvastatina 1 comprimido por la noche *dexametasona 4 mg 1 comprimido en el desayuno y en la comida por 5 dias luego 1 comprimido en el desayuno ( valorar segun evolucion clinica) *pregabalina 75 mg 1 comprimido antes de ir a dormir nhc ** *** *** (********) age-v-onc 3/4 lopd *paracetamol 1 g c/ 8 horas alternar *nolotil 575 mg 1 comprimido cada 8 horas *tramadol 50 mg 1 comprimido cada 8 horas si dolor *septrin forte 1 comprimido lu-mierc-viern *furosemida 1 comprimido en el desayuno *primperam 10 mg 1 comprimido cada 8 horas si nauseas o vomitos *magnesia ( laxante) 1 sobre para deposiciones diarias control -se adjunta hoja de proximas visitas -se ha solicitado primera vistia con ucp ( recibira citacion con dia y hora) -recibira citacion para inicio de la rt consulta de atencion inmediata (cai): telefono de contacto: ********4. horario de atencion telefonica, lunes a viernes de 8-17 horas, dias laborables.
 de 17 horas a 21 horas, dias laborables, llamar a ********00, extension: 6321 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-onc 4/4 lopd

@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 08.09.1967 edat: 51 anys procedencia aten.
-primaria servei cirurgia oral i data d'ingres 08.06.2019 data d'alta 09.06.2019 00:09:24 ates per **************, *****; ***********, *** informe d'alta d'hospitalitzacio motiu d'ingres fx mandibula antecedents namc no ap de interes.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 08.09.1967 edat: 51 anys procedencia aten.primaria servei cirurgia oral i data d'ingres 08.06.2019 data d'alta 09.06.2019 00:09:24 ates per **************, *****; ***********, *** informe d'alta d'hospitalitzacio motiu d'ingres fx mandibula antecedents namc no ap de interes.
 proces actual paciente refiere traumatismo facial tras caida en patinete electrico.
 no perdida de conocimiento.
 no otra sin tomatologia.
@@ -14,6 +13,4 @@ en planta se mantiene con algias controladas, nutricion liquida efectiva y deamb
 ante correcta evolucion se decide alta indicando signos de alarma.
 orientacio diagnostica s02.609a fractura de mandibula no especificada, a nhc ** *** *** &nbsp;(********) &nbsp;age-v-cmf 1/2 lopd procediments 89.52 electrocardiograma.
 ecg nos, ecg (amb 12 o mes derivacions) tractament i recomanacions a l'alta augmentine 500.125mg 1comp/8h durante 5 dias dexketoprofeno 25mg 1 comp/8h si dolor; asociar cada 4h nolotil 575mg/8h dieta liquida y triturada mientras bloqueo mantener correcta higiene bucal si empeoramiento, reconsulta.
-control control en edifici traumatologia, planta 0, consultas 51-53 segun cita adjunta el proximo viernes 14/06.
-acudir a control con dr ***** proximo jueves 20/06.
-destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;age-v-cmf 2/2 lopd
+control control en edifici traumatologia, planta 0, consultas 51-53 segun cita adjunta el proximo viernes 14/06. acudir a control con dr ***** proximo jueves 20/06. destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;age-v-cmf 2/2 lopd

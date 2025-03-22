@@ -1,20 +1,16 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 24.03.1958 edat: 60 anys procedencia aguts servei hematologia i data d'ingres 16.07.2018 data d'alta 23.07.2018 13:53:09 ates per equipo dra. ******* (dr. *****, dra. *********).
-informe d'alta d'hospitalitzacio motiu d'ingres sincope.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 24.03.1958 edat: 60 anys procedencia aguts servei hematologia i data d'ingres 16.07.2018 data d'alta 23.07.2018 13:53:09 ates per equipo dra. ******* (dr. *****, dra. *********). informe d'alta d'hospitalitzacio motiu d'ingres sincope.
 antecedents antecedentes personales -sin alergias a medicamentos conocidos -niega habitos toxicos antecedentes medico-quirurgicos - obesidad . - hipotiroidismo en tratamiento sustitutivo.
-- hipoacusia severa en oi (60% de perdida).
-no porta audifonos.
+- hipoacusia severa en oi (60% de perdida). no porta audifonos.
 historia hematologica anemia hemolitica autoinmune aparentemente idiopatica diagnosticada en 1987; inicialmente buena respuesta a tratamiento corticoideo.
 siguientes brotes: *año 2000: prednisona.
 *año 2004: esplenectomia en junio.
 *año 2005: corticoides -&gt; gammaglobulinas -&gt; rituximab.
 *año 2009: corticoides -&gt; rituximab.
 *año 2012: corticoides -&gt; rituximab.
-*año 2014 (diciembre): sincope atribuido a crisis hemolitica, con hb 6,6.
-en cursos previos figura mala tolerancia a metilprednisolona, por lo que se ha optado a prednisona.
+*año 2014 (diciembre): sincope atribuido a crisis hemolitica, con hb 6,6. en cursos previos figura mala tolerancia a metilprednisolona, por lo que se ha optado a prednisona.
 en diciembre 2017 neumonia retrocardiaca tratada con moxifloxacino que requirio ingreso en mollet; por fiebre persistente se realizo tac en febrero y en marzo, constando en el ultimo unicamente paniculitis mesenterica.
 consta fibrobroncoscopia, no tenemos acceso al resultado.
-en historia compartida constan 3 episodios de infeccion urinaria tratados con tandas de diez dia de ciprofloxacino, la ultima a finales de abril (la paciente refiere fiebre de hasta 38ºc).
-situacion sociofuncional: independiente para abvd.
+en historia compartida constan 3 episodios de infeccion urinaria tratados con tandas de diez dia de ciprofloxacino, la ultima a finales de abril (la paciente refiere fiebre de hasta 38ºc). situacion sociofuncional: independiente para abvd.
 sin deterioro cognitivo.
 vive con su marido.
 proces actual la paciente refiere cuadro consistente en astenia, disnea de esfuerzo, coluria e ictericia que ha ido empeorando progresivamente.
@@ -38,28 +34,22 @@ puño percusion renal izquierda dudosamente positiva.
 -nrl: consciente y orientada en las tres esferas.
 sin focalidad neurologica aguda.
 exploracio complementaria -ecg: ritmo sinusal a 75 lpm, qrs estrecho, adecuada progresion de r en precordiales, ondas t aplanadas en v2, sin alteraciones agudas de la repolarizacion.
--rx torax: seno costofrenico derecho libre, izquierdo no valorable, sin condensaciones evidentes, ict &lt; 0,5.
--hemocultivos pendientes.
+-rx torax: seno costofrenico derecho libre, izquierdo no valorable, sin condensaciones evidentes, ict &lt; 0,5. -hemocultivos pendientes.
 -frotis de virus respiratorios: gripe a y b, vrs negativos; resto pendiente.
 -cultivo de esputo pendiente de cursar.
 -sedimento: 4 leucocitos/ul, 156 bacterias/ul, urocultivo pendientes.
--ag: hb 7, hto 21%, vcm 126, hcm 41, chcm 32,7, ade 26%, eritroblastos, policromasia, anisocitosis, microcitosis, macrocitosis, poiquilocitos, reticulocitos 332.000/ul, leu 14.500 (n 8100, l 4700), plaq 509.000, tp 100%, ttpar 0,8, fibrinogeno 4,4, glucosa 136, urea 32, cre 0,57 (fg &gt; 90), urato 6,3, bilirrubina 5,2 (directa 0,7), sodio 141, potasio 3,6 mmol/l.
-ag al alta: hb: 7.
-7 g/dl, leucos : 19.870 (can 7.300, cal: 11.500), plt: 505.000.
-evolucio clinica a su llegada a urgencias paciente hemodinamicamente estable, eupneica, afebril.
+-ag: hb 7, hto 21%, vcm 126, hcm 41, chcm 32,7, ade 26%, eritroblastos, policromasia, anisocitosis, microcitosis, macrocitosis, poiquilocitos, reticulocitos 332.000/ul, leu 14.500 (n 8100, l 4700), plaq 509.000, tp 100%, ttpar 0,8, fibrinogeno 4,4, glucosa 136, urea 32, cre 0,57 (fg &gt; 90), urato 6,3, bilirrubina 5,2 (directa 0,7), sodio 141, potasio 3,6 mmol/l. ag al alta: hb: 7.7 g/dl, leucos : 19.870 (can 7.300, cal: 11.500), plt: 505.000. evolucio clinica a su llegada a urgencias paciente hemodinamicamente estable, eupneica, afebril.
 a la exploracion fisica destacan ictericia mucocutanea y puño percusion renal izquierda dudosamente positiva.
 se realizan pruebas cruzadas.
 en la analitica destaca anemia con parametros de hemolisis y el test de coombs directo es positivo (igg +++, c3d ++++), por lo que se orienta como nuevo brote de anemia hemolitica y se inicia tratamiento corticoideo a 1 mg/kg (76 kg) con prednisona 80 mg/dia y sueroterapia.
 no presenta clara clinica infecciosa desencadenante, por lo que no iniciamos antibioterapia.
 frotis de virus respiratorios, hemocultivos y urocultivos en curso.
 ingresa para control evolutivo.
-durante su ingreso en planta,.
-se mantiene esrtable hemodinamicamente, sin presentar nuevos episodios de sincope . tampoco presenta disnea o episodios de dolor toracico.
+durante su ingreso en planta,. se mantiene esrtable hemodinamicamente, sin presentar nuevos episodios de sincope . tampoco presenta disnea o episodios de dolor toracico.
 se continua tratamiento con corticoides a dosis 1 mg /kg /dia, presentando progresivamente mejoria de las cifras de hemoglobina y demas parametros de hemolisis.
 los cultivos permanecen negativos, por lo que no se inicia terapia antibiotica durante su ingreso.
 se realiza interconsulta con preventiva y se administra vacuna antipneumococica durante el ingres.
-dada la estabilidad, y la mejoria de la hemoglobina hasta 7.
-7 g/dl , se decide alta a domicilio , explicando signos de alarma ante los cuales debera reconsultar.
+dada la estabilidad, y la mejoria de la hemoglobina hasta 7.7 g/dl , se decide alta a domicilio , explicando signos de alarma ante los cuales debera reconsultar.
 orientacio diagnostica -anemia hemolitica.
 - sincope en contexto de anemizacion.
 tractament i recomanacions a l'alta -prednisona 80 mg cada 24 horas, via oral.

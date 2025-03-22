@@ -2,16 +2,14 @@ nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixeme
 ****** (dra. *********, dra. *****,dra- *****) informe d'alta d'hospitalitzacio motiu d'ingres paciente de 92 años que ingresa de forma programada para estudio y tratamiento de hemofilia adquirida . antecedents antecedentes personales: - sin alergias medicamentosas conocidas - no refiere habitos toxicos antecedentes patologicos - hipertension arterial en tratamiento.
 complicacion en forma de cardiopatia hipertensiva e insuficiencia cardiaca diastolica que debuto como un episodio de insuficiencia cardiaca.
 no disponemos de informes, - epoc gold ii en tratamiento broncodilatador, no agudizador.
-pfr (2010): fev1/fvc 58.94%, fev1 1.45l (59%), fvc 2.46l (67%).
-ingreso por agudizacion en contexto de gripe a en 2017 - enfermedad renal cron i ca con creatinina r basal 1,5mg/d y fg alrededor de 31l secundaria a nefroangioesclerosis.
+pfr (2010): fev1/fvc 58.94%, fev1 1.45l (59%), fvc 2.46l (67%). ingreso por agudizacion en contexto de gripe a en 2017 - enfermedad renal cron i ca con creatinina r basal 1,5mg/d y fg alrededor de 31l secundaria a nefroangioesclerosis.
 - hiperuricemia con artritis gotosa, sin tratamiento actualmente.
 previamente alopurinol.
 - artritis sin filiar.
 catalogada en historia clinica como posibles artritis reumatoide.
 a pesar de ello no pueden desacartar artritis uremica vs degenerativa o rs3pe.
 actualmente con dosis de manteniemiento muy bajas de corticoides.
-(5mg prednisona/dia) - carcinoma escamoso en cuero cabelludo : exeresis de tumor escamoso de cuero cabelludo en mayo de 2017.
-nueva lesion con biopsia que describe nuevo carcinoma escamosos.
+(5mg prednisona/dia) - carcinoma escamoso en cuero cabelludo : exeresis de tumor escamoso de cuero cabelludo en mayo de 2017. nueva lesion con biopsia que describe nuevo carcinoma escamosos.
 tenia cita para exeresis pero no se ha podido realizar por ingreso.
 - fractura por aplastamiento l4-l5 en 2017, tratamiento con tramadol y pregabalina.
 espondilosis y canal medular estrecho rmn rmn columna lumbo-sacra: cambios degenerativos osteodiscales descritos, con fractura - hundimiento de los cuerpos vertebrales comprendidos en el segmento l3-l5 y estenosis forsminal multisegmentaria, severa en el caso de las raices l2, l3, y l4 izquierdas, ademas de estenosis de canal raquideo de caracter degenerativoa correlacionar con la clinica y artropatia degenerativa con listesis l4-l5 + estenosis foraminal y de canal medular.
@@ -19,18 +17,13 @@ espondilosis y canal medular estrecho rmn rmn columna lumbo-sacra: cambios degen
 situacion sociofuncional -vive solo con ayuda de una cuidador aunque es independiente.
 no deterioro cognitivo.
 medicacio habitual atrovent 2 inh cdaa 12 horas, emcoretic 10/25 mg vo cada dia, mupirocina en lesiones.
-omeprazol 20 mg vo cada 24 horas, omnic ocas 0.
-4 mg vo cada dia, paracetamol 650 mg vo cada dia, prednisona 2.
-5 mg vo cada 48 horas, pirast 160/4.
-5 mcg 2 inh cada 12 horas, spiriva 2.
-5 mcg 2 inh cada dia, valsartan 80 mg vo cada dia.
+omeprazol 20 mg vo cada 24 horas, omnic ocas 0.4 mg vo cada dia, paracetamol 650 mg vo cada dia, prednisona 2.5 mg vo cada 48 horas, pirast 160/4.5 mcg 2 inh cada 12 horas, spiriva 2.5 mcg 2 inh cada dia, valsartan 80 mg vo cada dia.
 proces actual paciente de 92 años que acude derivado de manresa donde el paciente, tras encontrar alteracion en la coagulacion sospechan de hemofilia adquirida.
 el 25 de mayo acude a urgencias por hematomas espontaneos nhc ** *** *** (********) age-v-mir 1/6 lopd relacionados con la toma de hidroxil b (habia tomado 5 comprimidos) y acude al cap donde lo suspenden.
 aparece nuevo hematoma espontaneo en gluteo izquierdo, por lo que finalmente decide acudir a urgencias siendo dado de alta el 28 de mayo.
 se realiza estudio el 5 de junio que muestra hb 9,6 ttpa ratio 2,2 69 segundos.
 fviii 2% f vw normal.
-ag y cor.
-resto via intrinseca ix, xi xii normales motivo por el que se deriva.
+ag y cor.resto via intrinseca ix, xi xii normales motivo por el que se deriva.
 el paciente explica por cuadro clinico de 10 dias de evolucion de aparicion de hematomas y equimosis, inicialmente en tobillo derecho, despues en extremidades izquierdas de gran extension asi como en extremidad superior derecha.
 no dolorosos.
 el paciente niega traumatismos previos ausencia de fiebre o otra sintomatologia acompañante.
@@ -53,12 +46,7 @@ a la palpacion no son dolorosas y parecen de localizacion subcutanea.
 exploracion cardiocirculatoria: paciente bien perfundido, con pulsos perifericos presentes.
 tonos cardiacos ritmicos a 80lpm, sin siplos.
 auscultcion respiratoria: murmullo vesicular conservado con crepitantes secos en base derecha.
-: exploracio complementaria exploraciones complementarias en urgencias eab : ph 7.44, pco2 42 mmhg, hco3 std 27.
-1 mmol, hco· c 28.
-5 mmol/l, be 3.
-9 mmol/l, ag 4, hb 10.
-2 gr/dl.
-ecg: ritmo sinusal 85 lpm, eje electrico de 30º, pr 200 ms, qrs 80 ms.
+: exploracio complementaria exploraciones complementarias en urgencias eab : ph 7.44, pco2 42 mmhg, hco3 std 27.1 mmol, hco· c 28.5 mmol/l, be 3.9 mmol/l, ag 4, hb 10.2 gr/dl. ecg: ritmo sinusal 85 lpm, eje electrico de 30º, pr 200 ms, qrs 80 ms.
 no alteraciones agudas de la repolarizacion.
 correcta progresion de onda r en precordiales.
 radiografia torax: bien inspirada, penetrada y centrada.
@@ -66,50 +54,17 @@ cardiomegalia e imagen que sugiere aneurisma del cayado aortico.
 senos costofrenicos libres.
 no condensaciones en parenquima pulmonar ni signos de redistribucion vascular.
 no lesiones oseas asociadas.
-analitica urgente: hb 9.
-9 g/dl, vcm 99.
-4 fl, hcm 31.
-0 pg, leucocitos 9.4x10e9/l (n 73.
-1%, l 15.
-3%, m 8.
-8%, e 2.
-6%, b 0.
-2%), plaquetas 368x10e9/l, glucosa 114 mg/dl, cr 1.85 mg/dl, fg 31 ml/min/1,73m2, na 142 mmol/l, k 3.97mmol/l, calcio 8.
-9 mg/dl, ast 19 ui/l, alt 11 ui/l, fa 70 ui/l, ggt 13 ui/l, proteinas 5.
-7 g/dl, albumina 3.
-9 g/dl estudio de hemostasia: quick 108%, inr 0.96, ttpa 11.7s, ttpa ratio 2.45, fibrinogeno 4.33 g/l, tt 21.
-5 s, tt nhc ** *** *** (********) age-v-mir 2/6 lopd ratio 1.01.
-exploraciones complementarias en planta de medicina interna analitica general 7/06/2018: hb 9.
-9 g/dl, vcm 99.
-4 fl, hcm 31.
-0 pg, leucocitos 9.4x10e9/l (n 73.
-1%, l 15.
-3%, m 8.
-8%, e 2.
-6%, b 0.
-2%), plaquetas 368x10e9/l, glucosa 114 mg/dl, cr 1.85 mg/dl, fg 31 ml/min/1,73m2, na 142 mmol/l, k 3.97 mmol/l, calcio 8.
-9 mg/dl, ast 19 ui/l, alt 11 ui/l, fa 70 ui/l, ggt 13 ui/l, proteinas 5.
-7 g/dl, albumina 3.
-9 g/dl estudio de hemostasia: quick 108%, inr 0.96, ttpa 11.7s, ttpa ratio 2.45, fibrinogeno 4.33 g/l, tt 21.
-5 s, tt ratio 1.01.
-factor viii activado 3.
-1%, inhibidor del factor viii 5.1bu/ml.
-marcadores tumorales: cea, antigeno prostatico especifico, ca 19.
-9, cea, afp dentro de parametros de normalidad, y fosfopiruvato-hidratasa elevado (19.9ng/ml- volor de referencia 18).
-estudio de autoimmunidad: ana negativos, fr 7.
-8, p-anca y c-anca negativos.
+analitica urgente: hb 9.9 g/dl, vcm 99.4 fl, hcm 31.0 pg, leucocitos 9.4x10e9/l (n 73.1%, l 15.3%, m 8.8%, e 2.6%, b 0.2%), plaquetas 368x10e9/l, glucosa 114 mg/dl, cr 1.85 mg/dl, fg 31 ml/min/1,73m2, na 142 mmol/l, k 3.97mmol/l, calcio 8.9 mg/dl, ast 19 ui/l, alt 11 ui/l, fa 70 ui/l, ggt 13 ui/l, proteinas 5.7 g/dl, albumina 3.9 g/dl estudio de hemostasia: quick 108%, inr 0.96, ttpa 11.7s, ttpa ratio 2.45, fibrinogeno 4.33 g/l, tt 21.5 s, tt nhc ** *** *** (********) age-v-mir 2/6 lopd ratio 1.01. exploraciones complementarias en planta de medicina interna analitica general 7/06/2018: hb 9.9 g/dl, vcm 99.4 fl, hcm 31.0 pg, leucocitos 9.4x10e9/l (n 73.1%, l 15.3%, m 8.8%, e 2.6%, b 0.2%), plaquetas 368x10e9/l, glucosa 114 mg/dl, cr 1.85 mg/dl, fg 31 ml/min/1,73m2, na 142 mmol/l, k 3.97 mmol/l, calcio 8.9 mg/dl, ast 19 ui/l, alt 11 ui/l, fa 70 ui/l, ggt 13 ui/l, proteinas 5.7 g/dl, albumina 3.9 g/dl estudio de hemostasia: quick 108%, inr 0.96, ttpa 11.7s, ttpa ratio 2.45, fibrinogeno 4.33 g/l, tt 21.5 s, tt ratio 1.01. factor viii activado 3.1%, inhibidor del factor viii 5.1bu/ml. marcadores tumorales: cea, antigeno prostatico especifico, ca 19.9, cea, afp dentro de parametros de normalidad, y fosfopiruvato-hidratasa elevado (19.9ng/ml- volor de referencia 18). estudio de autoimmunidad: ana negativos, fr 7.8, p-anca y c-anca negativos.
 tc toraco-abdominal : no se observan adenopatias axilares, hiliares ni mediastinicas de tamaño significativo.
 ganglio calcificado paratraqueal derecho.
 tronco de la arteria pulmonar no dilatado con aorta ascendente ectasica hasta 38 mm, sin signos de complicacion.
 calcificaciones aorticas y coronarias.
 parenquima pulmonar visualizado sin nodulos sospechosos ni condensaciones.
 dilataciones bronquiales.
-cavidades pleurales sin liquido.
-parenquima hepatico homogeneo, de tamaño y morfologia dentro de la normalidad.
+cavidades pleurales sin liquido.parenquima hepatico homogeneo, de tamaño y morfologia dentro de la normalidad.
 quiste de aspecto simple, de 6 mm en segmento ii.
 vesicula biliar de paredes finas sin aparente contenido . via biliar no dilatada.
-eje espleno-mesenterico- portal permeable.
-pancreas atrofico con lesion quistica de 9 mm, en cuerpo pancreatico sindilatacion de conducto de wirsung.
+eje espleno-mesenterico- portal permeable.pancreas atrofico con lesion quistica de 9 mm, en cuerpo pancreatico sindilatacion de conducto de wirsung.
 bazo homogeneo, de tamaño dentro de la normalidad.
 glandula suprarrenal izquierda sin alteraciones significativas.
 lesion de 15 x 18 mm hipodensa en suprarrenal derecha, sugestiva de adenoma.
@@ -118,84 +73,30 @@ nefrograma normal.
 quistes corticales de aspecto simple bilaterales, el mayor de 5,7 cms en polo superior de riñon derecho.
 vias excretoras no dilatadas.
 globo vesical.
-multiples hiperdensidades en area prostatica, que produce discreto artefacto (braquiterapia).
-correcta disposicion y captacion de las asas de intestino delgado.
+multiples hiperdensidades en area prostatica, que produce discreto artefacto (braquiterapia). correcta disposicion y captacion de las asas de intestino delgado.
 marco colico sin engrosamientos murales ni otras alteraciones.
 ausencia de adenopatias mesentericas, retroperitoneales o pelvicas de tamaño significativo.
 no se observa liquido libre intraabdominal.
 moderada ateromatosis aorto-iliaca con adecuada permeabilida de los principales troncos vasculares intrabdominales.
-cambios osteodegenerativos a nivel de columna dorso-lumbar con disminucion de altura de cuerpos vertebrales d8 y de l2-5.
-anterolistesis l4-l5.
-ecografia de partes blandas (tobillo ): no se evidencian signos de ocupacion articular.
+cambios osteodegenerativos a nivel de columna dorso-lumbar con disminucion de altura de cuerpos vertebrales d8 y de l2-5. anterolistesis l4-l5. ecografia de partes blandas (tobillo ): no se evidencian signos de ocupacion articular.
 infiltracion difusa de tejido graso subcutaneo compatible con edema.
 coleccion localizada en tejido subcutaneo, en margen lateral de la pierna por encima del maleolo probablemente correspondiendo a la tumoracion palpable.
 esta coleccion presenta unos diametros aproximados de 7x20mm.
 anecoica sin paredes valorables ni septos en su interior sugiriendo pequeño seroma como opcion mas probable.
-analitica 11/06/2018: hematies 2.98x10e12, hb 9.4g/dl, htc 29.
-8%, vcm 100.7fl, hcm 31.8pg, chcm31.5g(dl, ade 15.
-9%, leucocitos 11.340 (neutrofilos 80.
-1%, limfocitos 11.
-7%, monocitos 7.
-1%), plaquetas 335000, tp &gt;120%, ttpa 48.2seg, glucosa 74mg/dl.
-urea 100mg/dl, creatinina 1.37mg/dl, fg 44, urato 7.2mg/dl, br 0.88mg/dl (esterifiicada 0.34mg/dl), sodio 139.8mmol/l, potasio 4.88mmol/l, calci 8.5mg/dl, ast 13ui/l, alt 14ui/l, fa 67ui/l, ggt 18ui/l, proteines 5.1g/dl, albumina 3.3g/dl.
-analitica 15/06/2018: hematies 3.15x10e12, hb 10.2g/dl, htc 31.
-8%, vcm 31.8fl, hcm 32.4pg, ade 16.
-3%, leucocitos 12.610 (ntf 83.
-9%, limfocitos 6.
-6%, monocitos 8.
-8%), plaquetas 337000, tp &gt;120%, ttpa 33seg, fviii actividad 38.
-8%, inhibidro f.
-viii &lt;0,4 bu/ml , vsg 3mm, glcuosa 66mg/dl, urea 116mg/dl, cr 1.62mg/dl, fg 36, urato 7.9mg/dl, br 0.69 mg/dl (directa 0.29), sodio 139.8mmol/l, potasio 4.65mmol/l, cloruro 105mmol/l, nhc ** *** *** (********) age-v-mir 3/6 lopd fosfato 3.1mg/dl, calci 8.7mg/dl, ast 10ui/l, alt 14ui/l, fa 73ui/l, ggt 20ui/l, ldh 564ui/l, colesterol 173mg/dl, hdl 76mg/dl, ldl 82mg/dl, tag 74mg/dl, proteinas 5.2g/dl, albumina 3.
-6, pcr 0.19, beta-2-.
-microglobulina 3.2mg/dl, proteinograma: albumina 65.
-6%, alfa 1 4.
-9%, alfa 2 13.
-2%, beta 1 5.
-9%, beta 2 4.
-1%, gamma 6.
-3%.
-iga 33mg/dl, igg 366mg/dl, igm 12mg/dl.
-no se observa componente monoclonal.
-cadenas kappa libres 11.23mg/l, cadenas lambda libres 7.87mg/dl, cadenas kappa/cadenas lambda 1.427 (dentro de rango).
-analitica 19/06/2018: hb 10.
-9 g/dl; hto 34.
-4%; vcm 103.
-0 fl; leucocitos 13.34x10e9/l; neutrofilos 11.0x10e9/l; linfocitos 1.2x10e9/l; plaquetas 322x10e9/l; tp 10.5seg; ttpa 28.
-6 seg; inr 0.86 ; fibrinogeno 3.38 g/l; glucosa 65 mg/dl; urea 127 mg/dl; creatinina 1.95mg/dl; fg 29 ml/min/1.73m2; sodio 136.
-6 mmol/l; potasio 4.93 mmol/l; calcio 8.
-8 mg/dl; ast 9 ui/l; alt 12ui/l; proteina 5.
-6 g/dl, albumina 3.
-7 g/dl.
-actividad de f.
-viii 94.
-6%, inhibidor negativo.
-analitica 20/06/2018: u: 121 mg/dl cr: 1.68 mg/dl tfg: 35ml/min/1.75m2 bilirrubinas: 0.67mg/dl sodio: 137.
-3 mmol/l potasio: 4.61 mmol/l ast: 9 asp: 10 ggt: 19 ui/l albumina: 3.
-3 proteinas.
-5.
-1 niveles de tacrolimus: 2.
-7 analitica general al alta: hb 10.
-8 g/dl; hto 32.
-6%; vcm 97.
-3 fl; leucocitos 9.94x10e9/l; neutrofilos 8.3x10e9/l; linfocitos 0.8x10e9/l; plaquetas 236x10e9/l; tp 0.86seg; ttpa 26.
-2 seg; fibrinogeno 3.51 g/l; glucosa 77 mg/dl; urea 118 mg/dl; creatinina 1.79mg/dl; fg 32 ml/min/1.73m2; sodio 133.
-3 mmol/l; potasio 4.
-7 mmol/l; calcio 8.
-1 mg/dl; ast 7 ui/l; alt 9ui/l; proteina 4.
-8 g/dl, albumina 3.
-1 g/dl.
-tacrolimus 6.2ng/ml evolucio clinica a su llegada a urgencias estable hemodinamicamente, afebril, con multiples hematomas descritos, ninguno con signos de alarma.
+analitica 11/06/2018: hematies 2.98x10e12, hb 9.4g/dl, htc 29.8%, vcm 100.7fl, hcm 31.8pg, chcm31.5g(dl, ade 15.9%, leucocitos 11.340 (neutrofilos 80.1%, limfocitos 11.7%, monocitos 7.1%), plaquetas 335000, tp &gt;120%, ttpa 48.2seg, glucosa 74mg/dl. urea 100mg/dl, creatinina 1.37mg/dl, fg 44, urato 7.2mg/dl, br 0.88mg/dl (esterifiicada 0.34mg/dl), sodio 139.8mmol/l, potasio 4.88mmol/l, calci 8.5mg/dl, ast 13ui/l, alt 14ui/l, fa 67ui/l, ggt 18ui/l, proteines 5.1g/dl, albumina 3.3g/dl. analitica 15/06/2018: hematies 3.15x10e12, hb 10.2g/dl, htc 31.8%, vcm 31.8fl, hcm 32.4pg, ade 16.3%, leucocitos 12.610 (ntf 83.9%, limfocitos 6.6%, monocitos 8.8%), plaquetas 337000, tp &gt;120%, ttpa 33seg, fviii actividad 38.8%, inhibidro f.viii &lt;0,4 bu/ml , vsg 3mm, glcuosa 66mg/dl, urea 116mg/dl, cr 1.62mg/dl, fg 36, urato 7.9mg/dl, br 0.69 mg/dl (directa 0.29), sodio 139.8mmol/l, potasio 4.65mmol/l, cloruro 105mmol/l, nhc ** *** *** (********) age-v-mir 3/6 lopd fosfato 3.1mg/dl, calci 8.7mg/dl, ast 10ui/l, alt 14ui/l, fa 73ui/l, ggt 20ui/l, ldh 564ui/l, colesterol 173mg/dl, hdl 76mg/dl, ldl 82mg/dl, tag 74mg/dl, proteinas 5.2g/dl, albumina 3.6, pcr 0.19, beta-2-.
+microglobulina 3.2mg/dl, proteinograma: albumina 65.6%, alfa 1 4.9%, alfa 2 13.2%, beta 1 5.9%, beta 2 4.1%, gamma 6.3%. iga 33mg/dl, igg 366mg/dl, igm 12mg/dl. no se observa componente monoclonal.
+cadenas kappa libres 11.23mg/l, cadenas lambda libres 7.87mg/dl, cadenas kappa/cadenas lambda 1.427 (dentro de rango). analitica 19/06/2018: hb 10.9 g/dl; hto 34.4%; vcm 103.0 fl; leucocitos 13.34x10e9/l; neutrofilos 11.0x10e9/l; linfocitos 1.2x10e9/l; plaquetas 322x10e9/l; tp 10.5seg; ttpa 28.6 seg; inr 0.86 ; fibrinogeno 3.38 g/l; glucosa 65 mg/dl; urea 127 mg/dl; creatinina 1.95mg/dl; fg 29 ml/min/1.73m2; sodio 136.6 mmol/l; potasio 4.93 mmol/l; calcio 8.8 mg/dl; ast 9 ui/l; alt 12ui/l; proteina 5.6 g/dl, albumina 3.7 g/dl. actividad de f.viii 94.6%, inhibidor negativo.
+analitica 20/06/2018: u: 121 mg/dl cr: 1.68 mg/dl tfg: 35ml/min/1.75m2 bilirrubinas: 0.67mg/dl sodio: 137.3 mmol/l potasio: 4.61 mmol/l ast: 9 asp: 10 ggt: 19 ui/l albumina: 3.3 proteinas.
+5.1 niveles de tacrolimus: 2.7 analitica general al alta: hb 10.8 g/dl; hto 32.6%; vcm 97.3 fl; leucocitos 9.94x10e9/l; neutrofilos 8.3x10e9/l; linfocitos 0.8x10e9/l; plaquetas 236x10e9/l; tp 0.86seg; ttpa 26.2 seg; fibrinogeno 3.51 g/l; glucosa 77 mg/dl; urea 118 mg/dl; creatinina 1.79mg/dl; fg 32 ml/min/1.73m2; sodio 133.3 mmol/l; potasio 4.7 mmol/l; calcio 8.1 mg/dl; ast 7 ui/l; alt 9ui/l; proteina 4.8 g/dl, albumina 3.1 g/dl. tacrolimus 6.2ng/ml evolucio clinica a su llegada a urgencias estable hemodinamicamente, afebril, con multiples hematomas descritos, ninguno con signos de alarma.
 se orienta caso como probable hemofilia adquirida, teniendo en cuenta edad de paciente y comorbilidades.
 se realiza analitica que muestra prolongacion de tp y ttpa asi como creatinina 1.7mg/dl y se inicia tratamiento con bolus de corticoides 500mg.
 en planta de medicina interna, presentado a la exploracion los hematomas descritos, todos ellos de aparente localizacion subcutanea.
 se completan hasta 3 bolus de 500mg de metilprednisolona y se realiza despistaje de enfermedad autoimmunitaria y de patolgia tumoral asociada (tac toraco-abdominal y marcadores tumorales) que resultan negativos.
 el factor inhibidor de llegada resulta positivo.
 se inicia tacrolimus.
-durante el seguimiento se observa mejoria de los tiempos de coagulacion, una recupracion progresiva de la actividad del factor viii (del 2% al 94.
-6%) y una negativizacion del inhibidor del factor viii.
+durante el seguimiento se observa mejoria de los tiempos de coagulacion, una recupracion progresiva de la actividad del factor viii (del 2% al 94.6%) y una negativizacion del inhibidor del factor viii.
 de forma intercurrente el paciente refiere dolor y tumefaccion en tobillo derecho que se corrobora con la exploracion, por lo que se le pide ecografia de partes blandas para descartar hematoma profundo, resultando ser un seroma.
 durante el ingreso se solicita valoracion a dermatologia por carcinoma escamoso en cuero cabelludo que recomienda hacer interconsulta a cirugia plastica para exeresis una vez normalizados los tiempos de coagulacion y realizar un tc de cabeza y cuello para estudio de extension que se realiza previo al alta quedando pendiente de informe.
 nhc ** *** *** (********) age-v-mir 4/6 lopd dado al buen estado general del paciente, la mejoria clinica, la mejoria franca de los tiempos de coagulaion, nivel de facor viii y negativizacion del inhibidor, se decide alta a domicilio con tratamiento con prednisona y tacrolimus con visita de control en cosultas externas.
 orientacio diagnostica - hemofilia adquirida de etiologia desconocida -carcinoma escamoso vertex craneal - hipertension arterial esencial - enfermedad pulmonar obstructiva cronica - enfermedad renal cronica procediments - anallitica - ecg - radiografia de torax - eab - tc toraco-abdominal tractament i recomanacions a l'alta - prednisona en pauta descendente: prednisona 10mg dos comprimidos y medio en desayuno hasta el 8 de de julio de 2018 incluido prednisona 10mg dos comprimidos en desayuno hasta el 15 de julio de 2018 incluido prednisona 10mg un comprimidos y medio en desayuno hasta el 22 de julio de 2018 incluido prednisona 10mg un comprimidos en desayuno hasta valoracion en consultas externas - tacrolimus 0.5mg (prograf) dos comprimidos en desayuno y uno en cena (el dia de la analitica esperar a la realizacion de esta para la toma) -ideos un comprimido cada 12 horas resto de medicacion sin cambios: -spriva dos inhalaciones diarias -rilast dos inhalaciones cada 12 horas -emcoretic 10/25mg un comprimido en desayuno -omeprazol 20mg un comprimido antes de desayuno -valsartan 80mg un comprimido en desayuno - omnic 0.4mg un compimido en desayuno control controles en consultas de atencion inmediata, dia 2 de agosto a las 12:00h a consulta de atencion inmediata (cai) de medicina interna- primera planta.
-acudira previamente para realizacion de analitica en unidad de hemofilias (planta baja de traumatologia) segun citacion adjunta a las 8:45h.
-nhc ** *** *** (********) age-v-mir 5/6 lopd destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-mir 6/6 lopd
+acudira previamente para realizacion de analitica en unidad de hemofilias (planta baja de traumatologia) segun citacion adjunta a las 8:45h. nhc ** *** *** (********) age-v-mir 5/6 lopd destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-mir 6/6 lopd

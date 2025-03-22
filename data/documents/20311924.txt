@@ -1,16 +1,7 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 25.08.1985 edat: 34 anys procedencia aguts servei obstetricia data d'ingres 30.09.2019 data d'alta 03.10.2019 12:00:00 ates per *****************, **************; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres induccion al parto por deficit del factor xi antecedents alergias medicamentosas: acido acetilsalicilico antecedentes quirurgicos: adenoidectomia, ninfoplastia antecedentes medicos: derficit fxi no medicacion cronica.
 no fumadora.
 af: padre angina pectoris (2 stent) proces actual edad: 33 años tpal: 0020 (2 ives legrados) fur: 20.12.2018 sg: 40 +4 gsrh: 0 negativo gestacion controlada en alto riesgo obstetrico por deficit fxi paciente que ingresa para induccion al parto por deficit del factor xi.
-resumen gestacional: as 1t: f ix 96 u/dl (normal), f xi 41.
-7 u/dl (valor minimo de referencia 65u/dl) as 3t: hb 11.
-5; htco 35.
-9; leucocitos 12980; plaquetas 209000; tp &gt; 120%; ttpa 32.
-1 segundos; creatinina 0.52; fg &gt; 90.
-as 28/08/2019: hb 11.
-5; htco 35.
-4; leucocitos 11190; plaquetas 177000;tp &gt; 120%, ttpa 31 segundos; factor xi 60.
-8%.
-serologias: rubeola inmune, lues vih, vhb y vhc negativos.
+resumen gestacional: as 1t: f ix 96 u/dl (normal), f xi 41.7 u/dl (valor minimo de referencia 65u/dl) as 3t: hb 11.5; htco 35.9; leucocitos 12980; plaquetas 209000; tp &gt; 120%; ttpa 32.1 segundos; creatinina 0.52; fg &gt; 90. as 28/08/2019: hb 11.5; htco 35.4; leucocitos 11190; plaquetas 177000;tp &gt; 120%, ttpa 31 segundos; factor xi 60.8%. serologias: rubeola inmune, lues vih, vhb y vhc negativos.
 o'sullivan: alterado segun refiere pero no consta.
 ttog normal.
 triple screening: bajo riesgo riesgo de pe: 1/937 sgb: negativo eco 1º t: crl 54mm tn 1.6mm uterinas normales eco 2º t: morfologia normal.
@@ -27,10 +18,7 @@ puntos con cicatrizacion correcta.
 esta realizando lactancia materna.
 durante su estancia hospitalaria es valorada clinica y analiticamente por la unidad de hemofilia quien realiza recomendaciones al alta y programa proxima visita de control.
 debido a la buena evolucion clinica se decide alta hospitalaria.
-orientacio diagnostica induccion del parto parto eutocico lactancia materna puerperio clinico normal z33.
-3 estat de gestacio, portadora gestacional procediments venoclisis y sueroterapia monitorizacion fetal maduracion cervical con dinoprostona estimulacion oxitotocica amniorrexis artificial anestesia raquidea atencion al parto revision de canal blando del parto sutura de episiotomia analgesicos ferroterapia analitica sanguinea curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor).
-nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/3 lopd paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor).
-acido folico 1 al dia durante la lactancia.
+orientacio diagnostica induccion del parto parto eutocico lactancia materna puerperio clinico normal z33.3 estat de gestacio, portadora gestacional procediments venoclisis y sueroterapia monitorizacion fetal maduracion cervical con dinoprostona estimulacion oxitotocica amniorrexis artificial anestesia raquidea atencion al parto revision de canal blando del parto sutura de episiotomia analgesicos ferroterapia analitica sanguinea curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor). nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/3 lopd paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor). acido folico 1 al dia durante la lactancia.
 amchafibrin 2 comprimidos de 500mg/8 horas durante 5 dias despues del parto control acudir a consultas externas de hemofilia segun citacion.
 control por su matrona de zona en 7-10 dias.
 se recomienda abundante ingesta de liquidos y dieta variada y equilibrada.

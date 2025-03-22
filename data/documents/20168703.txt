@@ -2,24 +2,17 @@ nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixeme
 antecedents sin alergias medicamentosas conocidas.
 antecedentes medicos: - hipertension arterial esencial en tratamiento farmacologico.
 - dislipemia en tratamiento farmacologico.
-- cardiopatia isquemica intervenida de doble by-pass coronario en 1991.
-- sintomas de tracto urinario inferior (stui) secundarios a hiperplasia benigna de prostata en tratamiento farmacologico.
+- cardiopatia isquemica intervenida de doble by-pass coronario en 1991. - sintomas de tracto urinario inferior (stui) secundarios a hiperplasia benigna de prostata en tratamiento farmacologico.
 - hiperuricemia en tratamiento farmacologico.
 - lesion quistica en cola de pancreas sin signos de malignidad.
 cpre (17/10/2016): papila de aspecto normal.
 via biliar principal no dilatada con defectos de repleccion.
 se realizo esfinterotomia y limpieza con balon con salida de barro biliar.
-- sepsis origen biliar por probable colecistitis en marzo '17.
-clinica inicial de fiebre y bacteriemia; se trato con meropenem, desescalando a amoxicilina-clavulanico, con hc (+) para e.
-coli multisensible y k.
-oxytoca resistente solo a ampicilina.
+- sepsis origen biliar por probable colecistitis en marzo '17. clinica inicial de fiebre y bacteriemia; se trato con meropenem, desescalando a amoxicilina-clavulanico, con hc (+) para e. coli multisensible y k. oxytoca resistente solo a ampicilina.
 antecedentes quirurgicos - hernioplastia inguinal derecha - reseccion transuretral de tumor vesical en septiembre de 2016 con anatomia patologica de pta alto grado con cis yuxtatumoral, tx en diverticulo de alto grado.
-en diciembre 2016 se realizo nueva reseccion transuretral e inicio de inmunoterapia con bcg (ultima dosis 16/5/2017).
-- el 3/07/2017 se realizan biopsias vesicales multiples randomizadas (ap: negativa) + ureteroscopia rigida derecha y fragmentacion de litiasis pielica con laser restando fragmentos litiasicos de pequeño tamaño.
-se coloca cateter doble j 6/28ch derecho.
+en diciembre 2016 se realizo nueva reseccion transuretral e inicio de inmunoterapia con bcg (ultima dosis 16/5/2017). - el 3/07/2017 se realizan biopsias vesicales multiples randomizadas (ap: negativa) + ureteroscopia rigida derecha y fragmentacion de litiasis pielica con laser restando fragmentos litiasicos de pequeño tamaño. se coloca cateter doble j 6/28ch derecho.
 - biopsias vesicales con ap: negativa.
-realizadas en julio de 2017 y mayo de 2018 a raiz de citologia positiva - doble by-pass coronario en 1991 - colecistectomia en 2017.
-proces actual paciente de 87 años con antecedente de reseccion transuretral por tumor vesical en 2016 con ap: ptaag con cis yuxtatumoral, tx en diverticulo ag.
+realizadas en julio de 2017 y mayo de 2018 a raiz de citologia positiva - doble by-pass coronario en 1991 - colecistectomia en 2017. proces actual paciente de 87 años con antecedente de reseccion transuretral por tumor vesical en 2016 con ap: ptaag con cis yuxtatumoral, tx en diverticulo ag.
 realiza tratamiento con bcg de induccion y mantenimiento.
 en mayo de 2018 se realizan biopsias vesicales multiples sin evidencia de neoplasia.
 en cistoscopia posterior de control presenta nhc ** *** *** &nbsp;(********) &nbsp;age-v-uro 1/3 lopd alfombrado papilar con citologia positiva, motivo por el que se propone realizar biopsias vesicales multiples con reseccion transuretral de dicha lesion.
@@ -42,8 +35,7 @@ tras el procedimiento pasa a la planta de hospitalizacion siendo portador de lav
 posteriormente se mantiene en buen estado general, afebril, hemodinamicamente estable y con buen control del dolor.
 se consigue reducir el ritmo del lavado vesical hasta retirarlo.
 se retira la sonda vesical presentando miccion espontanea.
-orientacio diagnostica c67.
-9 neoplasia maligna, localitzacio no especificada de la bufeta urinaria procediments -profilaxis antibiotica, antitrombotica y antiulcerosa.
+orientacio diagnostica c67.9 neoplasia maligna, localitzacio no especificada de la bufeta urinaria procediments -profilaxis antibiotica, antitrombotica y antiulcerosa.
 -reseccion transuretral de tumor vesical.
 -biopsias vesicales multiples - mitomicina c intravesical -lavado vesical continuo.
 tractament i recomanacions a l'alta -abundante ingesta de liquidos.

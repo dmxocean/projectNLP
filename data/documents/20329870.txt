@@ -1,5 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 22.01.1984 edat: 35 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 03.10.2019 data d'alta 07.10.2019 11:59:00 ates per ******************, *****; ****************, ******; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres metrorragia antecedents no alergias medicamentosas conocidas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 22.01.1984 edat: 35 anys procedencia domicil/res.soc servei obstetricia data d'ingres 03.10.2019 data d'alta 07.10.2019 11:59:00 ates per ******************, *****; ****************, ******; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres metrorragia antecedents no alergias medicamentosas conocidas.
 intervenciones quirurgicas: miomectomia laparoscopia, polipectomia antecedentes patologicos: no refiere niega habitos toxicos.
 no medicacion habitual.
 proces actual edad: 35 años tpal: 0010 (gestacion ectopica tratada con metotrexate) dur: 28/5/2019 sg:18+2 gsrh: o + gestacion controlada en alto riesgo obstetrico (aro) por alto riesgo de preeclampsia en primer trimestre.
@@ -20,12 +19,8 @@ ecotv: cervix no valorable, canal endocervical con coagulos, placenta posterior 
 eco abdominal: feto unico en podalica , lcf +, placenta previa sin signos de desprendimiento, lan se extrae analitica con coagulacion y pruebas cruzadas y se indica cesarea urgente ante riesgo materno.
 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/4 lopd evolucio clinica ingresa gestante de 18+2 semanas por metrorragia y dolor.
 ante metrorragia activa abundante se decide finalizacion de la gestacion mediante cesarea.
-- analitica sanguinea al ingreso: hb 11 hto 34.
-7% leucocitos 10987 plq 295.000 tp 115% ttpa 27.4s creat 0.36 ast 22 alt 22.
-el 3.10.2019 se realiza cesarea tipo cohen.
-a las 19.15h se obtiene feto de 200gr, apgar 0/0.
-se objetiva desprendimiento de placenta normoinserta (ddpni).
-se realiza repaso de cavidad con gasa y con legra.
+- analitica sanguinea al ingreso: hb 11 hto 34.7% leucocitos 10987 plq 295.000 tp 115% ttpa 27.4s creat 0.36 ast 22 alt 22. el 3.10.2019 se realiza cesarea tipo cohen.
+a las 19.15h se obtiene feto de 200gr, apgar 0/0. se objetiva desprendimiento de placenta normoinserta (ddpni). se realiza repaso de cavidad con gasa y con legra.
 hemostasia correcta.
 utero tonico.
 intradermica en piel.
@@ -37,9 +32,7 @@ se coloca balon de bakri . se contacta con angiorradiologia y se procede a embol
 posteriormente la paciente es trasladada a unidad de curas obstetricas intermedias.
 en todo momento, ha permanecido consciente y hemodinamicamente estable.
 se decide la transfusion de un concentrado de hematie.
-analitica postransfusional: hb 9.
-6 hto 30%leucocitos 20560 n 90% plq 225.000 tp 117% ttpa 21.6s pcr 1.01.
-resultados: se envia placenta a anatomia patologica, resultados pendientes al alta.
+analitica postransfusional: hb 9.6 hto 30%leucocitos 20560 n 90% plq 225.000 tp 117% ttpa 21.6s pcr 1.01. resultados: se envia placenta a anatomia patologica, resultados pendientes al alta.
 no desean autopsia.
 se administra cabergolina.
 toxicos en orina: positivo para benzodiacepinas (probable falso negativo, extraccion tras procedimientos) ratio prot/creat en orina: negativo.
@@ -49,16 +42,9 @@ la paciente permanece con buen estado general, buen control del dolor, normotens
 utero tonico con perdidas vaginales escasas.
 herida quirurgica con cicatrizacion correcta.
 durante su estancia en planta es valorada clinicamente por psiquiatria perinatal.
-analitica sanguinea de control (04.10.19): hb 8.
-2, hto 25.
-6%, leucos 15450 (neutros 81%), plaquetas 196000, tp 88%.
-ttpa 23.
-7 seg, ast/alt 21/16, creatinina 0.31, pcr 4.
-9 debido a la buena evolucion clinica, se decide alta hospitalaria.
-orientacio diagnostica cesarea urgente desprendimiento prematuro de placenta normoinserta hemorragia postparto nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/4 lopd puerperio clinico normal o82 assistencia per a part per cesaria sense indicacio procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea cesarea: sutura intradermica hemorragia postparto ecografia abdominal legrado obstetrico sonda bakri embolizacion arterial profilaxis antibiotica profilaxis antitrombotica analgesicos ferroterapia analitica sanguinea curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor).
-clexane 40 mg cada 24 horas subcutaneo durante 10 dias desde la cesarea.
-paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor).
-control visita de control a las 6 semanas en alto riesgo obstetrico.
+analitica sanguinea de control (04.10.19): hb 8.2, hto 25.6%, leucos 15450 (neutros 81%), plaquetas 196000, tp 88%. ttpa 23.7 seg, ast/alt 21/16, creatinina 0.31, pcr 4.9 debido a la buena evolucion clinica, se decide alta hospitalaria.
+orientacio diagnostica cesarea urgente desprendimiento prematuro de placenta normoinserta hemorragia postparto nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/4 lopd puerperio clinico normal o82 assistencia per a part per cesaria sense indicacio procediments venoclisis y sueroterapia monitorizacion fetal anestesia raquidea cesarea: sutura intradermica hemorragia postparto ecografia abdominal legrado obstetrico sonda bakri embolizacion arterial profilaxis antibiotica profilaxis antitrombotica analgesicos ferroterapia analitica sanguinea curas de enfermeria tractament i recomanacions a l'alta hierro 1 comprimido al dia en ayunas durante 2 meses (con zumo de naranja se absorbe mejor). clexane 40 mg cada 24 horas subcutaneo durante 10 dias desde la cesarea.
+paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor). control visita de control a las 6 semanas en alto riesgo obstetrico.
 acudir segun citacion a consulta de alto riesgo obstetrico del duelo perinatal.
 se recomienda esperar minimo un año para buscar nuevo embarazo.
 se recomienda abundante ingesta de liquidos y dieta variada y equilibrada.

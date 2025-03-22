@@ -1,59 +1,33 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 10.10.2016 edat: 2 anys procedencia domicil/res.
-soc servei oncohematologia ped.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 10.10.2016 edat: 2 anys procedencia domicil/res.soc servei oncohematologia ped.
 data d'ingres 09.12.2018 data d'alta 13.12.2018 11:40:33 ates per *************, ******; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 2 años que ingresa el dia 9/12/18 en planta de oncohematologia por sindrome febril.
 antecedents vacunacion al dia sin alergias medicamentosas conocidas.
-diagnosticado de xiap (immunodeficiencia primaria que cursa con enfermedad inflamatoria intestinal y linfohistocitosis hemofagocitica).
-- mutacion gen xiap (c.888_892del / p.
-lys299leufsx8) patogenica.
+diagnosticado de xiap (immunodeficiencia primaria que cursa con enfermedad inflamatoria intestinal y linfohistocitosis hemofagocitica). - mutacion gen xiap (c.888_892del / p.lys299leufsx8) patogenica.
 madre portadora, hermano sano, pendiente de completar estudio familiar.
 - debut de enfermedad inflamatoria intestinal (ibd) a los 2 meses de vida con mala evolucion.
 diagnosticado de xiap en julio de 2018 a los 21 meses.
 inicio de tratamiento en julio de 2018 con prednisona a 2mg/kg ev + mezalasina.
-durante la fase de descenso (finales de julio) de esteroides reactivacion de eii y sindrome de activacion macrofagica (fiebre, esplenomegalia, pancitopenia, tg eleados e hipoalbuminemia + amo compatible).
-adecuado control con nuevo incremento de prednisona.
+durante la fase de descenso (finales de julio) de esteroides reactivacion de eii y sindrome de activacion macrofagica (fiebre, esplenomegalia, pancitopenia, tg eleados e hipoalbuminemia + amo compatible). adecuado control con nuevo incremento de prednisona.
 el 09.08.18 inicia tratamiento con infliximab y se mantiene tratamiento esteroideo a 0.75 mg/kg/dia.
-trasplante de precursores hematopoyeticos 06/11/2018.
-fuente de medula osea procedente de donante no emparentado 10/10, gs 0-.
-estudio de histocompatibilidad: - hla-a: a* 02:01 /a* 24:02 - hla -b: b* 39:01 /b * 44:02 - hla -c: cw* 05:01 /cw* 12:03 - hla-dr: drb1* 04:04 /drb1* 11:01 - hla-dq: dqb1*03:01 /dqb1* 03:02 acondicionamiento con alemtuzumab 0.2mg/kg/dosis ( -7, -6, -5, -4, -3), fludarabina 30mg/m2 (-6, -5, -4, -3, -2), melfalan (-1).
-recuperacion hematologica de 500 pmn el dia dia +23 (29.11.2018), 1% de reticulocitos el dia dia +14 (20.11.2018) y 20.000 plaquetas sin necesidad transfusional por &gt; 1 semana , dia +20 (26.11.2018).
-sin incidencias destacables durante el tph.
-medicacio habitual ciclosporina 0.2ml/12h micofenolato 0.6ml/12h.
-omeprazol 5ml/24h vit d3 0.5ml/24h hidrocortisona 2ml/8h septrin 6.8ml/24h itraconazol 5.5ml/24h aciclovir 1.
-2/8h nhc ** *** *** (********) ami-v-onh 1/3 lopd proces actual consulta por cuadro febricular de 24 horas de evolucion, apareciendo pico febril de 38ºc de una hora de evolucion.
+trasplante de precursores hematopoyeticos 06/11/2018. fuente de medula osea procedente de donante no emparentado 10/10, gs 0-. estudio de histocompatibilidad: - hla-a: a* 02:01 /a* 24:02 - hla -b: b* 39:01 /b * 44:02 - hla -c: cw* 05:01 /cw* 12:03 - hla-dr: drb1* 04:04 /drb1* 11:01 - hla-dq: dqb1*03:01 /dqb1* 03:02 acondicionamiento con alemtuzumab 0.2mg/kg/dosis ( -7, -6, -5, -4, -3), fludarabina 30mg/m2 (-6, -5, -4, -3, -2), melfalan (-1). recuperacion hematologica de 500 pmn el dia dia +23 (29.11.2018), 1% de reticulocitos el dia dia +14 (20.11.2018) y 20.000 plaquetas sin necesidad transfusional por &gt; 1 semana , dia +20 (26.11.2018). sin incidencias destacables durante el tph.
+medicacio habitual ciclosporina 0.2ml/12h micofenolato 0.6ml/12h. omeprazol 5ml/24h vit d3 0.5ml/24h hidrocortisona 2ml/8h septrin 6.8ml/24h itraconazol 5.5ml/24h aciclovir 1.2/8h nhc ** *** *** (********) ami-v-onh 1/3 lopd proces actual consulta por cuadro febricular de 24 horas de evolucion, apareciendo pico febril de 38ºc de una hora de evolucion.
 refiere la presencia de 1 vomito alimentario en domicilio.
 mas decaido durante el dia, con rechazo de la ingesta.
 ambiente epidemiologico: hermano y abuelo con cuadro de gastroenteritis leve los dias previos.
-exploracio fisica fc 135 bpm tªaxi 38.
-4 ºc fr rpm tªrec ºc ta s 105 mmhg sat o2 99 % ta d 51 mmhg pes 10.600 kg triangulo de evaluacion pediatrica estable buen estado general, normocoloreado y normohidratado.
+exploracio fisica fc 135 bpm tªaxi 38.4 ºc fr rpm tªrec ºc ta s 105 mmhg sat o2 99 % ta d 51 mmhg pes 10.600 kg triangulo de evaluacion pediatrica estable buen estado general, normocoloreado y normohidratado.
 no exantemas ni petequias.
 ac: tonos ritmicos sin soplos.
 pulsos presentes y simetricos.
-relleno capilas &lt;2".
-ar: buena entrada de aire bilateral, sin roncus ni sibilancias.
+relleno capilas &lt;2". ar: buena entrada de aire bilateral, sin roncus ni sibilancias.
 abdomen blando y depresible no doloroso a la palpacion sin masas ni megalias.
 orl: orofaringe levemente hiperemica, otoscopia normal con cerumen.
 nrl: activo y reactivo.
 no meningismo.
-exploracio complementaria analitica al ingreso 9/12: hb 9mg/dl, hto 26.
-3%, leucocitos 6320 (4800n, 300l, 1200m), plaquetas 289000.
-glucosa 93mg/dl, urea 33mg/dl, cr 0.34mg/dl, na 137.2mmol/l, k 4.06mmol/l, cl 104 mmol/l, mg 2.1mg/dl, ca 9.
-9 mg/dl, proteina 6.5g/dl, albumina 3.
-9 g/dl, pcr 0.52 mg/dl, pct 0.1ng/ml.
-analitica al alta 13/12: hb 8.3g/dl, reticulocitos 3%, leucocitos 2000 (1400n, 200l, 400m, 100eo), plaquetas 200000.
-glucosa 80mg/dl, urea 22mg/dl, cr 0.26mg/dl, urato 4.2mg/dl, bilirubina 0.25 mg/dl (directa 0.12mg/dl), na 139mmol/l, k 4.
-3 mmol/l, p 3.8mg/dl, mg 1.9mg/dl, calcio 9.1mg/dl, ast 33 ui/l, alt 18ui/l, fa 159 ui/l, ggt 11ui/l, prot 5.5g/dl, albumina 3.5g/dl, pcr 0.53mg/dl.
-hemocultivo 9/12 : negativo aspirado nasofaringeo a virus 9/12 : negativo coprocultivo 10/12: negativo evolucio clinica ingresa el dia 9/12/18 en planta de hospitalizacion de oncohematologia bajo control clinico y de constantes por sindrome febril.
+exploracio complementaria analitica al ingreso 9/12: hb 9mg/dl, hto 26.3%, leucocitos 6320 (4800n, 300l, 1200m), plaquetas 289000. glucosa 93mg/dl, urea 33mg/dl, cr 0.34mg/dl, na 137.2mmol/l, k 4.06mmol/l, cl 104 mmol/l, mg 2.1mg/dl, ca 9.9 mg/dl, proteina 6.5g/dl, albumina 3.9 g/dl, pcr 0.52 mg/dl, pct 0.1ng/ml. analitica al alta 13/12: hb 8.3g/dl, reticulocitos 3%, leucocitos 2000 (1400n, 200l, 400m, 100eo), plaquetas 200000. glucosa 80mg/dl, urea 22mg/dl, cr 0.26mg/dl, urato 4.2mg/dl, bilirubina 0.25 mg/dl (directa 0.12mg/dl), na 139mmol/l, k 4.3 mmol/l, p 3.8mg/dl, mg 1.9mg/dl, calcio 9.1mg/dl, ast 33 ui/l, alt 18ui/l, fa 159 ui/l, ggt 11ui/l, prot 5.5g/dl, albumina 3.5g/dl, pcr 0.53mg/dl. hemocultivo 9/12 : negativo aspirado nasofaringeo a virus 9/12 : negativo coprocultivo 10/12: negativo evolucio clinica ingresa el dia 9/12/18 en planta de hospitalizacion de oncohematologia bajo control clinico y de constantes por sindrome febril.
 al ingreso se canaliza via venosa y se inicia piperacilina-tazobactam y sueroterapia . a las 24 horas del ingreso inicia con vomitos alimentarios y deposiciones diarreicas sin productos patologicos.
 se mantiene durante los primeros dos dias del ingreso con sueroterapia de mantenimiento y requiere la administracion puntual de medicacion antiemetica; se comprueba correcta tolerancia oral posterior.
 febricular durante 36 horas, posteriormente estando afebril.
 a las 48 horas del ingreso ante negatividad del hemocultivo se decide suspender antibioterapia empirica.
-nhc ** *** *** (********) ami-v-onh 2/3 lopd en este contexto se constata niveles insuficientes de ciclosporina por lo que se pasa la medicacion a via endovenosa para asegurar niveles, asi mismo se administra una dosis de metilprednisolona endovenosa a 1mg/kg el dia 10/12/18.
-el dia 12/12/18 al constatar correcta tolerancia oral se vuelve a pasar ciclosporina a via oral.
-ante resolucion de la clinica, estando el paciente afebril y asintomatico, se decide alta el dia 13/12/18.
-seguira controles en hospital de dia.
-orientacio diagnostica r50.
-9 febre no especificada a09 gastroenteritis i colitis infeccioses no especificades d82.
-9 immunodeficiencia associada a un defecte major no especificat transplantat de precursors hematopoetics procediments canalitzacio via venosa antibioterapia empirica serumterapia de manteniment tractament i recomanacions a l'alta - ciclosporina 0.2ml/12h - micofenolato 0.6ml/12h.
-- omeprazol 5ml/24h - vit d3 0.5ml/24h - hidrocortisona 2ml/8h - septrin 6.8ml/24h - itraconazol 5.5ml/24h - aciclovir 1.
-2/8h control se llamara por telefono para informar sobre niveles de ciclosporina y si es preciso modificar la dosis; asi como para acordar fecha de proxima visita.
+nhc ** *** *** (********) ami-v-onh 2/3 lopd en este contexto se constata niveles insuficientes de ciclosporina por lo que se pasa la medicacion a via endovenosa para asegurar niveles, asi mismo se administra una dosis de metilprednisolona endovenosa a 1mg/kg el dia 10/12/18. el dia 12/12/18 al constatar correcta tolerancia oral se vuelve a pasar ciclosporina a via oral.
+ante resolucion de la clinica, estando el paciente afebril y asintomatico, se decide alta el dia 13/12/18. seguira controles en hospital de dia.
+orientacio diagnostica r50.9 febre no especificada a09 gastroenteritis i colitis infeccioses no especificades d82.9 immunodeficiencia associada a un defecte major no especificat transplantat de precursors hematopoetics procediments canalitzacio via venosa antibioterapia empirica serumterapia de manteniment tractament i recomanacions a l'alta - ciclosporina 0.2ml/12h - micofenolato 0.6ml/12h. - omeprazol 5ml/24h - vit d3 0.5ml/24h - hidrocortisona 2ml/8h - septrin 6.8ml/24h - itraconazol 5.5ml/24h - aciclovir 1.2/8h control se llamara por telefono para informar sobre niveles de ciclosporina y si es preciso modificar la dosis; asi como para acordar fecha de proxima visita.
 destinacio a l'alta: a domicili nhc ** *** *** (********) ami-v-onh 3/3 lopd

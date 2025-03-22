@@ -1,6 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 31.08.1960 edat: 59 anys procedencia cex mateix hosp servei cirurgia genoll data d'ingres 08.10.2019 data d'alta 15.10.2019 09:22:32 ates per ********, ***************; *************, *****; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents al.
-lergies sense al·lergies conegudes antecedents patologic apnea del son proces actual paciente que ingresa de forma programada para iq de rodilla exploracio complementaria no contraindican la cirugia evolucio clinica el dia 8/10/19 el paciente es intervenido de artrolisis abierta de ptr por el dr ********.
-sin complicaciones.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 31.08.1960 edat: 59 anys procedencia cex mateix hosp servei cirurgia genoll data d'ingres 08.10.2019 data d'alta 15.10.2019 09:22:32 ates per ********, ***************; *************, *****; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents al.lergies sense al·lergies conegudes antecedents patologic apnea del son proces actual paciente que ingresa de forma programada para iq de rodilla exploracio complementaria no contraindican la cirugia evolucio clinica el dia 8/10/19 el paciente es intervenido de artrolisis abierta de ptr por el dr ********. sin complicaciones.
 durante el postoperatorio el paciente se encuentra hemodinamicamente estable y con buen control del dolor.
 controles analiticos y radiologicos sin alteraciones destacables.
 herida quirurgica con buena evolucion.
@@ -12,7 +10,6 @@ deambulacion assistida con mueltas o caminador.
 mantener fisioterapia.
 cambio aposito aquacel + opsite en una setmana al cap.
 mantener apositio limpio y seco.
-retirar sutura en 15 dias postoperatorios analgesia paracetamol 1g/8h altern amb nolotil 575 mg/8h si persiste dolor, tramadol 50'mg/12h.
-omeprazol 20mg/24h en deju clexane 40mg/24h sc control control en cex cgn segun hoja adjunta.
+retirar sutura en 15 dias postoperatorios analgesia paracetamol 1g/8h altern amb nolotil 575 mg/8h si persiste dolor, tramadol 50'mg/12h. omeprazol 20mg/24h en deju clexane 40mg/24h sc control control en cex cgn segun hoja adjunta.
 acudir a urgencias si signos de alarma.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;atr-v-cgn 2/2 lopd

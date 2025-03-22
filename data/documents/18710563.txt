@@ -1,19 +1,11 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 22.03.1953 edat: 65 anys procedencia domicil/res.
-soc servei urologia data d'ingres 16.04.2018 data d'alta 19.04.2018 09:29:01 ates per ****************, ******; ************************, **** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de manera programada para reseccion transuretral de prostata.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 22.03.1953 edat: 65 anys procedencia domicil/res.soc servei urologia data d'ingres 16.04.2018 data d'alta 19.04.2018 09:29:01 ates per ****************, ******; ************************, **** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de manera programada para reseccion transuretral de prostata.
 antecedents sin alergias medicamentosas conocidas, no habitos toxicos.
 dislipemia . intervenciones quirurgicas: apendicectomia.
 proces actual paciente con los antecedentes anteriormente descritos, sintomas del tracto urinario inferior secundarios a obstruccion infravesical de origen prostatica, con inadecuado control de la sintomatologia pese al tratamiento farmacologico.
 se decide realizar reseccion transuretral de prostata.
-exploracio complementaria flujometria: vol.
-mic 230ml, qmax 9.
-5 ml/seg, rpm 60ml.
-psa 11/2017: 0.
-3 ng/ml.
-ecografia renovesicoprostatica 11/2017: prostata de 27 gr.
-ronyons de dimensions (r.d.
-: 118mm, r.e.
-: 114mm), morfologia i localitzacio normals, amb cortical conservada i bona diferenciacio cortico-medul.
-lar.
+exploracio complementaria flujometria: vol.mic 230ml, qmax 9.5 ml/seg, rpm 60ml.
+psa 11/2017: 0.3 ng/ml. ecografia renovesicoprostatica 11/2017: prostata de 27 gr.
+ronyons de dimensions (r.d.: 118mm, r.e.: 114mm), morfologia i localitzacio normals, amb cortical conservada i bona diferenciacio cortico-medul.lar.
 no s'observa dilatacio de vies urinaries ni imatges de litiasi renal.
 bufeta urinaria distesa (281cc), de parets llises i de gruix normal, sense imatges endoluminals.
 meats ureterals lliures.

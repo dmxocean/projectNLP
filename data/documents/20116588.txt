@@ -1,21 +1,14 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 25.12.1935 edat: 83 anys procedencia aten.
-primaria servei nefrologia data d'ingres 16.07.2019 data d'alta 29.07.2019 16:09:52 ates per equipo dra. ***** (*********, *****, ******).
-informe de trasllat a sociosanitari motiu d'ingres mujer de 83 años con erc que es trasladada de css *********** por insuficiencia renal aguda . antecedents sin alergias medicamentosas conocidas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 25.12.1935 edat: 83 anys procedencia aten.primaria servei nefrologia data d'ingres 16.07.2019 data d'alta 29.07.2019 16:09:52 ates per equipo dra. ***** (*********, *****, ******). informe de trasllat a sociosanitari motiu d'ingres mujer de 83 años con erc que es trasladada de css *********** por insuficiencia renal aguda . antecedents sin alergias medicamentosas conocidas.
 niega habitos toxicos.
 antecedentes patologicos - hipertension arterial en tratamiento con diuretico - dislipidemia en tratamiento con estatinas - diabetes mellitus tipo 2 en tratamiento con ados.
 complicaciones microcirculatorias.
 ultimo control hb1ac 09/2017: 7,0 % -insuficiencia renal cronica de probable etiologia mixta (dmii + nas): valorada en hospital del mar.
-creatininas entre 1.32 - 1.50.
-fgs entre 29- 32.
-- infarto lacunar talamico izquierdo de probable etiologia microangiopatica.
+creatininas entre 1.32 - 1.50. fgs entre 29- 32. - infarto lacunar talamico izquierdo de probable etiologia microangiopatica.
 - osteoporosis en tratamiento con denosumab - artrosis en seguimiento por probable artritis.
--fractura de meseta tibial izquierda en julio de 2019.
-- radiculopatia l4 izquierda de probable origen mecanico intervenida.
+-fractura de meseta tibial izquierda en julio de 2019. - radiculopatia l4 izquierda de probable origen mecanico intervenida.
 situacion sociofuncional: actualmente realizando convalescencia en css *********** tras fractura de meseta tibial izquierda.
 sin deterioro cognitivo.
-medicacio habitual adiro 100mg/24h, atorvastatina 80mg/24h, hidroclortiazida 25mg/24h, hidroferol 0.266mg/24h, insulina lantus 40u/24h, omacor 1000mg/8h, novorapid segun bmt, omeprazol 20mg/24h, prolia 60mg/6 meses, seroxat 20mg/24h, zamene 6mg/24h.
-proces actual la paciente refiere diarreas sin productos patologicos de consistencia pastosa, en numero 4-5 al dia de 15 dias de evolucion junto con disconfort abdominal mientras realizaba convalescencia por fractura de meseta tibial izquierda en css ***********.
-la paciente previamente estuvo realizando tratamiento con ciprofloxacino por infeccion urinaria.
+medicacio habitual adiro 100mg/24h, atorvastatina 80mg/24h, hidroclortiazida 25mg/24h, hidroferol 0.266mg/24h, insulina lantus 40u/24h, omacor 1000mg/8h, novorapid segun bmt, omeprazol 20mg/24h, prolia 60mg/6 meses, seroxat 20mg/24h, zamene 6mg/24h. proces actual la paciente refiere diarreas sin productos patologicos de consistencia pastosa, en numero 4-5 al dia de 15 dias de evolucion junto con disconfort abdominal mientras realizaba convalescencia por fractura de meseta tibial izquierda en css ***********. la paciente previamente estuvo realizando tratamiento con ciprofloxacino por infeccion urinaria.
 el pasado dia 12/07 se realizo analitica que muestra cifras de creatinina de 7.7mg/dl, motivo por el cual es derivada a nuestro centro.
 no vomitos, nauseas, fiebre ni otros sintomas asociados.
 hace 24 horas aproximadamente que la diarrea se ha autolimitado.
@@ -42,75 +35,24 @@ pr 0.12seg.
 qrs 0.08seg.
 morfologia de bloqueo de rama derecha.
 no se observan alteraciones agudas en el segmento st ni en la repolarizacion.
-eje -60º.
--eab: ph 7.09, pco2 19mmhg, na+ 132mmol/l, k+3.3mmol/l, lactatos 0.5mmol/l, hco3- 7.5mmol/l.
--rx torax: marco oseo y tejidos blandos sin alteraciones.
+eje -60º. -eab: ph 7.09, pco2 19mmhg, na+ 132mmol/l, k+3.3mmol/l, lactatos 0.5mmol/l, hco3- 7.5mmol/l. -rx torax: marco oseo y tejidos blandos sin alteraciones.
 no desviacion del mediastino.
 senos costofrenicos libres.
 no alteraciones parenquimatosas.
 -rx abdomen: heces abundandes en marco colico.
 no se observa dilatacion de asas ni niveles hidroaereos.
 no litiasis.
--analitica: hb 8.
-9 g/dl, hcto 27.
-1 %, vcm 81.
-4 fl, hcm 26.
-7 pg, leucocitos 15.81 x10e9/l, n 77.
-2 %, l 13.
-2 %, m 7.
-1 %, e 2.
-1 %, b 0.
-4 %, can 12.
-2 x10e9/l, cal 2.
-1 x10e9/l, plaquetas 261 x10e9/l, quick 97 %, inr 1.02, ttpa ratio 0.82 , fibr 4.66 g/l, glucosa 45, urea 291, na 134.
-7 mmol/l, k 3.36, ast 11 ui/l, alt 4.
-*eab 10h: ph.
-7.15.
-pco2 29.
-po2 25.
-hco3 10.
-lac 0.8.
-*eab 01h: ph 7.22, hco3 12.
-3, k 3.
-7, eb -15, lactato 0.5.
-**ag: hb 7.
-9, hto 23.
-5%, leucocitos 13.48 x10e9/l, u 284, cr 8.69, na 135.
-4, k 2.77.
--ag (29/07/2019): hb 9.
-1 g/dl, hcto 27.
-5 %, vcm 82.
-6 fl, hcm 27.
-3 pg, leucocitos 9.27 x10e9/l, n 66.
-3 %, l 15.
-7 %, m 11.
-8 %, e 5.
-7 %, b 0.
-5 %, can 6.
-1 x10e9/l, cal 1.
-5 x10e9/l, plaquetas 219 x10e9/l, glucosa 80 mg/dl, urea 58 mg/dl, creatinina 3.01 mg/dl, fge 14 ml/min/1,73, urato 7.
-1 mg/dl, bilir.
+-analitica: hb 8.9 g/dl, hcto 27.1 %, vcm 81.4 fl, hcm 26.7 pg, leucocitos 15.81 x10e9/l, n 77.2 %, l 13.2 %, m 7.1 %, e 2.1 %, b 0.4 %, can 12.2 x10e9/l, cal 2.1 x10e9/l, plaquetas 261 x10e9/l, quick 97 %, inr 1.02, ttpa ratio 0.82 , fibr 4.66 g/l, glucosa 45, urea 291, na 134.7 mmol/l, k 3.36, ast 11 ui/l, alt 4. *eab 10h: ph.
+7.15. pco2 29. po2 25. hco3 10. lac 0.8. *eab 01h: ph 7.22, hco3 12.3, k 3.7, eb -15, lactato 0.5. **ag: hb 7.9, hto 23.5%, leucocitos 13.48 x10e9/l, u 284, cr 8.69, na 135.4, k 2.77. -ag (29/07/2019): hb 9.1 g/dl, hcto 27.5 %, vcm 82.6 fl, hcm 27.3 pg, leucocitos 9.27 x10e9/l, n 66.3 %, l 15.7 %, m 11.8 %, e 5.7 %, b 0.5 %, can 6.1 x10e9/l, cal 1.5 x10e9/l, plaquetas 219 x10e9/l, glucosa 80 mg/dl, urea 58 mg/dl, creatinina 3.01 mg/dl, fge 14 ml/min/1,73, urato 7.1 mg/dl, bilir.
 total 0.35 mg/dl, bilir.
-directa 0.16 mg/dl, na 136.
-7 mmol/l, k 4.05 mmol/l, po4 3.
-8 mg/dl, ca 8.
-3 mg/dl, ast 13 ui/l, alt 12 ui/l, fa 99 ui/l, ggt 55 ui/l, colesterol 242 mg/dl, trigl.
-287 mg/dl, prots 5.
-6 g/dl, albumina 3.
-1 g/dl.
--ionograma orina: na+ 49mmol/l, k+ 16mmol/l, cl- 48mmol/l.
-**ag: hb 7.
-9, hto 23.
-5%, leucocitos 13.48 x10e9/l, u 284, cr 8.69, na 135.
-4, k 2.77.
-**serologias negativas.
+directa 0.16 mg/dl, na 136.7 mmol/l, k 4.05 mmol/l, po4 3.8 mg/dl, ca 8.3 mg/dl, ast 13 ui/l, alt 12 ui/l, fa 99 ui/l, ggt 55 ui/l, colesterol 242 mg/dl, trigl.
+287 mg/dl, prots 5.6 g/dl, albumina 3.1 g/dl. -ionograma orina: na+ 49mmol/l, k+ 16mmol/l, cl- 48mmol/l. **ag: hb 7.9, hto 23.5%, leucocitos 13.48 x10e9/l, u 284, cr 8.69, na 135.4, k 2.77. **serologias negativas.
 **sedimento de orina: piuria.
 -coprocultivo convencional: negativo.
 clostridium negativo.
 - hc 16/7, 21/7 negativos - colonoscopia (26/07/2019): se explora la totalidad del colon hasta fondo de saco cecal visualizando foramen apendicular y valvula ileocecal con los siguientes hallazgos: - numerosos diverticulos en sigma de tamaño pequeño sin signos de complicacion.
 -a 25 cm del margen anal polipo sesil de 3 mm que se reseca con asa fria y se recupera para estudio histologico.
-canal anal con hemorroides internas de tamaño pequeño.
-polipectomia . diagnostico: - diverticulosis de sigma.
+canal anal con hemorroides internas de tamaño pequeño. polipectomia . diagnostico: - diverticulosis de sigma.
 - polipo colonico . nhc ** *** *** &nbsp;(********) &nbsp;age-v-nfr 2/3 lopd evolucio clinica mujer de 83 años con los antecedentes mencionados, es derivada de css *********** por insuficiencia renal en contexto de perdidas digestivas.
 a su llegada a urgencias, se encuentra hemodinamicamente estable, afebril, con marcada deshidratacion mucocutanea, y edemas en zonas de declive.
 se evidencia creatinina de 9.83mg/dl y fg de 3ml/min, asociado a acidosis metabolica , hipocalemia , leve proteinuria se orienta como insuficiencia renal aguda con feu 40%; iniciando sueroterapia y bicarbonato ev.
@@ -118,11 +60,9 @@ ademas, anemia normocitica hipocromica , se realiza transfusion de 1 cchh , con 
 ante sedimento de orina con piuria y leve leucocitosis, se inicia cobertura empirica con ciprofloxacino ev, cambiandose a amoxicilina-clavulanico.
 coprocultivo y test para clostriudium difficile negativos.
 hemocultivos y urocultivos son negativos, por lo que se suspende antibioticoterapia.
-durante su estancia hospitalaria presenta mejora del estado general, con inicio de dieta oral bien tolerado; pero con persistencia de deposiciones diarreicas (aunque en menor cantidad).
-como incidencia, presenta vomito con rasgo de sangre, siendo valorado por digestivo que lo orientan como sindrome de mallory weiss , iniciando inhibidores de bomba de protones en dosis doble.
+durante su estancia hospitalaria presenta mejora del estado general, con inicio de dieta oral bien tolerado; pero con persistencia de deposiciones diarreicas (aunque en menor cantidad). como incidencia, presenta vomito con rasgo de sangre, siendo valorado por digestivo que lo orientan como sindrome de mallory weiss , iniciando inhibidores de bomba de protones en dosis doble.
 por cuadro diarreico persistente, se realiza colonoscopia que muestra diverticulosis y polipo colonico, el cual es polipectomizado, pendiente de ap.
-desde el punto de vista nefrologico, se evidencia mejoria de la funcion renal, con creatinina 2.
-9-3.02, con diuresis preservada.
+desde el punto de vista nefrologico, se evidencia mejoria de la funcion renal, con creatinina 2.9-3.02, con diuresis preservada.
 dado buen estado general, se decide alta a residencia css isabel rpig para continuar convalescencia y tratamiento medico.
 se indica control por cex nefrologia y primera visita por digestivo.
 orientacio diagnostica -insuficiencia renal aguda, prerrenal por perdidas digestivas.
@@ -130,13 +70,8 @@ orientacio diagnostica -insuficiencia renal aguda, prerrenal por perdidas digest
 -enfermedad renal cronica.
 -diverticulosis en sigma.
 -polipo colonico.
--diabetes mellitus tipo 2.
--hipertension arterial.
-tractament i recomanacions a l'alta -dieta baja en sal, rica en residuos (fibra).
--ingesta hidrica de 1.
-5-2l de agua al dia.
--evitar aines (naproxeno, diclofenaco, iburpofeno).
-medicacion: ver silicon.
+-diabetes mellitus tipo 2. -hipertension arterial.
+tractament i recomanacions a l'alta -dieta baja en sal, rica en residuos (fibra). -ingesta hidrica de 1.5-2l de agua al dia.
+-evitar aines (naproxeno, diclofenaco, iburpofeno). medicacion: ver silicon.
 control traslado a css.
-***********.
-destinacio a l'alta: soci sanitari nhc ** *** *** &nbsp;(********) &nbsp;age-v-nfr 3/3 lopd
+***********. destinacio a l'alta: soci sanitari nhc ** *** *** &nbsp;(********) &nbsp;age-v-nfr 3/3 lopd

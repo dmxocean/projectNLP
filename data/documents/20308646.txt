@@ -1,23 +1,17 @@
 nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 26.12.1970 edat: 48 anys procedencia cex mateix hosp servei pneumologia data d'ingres 30.09.2019 data d'alta 02.10.2019 07:47:55 ates per equipo de neumologia: dra. ********** (dra. *******, dra. ****) informe d'alta d'hospitalitzacio motiu d'ingres varon de 48 años ingresa de forma programada para tc-paaf sobre lsi.
 antecedents sin alergias medicamentosas conocidas.
 fumador activo.
-(fe 30 paq-año).
-niega habito enolico u otros toxicos.
+(fe 30 paq-año). niega habito enolico u otros toxicos.
 antecedentes patologicos.
 -sin hipertension arterial, dislipemia o diabetes conocidas.
--obesidad tipo i (imc 31,8) -ulcera gastrica con hp +.
-realizo tratamiento erradicador.
--dos accidentes de moto (2003, 2015).
-fracturas vertebrales en l1, luxacion acromioclavicular hombro izquierdo, fractura de coxis.
+-obesidad tipo i (imc 31,8) -ulcera gastrica con hp +. realizo tratamiento erradicador.
+-dos accidentes de moto (2003, 2015). fracturas vertebrales en l1, luxacion acromioclavicular hombro izquierdo, fractura de coxis.
 historia neumologica.
 -en estudio por cuadro de disnea de esfuerzo, tos y dolor toracico atipico de 1 año de evolucion.
 se incio estudio en map mediante pfr que resultaron compatibles con la normalidad (sin volumenes) y radiografia de torax sin alteraciones.
 acudio a hospital quiron donde realizaron tc y pet tc que objetivo masa hiper metabolica en lsi con adenopatias; realizaron una bag que no objetivo celulas atipicas.
-*pfr: (26/09/19): fvc 3.49 (79%), fev1 2.87 (80%), r 82%.
-rv 103%, tlc 78%.
-no han realizado dlco.
-*tc toracico (10/09/19, h.
-quiron): neoformacion en lsi, que infiltra mediastino con adenopatias en la region prevascular izquierda y discreto derrame pleural asociado.
+*pfr: (26/09/19): fvc 3.49 (79%), fev1 2.87 (80%), r 82%. rv 103%, tlc 78%. no han realizado dlco.
+*tc toracico (10/09/19, h. quiron): neoformacion en lsi, que infiltra mediastino con adenopatias en la region prevascular izquierda y discreto derrame pleural asociado.
 esteatosis hepetica.
 osteosintesis metelica lumbar que ocasiona artefactos.
 *pet/tc (12/09/19, h quiron): masa con aumento del metabolismo de la fdg en el lsi en relacion con proceso neoformativo que infiltra mediastino e hilio pulmonar ipsilateral y que presenta, asociadas, adenopatias hipermetabolicas de localizacion prevascular en mediastino.
@@ -54,8 +48,7 @@ exploracio complementaria - bag de pulmon guiada por tc (01/10/19): se realiza p
 en el estudio post-puncion no se observa la presencia de complicaciones.
 conclusion: biopsia pulmonar sin complicaciones inmediatas.
 - rx de torax control : bien centrada e inspirada.
-indice cardiotoracico &lt;0.5.
-parenquima pulmonar con presencia de condensacion a nivel lobulo superior izquierdo, no se pueden descartar engrosamientos bronquiales.
+indice cardiotoracico &lt;0.5. parenquima pulmonar con presencia de condensacion a nivel lobulo superior izquierdo, no se pueden descartar engrosamientos bronquiales.
 senos costofrenicos libres.
 sin signos de neumotorax.
 evolucio clinica varon de 48 años con los antecedentes descritos que ingresa de forma programada para la realizacion de un tc-paaf sobre nodulo pulmonar en lobulo superior izquierdo.
