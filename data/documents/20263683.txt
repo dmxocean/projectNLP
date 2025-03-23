@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 22.09.2018 edat: 11 mesos procedencia cex mateix hosp servei medicina pediatrica data d'ingres 12.09.2019 data d'alta 16.09.2019 11:31:04 ates per ****************, ****; ************, ****; ***********, ***; *****;;; *************, mariona informe d'alta d'hospitalitzacio motiu d'ingres paciente de 11 meses que ingresa en unidad de hospitalizacion pediatrica el dia 12.09.2019 por absceso cutaneo.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 22.09.2018 edat: 11 mesos procedencia cex mateix hosp servei medicina pediatrica data d'ingres 12.09.2019 data d'alta 16.09.2019 11:31:04 ates per ****************, ****; ************, ****; ***********, ***; *****;;; *************, mariona informe d'alta d'hospitalitzacio motiu d'ingres paciente de 11 meses que ingresa en unidad de hospitalizacion pediatrica el dia 12.09.2019 por absceso cutaneo.
 antecedents sin alergias conocidas calendario vacunal al dia antecedentes patologicos: - fistula en manubrio esternal de 17mm longitud, 4x3mm axial.
 en seguimiento por cirugia maxilofacial.
 un episodio de sobreinfeccion en junio de 2019.
@@ -7,10 +7,10 @@ proces actual paciente que acude por presentar absceso cutaneo en region esterna
 habia sido visitada dos veces en urgencias por presentar, desde hace 7 dias aproximadamente, masa en region esternal edematosa y caliente en zona de trayecto fistuloso (ya conocido).
 se orienta como absceso cutaneo por lo que se pauta amoxicilina/ac.
 clavulanico y altan a domicilio.
-la madre refiere que a pesar de la administracion antibiotica, con la que relaciona la aparicion de lesiones cutaneas en cara y cuello, la masa ha incrementado de tamaño pero no ha presentado supuracion alguna y paciente se ha mantenido afebril en todo momento.
+la madre refiere que a pesar de la administracion antibiotica, con la que relaciona la aparicion de lesiones cutaneas en cara y cuello, la masa ha incrementado de tamaÃ±o pero no ha presentado supuracion alguna y paciente se ha mantenido afebril en todo momento.
 no presenta otra sintomatologia.
 hoy acude a visita espontanea a cirugia maxilofacial para valoracion.
-exploracio fisica fc bpm tªaxi ºc fr rpm tªrec ºc ta s mmhg sat o2 % ta d mmhg pes 10.750 kg triangulo de evaluacion pediatrica estable.
+exploracio fisica fc bpm tÂªaxi Âºc fr rpm tÂªrec Âºc ta s mmhg sat o2 % ta d mmhg pes 10.750 kg triangulo de evaluacion pediatrica estable.
 buen estado general.
 masa en region esternal (a nivel de manubrio esternal) masa de 3x4cm aproximadamente dura sin fluctuacion aparente, no adherida a planos profundos y dolorosa a la palpacion.
 exploracion neurologica: activa y reactiva.

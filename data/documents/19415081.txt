@@ -1,8 +1,8 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 13.01.1977 edat: 41 anys procedencia cex mateix hosp servei obstetricia data d'ingres 09.12.2018 data d'alta 09.12.2018 21:00:00 ates per ***********, ***** informe d'alta d'hospitalitzacio motiu d'ingres interrupcion legal del embarazo antecedents no alergias medicamentosas conocidas.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 13.01.1977 edat: 41 anys procedencia cex mateix hosp servei obstetricia data d'ingres 09.12.2018 data d'alta 09.12.2018 21:00:00 ates per ***********, ***** informe d'alta d'hospitalitzacio motiu d'ingres interrupcion legal del embarazo antecedents no alergias medicamentosas conocidas.
 no intervenciones quirurgicas ni otros antecedentes patologicos.
 niega habitos toxicos.
 no medicacion habitual.
-proces actual edad: 41 años.
+proces actual edad: 41 aÃ±os.
 tpal: 0010 (ile por trisomia 21 a 17 semanas en h igualada).
 fur:12-09-2018 sg: 12+4 gsrh: 0+.
 coombs indirecto negativo.

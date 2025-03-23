@@ -1,21 +1,21 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 18.03.1952 edat: 66 anys procedencia cex mateix hosp servei pneumologia data d'ingres 15.05.2018 data d'alta 16.05.2018 08:59:22 ates per equipo de trasplante pulmonar dra. ********** ( ******** - *******).
-informe d'alta d'hospitalitzacio motiu d'ingres hombre de 66 años que ingresa programado para realizacion de fibrobroncoscopia antecedents - niega alergias medicamentosas.
-- exfumador desde los 14 a los 22 años, 10-15 cig/dia.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 18.03.1952 edat: 66 anys procedencia cex mateix hosp servei pneumologia data d'ingres 15.05.2018 data d'alta 16.05.2018 08:59:22 ates per equipo de trasplante pulmonar dra. ********** ( ******** - *******).
+informe d'alta d'hospitalitzacio motiu d'ingres hombre de 66 aÃ±os que ingresa programado para realizacion de fibrobroncoscopia antecedents - niega alergias medicamentosas.
+- exfumador desde los 14 a los 22 aÃ±os, 10-15 cig/dia.
 antecedentes patologicos: - dislipemia en tratamiento con estatinas.
 - politraumatismo por accidente de trafico en 1990.
-- linfoma cutaneo hace 10 año tratata con cirugia y radioterpia (libre de enfermedad) -ploitrumatismo por accidente de palabra con fractuira de pelvis 1990 (5 meses de ingreso y rehabiltacio 1 nay).
+- linfoma cutaneo hace 10 aÃ±o tratata con cirugia y radioterpia (libre de enfermedad) -ploitrumatismo por accidente de palabra con fractuira de pelvis 1990 (5 meses de ingreso y rehabiltacio 1 nay).
 rizoartosis bilateral.
-discopatia lumbar, sd prostatico de 10 año de evolucion.
+discopatia lumbar, sd prostatico de 10 aÃ±o de evolucion.
 - ginecomastia en estudio - gammapatia monoclonal kappa landa con igs normales ya estudiada (bence jones negativo).
-- hipertrofia benigna de prostata historia neumologica - contacto con un gato y hace 12 años habia tenido un perro.
+- hipertrofia benigna de prostata historia neumologica - contacto con un gato y hace 12 aÃ±os habia tenido un perro.
 en la infnacia contacto con gallinas.
-el padre tenia un canario (el contcate hace muchos años.
+el padre tenia un canario (el contcate hace muchos aÃ±os.
 no contacto con otras aves.
 si que tiene contactos con plumas.
 parezca que puede tener contacto con almohada de plumas y ocasionalmnte duerme con nordic de plumas (no habitulament), -no exposiciones fungicas ambientales . antecedentes familiares: madre asmatica, los dos ancianos muertos de neumopatia que no sabe definir (epoc ????).
 -enfermedad intersticial en estudio; en seguimiento por cex de neumologia dr. *****.
-cuadro clinico de hace 5 a 6 años comienza a notar tos, tal disnea de muy grandes esfuerzos.
-este tos parezca que quizas va a mes hasta todo el ultimo año en que aumenta calarament, la dinsea s¡pasas a ser de grandes esfoços y es el motivo por el que consulta.
+cuadro clinico de hace 5 a 6 aÃ±os comienza a notar tos, tal disnea de muy grandes esfuerzos.
+este tos parezca que quizas va a mes hasta todo el ultimo aÃ±o en que aumenta calarament, la dinsea sÂ¡pasas a ser de grandes esfoÃ§os y es el motivo por el que consulta.
 muy escasa expectoracion muy ocasional.
 no fiebre.
 parezca que los sintomas se exacerban un poco mas despues del mes de diciembre cuando vuelve de china (15 dias).
@@ -41,21 +41,21 @@ nhc ** *** *** (********) age-v-nml 1/3 lopd igg mezcla pajaro: 3.81 mga/l; igg 
 antiestreptolosinas &lt; 50 ui/ml.
 -tc de torax: patron en vidrio esmerilado asociado a reticulacion de predominio basal bilateral con imagenes de bronquiolectasies y bronquiectasias posiblemente por traccion.
 no se observa la presencia de claro atrapamiento aereo.
-arteria pulmonar de tamaño normal.
-mediastino en ganglios linfaticos de tamaño no significativa.
-pequeña hernia de hiato por deslizamiento.
+arteria pulmonar de tamaÃ±o normal.
+mediastino en ganglios linfaticos de tamaÃ±o no significativa.
+pequeÃ±a hernia de hiato por deslizamiento.
 ginecomastia bilateral.
-higado homogeneo de tamaño normal.
+higado homogeneo de tamaÃ±o normal.
 glandulas suprarrenales no ocupadas.
 marco oseo sin alteraciones significativas.
 conclusion: neumopatia intersticial con signos de fibrosis.
 situacion sociofuncional : independiente para las actividades de la vida diaria.
-. proces actual hombre de 66 años que ingresa de forma programada para fibrobroncoscopia con biopsia.
+. proces actual hombre de 66 aÃ±os que ingresa de forma programada para fibrobroncoscopia con biopsia.
 al momento se encuentra dentro de su sintomatologia respiratoria basal, sin otra sintomatologia de interes.
-exploracio fisica ta: 124/84, fc: 76 lpm, spo2:97 %, tª:36.
-1 ºc.
+exploracio fisica ta: 124/84, fc: 76 lpm, spo2:97 %, tÂª:36.
+1 Âºc.
 paciente normohidratado, normocoloreado, colaborador.
-acv: tonos ritmicos sin soplos ni ruidos sobreañadidos.
+acv: tonos ritmicos sin soplos ni ruidos sobreaÃ±adidos.
 no edemas ni ingurgitacion yugular.
 no signos de trombosis venosa profunda en miembros inferiores.
 pulsos perifericos presentes y simetricos.
@@ -76,7 +76,7 @@ se realiza bas, lba en lingula y 4 criobiopsias en lid.
 - radiografia de torax : sin presencia de neumotorax.
 - ap y citologia pendiente de resultados.
 - cultivo de bal y bas: pendiente de resultados.
-nhc ** *** *** (********) age-v-nml 2/3 lopd evolucio clinica paciente de 66 años que ingresa programado para realizacion de fibrobroncoscopia con criobiopsia.
+nhc ** *** *** (********) age-v-nml 2/3 lopd evolucio clinica paciente de 66 aÃ±os que ingresa programado para realizacion de fibrobroncoscopia con criobiopsia.
 se realiza procedimiento sin presentar complicaciones.
 se realiza radiografia de toarx de control sin evidencia de neumotorax.
 cursa hospitalizacion de 24 h sin incidencias.

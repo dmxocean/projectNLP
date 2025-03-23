@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 04.08.2000 edat: 19 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 04.10.2019 data d'alta 06.10.2019 13:02:36 ates per ******************, *****; ****************, ******** informe d'alta d'hospitalitzacio motiu d'ingres treball de part antecedents no al·lergies medicamentoses conegudes.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 04.08.2000 edat: 19 anys procedencia domicil/res.
+soc servei obstetricia data d'ingres 04.10.2019 data d'alta 06.10.2019 13:02:36 ates per ******************, *****; ****************, ******** informe d'alta d'hospitalitzacio motiu d'ingres treball de part antecedents no alÂ·lergies medicamentoses conegudes.
 no intervencions quirurgiques ni altres antecedents patologics.
 nega habits toxics.
 no medicacio habitual.

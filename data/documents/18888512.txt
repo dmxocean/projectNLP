@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 11.01.1926 edat: 92 anys procedencia aguts servei medicina interna 1 data d'ingres 06.06.2018 data d'alta 27.06.2018 16:00:00 ates per equipo dr. *****-dr.
-****** (dra. *********, dra. *****,dra- *****) informe d'alta d'hospitalitzacio motiu d'ingres paciente de 92 años que ingresa de forma programada para estudio y tratamiento de hemofilia adquirida . antecedents antecedentes personales: - sin alergias medicamentosas conocidas - no refiere habitos toxicos antecedentes patologicos - hipertension arterial en tratamiento.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 11.01.1926 edat: 92 anys procedencia aguts servei medicina interna 1 data d'ingres 06.06.2018 data d'alta 27.06.2018 16:00:00 ates per equipo dr. *****-dr.
+****** (dra. *********, dra. *****,dra- *****) informe d'alta d'hospitalitzacio motiu d'ingres paciente de 92 aÃ±os que ingresa de forma programada para estudio y tratamiento de hemofilia adquirida . antecedents antecedentes personales: - sin alergias medicamentosas conocidas - no refiere habitos toxicos antecedentes patologicos - hipertension arterial en tratamiento.
 complicacion en forma de cardiopatia hipertensiva e insuficiencia cardiaca diastolica que debuto como un episodio de insuficiencia cardiaca.
 no disponemos de informes, - epoc gold ii en tratamiento broncodilatador, no agudizador.
 pfr (2010): fev1/fvc 58.94%, fev1 1.45l (59%), fvc 2.46l (67%).
@@ -24,7 +24,7 @@ omeprazol 20 mg vo cada 24 horas, omnic ocas 0.
 5 mg vo cada 48 horas, pirast 160/4.
 5 mcg 2 inh cada 12 horas, spiriva 2.
 5 mcg 2 inh cada dia, valsartan 80 mg vo cada dia.
-proces actual paciente de 92 años que acude derivado de manresa donde el paciente, tras encontrar alteracion en la coagulacion sospechan de hemofilia adquirida.
+proces actual paciente de 92 aÃ±os que acude derivado de manresa donde el paciente, tras encontrar alteracion en la coagulacion sospechan de hemofilia adquirida.
 el 25 de mayo acude a urgencias por hematomas espontaneos nhc ** *** *** (********) age-v-mir 1/6 lopd relacionados con la toma de hidroxil b (habia tomado 5 comprimidos) y acude al cap donde lo suspenden.
 aparece nuevo hematoma espontaneo en gluteo izquierdo, por lo que finalmente decide acudir a urgencias siendo dado de alta el 28 de mayo.
 se realiza estudio el 5 de junio que muestra hb 9,6 ttpa ratio 2,2 69 segundos.
@@ -33,7 +33,7 @@ ag y cor.
 resto via intrinseca ix, xi xii normales motivo por el que se deriva.
 el paciente explica por cuadro clinico de 10 dias de evolucion de aparicion de hematomas y equimosis, inicialmente en tobillo derecho, despues en extremidades izquierdas de gran extension asi como en extremidad superior derecha.
 no dolorosos.
-el paciente niega traumatismos previos ausencia de fiebre o otra sintomatologia acompañante.
+el paciente niega traumatismos previos ausencia de fiebre o otra sintomatologia acompaÃ±ante.
 valorado por hematologia se decide ingreso en medicina interna para estudio etiologico y tratamiento.
 exploracio fisica exploracion en urgencias aspecto general: alerta, normohidratado exploracion cardiovascular: buena perfusion tisular.
 pulsos conservados.
@@ -54,11 +54,11 @@ exploracion cardiocirculatoria: paciente bien perfundido, con pulsos perifericos
 tonos cardiacos ritmicos a 80lpm, sin siplos.
 auscultcion respiratoria: murmullo vesicular conservado con crepitantes secos en base derecha.
 : exploracio complementaria exploraciones complementarias en urgencias eab : ph 7.44, pco2 42 mmhg, hco3 std 27.
-1 mmol, hco· c 28.
+1 mmol, hcoÂ· c 28.
 5 mmol/l, be 3.
 9 mmol/l, ag 4, hb 10.
 2 gr/dl.
-ecg: ritmo sinusal 85 lpm, eje electrico de 30º, pr 200 ms, qrs 80 ms.
+ecg: ritmo sinusal 85 lpm, eje electrico de 30Âº, pr 200 ms, qrs 80 ms.
 no alteraciones agudas de la repolarizacion.
 correcta progresion de onda r en precordiales.
 radiografia torax: bien inspirada, penetrada y centrada.
@@ -98,30 +98,30 @@ marcadores tumorales: cea, antigeno prostatico especifico, ca 19.
 9, cea, afp dentro de parametros de normalidad, y fosfopiruvato-hidratasa elevado (19.9ng/ml- volor de referencia 18).
 estudio de autoimmunidad: ana negativos, fr 7.
 8, p-anca y c-anca negativos.
-tc toraco-abdominal : no se observan adenopatias axilares, hiliares ni mediastinicas de tamaño significativo.
+tc toraco-abdominal : no se observan adenopatias axilares, hiliares ni mediastinicas de tamaÃ±o significativo.
 ganglio calcificado paratraqueal derecho.
 tronco de la arteria pulmonar no dilatado con aorta ascendente ectasica hasta 38 mm, sin signos de complicacion.
 calcificaciones aorticas y coronarias.
 parenquima pulmonar visualizado sin nodulos sospechosos ni condensaciones.
 dilataciones bronquiales.
 cavidades pleurales sin liquido.
-parenquima hepatico homogeneo, de tamaño y morfologia dentro de la normalidad.
+parenquima hepatico homogeneo, de tamaÃ±o y morfologia dentro de la normalidad.
 quiste de aspecto simple, de 6 mm en segmento ii.
 vesicula biliar de paredes finas sin aparente contenido . via biliar no dilatada.
 eje espleno-mesenterico- portal permeable.
 pancreas atrofico con lesion quistica de 9 mm, en cuerpo pancreatico sindilatacion de conducto de wirsung.
-bazo homogeneo, de tamaño dentro de la normalidad.
+bazo homogeneo, de tamaÃ±o dentro de la normalidad.
 glandula suprarrenal izquierda sin alteraciones significativas.
 lesion de 15 x 18 mm hipodensa en suprarrenal derecha, sugestiva de adenoma.
-riñones de tamaño normal, con disminucion de grosor cortical.
+riÃ±ones de tamaÃ±o normal, con disminucion de grosor cortical.
 nefrograma normal.
-quistes corticales de aspecto simple bilaterales, el mayor de 5,7 cms en polo superior de riñon derecho.
+quistes corticales de aspecto simple bilaterales, el mayor de 5,7 cms en polo superior de riÃ±on derecho.
 vias excretoras no dilatadas.
 globo vesical.
 multiples hiperdensidades en area prostatica, que produce discreto artefacto (braquiterapia).
 correcta disposicion y captacion de las asas de intestino delgado.
 marco colico sin engrosamientos murales ni otras alteraciones.
-ausencia de adenopatias mesentericas, retroperitoneales o pelvicas de tamaño significativo.
+ausencia de adenopatias mesentericas, retroperitoneales o pelvicas de tamaÃ±o significativo.
 no se observa liquido libre intraabdominal.
 moderada ateromatosis aorto-iliaca con adecuada permeabilida de los principales troncos vasculares intrabdominales.
 cambios osteodegenerativos a nivel de columna dorso-lumbar con disminucion de altura de cuerpos vertebrales d8 y de l2-5.
@@ -130,7 +130,7 @@ ecografia de partes blandas (tobillo ): no se evidencian signos de ocupacion art
 infiltracion difusa de tejido graso subcutaneo compatible con edema.
 coleccion localizada en tejido subcutaneo, en margen lateral de la pierna por encima del maleolo probablemente correspondiendo a la tumoracion palpable.
 esta coleccion presenta unos diametros aproximados de 7x20mm.
-anecoica sin paredes valorables ni septos en su interior sugiriendo pequeño seroma como opcion mas probable.
+anecoica sin paredes valorables ni septos en su interior sugiriendo pequeÃ±o seroma como opcion mas probable.
 analitica 11/06/2018: hematies 2.98x10e12, hb 9.4g/dl, htc 29.
 8%, vcm 100.7fl, hcm 31.8pg, chcm31.5g(dl, ade 15.
 9%, leucocitos 11.340 (neutrofilos 80.

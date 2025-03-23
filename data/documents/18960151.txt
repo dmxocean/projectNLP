@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 20.02.1946 edat: 72 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 20.02.1946 edat: 72 anys procedencia domicil/res.
 soc servei otorrinolaringologia data d'ingres 27.06.2018 data d'alta 01.07.2018 09:32:54 ates per *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres disnea, tumoracion cervical antecedents niega alergia a medicamentos antec.
 medicos: - hipercolesterolemia - neoplasia de supraglotis en estudio : scc iqx: - microcirugia endolaringea y toma de biopsias el dia 11.06.18 proces actual paciente valorado hoy en consultas externas orl, conocido por scc de supraglotis , con afectacion glotica y paso aereo reducido, que exacerba disnea basal el dia de hoy.
 no fiebre ni otros sintomas.

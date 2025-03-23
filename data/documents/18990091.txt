@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 03.12.1951 edat: 66 anys procedencia cex mateix hosp servei traumatics data d'ingres 10.07.2018 data d'alta 16.07.2018 11:49:24 ates per *************, ***************; ******************, ******; ***************, ************* informe d'alta d'hospitalitzacio motiu d'ingres ingres iq programado antecedents antecedents patologic hipertensio (primaria) essencial proces actual coxartrosis izquierda exploracio fisica nvd conservado exploracio complementaria rx : coxartrosis izquierda.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 03.12.1951 edat: 66 anys procedencia cex mateix hosp servei traumatics data d'ingres 10.07.2018 data d'alta 16.07.2018 11:49:24 ates per *************, ***************; ******************, ******; ***************, ************* informe d'alta d'hospitalitzacio motiu d'ingres ingres iq programado antecedents antecedents patologic hipertensio (primaria) essencial proces actual coxartrosis izquierda exploracio fisica nvd conservado exploracio complementaria rx : coxartrosis izquierda.
 rx control : correcta evolucio clinica el dia 10/07/2018 la paciente es intervenido de ptc no cementada izquierda mediante protesis trilogy (cotilo 52mm.
 , cabeza 32 (-4) y vastago estandard de 9) por el dr ******, dr ***** y dr ******* sin incidencias intraoperatorias.
 durante el postoperatorio la paciente se encuentra hemodinamicamente estable y con buen control del dolor.
@@ -8,7 +8,7 @@ realiza rehabilitacion bien tolerada, segun protocolo.
 diuresis y deposiciones conservadas, dieta bien tolerada.
 debido a la buena evolucion clinica del paciente se decide el alta hospitalario bajo las siguientes indicaciones.
 orientacio diagnostica m16.
-9 artrosi de maluc no especificada procediments 81.51 reemplaçament total de maluc.
-reemplaçament: de cap de femur i acetabul per protesi, total nhc ** *** *** (********) atr-v-tra 1/2 lopd tractament i recomanacions a l'alta se recomienda reposo relativo realizar curas topicas periodicas pauta analgesica: - paracetamol 1g c/8h alternando con nolotil 575mg c/8h si dolor intenso.
+9 artrosi de maluc no especificada procediments 81.51 reemplaÃ§ament total de maluc.
+reemplaÃ§ament: de cap de femur i acetabul per protesi, total nhc ** *** *** (********) atr-v-tra 1/2 lopd tractament i recomanacions a l'alta se recomienda reposo relativo realizar curas topicas periodicas pauta analgesica: - paracetamol 1g c/8h alternando con nolotil 575mg c/8h si dolor intenso.
 clexane 40mg c/24 durante 1 mes retirada de grapas en 15 dias po en cap control control por cex dr ****** segun hoja adjunta (o llamar a ********0) si signos de alarma reconsultar en urgencias.
 destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-tra 2/2 lopd

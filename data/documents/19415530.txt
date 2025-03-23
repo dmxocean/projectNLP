@@ -1,6 +1,6 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 10.10.2016 edat: 2 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 10.10.2016 edat: 2 anys procedencia domicil/res.
 soc servei oncohematologia ped.
-data d'ingres 09.12.2018 data d'alta 13.12.2018 11:40:33 ates per *************, ******; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 2 años que ingresa el dia 9/12/18 en planta de oncohematologia por sindrome febril.
+data d'ingres 09.12.2018 data d'alta 13.12.2018 11:40:33 ates per *************, ******; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 2 aÃ±os que ingresa el dia 9/12/18 en planta de oncohematologia por sindrome febril.
 antecedents vacunacion al dia sin alergias medicamentosas conocidas.
 diagnosticado de xiap (immunodeficiencia primaria que cursa con enfermedad inflamatoria intestinal y linfohistocitosis hemofagocitica).
 - mutacion gen xiap (c.888_892del / p.
@@ -19,12 +19,12 @@ recuperacion hematologica de 500 pmn el dia dia +23 (29.11.2018), 1% de reticulo
 sin incidencias destacables durante el tph.
 medicacio habitual ciclosporina 0.2ml/12h micofenolato 0.6ml/12h.
 omeprazol 5ml/24h vit d3 0.5ml/24h hidrocortisona 2ml/8h septrin 6.8ml/24h itraconazol 5.5ml/24h aciclovir 1.
-2/8h nhc ** *** *** (********) ami-v-onh 1/3 lopd proces actual consulta por cuadro febricular de 24 horas de evolucion, apareciendo pico febril de 38ºc de una hora de evolucion.
+2/8h nhc ** *** *** (********) ami-v-onh 1/3 lopd proces actual consulta por cuadro febricular de 24 horas de evolucion, apareciendo pico febril de 38Âºc de una hora de evolucion.
 refiere la presencia de 1 vomito alimentario en domicilio.
 mas decaido durante el dia, con rechazo de la ingesta.
 ambiente epidemiologico: hermano y abuelo con cuadro de gastroenteritis leve los dias previos.
-exploracio fisica fc 135 bpm tªaxi 38.
-4 ºc fr rpm tªrec ºc ta s 105 mmhg sat o2 99 % ta d 51 mmhg pes 10.600 kg triangulo de evaluacion pediatrica estable buen estado general, normocoloreado y normohidratado.
+exploracio fisica fc 135 bpm tÂªaxi 38.
+4 Âºc fr rpm tÂªrec Âºc ta s 105 mmhg sat o2 99 % ta d 51 mmhg pes 10.600 kg triangulo de evaluacion pediatrica estable buen estado general, normocoloreado y normohidratado.
 no exantemas ni petequias.
 ac: tonos ritmicos sin soplos.
 pulsos presentes y simetricos.

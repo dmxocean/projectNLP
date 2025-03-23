@@ -1,12 +1,12 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 08.06.1979 edat: 40 anys procedencia aguts servei obstetricia data d'ingres 01.10.2019 data d'alta 04.10.2019 12:00:00 ates per *****************, **************; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres induccion al parto por esclerosis multiple antecedents no alergias medicamentosas conocidas.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 08.06.1979 edat: 40 anys procedencia aguts servei obstetricia data d'ingres 01.10.2019 data d'alta 04.10.2019 12:00:00 ates per *****************, **************; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres induccion al parto por esclerosis multiple antecedents no alergias medicamentosas conocidas.
 antecedentes medicos: esclerosis multiple no intervenciones quirurgicas no habitos toxicos medicacion habitual: acido folico y fe.
 ningun tartamiento para esclerosis multiple.
 alentozumab suspendido en marzo del 2018.
 desde entonces sin crisis.
-proces actual edad: 40 años tpal: 0000 fur: 25-12-2019 sg: 40+0 gsrh: o positivo gestacion controlada en alto riesgo obstetrico (aro) por esclerosis multiple.
+proces actual edad: 40 aÃ±os tpal: 0000 fur: 25-12-2019 sg: 40+0 gsrh: o positivo gestacion controlada en alto riesgo obstetrico (aro) por esclerosis multiple.
 paciente que acude para induccion al parto por esclerosis multiple.
 resumen gestacional - 1r t: hb 12; htco 35.
-9 - 2º t: hb 11.
+9 - 2Âº t: hb 11.
 2; htco 32.
 7 - 3r t: hb 11.
 2; htco 32.
@@ -19,7 +19,7 @@ o'sullivan: 166.
 ttog no consta.
 urinocultivo:negativo sgb: negaitvo cribado 1r t: bajo riesgo ecografias: - eco 1rt: tn 2.60mm.
 congruente.
-- eco 2ºt: feto morfologicamente normal, sexo masculino, placenta posterior normoinserta.
+- eco 2Âºt: feto morfologicamente normal, sexo masculino, placenta posterior normoinserta.
 - eco 3rt: 33+6sg, pfe 2436gr (p77), placenta posterior, cordon de 3 basos, liquido amniotico normal.
 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 1/3 lopd evolucio clinica ingresa primigesta de 40+1 semanas para induccion por esclerosis multiple.
 se instaura anestesia peridural . no ha precisado profilaxis antibiotica . progresion adecuada de la dilatacion hasta llegar a la dilatacion completa.
@@ -47,6 +47,6 @@ paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 h
 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 2/3 lopd acido folico 1 al dia durante la lactancia.
 control control por su matrona de zona en 7-10 dias.
 pendiente de programarse resonancia magnetica (rmn) en diciembre-enero y visita sucesiva posterior por neuroinmunologia clinica (cem-cat) se recomienda abundante ingesta de liquidos y dieta variada y equilibrada.
-lavado diario de herida quirurgica con agua y jabon neutro y realizacion progresiva de actividad fisica, asi como evitar inmersion en bañera o piscina hasta finalizar el puerperio.
+lavado diario de herida quirurgica con agua y jabon neutro y realizacion progresiva de actividad fisica, asi como evitar inmersion en baÃ±era o piscina hasta finalizar el puerperio.
 se informa de signos y sintomas de alarma (fiebre termometrada en domicilio, eritema mamario, o secrecion vaginal maloliente) por los que debe volver a consultar por urgencias.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 3/3 lopd

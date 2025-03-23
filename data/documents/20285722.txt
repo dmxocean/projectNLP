@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 07.06.1957 edat: 62 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 07.06.1957 edat: 62 anys procedencia domicil/res.
 soc servei urologia data d'ingres 02.10.2019 data d'alta 03.10.2019 09:00:00 ates per **************, *****; ****************, ******; *************, *****; *****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres ingresa para biopsia y ablacion con radiofrecuencia de lesion renal derecha.
 antecedents ex-fumador . antecedentes patologicos: - hipertension arterial en tratamiento farmacologico.
 -colicos nefriticos de repeticion.
@@ -8,12 +8,12 @@ rt sobre adenopatia paraesofagica no resecable, imrt dt 60 gy en 30fr del 6/6/20
 ecog 0 proces actual paciente varon de 62a que en control de adenocarcinoma pulmonar por tac se detecta lesion renal derecha sospechosa de malignidad por lo que se realiza ecografia renal con contraste confirmando lesion renal derecha en tercio superior de 13 mm que no permite discernir entre tumor primario versus metastasis.
 por lo anterior expuesto ingresa para biopsia de la lesion y ablacion con radiofrecuencia de dicha lesion.
 exploracio complementaria tc torax 26/06/19: hi ha una imatge cortical discretament mes densa ( en estudi amb contrats) al pol superior renal dret de 13x15mm (previ del 2017 de 9mm), que respecte estudi del 2017 ha augmentat de mida, que recomanem estudi dirigit per descartar proces neoformatiu renal.
-no s´observan canvis valorables respecte estudi anterior, amb milloria del component atelectasic associat.
-ecografia renal con contraste 11/07/19 : se confirma la presencia de pequeña lesion nodular en cortical de tercio superior renal derecho de 13 mm, hipoecogenica, bien definida, sin señal doppler.
+no sÂ´observan canvis valorables respecte estudi anterior, amb milloria del component atelectasic associat.
+ecografia renal con contraste 11/07/19 : se confirma la presencia de pequeÃ±a lesion nodular en cortical de tercio superior renal derecho de 13 mm, hipoecogenica, bien definida, sin seÃ±al doppler.
 tras la administracion del contraste i.
 v se observa discreta captacion del contraste i.
 v en fase arterial y lavado, compatible con lesion solida, no es posible descartar tumor primariovs m1 dado el antecedente del paciente.
-pet/tac 30/07/19: normometabolismo del nodulo renal derecho conocido, cuyo comportamiento radiologico d 2015 hasta hoy sugiere pequeño ccr vs.
+pet/tac 30/07/19: normometabolismo del nodulo renal derecho conocido, cuyo comportamiento radiologico d 2015 hasta hoy sugiere pequeÃ±o ccr vs.
 quiste complicado - a valorar evolutivamente.
 esta semiologia no es de m1.
 no se observan lesiones focales hipermetabolicas sugestivas de infiltracion macroscopica tumoral de alto grado en el resto de sectores corporales estudiados evolucio clinica el 02 de octubre de 2019 previa firma de consentimiento informado y comprobacion de pruebas preoperatorias correctas se realiza biopsia renal y radiofrecuencia de la lesion renal, procedimiento sin incidencias.

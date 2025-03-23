@@ -1,15 +1,15 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 17.02.2006 edat: 13 anys procedencia cex mateix hosp servei nefrologia ped.
-data d'ingres 03.10.2019 data d'alta 04.10.2019 13:47:59 ates per *************, ******; *************, **** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 13 años con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal . antecedents antecedentes personales - nacido en brasil el 17/2/2006.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 17.02.2006 edat: 13 anys procedencia cex mateix hosp servei nefrologia ped.
+data d'ingres 03.10.2019 data d'alta 04.10.2019 13:47:59 ates per *************, ******; *************, **** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 13 aÃ±os con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal . antecedents antecedentes personales - nacido en brasil el 17/2/2006.
 embarazo controlado.
 gemelar ii.
 rnpt/paeg (37 sem/2100kg).
 cesarea por gemelar.
--actualmente cursa segundo año con buen desempeño escolar y buena relacion con sus pares.
--convive con la madre (47 años, medicada con ansioliticos).
-2 hermanos ( gemelo y otro de 17 años sanos ).
-los padres se divorciaron hace un año.
+-actualmente cursa segundo aÃ±o con buen desempeÃ±o escolar y buena relacion con sus pares.
+-convive con la madre (47 aÃ±os, medicada con ansioliticos).
+2 hermanos ( gemelo y otro de 17 aÃ±os sanos ).
+los padres se divorciaron hace un aÃ±o.
 el padre convive con nueva esposa y 2 hijastros.
-antecedentes patologicos: - agosto 2008(2 años): se interna en mexico por oliguria y edemas, en contexto de tratamiento por escarlatina.
+antecedentes patologicos: - agosto 2008(2 aÃ±os): se interna en mexico por oliguria y edemas, en contexto de tratamiento por escarlatina.
 proteinuria 148 mg/m2/hora.
 hipercolesterolemia.
 hipoalbuminemia.
@@ -40,21 +40,21 @@ comienza con cliclosporina ( no recuerda cuanto tiempo) -diciembre 2014-mayo 201
 tratamiento con prednisona.
 -junio 2015: novena recaida.
 tratamiento con rituximab ( junio y julio 2015 en londres).
-refiere libre de recaidas por un año (unico periodo de la enfermedad libre de recaidas y libre de tratamiento) -agosto 2016: comienza seguimiento en españa con dr. ***** que alterna tratamiento entre corticoides y micofenolato.
+refiere libre de recaidas por un aÃ±o (unico periodo de la enfermedad libre de recaidas y libre de tratamiento) -agosto 2016: comienza seguimiento en espaÃ±a con dr. ***** que alterna tratamiento entre corticoides y micofenolato.
 desde junio 2019 se encuentra con tratamiento combinado con prednisolona 60mg/m2/dia y micofenolato 750 mg cada 12 hs diario.
 - 19 septiembre de 2019 ingresa para bolus de corticoides.
 se administra metilprednisolona 1g a dias alternos los dias 19.09, 21.09 y 23.09.
 previo a la ultima dosis de corticoide se objetiva negativizacion de la proteinuria.
 pendientes: nhc ** *** *** &nbsp;(********) &nbsp;ami-v-nfp 1/4 lopd - en el control general del paciente destada hipogammaglobulinemia marcada (igg 200mg/dl) con serologias negativas a parotiditis y sarampion.
 quedara pendiente en la evolucion revacunar (solicitada primera visita a medicina preventiva).
-- el paciente presento una fractura de tibia y perone derechos el pasado año.
+- el paciente presento una fractura de tibia y perone derechos el pasado aÃ±o.
 ademas aqueja dolores oseos intermitentes en ambas extremidades.
 quedara pendiente, en el seguimiento, realizar densitometria.
 edad osea correspondiente a edad.
 medicacio habitual dacortin 30mg: 2 comprimidos al dia micofenolato mofetilo 500mg: 2comprimidos cada 12 horas simvastatina 10mg al dia (por la noche).
 vitamina d 2000ui/ml: 1ml cada 24 horas septrin forte (160+800mg): 1 comprimido los lunes, miercoles y viernes.
-omeprazol 20mg: 1 comprimido cada 24 horas (por la mañana).
-proces actual paciente de 13 años con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal.
+omeprazol 20mg: 1 comprimido cada 24 horas (por la maÃ±ana).
+proces actual paciente de 13 aÃ±os con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal.
 en tratamiento con corticoides a dosis plenas y micofenolato desde junio 2019 sin respuesta.
 ingresa el 19.09.2019 para administracion de 3 bolus de corticoides a dias alternos.
 previo a la ultima dosis de corticoide, se objetiva negativizacion de la proteinuria.
@@ -62,7 +62,7 @@ se realizo una orina 24 horas cursada el 26.09.2019.
 exploracio fisica peso: 52.
 5 kg (p44) talla: 155 cm (p21) imc: 21.89 kg/m2(pc62) sc: 1.
 5 m2 afebril, constantes estables: fc: 83 lpm , ta:103/73 - 96/56- 98/55 mmhg percentiles de ta para su edad, sexo y talla: p99-95 para la edad 118-110/79-71mmhg tep estable paciente cob buen estado general, normohidratado, normocoloreado, normoperfundido.
-- aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
+- aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreaÃ±adidos.
 espiracion normal.
 - aparato cardiocirculatorio: tonos ritmicos, no ausculto soplos, pulsos perifericos presentes y simetricos.
 perfusion distal conservada.
@@ -90,16 +90,16 @@ farmacos: acido micogenolico 4.07 ug/ml metabolismo calcio/fosforo: calcidiol 21
 1 ng/ml, paratirina 72.
 6 pg/ml.
 analisis de orina: sedimento negativo, prot/cr 0.076g/g, b2 y albuminuria negativas.
-radiologia biopsia renal 03.10.2019: bag de riñon guiada por ecografia.
-se realiza biopsia ecoguiada con aguja de 18g (1 pases de 22 mm) en tercio inferior del riñon izquierdo bajo sedacion, previa administracion de anestesia local.
+radiologia biopsia renal 03.10.2019: bag de riÃ±on guiada por ecografia.
+se realiza biopsia ecoguiada con aguja de 18g (1 pases de 22 mm) en tercio inferior del riÃ±on izquierdo bajo sedacion, previa administracion de anestesia local.
 en el estudio postbiopsia se aprecia discreto hematoma perirrenal con signos de sangrado activo pericapsular focal.
 posteriormente a compresion manual se aprecia colapso y desaparicion de dicho punto pericapsular en el estudio doppler color, resultando hematoma perirrenal de 40 x 10 mm (alrededor de polo inferior).
 sin otras incidencias durante el procedimiento.
 se recomienda reposo absoluto, control de constantes y ecografia de control en 24 horas segun protocolo.
-ecografia control tras biopsia renal 04.10.2019: hematoma perirrenal en polo inferior del riñon de 8.
+ecografia control tras biopsia renal 04.10.2019: hematoma perirrenal en polo inferior del riÃ±on de 8.
 2 mm de diametro maximo.
 no identifico imagenes de fistulas arteriovenosas.
-evolucio clinica paciente de 13 años con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal.
+evolucio clinica paciente de 13 aÃ±os con diagnostico de sindrome nefrotico corticodependiente de evolucion torpida que ingresa el 3.10.2019 en planta de hospitalizacion de nefrologia pediatrica para biopsia renal.
 a su ingreso hemodinamicamente estable, sin incidencias desde ultimo ingreso.
 sindrome nefrotico en remision en el momento actual, ausencia de proteinuria.
 buen estado general.
@@ -121,12 +121,12 @@ orientacio diagnostica z87.441 antecedents personals de sindrome nefrotica nhc *
 5 comprimidos cada 48 horas (45mg en total a dias alternos).
 micofenolato mofetilo: 1 gramo cada 12 horas simvastatina 10mg al dia (por la noche).
 vitamina d 2000ui/ml: 1ml cada 24 horas septrin forte (160+800mg): 1 comprimido los lunes, miercoles y viernes.
-omeprazol 20mg: 1 comprimido cada 24 horas (por la mañana).
+omeprazol 20mg: 1 comprimido cada 24 horas (por la maÃ±ana).
 control proxima visita el 14.10.2019 para entrega resultados y control analitico.
 se entregan citaciones.
 pendiente - en el control general del paciente destada hipogammaglobulinemia marcada (igg 200mg/dl) con serologias negativas a parotiditis y sarampion.
 quedara pendiente al reducir dosis de corticoide revacunar (solicitada primera visita a medicina preventiva).
-- el paciente presento una fractura de tibia y perone derechos el pasado año.
+- el paciente presento una fractura de tibia y perone derechos el pasado aÃ±o.
 ademas aqueja dolores oseos intermitentes en ambas extremidades.
 quedara pendiente, en el seguimiento, realizar densitometria.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-nfp 4/4 lopd

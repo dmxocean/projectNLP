@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 12.09.2000 edat: 19 anys procedencia aguts servei medicina d'urgencies ped data d'ingres 04.10.2019 data d'alta 05.10.2019 00:11:57 ates per ***************, ***** informe d'alta d'hospitalitzacio motiu d'ingres finalizacion de administracion de gammaglobulinas antecedents 19 años edad.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 12.09.2000 edat: 19 anys procedencia aguts servei medicina d'urgencies ped data d'ingres 04.10.2019 data d'alta 05.10.2019 00:11:57 ates per ***************, ***** informe d'alta d'hospitalitzacio motiu d'ingres finalizacion de administracion de gammaglobulinas antecedents 19 aÃ±os edad.
 trombocitopenia inmune cronica en tratamiento semanal con romiplostin desde el 13.02.18 (a dosis de 450 mcg = 6.
 3 mcg/kg/dosis desde el 2.10.18).
 el 10.09 no se administra por plaquetas 273x109/l.

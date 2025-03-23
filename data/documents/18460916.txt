@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 19.09.1939 edat: 78 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 19.09.1939 edat: 78 anys procedencia domicil/res.
 soc servei hematologia i data d'ingres 30.01.2018 data d'alta 08.02.2018 11:00:00 ates per dr.**********, dra.*****, ***********.
 informe d'alta d'hospitalitzacio motiu d'ingres paciente ingresa para tratamiento de infeccion respiratoria y anemia hemolitica autoinmune (ahai).
 antecedents -intolerancia a clavulanico.
@@ -21,10 +21,10 @@ otros aislamientos previos: stenotrophomonas maltophilia sensible a levofloxacin
 coli ms, inicialmente tratada con tazocel se desescalo a ciprofloxacino dado que analiticamente destaca incremento significativo de linfocitos, neutropenia se ha comentado en ctl, proponiendose tratamiento con ibrutinib, pendiente de resultado de ciclina d1 *ag 03/01: 46,xx,der(1)t(1;13)(q25;q14),t(6;15)(p21;q15)[8]/46, xx,idem,t(11;14)(q13;q32)[11]/46,xx[1] es torna a observar en 11 metafases el subclon amb la t(11;14) detectada en controls previs.
 del monoalelica del 13q en 90% de nucleos, del bialelica del 13q en 5% de nucleos.
 no se observa del p53, 11q ni trisomia 12 proces actual paciente reifere que desde hace 3 dias presenta febricula, to con expectoracion blanquecina y rinorrea.
-hoy nhc ** *** *** (********) age-v-hem 1/3 lopd presenta pico febril de 38.5ºc con escalosfrios de aproximadamente 20min de duraciin y se añade disnea.
+hoy nhc ** *** *** (********) age-v-hem 1/3 lopd presenta pico febril de 38.5Âºc con escalosfrios de aproximadamente 20min de duraciin y se aÃ±ade disnea.
 estos ultimos dias ha estado con inhalaciones de pulmicort y ventroaldo dado antecedente de asma bronquial.
-refiere astenia mas marcada las ultimas 2 semanas exploracio fisica fc 81 bpm tªaxi 36.
-3 ºc fr rpm tªrec ºc ta s 117 mmhg sat o2 100 % ta d 40 mmhg pes kg estado general conservado.
+refiere astenia mas marcada las ultimas 2 semanas exploracio fisica fc 81 bpm tÂªaxi 36.
+3 Âºc fr rpm tÂªrec Âºc ta s 117 mmhg sat o2 100 % ta d 40 mmhg pes kg estado general conservado.
 palidez mucocutanea, normohidratada y con buena perfusion periferica.
 -aparato cardiovascular: tonos ritmicos.
 no objetivo soplos.
@@ -63,16 +63,16 @@ nhc ** *** *** (********) age-v-hem 2/3 lopd durante su estancia en urgencias, l
 analiticamente hb 6.
 1 g/dl, persisten los parametros de hemolisis elevados.
 mantengo tratamiento con piperacilina-tazobactam y oseltamivir soporte con g-csf, tratamiento broncodilatador y o2 (vmk 0.24).
-por otra parte, mantengo tratamiento corticoideo a dosis 1 mg/kg/dia y añado acido folico.
+por otra parte, mantengo tratamiento corticoideo a dosis 1 mg/kg/dia y aÃ±ado acido folico.
 durante su estancia en planta la paciente ha presentado rapida mejoria del broncoespasmo pudiendo retirar oxigenoterapia.
 desde el punto de vista de la hemolisis, ha presentado aummento progresivo de cifras de hb hasta 7.8mg/dl motivo por el que se decide alta a domcilio manteniendo tratamiento corticoideo pendiente de iniciar ibrutinib de forma ambulatoria.
 se solicita control en cex hematologia.
 orientacio diagnostica -infeccion por gripe b.
-- ahai . - llc . tractament i recomanacions a l'alta -prednisona 60mg 1 comprimido por la mañana.
+- ahai . - llc . tractament i recomanacions a l'alta -prednisona 60mg 1 comprimido por la maÃ±ana.
 -septrin forte 800/160mg lunes, miercoles, viernes.
 -omeprazol 20mg 1 comprimido antes del desayuno.
--acfol 5mg 1 comprimido cada mañana.
--insulina lantus 30ui por la mañana y 10ui por la noche.
+-acfol 5mg 1 comprimido cada maÃ±ana.
+-insulina lantus 30ui por la maÃ±ana y 10ui por la noche.
 -insulina novorapid segun bmt: *120-150: 2ui, 150-200: 4ui, 200-250: 6ui, 250-300: 8ui, 300-350: 10ui.
 control control en cex hematologia segun hoja adjunta.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-hem 3/3 lopd

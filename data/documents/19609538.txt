@@ -1,10 +1,10 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 12.03.1941 edat: 77 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 12.03.1941 edat: 77 anys procedencia domicil/res.
 soc servei medicina interna 1 data d'ingres 12.02.2019 data d'alta 15.02.2019 10:23:53 ates per **********, ********* informe d'alta d'hospitalitzacio motiu d'ingres mujer de 77 que consulta por fiebre.
 antecedents sin alergias medicamentosas conocidas nega habitos toxicos antecedentes patologicos: - esclerosis multiple lentamente progresiva diagnosticada en 2006.
 como secuela presenta importante afectacion de la marcha que requiere silla de ruedas para las movilizaciones, incontinencia mixta y cambios conductuales.
 seguia controles en cemcat, que se han ido descontinuando por negativa de la paciente a acudir.
 - sindrome de intestino irritable , siguio controles con digestivo hasta 2015.
-actualmente tendencia a estreñimiento cronico.
+actualmente tendencia a estreÃ±imiento cronico.
 - hipotiroidismo secundario a tiroidectomia por microcarcinoma papilar en 2000.
 en tratamiento con levotiroxina.
 - osteoporosis complicada con aplastamietno verbales d12, l4 y l5en 2005 que requirio tratamiento ortopedico y teriparatida durante 24 meses.
@@ -17,10 +17,10 @@ vida practimante intradomiciliaria.
 doblemente incontinente.
 sin disfagia.
 medicacio habitual eutirox 125 mg cada 24 h, lyrica 75 mg cada 12 h, ostine 30mg 1 comp cada 24 h.
-proces actual derivada desde residencia por presentar desde esta mañana fiebre de 38ºc y desaturacion hasta 86% a aire ambiente.
+proces actual derivada desde residencia por presentar desde esta maÃ±ana fiebre de 38Âºc y desaturacion hasta 86% a aire ambiente.
 tos con escasa con movilizacion de secreciones que no expectora.
-sin otra clinica acompañante.
-exploracio fisica ta 150/87mmhg, fc 73lpm, t 37.8ºc, sat 92% (aa) regular estado general . normocoloreada, normohidratada, normoperfundida -exploracion cardiovascular: tonos cardiacos ritmicos sin soplos.
+sin otra clinica acompaÃ±ante.
+exploracio fisica ta 150/87mmhg, fc 73lpm, t 37.8Âºc, sat 92% (aa) regular estado general . normocoloreada, normohidratada, normoperfundida -exploracion cardiovascular: tonos cardiacos ritmicos sin soplos.
 no ingurgitacion yugular.
 pulsos perifericos conservados y simetricos.
 no edemas en miembros inferiores.
@@ -32,7 +32,7 @@ no signos de peritonismo.
 no masas ni visceromegalias apreciables a la palpacion.
 peristaltismo conservado.
 -neurologico: vigil y orientada, sin focalidad neurologica aguda.
-exploracio complementaria - ecg : ritmo sinusal a 110 lpm, eje 0º, pr &lt; 200 mseg, qrs estrecho, no morfologia de bloqueo de rama ni alteraciones agudas en la repolarizacion.
+exploracio complementaria - ecg : ritmo sinusal a 110 lpm, eje 0Âº, pr &lt; 200 mseg, qrs estrecho, no morfologia de bloqueo de rama ni alteraciones agudas en la repolarizacion.
 -analitica urgencias : hb 15.
 5 g/dl; hto 47.
 3 %; vcm 96.
@@ -46,7 +46,7 @@ ausencia de lesiones en el marco oseo.
 - hemocultivos negativos -analitica de hospitalizacion: pendiente evolucio clinica a su llegada a urgencias, paciente taquicardica, con requerimientos de oxigenoterapia a bajos flujos, febril.
 a la exploracion destaca moderada semiologia de broncoespasmo, sin otros hallazgos iniciandose tratamiento broncodilatador.
 la radiografia de torax muestra una dudosa condensacion en base pulmonar izquierda y crepitantes a la auscultacion de dicha base, por lo que se incia tratamiento endovenoso con amoxicilina-clavulanico.
-el estudio de virus respiratorio resulta positivo para gripe por lo que se añade tratamiento con oseltamivir.
+el estudio de virus respiratorio resulta positivo para gripe por lo que se aÃ±ade tratamiento con oseltamivir.
 ingresa en hospital de la esperanza donde presenta buena evolucion clinica permaneciendo afebril y con mejoria del estado general por lo que se decide retorno a residencia.
 orientacio diagnostica 1.
 bronquitis por gripe 2.

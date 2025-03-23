@@ -1,12 +1,12 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 29.06.1944 edat: 73 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 29.06.1944 edat: 73 anys procedencia domicil/res.
 soc servei cg hepatobilipancr i data d'ingres 31.05.2018 data d'alta 04.06.2018 09:36:30 ates per *********, ***************; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres dolor abdominal y tumoracion antecedents - alergia a penicilina . - antritis erosiva cronica : por reflujo biliar , diagnosticada por fgs realizada en julio del 2014.
 actualmente sin tratamiento.
 prueba del test del aliento positiva para helicobacter pylori.
 ha realizado tratamiento antibiotico erradicador.
 pendiente de consulta de seguimiento para control.
-- antecedentes quirurgicos: protesis de rodilla izquierda desde el 2013, protesis de cadera derecha desde el 2004 proces actual paciente mujer de 73 años que acude a urgencias por dolor abdominal y tumoracion de 3-4 horas de evolucion en region inguinal derecha.
+- antecedentes quirurgicos: protesis de rodilla izquierda desde el 2013, protesis de cadera derecha desde el 2004 proces actual paciente mujer de 73 aÃ±os que acude a urgencias por dolor abdominal y tumoracion de 3-4 horas de evolucion en region inguinal derecha.
 refiere nauseas sin vomitos.
-niega sindrome miccional, sindrome toxico, cambios en el ritmo intestinal (ritmo habitual estreñido) u otra clinica de interes.
+niega sindrome miccional, sindrome toxico, cambios en el ritmo intestinal (ritmo habitual estreÃ±ido) u otra clinica de interes.
 exploracio fisica paciente consciente y orientada.
 estado general conservado.
 normocoloreada y nomohidratada abdomen blando y depresible.
@@ -20,7 +20,7 @@ sin incidencias.
 se deja drenaje.
 postoperatorio inmediato correcto en rea por lo que pasa a planta de hospitalizacion donde se mantiene hemodinamicamente estable, eupneica y afebril.
 dolor controlado con analgesia pautada.
-pequeño hematoma peridrenaje.
+pequeÃ±o hematoma peridrenaje.
 se retira drenaje el 04/06 sin incidencias.
 tolera dieta.
 transito intestinal conservado.

@@ -1,13 +1,13 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 09.03.1969 edat: 49 anys procedencia cex mateix hosp servei cirurgia plastica i data d'ingres 18.07.2018 data d'alta 24.07.2018 08:51:35 ates per **************, *******; *************, **************; **********; *************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente ingresa para cirugia programada.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 09.03.1969 edat: 49 anys procedencia cex mateix hosp servei cirurgia plastica i data d'ingres 18.07.2018 data d'alta 24.07.2018 08:51:35 ates per **************, *******; *************, **************; **********; *************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente ingresa para cirugia programada.
 antecedents no alergias conocidas.
-sindrome depresivo . migrañas asma . mastectomia derecha + linfadenectomia axilar no fuma.
+sindrome depresivo . migraÃ±as asma . mastectomia derecha + linfadenectomia axilar no fuma.
 medicacio ( diazean,foster,gemfibrozilo,ibuprofeno, paracetamol,pristiq,tamoxifeno,mirtazapina ) proces actual paciente ingresa para cirugia programada.
 exploracio complementaria preoperatorio correcto valorado por anestesiologia.
 angiotc (20/07/18): cambios quirurgicos mamarios.
 acumulo de hidroaereo de predomino paraesternalderecho.
 imagenes aereas subcentimetricas braquiales derechas, prepectorales derechas, retropectorales-paraesternales izquierda, en mama izquierda (...) . drenaje mamario bilateral.
 tiroides sin crecimiento endotoracico.
-ganglios inespecificos por tamaño y morfologia de localizacion axilares, supraclaviculares y retropectorales.
+ganglios inespecificos por tamaÃ±o y morfologia de localizacion axilares, supraclaviculares y retropectorales.
 mediastino e hilios pulmonares con ganglios de aspecto inespecifico.
 tronco de la arteria pulmonar de calibre normal.
 estudio artefactado que no se aprecian defectos de replecion en ramas arteriales pulmonares principales, lobares ni segmentarias proximales.
@@ -44,7 +44,7 @@ reposo relativo.
 no realizar esfuerzos con las extremidades superiores (no cargar peso, no movimientos bruscos, no deporte...) sujetador elastico sin aros metalicos 24h al dia.
 dormir boca arriba y con el cabezal de la cama un poco en alto.
 control de los drenajes - redones - segun lo indicado verbalmente.
-acudir a urgencias si complicaciones (fiebre termometrada &gt;38ºc, mal estado general, tension mamaria, aumento del volumen mamario...).
+acudir a urgencias si complicaciones (fiebre termometrada &gt;38Âºc, mal estado general, tension mamaria, aumento del volumen mamario...).
 control acudir a los controles segun las citas adjuntas.
 acudir a primera visita en cardiologia segun carta.
 nhc ** *** *** (********) atr-v-cpl 2/3 lopd destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-cpl 3/3 lopd

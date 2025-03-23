@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 14.12.1945 edat: 73 anys procedencia cex mateix hosp servei c.
-general data d'ingres 29.09.2019 data d'alta 11.10.2019 10:41:09 ates per ***************, *****; ***************, ******* informe de trasllat a sociosanitari motiu d'ingres adenocarcinoma gastrico localmente avanzado post neoadyuvancia antecedents paciente mujer de 73 años sin alergias medicamentosas conocidas ni habitos toxicos.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 14.12.1945 edat: 73 anys procedencia cex mateix hosp servei c.
+general data d'ingres 29.09.2019 data d'alta 11.10.2019 10:41:09 ates per ***************, *****; ***************, ******* informe de trasllat a sociosanitari motiu d'ingres adenocarcinoma gastrico localmente avanzado post neoadyuvancia antecedents paciente mujer de 73 aÃ±os sin alergias medicamentosas conocidas ni habitos toxicos.
 antecedentes: dislipemia , sindrome ansioso-depresivo , apendicectomia . medicacio habitual diazepam (indefinida), paroxetina-motivan 20mg 1x24h, metoclopramida-primperan 10mg 1x8h, simvastatina 20mg 1x24h, ondansetron-zofran 4mg 1x8h, ferro-tardyferon 80mg 1x24h.
 proces actual diagnosticada de adenocarcinoma gastrico difuso localmente avanzado tipo linitis plastica, que ingresa de forma electiva para intervencion quirurgica programada tras haber completado tratamiento quimioterapico neoadyuvante (esquema flot).
 exploracio complementaria fibrogastroscopia (25/04/2019): peristalsis esofagica aumentada, sugestivo de trastorno motor.
@@ -13,7 +13,7 @@ mlh1, msh2, msh6 y pms2 positivos tc abdominal 15/05: los hallazgos descritos es
 presenta contorno irregular en curvatura menor con algunas espiculas en probable relacion con afectacion serosa adyacentes al cuerpo pancreatico.
 presenta intimo contacto con cuello y cuerpo pancreaticos.
 multiples adenopatias sospechosas en saco menor en region de agi , hepatica comun, region infrapilorica, gastreoploica derecha alrededor del cuerpo.
-pequeños ganglios en curvatura mayor y en cadena 10.
+pequeÃ±os ganglios en curvatura mayor y en cadena 10.
 ausencia de signos de diseminacion a distancia.
 analitica (07/08/2019): hb 9.
 9 g/dl, hcto 32.
@@ -52,7 +52,7 @@ sondaje vesical.
 profilaxis antibiotica, antitrombotica y antiulcerosa.
 87.62 transit esofagoyeyunal tractament i recomanacions a l'alta continuar con su medicacion domiciliaria habitual dieta fraccionada (5-6 comidas al dia de poca cantidad) mantener heridas quirurgicas limpias y secas (agua y jabon) evitar sobreesfuerzos abdominales (no levantar pesos).
 faja abdominal para deambular trazodona 50 mg/24h v.o.
-por la noche (segun recomendaciones de psiquiatria) optovite 1 inyeccion mensual intramuscular de forma indefinida si dolor: - paracetamol 1 gramo via oral cada 8 horas - si persiste añadir metamizol 575mg via oral cada 8 horas, alternado con paracetamol cada 4 horas.
+por la noche (segun recomendaciones de psiquiatria) optovite 1 inyeccion mensual intramuscular de forma indefinida si dolor: - paracetamol 1 gramo via oral cada 8 horas - si persiste aÃ±adir metamizol 575mg via oral cada 8 horas, alternado con paracetamol cada 4 horas.
 si fiebre, dolor abdominal a pesar de la medicacion, vomitos continuados o empeoramiento subito del estado general, se recomienda acudir a urgencias.
 nhc ** *** *** &nbsp;(********) &nbsp;age-v-cgf 2/3 lopd control en consulta externa de cirugia esofagogastrica, dra. ******** (modulo 17, consulta 15), el 24/10/2019 a las 10:50 horas.
 acuda a ccee de oncologia medica segun cita previa destinacio a l'alta: soci sanitari nhc ** *** *** &nbsp;(********) &nbsp;age-v-cgf 3/3 lopd

@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 25.02.1969 edat: 48 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 25.02.1969 edat: 48 anys procedencia domicil/res.
 soc servei oncologia medica data d'ingres 19.02.2018 data d'alta 01.03.2018 13:35:20 ates per dra. *******, dra. ********, dr. *****.
 dr. ***** informe d'alta d'hospitalitzacio motiu d'ingres ingreso programado antecedents paciente hombre de 48a, natural de georgia.
 vive con su primo.
@@ -12,31 +12,31 @@ no habito enolico actual, previamente leve (vino y vodka ocasional?).
 h oncologica ingreso en ucias por cuadro de suboclusion alta, es dx de neoplasia gastrica antral (ap adk tubular, her2 ish neg, mss, ebv neg) estadio ct3-4n++m1 (adp retrop y dudosa carcinomatosis peritoneal (revisado en comite).
 proces actual ingreso programado exploracio fisica buen estado general.
 consciente y orientado.
-aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
+aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreaÃ±adidos.
 aparato cardiocirculatorio: tonos ritmico, sin soplos, pulsos presentes y simetricos.
 perfusion distal conservada.
 abdomen blando, dolor a palpacion en epigastrio.
 no irritacion peritoneal.
 nrl: no meningismo ni focalidad neurologica.
-exploracio complementaria ag 21/2/18: hgb: 4.1gr/dl hct: 42% leucos: 7560/mm3 plt: 197.000/m3 tquick: 82% creat: 0.42mg/dl na: 139mmol/l k: 3.91mmol/l bt: 0.91mg/dl ast: 79 alt: 134 fa: 85 albumina: 3.6gr/dl nhc ** *** *** (********) age-v-onc 1/3 lopd ac anti hep c: positivo carga viral hep c: 6 log tc abdominal 23/2/18: adenopatias de tamaño y numero aumentado a nivel perisofagico, ligamento gastrohepatico, retropancreaticas, peripancreaticas, hilio hepatico, porto cava e interaortocava a la altura y por debajo del ostium de la ams.
+exploracio complementaria ag 21/2/18: hgb: 4.1gr/dl hct: 42% leucos: 7560/mm3 plt: 197.000/m3 tquick: 82% creat: 0.42mg/dl na: 139mmol/l k: 3.91mmol/l bt: 0.91mg/dl ast: 79 alt: 134 fa: 85 albumina: 3.6gr/dl nhc ** *** *** (********) age-v-onc 1/3 lopd ac anti hep c: positivo carga viral hep c: 6 log tc abdominal 23/2/18: adenopatias de tamaÃ±o y numero aumentado a nivel perisofagico, ligamento gastrohepatico, retropancreaticas, peripancreaticas, hilio hepatico, porto cava e interaortocava a la altura y por debajo del ostium de la ams.
 engrosamiento de aspecto patologico a nivel antral sin evidencia de extension a la grasa mesenterica omental adyacente.
 protesis gastrica correctamente colocada.
 no hay dilatacion de asas intestinales.
-mïnina cantidad de liquido en pelvis.
+mÃ¯nina cantidad de liquido en pelvis.
 sin signos de sospecha de carcinomatosis peritoneal.
 higado de morfologia normal y homogeneo.
 vias biliares no dilatadas.
 vesicula biliar sin contenido aparente.
 pancreas sin alteraciones.
 suprarrenales sin nodulos.
-bazo homogeneo de tamaño normal.
-riñones con realce homogeneo y simetrico, sindilatacion de vias.
+bazo homogeneo de tamaÃ±o normal.
+riÃ±ones con realce homogeneo y simetrico, sindilatacion de vias.
 egdsc 28/2/18 : esofago normal.
 cardias normal.
 fondo y cuerpo gastricos con escaso contenido de liquido bilioso que se aspira.
 en antro gastrico se observa mucosa de aspecto infiltrativo.
 a este nivel protesis metalica normoposicionada y permeable que permite el paso del endoscopio hasta duodeno.
-evolucio clinica paciente de 48 años, fumador , vhc +, actual recien dx n gastrica antral estenosante estadio iv por adp retroperitoneales y probable carciomatosis peritoneal . ecog 1 limitado por la disfagia.
+evolucio clinica paciente de 48 aÃ±os, fumador , vhc +, actual recien dx n gastrica antral estenosante estadio iv por adp retroperitoneales y probable carciomatosis peritoneal . ecog 1 limitado por la disfagia.
 ap: adk tubular, her2 neg, ebv neg, mss.
 ingresa desde domicilio para colocacion de protesis esofagica (programada 20/2/18).
 se lleva a cabo inicialmente sin incidencias aunque presentando vomitos biliosos postrprandiales por lo que ha continuado ingesta de forma intermitente.
@@ -47,4 +47,4 @@ es valorado por servicio de hepatologia quienes de momento dado pronostico de pa
 el paciente presenta evolucion clinica favorable con correcta tolerancia a via oral, por lo que se decide alta a domicilio.
 se cita para seguimiento ambulatorio en oncologia medica.
 orientacio diagnostica r10.13 dolor epigastric procediments 45.13 altres endoscopies d'intesti prim.
-esofagogastroduodenoscopia [egd] 38.97 col·locacio de cateter venos central amb guia nhc ** *** *** (********) age-v-onc 2/3 lopd tractament i recomanacions a l'alta -metoclopramida 10mg vo cada 8 horas -esomeprazol 20mg vo cada 12 horas -almax 1 sobrecada 8 horas -paracetamol 1gr vo cada 8 horas control -visita control oncologia medica proximo 7/3/18 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-onc 3/3 lopd
+esofagogastroduodenoscopia [egd] 38.97 colÂ·locacio de cateter venos central amb guia nhc ** *** *** (********) age-v-onc 2/3 lopd tractament i recomanacions a l'alta -metoclopramida 10mg vo cada 8 horas -esomeprazol 20mg vo cada 12 horas -almax 1 sobrecada 8 horas -paracetamol 1gr vo cada 8 horas control -visita control oncologia medica proximo 7/3/18 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-onc 3/3 lopd

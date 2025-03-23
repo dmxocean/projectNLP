@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 27.07.1977 edat: 42 anys procedencia aguts servei obstetricia data d'ingres 17.09.2019 data d'alta 18.09.2019 11:10:10 ates per **************, *****;; ***************, ****** informe d'alta d'hospitalitzacio motiu d'ingres ile antecedents no alergias medicamentosas ex-fumadora desde el inicio de la gestacion no transfusiones sanguineas iq: estrabismo obesidad morbida proces actual edad: 42 años tpal: 0040 (4 ae de 1er t) fur: 10.04.19 sg: 22+6 gs: o rh positivo ingresa primigesta de 22+6 semanas para ile por disgenesia de cuerpo calloso confirmada por rm resumen gestacional -a/s 1er t: hb: 15.5.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 27.07.1977 edat: 42 anys procedencia aguts servei obstetricia data d'ingres 17.09.2019 data d'alta 18.09.2019 11:10:10 ates per **************, *****;; ***************, ****** informe d'alta d'hospitalitzacio motiu d'ingres ile antecedents no alergias medicamentosas ex-fumadora desde el inicio de la gestacion no transfusiones sanguineas iq: estrabismo obesidad morbida proces actual edad: 42 aÃ±os tpal: 0040 (4 ae de 1er t) fur: 10.04.19 sg: 22+6 gs: o rh positivo ingresa primigesta de 22+6 semanas para ile por disgenesia de cuerpo calloso confirmada por rm resumen gestacional -a/s 1er t: hb: 15.5.
 hto: 47.2.
 plaq: 334.
 tsh: 1.02 -serologias: rub inm.
@@ -11,7 +11,7 @@ doppler aa uterinas normal - eco: 21+1 semanas.
 feto en podalica.
 astas posteriores de ventriculos laterales en el limite superior de la normalidad.
 imagen de cavum septum pellucidum dudosa.
-en el corte sagital se identifica estructura sugestiva de cuerpo calloso de tamaño inferior a lo esperado para la edad gestacional (longitud 11 mm).
+en el corte sagital se identifica estructura sugestiva de cuerpo calloso de tamaÃ±o inferior a lo esperado para la edad gestacional (longitud 11 mm).
 fosa posterior impresiona correcta.
 cisura de silvio impresiona normal.
 la valoracion neurosonografica es muy limitada dada la presentacion podalica y imc.

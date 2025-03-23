@@ -1,6 +1,6 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 01.09.1952 edat: 65 anys procedencia cex mateix hosp servei pneumologia data d'ingres 26.03.2018 data d'alta 12.04.2018 08:59:39 ates per equipo trasplante pulmonar - **********, **********, ********* informe d'alta d'hospitalitzacio motiu d'ingres paciente de 65 años que acude a urgencias el dia 26/03/2018 derivada de cex de tx por replicacion analitica de cmv.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 01.09.1952 edat: 65 anys procedencia cex mateix hosp servei pneumologia data d'ingres 26.03.2018 data d'alta 12.04.2018 08:59:39 ates per equipo trasplante pulmonar - **********, **********, ********* informe d'alta d'hospitalitzacio motiu d'ingres paciente de 65 aÃ±os que acude a urgencias el dia 26/03/2018 derivada de cex de tx por replicacion analitica de cmv.
 antecedents -sin alergias medicamentosas conocidas.
-- ex fumador desde hace 25 años de 60 cigarrillos al dia durante 20 años (exposicion de unos 40 paquetes-año).
+- ex fumador desde hace 25 aÃ±os de 60 cigarrillos al dia durante 20 aÃ±os (exposicion de unos 40 paquetes-aÃ±o).
 -situacion sociofuncional: independiente.
 vive con su esposa.
 vida activa.
@@ -57,10 +57,10 @@ no doloroso a la palpacion superficial ni profunda.
 no se palpan masas ni megalias.
 peristaltismo conservado.
 sin signos de irritacion peritoneal.
-puño percusion lumbar bilateralmente negativa.
+puÃ±o percusion lumbar bilateralmente negativa.
 dolor a la palpacion de zona lumbar.
 lassegue y bragard negativos.
-exploracion en planta de neumologia: ta: 109/71mmhg, fc: 86lpm, tº:36,4ºc, sato2:92% (aa), fr: 22rpm estado general aceptable, normocoloreado, normohidratado y normoperfundido.
+exploracion en planta de neumologia: ta: 109/71mmhg, fc: 86lpm, tÂº:36,4Âºc, sato2:92% (aa), fr: 22rpm estado general aceptable, normocoloreado, normohidratado y normoperfundido.
 dolor lumbar que disminuye con analgesia pero no esta controlado, presenta dolor a la palpacion de las apofisis de vertebras lumbares.
 neurologia: consciente y orientada.
 sin focalidad neurologica.

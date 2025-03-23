@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 27.02.1927 edat: 92 anys procedencia domicil/res.
-soc servei neurologia data d'ingres 28.09.2019 data d'alta 09.10.2019 15:00:00 ates per *************, ****; ***************, *****; **********, ****** informe de trasllat a sociosanitari motiu d'ingres mujer de 92 años que ingresa por sospecha de ictus antecedents no alergias medicamentosas conocidas.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 27.02.1927 edat: 92 anys procedencia domicil/res.
+soc servei neurologia data d'ingres 28.09.2019 data d'alta 09.10.2019 15:00:00 ates per *************, ****; ***************, *****; **********, ****** informe de trasllat a sociosanitari motiu d'ingres mujer de 92 aÃ±os que ingresa por sospecha de ictus antecedents no alergias medicamentosas conocidas.
 no habitos toxicos.
 antecedentes patologicos: -hipertension arterial en tratamiento farmacologico.
 -diabetes mellitus tipo 2 en tratamiento con antidiabeticos or ale s.
@@ -11,7 +11,7 @@ realizo seguimiento en ccee nefrologia.
 -sindrome ansioso-depresivo en tratamiento con mirtazapina.
 situacion sociofuncional: vive con cuidadora pero refieren i ndependenci a para abvd (se hace la comida, se asea sola, sale a la calle sola), deambula sin apoyo, no aparente deterioro cognitivo.
 mrs 2 medicacio habitual bisoprolol 2,5mg 1x24h, cinitaprida 1mg 1x24h, digoxina 25 mg 5x1s, levotiroxina sodica 112mcg 1x24h, furosemida 40mg 1x12h, ideos 1000mg/880ui sobres 1x24h, pregabalina 25mg 1x24h, metformina 850mg 0,5x24h, mirtazapina 30mg 1x24h, ivabradina 5mg 0,5x24h (no lo toma segun notas de cardiologia), rivaroxaban 15mg 1x24h, lorazepam 1mg 0,5x24h, metilprednisolona 4mg 1x24h.
-proces actual habiendose ido a dormir bien en torno a las 21:30h del 27/09 presenta a las 7:30h del 28/09 caida al levantarse al baño.
+proces actual habiendose ido a dormir bien en torno a las 21:30h del 27/09 presenta a las 7:30h del 28/09 caida al levantarse al baÃ±o.
 acude su cuidadora, quien la encuentra en el suelo al lado de la cama y avisa al sem, quienes objetivan hemiparesia izquierda.
 se activa codigo ictus a las 8:10h.
 hora de llegada 8:30.
@@ -20,16 +20,16 @@ exploracio fisica urgencias -constantes: ta 225/80mmhg, fc 71lpm, bmt 162mg/dl.
 -nrl: somnolienta (1), emision de lenguaje ininteligible (7), doc a la derecha (2), hh izquierda por amenaza (2).
 hemiparesia izquierda fbc de predominio braquial (2+4+3).
 sensibilidad no valorable (1).
-nihss 22 nhc ** *** *** &nbsp;(********) &nbsp;age-v-nrl 1/5 lopd unidad de ictus 155/58, 58 lpm, 36.7º, 210mg/dl en: doc d (2), hhi (2), disartria inteligible (1), hemiparesia f (2) bc 3/5 (2+2), hipoestsia izquierda (1), extincion sensitiva (1).
+nihss 22 nhc ** *** *** &nbsp;(********) &nbsp;age-v-nrl 1/5 lopd unidad de ictus 155/58, 58 lpm, 36.7Âº, 210mg/dl en: doc d (2), hhi (2), disartria inteligible (1), hemiparesia f (2) bc 3/5 (2+2), hipoestsia izquierda (1), extincion sensitiva (1).
 nihss: 13.
-planta de neurologia ctes: ta 154/55mmhg, fc 37,6ºc, sat o2 94%aa, gli 283mg/dl.
+planta de neurologia ctes: ta 154/55mmhg, fc 37,6Âºc, sat o2 94%aa, gli 283mg/dl.
 diu 1100ml.
 tonos cardiacos arritmicos, con soplo diastolico.
 murmullo vesicular conservado con crepitantes bibasales.
 abdomen depresible, ligera molestia a la palpacion profunda, con ruidos conservados.
 nrl: vigil, orientada (loc q 2/2; 0), obedece ordenes sencillas (loc c 2/2; 0), disatria inteligible (1) sin afasia, desviacion oculocefalica a la derecha (1), con hemianopsia izquierda (2), pfsn izquierda (2), con paresia braquio-crural izquierda (2+2), anestesia izquierda (2).
 nihss: 12.
-exploracio complementaria urgencias -ecg: ritmo sinusal a 60lpm, eje -60º, pr 0.20.
+exploracio complementaria urgencias -ecg: ritmo sinusal a 60lpm, eje -60Âº, pr 0.20.
 brihh ya conocido.
 no alteraciones agudas de la repolarizacion.
 -analitica sanguinea en urgencias: hb 14.
@@ -59,7 +59,7 @@ se deja unos 10-15 minutos solitaires para realizacion extraccion de trombo a la
 serie de control a las 10.27h que confirma recanalizacion completa tici 3.
 se deja trombo en formol.
 se decide finalizar procedimiento a las 10.30h.
-unidad de ictus -tc craneal control (24 horas): infarto isquemico agudo en region occipital y parahipocampal derecha con edema vasogenico-citotoxico que ejerce efecto de masa y pequeños focos hiperdensos que podrian corresponder a focos de transformacion hemorragica.
+unidad de ictus -tc craneal control (24 horas): infarto isquemico agudo en region occipital y parahipocampal derecha con edema vasogenico-citotoxico que ejerce efecto de masa y pequeÃ±os focos hiperdensos que podrian corresponder a focos de transformacion hemorragica.
 aumento del edema cerebral derecho de origen vasogenico y probablemente citotoxico por la isquemia, con efecto de masa en forma de leve desplazamiento de las estructuras nhc ** *** *** &nbsp;(********) &nbsp;age-v-nrl 2/5 lopd de la linea media (4mm) sin signos de hidrocefalia aguda.
 -analitica sanguinea en unidad de ictus: hb 11.
 6 g/dl, hcto 34.
@@ -122,7 +122,7 @@ nhc ** *** *** &nbsp;(********) &nbsp;age-v-nrl 3/5 lopd a su llegada a u.
 ictus paciente con ab undantes roncus abundates bilaterales, ante la orientacion de broncoaspiracion se inicia tratamiento con brocodilatadores, cor ticoideo y antibioterapi a con amox-clavulanico (fi 30/09).
 cifras de ta 200/70 a su llegada a la ui, por lo que se adminsitra nuevamente urapidil consiguiendose tas 157.
 clinicamente sin cambios respecto al inicio.
-tc de control 24h muestra infarto agudo occipital y parahipocampal derecha con edema vasogenico-citotoxico que ejerce efecto de masa y pequeños focos hiperdensos que podrian corresponder a focos de transformacion hemorragica.
+tc de control 24h muestra infarto agudo occipital y parahipocampal derecha con edema vasogenico-citotoxico que ejerce efecto de masa y pequeÃ±os focos hiperdensos que podrian corresponder a focos de transformacion hemorragica.
 por el momento se mantiene sin tratamiento anticoagulante.
 asimismo se realiza analitica completa en la que destaca hb glicada de 7.
 4 %, deterioro de la funcion renal en valores similares a sus habituales, y ligera descompensacion de hipotiroidismo, por el que ya sigue tratamiento.

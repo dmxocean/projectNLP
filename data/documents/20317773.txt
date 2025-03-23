@@ -1,9 +1,9 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 01.01.1925 edat: 94 anys procedencia domicil/res.
-soc servei traumatics data d'ingres 01.10.2019 data d'alta 24.10.2019 13:26:50 ates per ***** marsa, *****; ***************, *****; *************, *****;; ****; ****************, **** informe de trasllat a sociosanitari motiu d'ingres fractura subtrocanterea antecedents antecedents patologic 04.2005 :estat de cristal·li reemplaçat per altre mitja que el trasplantament homoleg, heteroleg.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 01.01.1925 edat: 94 anys procedencia domicil/res.
+soc servei traumatics data d'ingres 01.10.2019 data d'alta 24.10.2019 13:26:50 ates per ***** marsa, *****; ***************, *****; *************, *****;; ****; ****************, **** informe de trasllat a sociosanitari motiu d'ingres fractura subtrocanterea antecedents antecedents patologic 04.2005 :estat de cristalÂ·li reemplaÃ§at per altre mitja que el trasplantament homoleg, heteroleg.
 pseudofaquia 04.2005 :estat postoperatori consecutiu a extraccio de cataractes 11.2007 :hipertensio essencial inespecificada malaltia vascular periferica inespecificada.
 claudicacio intermitent nos, espasme arterial,angiopatia nos 11.2007 : hiperplasia prostatica no especificada sense obstruccio urinaria ni altres simptomes de les vies urinaries inf exploracio complementaria rx: fractura subtrocantera evolucio clinica el dia 2-10-19 el/paciente es intervenido de rafi fractura subtrocanterea: drs *****/***** sin incidencias intraoperatorias.
 durante el postoperatorio se encuentra hemodinamicamente estable y con buen control del dolor.
-en planta se mantiene hemodinamicamente estable, sin complicaciones añadidas.
+en planta se mantiene hemodinamicamente estable, sin complicaciones aÃ±adidas.
 controles analiticos y radiologicos sin alteraciones destacables.
 herida quirurgica con buena evolucion.
 realiza rehabilitacion bien tolerada, segun protocolo.
@@ -11,8 +11,8 @@ diuresis y deposiciones conservadas, dieta bien tolerada.
 proceso respiratorio tratado por equipo de ortogeriatria.
 valoracio ortogeriatria: home de 94 anys sense amc que ingressa per fractura de maluc dret . fumador de 2 paquets diaris durant 70 anys, va abandonar el consum fa 8 mesos.
 antecedents - hipertensio arterial sense tractament farmacologic.
-- mpoc gold iv associat a bronquiectasis que ha requerit multiples ingressos (6 en el darrer any, ultim al setembre’19).
-cultiu d’esput març ‘19: pseudomona aeruginosa multis.
+- mpoc gold iv associat a bronquiectasis que ha requerit multiples ingressos (6 en el darrer any, ultim al setembreâ€™19).
+cultiu dâ€™esput marÃ§ â€˜19: pseudomona aeruginosa multis.
 haemophilus inluenzae.
 tractament: bd: lama+laba+ci+azitromicina; oxigenoterapia domiciliaria.
 seguiment per pades.
@@ -26,14 +26,14 @@ limitacio funcional per dispnea.
 disfagia a solids.
 no deteriorament cognitiu.
 tractament segons hc3: azitromicina 250mg/48h, paracetamol 1g 1/24h, furosemida 40mg 1/24h, finasterida 5mg 1/24h, tamsulosina 0.4mg 1/24h, salbutamol/bromur ipatropi 1neb/12h, budesonida 2inh/12h, salbutamol inh a demanda, olodaterol/tiotropi 2inh/24h, bimatroprost 1gota/24h, prednisona 10mg/24.
-mc : caiguda propia alçada (va ensopegar) sense perdua de consciencia i sense tce.
+mc : caiguda propia alÃ§ada (va ensopegar) sense perdua de consciencia i sense tce.
 operat ahir 02/10/2019.
-postoperatori inicial sense alteracions, pero aquesta nit ha presentat un augment de la seva ortopnea basal (dorm amb capçal aixecat a domicili).
+postoperatori inicial sense alteracions, pero aquesta nit ha presentat un augment de la seva ortopnea basal (dorm amb capÃ§al aixecat a domicili).
 a la nostra visita, refereix dispnea i esta taquipneic.
 ef : conscient i orientat en espai-temps-persona.
 gsc 15.
 estat general conservat, hemodinamicament estable, normohidratat i normocolorejat.
-constants: ta 105/55 mmhg, fc 70 bpm, sato2 aa 92-94%, tª36.8ºc.
+constants: ta 105/55 mmhg, fc 70 bpm, sato2 aa 92-94%, tÂª36.8Âºc.
 ac: tons cardiacs ritmics sense bufs.
 no edemes maleolars, no ingurgitacio jugular.
 ar: murmuri vesicular conservat amb crepitants bibasals i algun roncus dispers.
@@ -48,10 +48,10 @@ s/o: l 30 b 235.
 uc negatiu.
 ecg : ecg vibrat.
 ritme sinusal a 65bpm, pr normal 0.12, qrs estret 0.
-8 amb eix a 45º.
+8 amb eix a 45Âº.
 qt corregit normal de 372ms.
 sense alteracions de la repolaritzacio.
-progressio rs a precordials normal, sense signes d’hipertrofia.
+progressio rs a precordials normal, sense signes dâ€™hipertrofia.
 ag ingres (03/10) : hb 9.
 7 g/dl, hto 30.
 7%, vcm 90.
@@ -74,12 +74,12 @@ na 139.
 7 mg/dl, p 3.
 2 mg/dl.
 albumina 2.
-8 g/dl, proteïna 5.
+8 g/dl, proteÃ¯na 5.
 1 g/dl.
 perfil hepatic sense alteracions.
 complicacions durant l'ingres: 1) po fx maluc.
 no incidencies locals aparentment.
-s'ha fet suplemetnacio amb ferro, vitamian d i proteïnes.
+s'ha fet suplemetnacio amb ferro, vitamian d i proteÃ¯nes.
 2) bacteriuria asimptomatica (per sediment) amb uc negatiu.
 3) mpoc gold iv aguditzat i que ha requerit incrementar gc i bd, iniciant-se descens progressiu.
 a mes, 'ha estat valorat per rhb cardiorespiratoria per roncus persistents.
@@ -92,8 +92,8 @@ ferogrdaumet 1c/d x 8 setmanes.
 hidroferol 266mcg, 1amp/4 setmanes.
 ciprofloaxina oral 500mg/12h i que haura de cumplir x 14 dies.
 debido a la buena evolucion clinica y local del paciente se decide el alta hospitalario bajo las siguientes indicaciones.
-orientacio diagnostica s72.23xa fractura subtrocanteriana desplaçada, femur no especificat, a procediments 89.52 electrocardiograma.
-ecg nos, ecg (amb 12 o mes derivacions) 99.29 injeccio o infusio d'altra substancia terapeutica o profilactica 03.91 injeccio en el conducte raquidi d'anestesic per a analgesia 79.35 reduccio oberta de fractura amb fixacio interna, femur tractament i recomanacions a l'alta reposo relativo aplicar frio local (15min x 3-4 veces al dia) paracetamol 1g/8h (añadir nolotil 575mg/8h si persiste el dolor) clexane 40mg/24h durante 30 dias realizar curas topicas periodicas proposta de tractament a l'alta: iniciar: ferogrdaumet 1c/d x 8 setmanes.
+orientacio diagnostica s72.23xa fractura subtrocanteriana desplaÃ§ada, femur no especificat, a procediments 89.52 electrocardiograma.
+ecg nos, ecg (amb 12 o mes derivacions) 99.29 injeccio o infusio d'altra substancia terapeutica o profilactica 03.91 injeccio en el conducte raquidi d'anestesic per a analgesia 79.35 reduccio oberta de fractura amb fixacio interna, femur tractament i recomanacions a l'alta reposo relativo aplicar frio local (15min x 3-4 veces al dia) paracetamol 1g/8h (aÃ±adir nolotil 575mg/8h si persiste el dolor) clexane 40mg/24h durante 30 dias realizar curas topicas periodicas proposta de tractament a l'alta: iniciar: ferogrdaumet 1c/d x 8 setmanes.
 hidroferol 266mcg, 1amp/4 setmanes.
 ciprofloaxina oral 500mg/12h i que haura de cumplir x 14 dies.
 resta sense canvis.

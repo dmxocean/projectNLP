@@ -1,15 +1,15 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 07.09.1970 edat: 48 anys procedencia aten.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 07.09.1970 edat: 48 anys procedencia aten.
 primaria servei infeccioses data d'ingres 19.10.2018 data d'alta 24.10.2018 10:00:00 ates per equipo dr ****** (dra *********, dra *******, dr ******, dr *******, dr ********).
-informe d'alta d'hospitalitzacio motiu d'ingres mujer de 48 años que ingresa por fiebre y sindrome miccional.
+informe d'alta d'hospitalitzacio motiu d'ingres mujer de 48 aÃ±os que ingresa por fiebre y sindrome miccional.
 antecedents antecedentes epidemiologicos: -natural de urugay.
-vive en barcelona desde hace 15 años.
-ultimo viaje a uruguay hace 4años.
+vive en barcelona desde hace 15 aÃ±os.
+ultimo viaje a uruguay hace 4aÃ±os.
 -trabaja como asistenta del hogar.
 -niega viajes recientes o exposiciones de interes.
 antecedentes patologicos: - alergia a penicilinas estudiada en huvh el 19/10/2018.
 refiere intolerancia a la metoclopramida (episodios de nerviosismo) - fumadora activa de 3 cigarrillos al dia.
 - colico nefritico de repeticion.
-ultimo episodio hace años.
+ultimo episodio hace aÃ±os.
 niega complicaciones en relacion con los cuadros.
 - anemia ferropenica de diagnostico reciente por menorragias abundantes en tratamiento sustitutivo y segumiento por parte de ginecologia.
 - sindrome del tunel carpiano diagnosticado en 2016.
@@ -18,37 +18,37 @@ en tratamiento farmacologico y seguimiento por parte de medico de atencion prima
 -episodios de menorragia recurrentes, desde el 8/09.
 ha consultado varias veces a urgencias, actualmente en tratamiento con edelsin y seguimiento por ginecologia para estudio posterior.
 es portadora de essure.
-intervenciones quirurgicas -amigdalecotmia a los 12 años.
--apendicetomia aproximcadamente a los 20 años.
+intervenciones quirurgicas -amigdalecotmia a los 12 aÃ±os.
+-apendicetomia aproximcadamente a los 20 aÃ±os.
 situacion sociofuncional -independiente para las abvd.
 -vive con su marido, su hijo y su nieta.
 medicacio habitual edelsin 1 comp cada 24h, fluoxetina 20mg 1 comp cada 12h, acido folico 10mg 1 comp cada 24h, cinitaprina 1mg 1 comp cada 8h, tardyferon 80mg 1 comp cada 24h.
 proces actual paciente refiere polaquiuria, hematuria y tenesmo vesical de una semana de evolucion.
 tres dias previos al ingreso comienza con dos deposiciones diarreicas al dia y dolor abdominal en flenco derecho, por lo que acude a su cuap, donde orientan el cuadro de gastroeneteritris, y pautaron tratamiento analgesico.
-el dia previo al ingreso comienza con tiritona, irradiacion del dolor hacia zona lumbar izquierda y fiebre cuantificado en 38ºc, junto con nauseas e incapacidad para ingerir alimentos.
+el dia previo al ingreso comienza con tiritona, irradiacion del dolor hacia zona lumbar izquierda y fiebre cuantificado en 38Âºc, junto con nauseas e incapacidad para ingerir alimentos.
 decide reacudir a cap donde se realiza tira reactiva de orina que nhc ** *** *** (********) age-v-inf 1/3 lopd muestra leucocituria y hematuria.
 se le da dosis unica de levofloxacino y se deriva a hvh.
-exploracio fisica pa 100/57 mmhg, fc 98 bpm, tª: 38.
-3 ºc, spo2 98% (aa) mucosas hidratadas, relleno capilar 2", estado general conservado.
+exploracio fisica pa 100/57 mmhg, fc 98 bpm, tÂª: 38.
+3 Âºc, spo2 98% (aa) mucosas hidratadas, relleno capilar 2", estado general conservado.
 sin lesiones cutaneas agudas.
--aparato respiratorio: eupneica en reposo, murmullo vesicular conservado sin ruidos sobreañadidos.
+-aparato respiratorio: eupneica en reposo, murmullo vesicular conservado sin ruidos sobreaÃ±adidos.
 -aparato cardiovascular: tonos cardiacos ritmicos, no ausculto soplos ni extratonos, pulsos perifericos presentes y simetricos, no signos de ingurgitacion yugular o reflujo hepatoyugular.
 sin edemas.
 sin signos de trombosis venosa profunda.
 -abdomen: blando y depresible, doloroso a la palpacion profunda en fosa iliaca derecha, no se palpan masas ni visceromegalias, peristaltismo conservado, sin signos de peritonitis.
-puñopercusion derecha positiva, izquierda negativa.
+puÃ±opercusion derecha positiva, izquierda negativa.
 murphy negativo.
 -exploracion neurologico: consciente y orientada en las tres esferas.
 glasgow 15.
 sensibilidad y fuerza conservadas, marcha sin alteraciones, no dismetrias ni disdiadococinesias, lenguaje conservado, sin signos de focalidad neurologica aguda.
-exploracio complementaria - ecg : ritmo sinusal a 60 lpm, pr 0.06 mseg, eje a 60º, qrs 0.06 mseg, qt 0.18 mseg, st isoelectrico, correcta progression onda r en precordiales, sin cambios con respecto a previos.
+exploracio complementaria - ecg : ritmo sinusal a 60 lpm, pr 0.06 mseg, eje a 60Âº, qrs 0.06 mseg, qt 0.18 mseg, st isoelectrico, correcta progression onda r en precordiales, sin cambios con respecto a previos.
 -analitica en urgencias: hb 11.6g/dl; hto 36.
 2%; vcm 92.1fl; leucocitos 11.67x10e9/l; neutrofilos 10.6x10e9/l; linfocitos 0.5x10e9/l; plaquetas 222x10e9/l; tp 12.4seg; ttpa 24.1seg; inr 1.02; fibrinogeno 4.41g/l; glucosa 101mg/dl; urea 39mg/dl; creatinina 0.7mg/dl; fg &gt;90ml/min/1.73m2; sodio 134mmol/l; potasio 3.35mmol/l; calcio 9.1mg/dl; ast 17ui/l; alt 11ui/l; proteina 7.2g/dl.
 -sedimento urinario: leucocitos 877cel/mcl, hematies 29.7cel/mcl, celulas epiteliales 4.8cel/mcl, cilindros hialinos 0cil/mcl, bacterias 200bact/mcl, hongos negativo.
 -urocultivo: muestra contaminada.
 -hemocultivo: pendientes.
-- ecografia renal : ambos riñones de tamaño, morfologia y ecoestructura dentro de la normalidad, sin evidenciar a area de nefritis ni imagenes que sugieran colecciones.
-microlitiasis en grupo calicilar inferior de riñon derecho.
+- ecografia renal : ambos riÃ±ones de tamaÃ±o, morfologia y ecoestructura dentro de la normalidad, sin evidenciar a area de nefritis ni imagenes que sugieran colecciones.
+microlitiasis en grupo calicilar inferior de riÃ±on derecho.
 vias excretoras no dilatadas.
 meatos ureterales libres.
 vejiga distendida, de paredes finas, sin imagenes endoluminales ni signos de ocupacion.
@@ -61,7 +61,7 @@ orientado como una pielonefritis aguda cambiamos esquema antibiotico a ciproflox
 se pauta tratamiento antiemetico con domperidona y posteriormente ondansetron que son parcialmente efectivos, pero la paciente persiste con incapacidad para ingerir liquidos o alimentos, motivo por el cual pautamos sueroterapia de soporte e ingresamos al area de observacion de cara a continuar con soporte hidrico endovenoso.
 nhc ** *** *** (********) age-v-inf 2/3 lopd a su llegada a planta la paciente se encuentra afebril y hemodinamicamnete estable.
 urocutiltivo contaminado y hemocultivos negativos.
-ante persistencia de dolor abdominal, mejoria clinica erratica y antecedentes de colico renal, se decide realizar ecografia renal que muestra microlitiasis en grupo calicilar inferior de riñon derecho sin mostrar dilatacion de vias urinarias ni focos de nefritis.
+ante persistencia de dolor abdominal, mejoria clinica erratica y antecedentes de colico renal, se decide realizar ecografia renal que muestra microlitiasis en grupo calicilar inferior de riÃ±on derecho sin mostrar dilatacion de vias urinarias ni focos de nefritis.
 durante su estancia presenta mejoria notable, con adecuada tolerancia oral, por lo que se decide alta a domicilio para completar 10 dias de antibioterapia con ciprofloxacino.
 se explican signos de alarma y motivos de reconsulta.
 orientacio diagnostica - pielonefritis aguda procediments 99.21 injeccio d'antibiotic ( 2 ) tractament i recomanacions a l'alta -ciprofloxacino 500mg 1 comprimido cada 12 horas via oral hasta el dia 28/10 (inclusive).
@@ -69,5 +69,5 @@ orientacio diagnostica - pielonefritis aguda procediments 99.21 injeccio d'antib
 - mantener su tratemiento via oral: edelsin 1 comp cada 24h, fluoxetina 20mg 1 comp cada 12h, acido folico 10mg 1 comp cada 24h, cinitaprina 1mg 1 comp cada 8h, tardyferon 80mg 1 comp cada 24h.
 se explican signos de alarma y motivos de reconsulta (fiebre, dolor intenso).
 control control por su medico de atencion primaria y eespecialsitas habituales.
-control en ccee de infecciosas (dr ******) el proximo 30/10 de octubre de 2018 a las 9 de la mañana en la antigua escuela de enfermeria (planta 2).
+control en ccee de infecciosas (dr ******) el proximo 30/10 de octubre de 2018 a las 9 de la maÃ±ana en la antigua escuela de enfermeria (planta 2).
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-inf 3/3 lopd

@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 26.09.2002 edat: 15 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 26.09.2002 edat: 15 anys procedencia domicil/res.
 soc servei oncohematologia ped.
 data d'ingres 24.06.2018 data d'alta 01.07.2018 16:00:00 ates per ***********, *********; *************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa para evaluacion y tratamiento de sindrome febril , en paciente con trombocitopenia de probable etiologia inmune, asociada a neutropenia en el ultimo hemograma.
 antecedents sin alergias conocidas.
@@ -8,13 +8,13 @@ ha requerido administracion de gammaglobulinas en dos ocasiones, no tratado con 
 aspirado de medula osea sin alteraciones (megacariocitos aumentados en numero).
 proces actual paciente deriva a nuestras urgencias por pediatra de cap ante cuadro de odinofagia y febricula con picos de fiebre iniciado hace 4 dias.
 hace 4 dias presentaba ademas petequias sin otros signos de hemorragia, ante las que se curso analitica en hsjd observandose 3000 plaquetas/mm3 y pcr 20,7 con pct negativa.
-se administro dosis de gammaglobulinas, presentando pico de 39,3ºc durante la administracion y mala tolerancia clinica.
+se administro dosis de gammaglobulinas, presentando pico de 39,3Âºc durante la administracion y mala tolerancia clinica.
 no se ha realizado analitica sanguinea de control.
-consutan por persistencia de febricula (&lt;38ºc) y odinofagia.
+consutan por persistencia de febricula (&lt;38Âºc) y odinofagia.
 no refieren sangrado a ningun nivel.
 ademas refieren inflamacion periungeal en primer dedo del pie izquierdo que ha empeorado pese a pomada antibiotica.
-exploracio fisica fc bpm tªaxi 38.
-3 ºc fr rpm tªrec ºc ta s mmhg sat o2 % ta d mmhg pes 64.000 kg triangulo de evaluacion pediatrica estable.
+exploracio fisica fc bpm tÂªaxi 38.
+3 Âºc fr rpm tÂªrec Âºc ta s mmhg sat o2 % ta d mmhg pes 64.000 kg triangulo de evaluacion pediatrica estable.
 buen estado general, normocoloreado y normohidratado.
 sin lesiones cutaneas agudas.
 neurologico: activo y reactivo.
@@ -24,11 +24,11 @@ otorrinolaringologico: orofaringe normal, sin exudados.
 sin adenopatias.
 otoscopia bilateral normal aparato respiratorio: eupneico.
 sin tiraje.
-buena entrada de aire bilateral sin ruidos sobreañadidos.
+buena entrada de aire bilateral sin ruidos sobreaÃ±adidos.
 aparato cardiovascular: tonos cardiacos ritmicos, sin soplos.
 relleno capilar cutaneo menor de 2 segundos.
 abdomen: blando y depresible, no se palpan masas ni megalias, no doloroso a la palpacion, peristaltismo conservado.
-uña encarnada 1º dedo pie izq con leve eritmea, no aumento de temperatura, inflamascion ni secrecion.
+uÃ±a encarnada 1Âº dedo pie izq con leve eritmea, no aumento de temperatura, inflamascion ni secrecion.
 exploracio complementaria sangre -analitica general al ingreso 24.06.18: hematies - 5.41 x10e12/l hemoglobina . 14.
 8 g/dl hematocrit . 43.
 5 % volum corpuscular mig (vcm) . 80.
@@ -45,9 +45,9 @@ exploracio complementaria sangre -analitica general al ingreso 24.06.18: hematie
 0 fl.
 glucosa 87 mg/dl urea . 30 mg/dl creatinini . 0.97 mg/dl bilirubina . 0.50 mg/dl io sodi 135.
 4 mmol/l io potassi . 3.80 mmol/l clorur 100 mmol/l calci . 9.
-1 mg/dl aspartat-aminotransferasa 156 ui/l alanina-aminotransferasa 116 ui/l proteïna 8.
+1 mg/dl aspartat-aminotransferasa 156 ui/l alanina-aminotransferasa 116 ui/l proteÃ¯na 8.
 0 g/dl albumina . 3.
-6 g/dl proteïna c reactiva 3.58 mg/dl.
+6 g/dl proteÃ¯na c reactiva 3.58 mg/dl.
 -analitica general al alta: hb 15.
 0 gr/dl.
 leucocitos 19.17x10e9/l.

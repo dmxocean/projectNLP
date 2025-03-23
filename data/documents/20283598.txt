@@ -1,10 +1,10 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 04.05.2009 edat: 10 anys procedencia aguts servei cirurgia pediatrica data d'ingres 19.09.2019 data d'alta 20.09.2019 12:46:28 ates per *************; ***********; ***********, ***** informe d'alta d'hospitalitzacio motiu d'ingres dolor abdominal.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 04.05.2009 edat: 10 anys procedencia aguts servei cirurgia pediatrica data d'ingres 19.09.2019 data d'alta 20.09.2019 12:46:28 ates per *************; ***********; ***********, ***** informe d'alta d'hospitalitzacio motiu d'ingres dolor abdominal.
 antecedents sin alergias medicamentosas conocidas.
 calendario vacunal al dia.
 sin antecedentes patologicos de interes.
-proces actual paciente de 10 años derivado a urgencias de nuestro centro el pasado 18.09.19 de madrugada desde el hospital de igualada por sopecha de apendicitis.
+proces actual paciente de 10 aÃ±os derivado a urgencias de nuestro centro el pasado 18.09.19 de madrugada desde el hospital de igualada por sopecha de apendicitis.
 refiere dolor abdominal desde las 17h de inicio progresivo en fid.
-hace 24 horas presenta cuadro de fiebre de 39º asociado a deposiciones diarreicas, hoy se añade el dolor abdominal.
+hace 24 horas presenta cuadro de fiebre de 39Âº asociado a deposiciones diarreicas, hoy se aÃ±ade el dolor abdominal.
 niega clinica genitourologica.
 no ha presentado nauseas.
 ingesta disminuida por hiporexia.
@@ -13,7 +13,7 @@ normohidratado y normocoloreado paciente con buen estado general.
 abdomen: plano, ruidos hidroareos presentes, blando y depresible, no se palpan masas ni organomegalias, dolor en centroumbilcal y en fid, defensa en fid.
 blumberg positivo, rovsing positivo.
 psoas/obturador negativos.
-prueba puño percusion lumbar negativa.
+prueba puÃ±o percusion lumbar negativa.
 exploracio complementaria - analitica sanguinea (19.09.19): hb 11.
 7, l 12.
 4 (n 79.
@@ -32,7 +32,7 @@ a la exploracion el abdomen se encuentra sin distension, blando y depresible, co
 finalmente ante la correcta evolucion se decide alta a domicilio en la fecha del presente informe.
 orientacio diagnostica dolor abdominal . sospecha de apendicitis aguda . procediments - apendicectomia laparoscopica - anestesia general e intubacion orotraqueal - canalizacion de via periferica - analitica sanguinea - antibioterapia profilactica con cefoxitina ev (40mg/kg) - analgesia endovenosa y sueroterapia tractament i recomanacions a l'alta - si dolor: ibuprofeno solucion oral 100mg/ml 10cc cada 8 horas.
 - mantener las heridas limpias y secas y aplicar betadine una vez al dia.
-evitar baños de inmersion durante al menos 2-3 semanas.
+evitar baÃ±os de inmersion durante al menos 2-3 semanas.
 - evitar deportes y ejericio fisico intenso durante las 3 primeras semanas.
 en caso de dolor abdominal, fiebre, vomitos o empeoramiento del estado general acudir a urgencias.
 control control en cex de cirugia pediatrica segun citacion adjunta.

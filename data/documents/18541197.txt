@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 20.02.1932 edat: 86 anys procedencia aten.
-primaria servei unitat had data d'ingres 23.02.2018 data d'alta 07.03.2018 13:00:00 ates per *********, *** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 85 años de edad, sin habitos toxicos ni alergias medicamentosas conocidas, que ingresa en had procedente del esic, para proseguir tratamiento por descompensacion de insuficiencia cardiaca y broncoespasmo antecedents 1.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 20.02.1932 edat: 86 anys procedencia aten.
+primaria servei unitat had data d'ingres 23.02.2018 data d'alta 07.03.2018 13:00:00 ates per *********, *** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 85 aÃ±os de edad, sin habitos toxicos ni alergias medicamentosas conocidas, que ingresa en had procedente del esic, para proseguir tratamiento por descompensacion de insuficiencia cardiaca y broncoespasmo antecedents 1.
 - hta en tratamiento farmacologico 2.
 - obesidad morbida 3.
 -deterioro de la funcion renal por nefropatia hipertensiva con cr basal (enero de 2018) 1,1, fg 36 4.
@@ -26,8 +26,8 @@ nhc ** *** *** (********) age-v-hdo 1/3 lopd medicacio habitual enalapril 10 mg/
 la paciente refiere tos con expectoracion mucopurulenta desde hace semanas sin fiebre ni dolor toracico, e incremento progresivo de la disnea,con ortopnea (duerme en el sofa desde enero) asi como edemas en extremidades inferiores.
 en la valoracion en el esic constan signos de insuficiencia cardiaca en la rx de torax, con funcion renal normal y presenta semiologia de broncoespasmo por lo que se inicia tratamiento mixto.
 se decide ingreso en had para proseguir tratamiento.
-la familia refiere importante alteracion del ritmo sueño-vigilia, duerme practicamente todo el dia desde el inicio del lorazepam.
-exploracio fisica ta 115/75 mmhg, fc 70x', sat 99%aa, tª 35,5ºc.
+la familia refiere importante alteracion del ritmo sueÃ±o-vigilia, duerme practicamente todo el dia desde el inicio del lorazepam.
+exploracio fisica ta 115/75 mmhg, fc 70x', sat 99%aa, tÂª 35,5Âºc.
 consciente y orientada, buen estado general, normocoloreada, er: eupneica, murmullo vesicular conservado.
 ec: tonos ritmicos, sin soplos, edemas bimaleolares de aspecto muy cronico, sin otros datos de insuficiencia cardiaca, abdomen: globuloso, blando, no doloroso, sin masas ni megalias palpables, peristaltismo conservado.
 en: consciente, parcialmente orientada y sin aparentes focalidades.

@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 14.11.2017 edat: 4 mesos procedencia aguts servei medicina pediatrica data d'ingres 14.03.2018 data d'alta 26.03.2018 10:56:32 ates per **********, ****** informe d'alta d'hospitalitzacio motiu d'ingres lactante de 4 meses que ingresa el 14.02 en la unidad de hospitalizacion de pediatria por bronquiolitis aguda con necesidad de soporte respiratorio . antecedents exprematura de 26+2 sg, ingresada en uci-neonatal con las siguientes complicaciones de la prematuridad: - membrana hialina con necesidad de intubacion, posteriormente cpap hasta los 37 dias de vida - riesgo de infeccion por prematuridad y sospecha de corioamnionitis materna, con analiticas de bajo riesgo y hemocultivo y pcrs negativas.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 14.11.2017 edat: 4 mesos procedencia aguts servei medicina pediatrica data d'ingres 14.03.2018 data d'alta 26.03.2018 10:56:32 ates per **********, ****** informe d'alta d'hospitalitzacio motiu d'ingres lactante de 4 meses que ingresa el 14.02 en la unidad de hospitalizacion de pediatria por bronquiolitis aguda con necesidad de soporte respiratorio . antecedents exprematura de 26+2 sg, ingresada en uci-neonatal con las siguientes complicaciones de la prematuridad: - membrana hialina con necesidad de intubacion, posteriormente cpap hasta los 37 dias de vida - riesgo de infeccion por prematuridad y sospecha de corioamnionitis materna, con analiticas de bajo riesgo y hemocultivo y pcrs negativas.
 cultivos maternos de exudado vaginal y exudado de placenta negativos, pero la anatomia patologica placentaria confirma corioamnionitis estadio ii y grado i fetal y placentaria.
 cultivo vaginal positivo a e.
 coli blee tratado con ertapenem durante 7 dias.
@@ -11,14 +11,14 @@ lactancia materna con exclusion de proteinas de leche de vaca, huevo, soja y pes
 - ictericia del prematuro no isoinmune con requerimientos de fototerapia.
 - anemia multifactorial con requerimiento de transfusion y neutropenia neonatal transitoria.
 - osteopenia/raquitismo del prematuro.
-radiografia de muñeca a los 3 meses de vida que objetiva signos de discreto raquitismo carencial.
-- ecocardiografia que diagnostica un foramen oval permeable de 3 mm versus cia pequeña recomendandose control en un año en ccee de cardiologia pediatrica.
+radiografia de muÃ±eca a los 3 meses de vida que objetiva signos de discreto raquitismo carencial.
+- ecocardiografia que diagnostica un foramen oval permeable de 3 mm versus cia pequeÃ±a recomendandose control en un aÃ±o en ccee de cardiologia pediatrica.
 - infeccion por cmv adquirido: al nacimiento cmv por pcr en orina que resulta negativo.
 a los 20 dias de vida se repite estudio, en contexto de leucopenia, que resulta positivo.
 la paciente se mantiene asintomatica por lo que no recibe tratamiento.
 ultimo control realizado el 05/01/17 con 1** *** *** ui/ml y logaritm0 de 8.25.
-proces actual paciente de 3 meses que consulta el 13.03 por pico febril de 38ºc de 4 horas de evolucion.
-se acompaña de mucosidad y tos de 4 dias de evolucion.
+proces actual paciente de 3 meses que consulta el 13.03 por pico febril de 38Âºc de 4 horas de evolucion.
+se acompaÃ±a de mucosidad y tos de 4 dias de evolucion.
 ayer ingesta conservada, refieren que hoy ha disminuido la ingesta (a partir de la toma de las 6am las ha realizado de 15 minutos, normalmente tomas de mas tiempo y con mejor succion).
 refieren que esta mas irritable.
 no vomitos.
@@ -28,8 +28,8 @@ acudieron el 11.3.18 a este hospital por cuadro de mucosidad, tos y vomitos y se
 se da de alta con normas de reconsulta y visita de control en 24 horas.
 reconsulta por la tarde por empeoramiento de la dificultad respiratoria y persistencia de la fiebre.
 ambiente epidemiologico: positivo, prima con cuadro catarral.
-exploracio fisica fc 190 bpm fr rpm ta s mmhg ta d mmhg nhc ** *** *** (********) ami-v-pee 1/3 lopd tªaxi 38.
-3 ºc tªrec ºc sat o2 100 % pes 3.710 kg tep: estable.
+exploracio fisica fc 190 bpm fr rpm ta s mmhg ta d mmhg nhc ** *** *** (********) ami-v-pee 1/3 lopd tÂªaxi 38.
+3 Âºc tÂªrec Âºc sat o2 100 % pes 3.710 kg tep: estable.
 buen estado general.
 normocoloreada.
 normohidratada.
@@ -52,7 +52,7 @@ exploracio complementaria - gasometria venosa (14.03) : ph 7.38, pco2 45, na 132
 - analitica general (14.03): hemoglobina 9.
 2 g/dl, leucocits 6.81 x10e9/l, neutrofils 1.
 4 x10e9/l, limfocits 4.
-7 x10e9/l, plaquetes 262 x10e9/l, proteïna c reactiva 2.75, funcion renal y hepatica normales, iones sodio 135, potasio 5.
+7 x10e9/l, plaquetes 262 x10e9/l, proteÃ¯na c reactiva 2.75, funcion renal y hepatica normales, iones sodio 135, potasio 5.
 8, pct 0.16 ng/ml.
 - radiografia de torax (14.03): dudosos infiltrados peribronquiales.
 - aspirado nasofaringeo a virus (14.03): + a metapneumov irus.
@@ -69,4 +69,4 @@ durante hospitalizacion se mantiene hemodinamicamente estable y afebril en todo 
 dada la buena evolucion clinica, se decide dar el alta hospitalaria el dia 26.03 con una exploracion fisica compatible con la normalidad.
 orientacio diagnostica j21.
 1 bronquiolitis aguda causada pel metapneumovirus huma nhc ** *** *** (********) ami-v-pee 2/3 lopd procediments analitica general gasometria venosa radiografia de torax aspirado nasofaringeo sonda nasogastrica oxigenoterapia suplementaria tractament i recomanacions a l'alta - lavados nasales con suero fisiologico si precisa.
-- posicion semiincorporada a 30º control - control con su pediatra de zona en 3 dias destinacio a l'alta: a domicili nhc ** *** *** (********) ami-v-pee 3/3 lopd
+- posicion semiincorporada a 30Âº control - control con su pediatra de zona en 3 dias destinacio a l'alta: a domicili nhc ** *** *** (********) ami-v-pee 3/3 lopd
