@@ -298,7 +298,7 @@ def extract_annotations_and_split_documents(data):
                                 "end": adjusted_end-1,  # Adjusted end
                                 "label": label,
                                 "text": segment_text,
-                                "line_number": line_num,  # Add line number
+                                "line_number": f"{doc_id}_{line_num}",  # Add line number
                             }
                             rows.append(row)
 
@@ -441,6 +441,7 @@ def group_labels(df):
         if row["label"] == "USCO":
             df.at[index, "scope"] = consecutive("UNC", index, df, before, after)
 
+    """
     # second pass to group the rest
     for index, row in df.iterrows():
         before, after = before_after("label", index, df)
@@ -450,6 +451,7 @@ def group_labels(df):
 
         if row["label"] == "USCO":
             df.at[index, "scope"] = closest("UNC", index, before, after)
+    """
 
     return df
 
