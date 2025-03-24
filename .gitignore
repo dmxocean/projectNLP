@@ -10,7 +10,7 @@ sandbox/
 *.DS_Store
 *.swp
 *.lock
-
+commit.txt
 requirements.txt
 
 # Python-specific ignores

@@ -192,21 +192,22 @@ def extract_annotations(data):
     return pd.DataFrame(rows)
 
 
-def extract_annotations_and_split_documents(data):
+def extract_annotations_and_split_documents(data, silent=False):
     """
-    Extracts annotations, splits documents into lines, and adjusts annotation indices.
+    Extracts annotations, splits documents into lines, and adjusts annotation indices
 
     This function combines the functionality of extracting annotations and
     splitting documents into lines while correctly adjusting the annotation
-    indices to match the new line-based structure.
+    indices to match the new line-based structure
 
     Args:
-        data (list): List of document JSON objects.
+        data (list): List of document JSON objects
+        silent (bool): If True, suppresses warnings about missing annotations
 
     Returns:
         pd.DataFrame: DataFrame containing all annotations, with indices
-                      adjusted for line breaks.  Also saves each document
-                      as a text file, split by lines.
+                    adjusted for line breaks.  Also saves each document
+                    as a text file, split by lines
     """
 
     rows = []
@@ -263,7 +264,8 @@ def extract_annotations_and_split_documents(data):
                     if "value" in res and "labels" in res["value"]:
                         original_start = res["value"]["start"]
                         original_end = res["value"]["end"]
-                        print(original_start, original_end)
+                        if not silent:
+                            print(original_start, original_end)
 
                         # Find the line number and adjusted start/end
                         line_num, adjusted_start, adjusted_end = -1, -1, -1
@@ -277,16 +279,18 @@ def extract_annotations_and_split_documents(data):
 
                         # Sanity Check
                         if line_num == -1:
-                            print(
-                                f"Warning: Could not find line for annotation in doc {doc_id}"
-                            )
+                            if not silent:
+                                print(
+                                    f"Warning: Could not find line for annotation in doc {doc_id}"
+                                )
                             continue
 
                         # Now, reconstruct line text *from the line offsets and original text*
                         segment_text = original_text[
                             line_offsets[line_num][0] : line_offsets[line_num][1]
                         ][adjusted_start:adjusted_end]
-                        print(adjusted_start, adjusted_end)
+                        if not silent:
+                            print(adjusted_start, adjusted_end)
 
                         for label in res["value"]["labels"]:
                             row = {
