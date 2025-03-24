@@ -4,7 +4,6 @@ import string
 import nltk
 import pandas as pd
 
-
 def json_structure(data, max_depth=5, current_depth=0, path="root"):
     """
     Recursively explore and print the structure of JSON data up to a specified depth
