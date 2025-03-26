@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 09.12.1950 edat: 67 anys procedencia domicil/res.
-soc servei medicina interna data d'ingres 07.08.2018 data d'alta 23.08.2018 10:00:00 ates per equipo dr. ******/******* (dra. ****, dra. *****) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 67 años que acude por desorientacion.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 09.12.1950 edat: 67 anys procedencia domicil/res.
+soc servei medicina interna data d'ingres 07.08.2018 data d'alta 23.08.2018 10:00:00 ates per equipo dr. ******/******* (dra. ****, dra. *****) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 67 aÃ±os que acude por desorientacion.
 antecedents sin alergias medicamentosas conocidas.
 sin habitos toxicos.
 antecedentes patologicos: - hipertension arterial en tratamiento farmacologico.
@@ -31,7 +31,7 @@ coli multisensible (abril 2016 y abril 2017).
 - miomatosis uterina diagnosticada de forma incidental en marzo 2014, con metrorragia postmenopausica intermitente.
 histeroscopia con biopsia endometrial y polipectomia en octubre 2014 sin complicaciones.
 se evidencio un endometrio atrofico, vascularizacion irregular en relacion a polipo submucoso y dos polipos con histologia benigna (fibroepitelial).
-- incontinencia urinaria de esfuerzo , portadora de pañal.
+- incontinencia urinaria de esfuerzo , portadora de paÃ±al.
 - lumbalgia y cervicalgia cronica secundaria a artropatia degenerativa.
 - sindrome depresivo de larga evolucion actualmente sin tratamiento.
 - osteopenia sin fracturas patologicas.
@@ -40,18 +40,18 @@ ultima dmo (2012): t-score femur -1.67 y en columna vertebral -2.29.
 situacion sociofuncional: viive con su marido.
 tienen 2 hijos.
 buen soporte familiar.
-dependencia moderada para las abvd (necesita ayuda o supervision para vestirse, baño, comer, caminar, subir y bajas escaleras).
+dependencia moderada para las abvd (necesita ayuda o supervision para vestirse, baÃ±o, comer, caminar, subir y bajas escaleras).
 sin deterioro cognitivo.
 nhc ** *** *** (********) age-v-mi2 1/4 lopd medicacio habitual tenofovir 245 mg 1 c/dia, espironolactona 50mg 1c/dia, furosemida 40mg 0.5c/dia, lactulosa 1-3 sobres al dia, omeprazol 20mg 1c/dia, ursobilane 300mg 1c/12h, rifaximina 200mg 3c/12h, insulina detemir 16-0-14u, insulina rapida 4-6 u antes de comidas segun glicemias.
 norfloxacino 400mg 1c/dia, levodopa/carbidopa 1.5c/8h.
 paracetamol 1g si dolor, acido folico 5mg 1c/dia.
 proces actual paciente dada de alta el 25/07 tras ingreso por encefalopatia hepatica.
-refiere cuadro de 4 dias de evolucion, con bradipsiquia y bradilalia, aumento de perimetro en extremidades inferiores y abdomen coicidente con aparicion de febricula de hasta 37.3ºc y tos con expectoracion clara, sin disnea.
+refiere cuadro de 4 dias de evolucion, con bradipsiquia y bradilalia, aumento de perimetro en extremidades inferiores y abdomen coicidente con aparicion de febricula de hasta 37.3Âºc y tos con expectoracion clara, sin disnea.
 niega dolor toracico, sindrome miccional o alteracion del habito deposicional (mantiene 3-4 deposiciones liquidas sin produtos patologicos).
 niega transgresion dietetica, consumo de aine o cualquier otra medicacion no pautada.
-exploracio fisica fc 94 bpm tªaxi 35.
-4 ºc fr rpm tªrec ºc ta s 131 mmhg sat o2 1 % ta d 61 mmhg pes kg ta: 135/85 mmhg, fc: 75 lpm, tª: 35.
-6 ºc, sato2: 96 % aa.
+exploracio fisica fc 94 bpm tÂªaxi 35.
+4 Âºc fr rpm tÂªrec Âºc ta s 131 mmhg sat o2 1 % ta d 61 mmhg pes kg ta: 135/85 mmhg, fc: 75 lpm, tÂª: 35.
+6 Âºc, sato2: 96 % aa.
 regular estado general.
 ictericia mucocutanea.
 hiperhidratada.
@@ -60,8 +60,8 @@ edema en extremidades inferiores en zonas declives con fovea, y en extremidades 
 no ingurgitacion yugular ni reflejo hepato-yugular.
 pulsos perifericos palpables y simetricos.
 ar: eupneica en reposo.
-murmullo vesicular conservado sin ruidos sobreañadidos.
-puñopercusion lumbar bilateral negativa.
+murmullo vesicular conservado sin ruidos sobreaÃ±adidos.
+puÃ±opercusion lumbar bilateral negativa.
 abd: abdomen blando y depresible, no doloroso a la palpacion.
 no se palpan masas ni organomegalias.
 ruidos intestinales presentes y normales.
@@ -85,12 +85,12 @@ exploracio complementaria - eab : ph 7.42, pco2 40 mmhg, na 130 mmol/l, k 4.
 2 mmol/l, k 4.79 mmol/l, calcio 8.
 2 mg/dl, ast 52 ui/l, alt 42 ui/l, fa 206 ui/l, ggt 25 ui/l, bb total 7.01 mg/dl, bb directa 2.98 mg/dl, proteinas 6.
 6 g/dl.
--analisis del liquido ascitico : glucosa 300 mg/dl, proteïna &lt;1.
+-analisis del liquido ascitico : glucosa 300 mg/dl, proteÃ¯na &lt;1.
 5 g/dl (trasudat), amilasa pancreatica &lt;5 u/l, ldh 104 ui/l -citologia liquido ascitico : negativo para celulas malignas.
 compatible con proceso inflamatorio inespecifico -sedimento urinario : leucocitos 2.
-2 cel/µl, eritrocitos 0.
-9 cel/µl, celulas epiteliales 8.
-8 cel/µl, bacterias 50 bact/µl.
+2 cel/Âµl, eritrocitos 0.
+9 cel/Âµl, celulas epiteliales 8.
+8 cel/Âµl, bacterias 50 bact/Âµl.
 ** urocultivo : muestra contaminada, no apta.
 - hemocultivos : negativos.
 -radiografia de torax : ict&lt;50%.
@@ -119,7 +119,7 @@ como complicacion durante su estancia en planta la paciente presenta pico febril
 ademas presenta empeoramiento de la descompensacion ascitica con disconfort abdominal y se realiza paracentesis evacuadora con extraccion de 3.800cc de liquido ascitico claro sin criterios de pbe, ademas de reintroducir espironolactona 50mg.
 finalmente, en presencia de estabilidad clinica, se decide alta a domicilio con proximo control en consultas externas de hepatologia.
 orientacio diagnostica -descompensacion ascitica - encefalopatia hepatica - pielonefritis aguda intrahospitalaria , sin aislamiento - cirrosis hepatica por vhd/ b procediments 88.76 ultraso diagnostic d'abdomen i retroperitoneu tractament i recomanacions a l'alta -dieta sin sal -cefuroxima 500mg, 1 comprimido cada 8 horas hasta el 28 de agosto incluido nhc ** *** *** (********) age-v-mi2 3/4 lopd -paracetamol 1g, 1 comprimido cada 8 horas si precisa -espironolactona 50mg, 1 comprimido al dia -lactulosa sobres para mantener 3-4 deposciones diarias se explican signos y sintomas de alarma asi como normas de reconsulta.
-acudir a hospital de dia de hepatologia (7ª planta anexo) si empeoramiento de ascitis o acudir a urgencias.
+acudir a hospital de dia de hepatologia (7Âª planta anexo) si empeoramiento de ascitis o acudir a urgencias.
 control control por medico de atencion primaria acudir a consultas externas de medicina interna - hepatologia (dr ********) el proximo 7 de septiembre, previa extraccion de analitica el dia 4 de septiembre.
 ver hoja de citas adjunta.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-mi2 4/4 lopd

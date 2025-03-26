@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 02.03.2018 edat: 18 mesos procedencia cex mateix hosp servei urologia ped.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 02.03.2018 edat: 18 mesos procedencia cex mateix hosp servei urologia ped.
 data d'ingres 01.10.2019 data d'alta 02.10.2019 15:31:03 ates per ******, ****; ***********, *****; **********, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa para intervencion quirurgica programada: correccion de hipospadias.
 antecedents no alergias medicamentosas conocidas.
 calendario vacunal al dia.
@@ -22,7 +22,7 @@ orientacio diagnostica q54.
 tractament i recomanacions a l'alta ibuprofeno (dalsy 20mg/ml): 3.2ml cada 8h.
 mantener zona limpia y seca.
 curas diarias con betadine/cloheridina acuosa.
-evitar baños de inmersion minimo 1 semana reposo relativo durante 3 semanas (evitar deportes de contacto).
-reconsulta en urgencias si fiebre &gt;38ºc, dolor intenso, dificultad para orinar o e mpeoramiento del estado general.
+evitar baÃ±os de inmersion minimo 1 semana reposo relativo durante 3 semanas (evitar deportes de contacto).
+reconsulta en urgencias si fiebre &gt;38Âºc, dolor intenso, dificultad para orinar o e mpeoramiento del estado general.
 control control en cex de urologia pediatrica segun cita.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-urp 2/2 lopd

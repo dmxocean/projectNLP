@@ -1,10 +1,10 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 14.05.1996 edat: 22 anys procedencia aguts servei alt risc obstetric data d'ingres 19.10.2018 data d'alta 23.10.2018 15:00:00 ates per ***********, ******; ***************, ****; **************, **** informe d'alta d'hospitalitzacio motiu d'ingres amenaza de parto inmaduro.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 14.05.1996 edat: 22 anys procedencia aguts servei alt risc obstetric data d'ingres 19.10.2018 data d'alta 23.10.2018 15:00:00 ates per ***********, ******; ***************, ****; **************, **** informe d'alta d'hospitalitzacio motiu d'ingres amenaza de parto inmaduro.
 antecedents no alergias medicamentosas conocidas.
 no antecedentes patologicos.
 intervenciones quirurgicas: cesarea 2015 . niega habitos toxicos.
 no medicacion habitual.
 actualmente en tto con amoxicilina 500mg/8h por problema bucal.
-proces actual edad: 22 años.
+proces actual edad: 22 aÃ±os.
 tpal: 0111 (1 cesarea por podalica en 2015) fur: 17/05/2018 sg: 22 +1 gs: gestacion escasamente controlada . control inicial en ecuador.
 no aporta informes.
 derivada del hospital de mollet por hallazgo de cervix corto en ausencia de dinamica uteirna.

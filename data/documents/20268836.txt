@@ -1,10 +1,10 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 06.03.1984 edat: 35 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 14.09.2019 data d'alta 19.09.2019 13:00:00 ates per ***********, *******; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergias medicamentosas conocidas no antecedentes patologicos intervenciones quirurgicas: salpinguectomia por gestacion extrauterina (geu), cesarea ; niega habitos toxicos no medicacion habitual proces actual -edad: 35 -tpal: 2012 - fur: 5.12.18 - sg: 40 .3 - grupo sanguineo: b + coombs indirecto: negativo barrera idiomatica control en alto riesgo obstetrico (aro) por sobrepeso + antecedente de diabetes gestacional insulinizada + riesgo preeclampsia en el 1º trimestre resumen gestacional nacionalidad: pakistan as 3t: hb 11.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 06.03.1984 edat: 35 anys procedencia domicil/res.
+soc servei obstetricia data d'ingres 14.09.2019 data d'alta 19.09.2019 13:00:00 ates per ***********, *******; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto antecedents no alergias medicamentosas conocidas no antecedentes patologicos intervenciones quirurgicas: salpinguectomia por gestacion extrauterina (geu), cesarea ; niega habitos toxicos no medicacion habitual proces actual -edad: 35 -tpal: 2012 - fur: 5.12.18 - sg: 40 .3 - grupo sanguineo: b + coombs indirecto: negativo barrera idiomatica control en alto riesgo obstetrico (aro) por sobrepeso + antecedente de diabetes gestacional insulinizada + riesgo preeclampsia en el 1Âº trimestre resumen gestacional nacionalidad: pakistan as 3t: hb 11.
 2 hct 34.
 4 plq 273000 coag correcta vih negativo -triple screening: bajo riesgo.
 -serologias: vih, vhb, vhc, sifilis negativo.
 rubeola no consta.
--o´sullivan: 188 ttog: normal -urocultivo: negativo -cultivo vaginal/rectal: negativo 28/08/2019 -ecografia 3er trimestre: 38.
+-oÂ´sullivan: 188 ttog: normal -urocultivo: negativo -cultivo vaginal/rectal: negativo 28/08/2019 -ecografia 3er trimestre: 38.
 0: cefalica, placenta anterior, pfe 2795g (p28), lan.
 doppler maternofetal normal.
 -peso inicial: 73,4 peso final: 78.
@@ -46,5 +46,5 @@ control control por su matrona de zona en 7-10 dias.
 control de tension arterial diaria en domicilio, acudiendo a su cap para valoracion por su medico de atencion primaria en 3-4 dias para valoracion de controles y ajuste de tratamiento antihipertensivo.
 acudir a urgencias si es mayor de 150/95mmhg se informa de signos y sintomas de alarma (fiebre termometrada en domicilio, eritema mamario, secrecion purulenta por herida quirurgica o secrecion vaginal maloliente) por los que debe volver a consultar por urgencias.
 se recomienda abundante ingesta de liquidos y dieta variada y equilibrada.
-lavado diario de herida quirurgica con agua y jabon neutro y realizacion progresiva de actividad fisica, asi como evitar inmersion en bañera o piscina hasta finalizar el puerperio.
+lavado diario de herida quirurgica con agua y jabon neutro y realizacion progresiva de actividad fisica, asi como evitar inmersion en baÃ±era o piscina hasta finalizar el puerperio.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 3/3 lopd

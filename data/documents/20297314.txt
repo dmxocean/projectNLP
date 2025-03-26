@@ -1,13 +1,13 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 20.04.1946 edat: 73 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 20.04.1946 edat: 73 anys procedencia domicil/res.
 soc servei traumatics data d'ingres 24.09.2019 data d'alta 10.10.2019 12:12:45 ates per ************, ************; ***************, *************; ****************, unai informe d'alta d'hospitalitzacio motiu d'ingres tumoracion cervical.
 antecedents al.
-lergies sense al·lergies conegudes proces actual paciente que acude a urgencias por cervicalgia postrumatica de 2 meses de evolucion.
+lergies sense alÂ·lergies conegudes proces actual paciente que acude a urgencias por cervicalgia postrumatica de 2 meses de evolucion.
 el paciente explica caida casual con tce y cervicalgia postrumatica concomitante.
 fue valorado por equipo de urgencia y orientado como contractura muscular.
 el paciente despues de un periodo inicial de mejoria de la clinica presenta una reaparicion de la cervicalgia sin otro signo de alarma asociado.
 el paciente comenta que reconsulto en hospital de zafra por parte de equipo de ncr.
 se solicita tc de urgencia que objetiva una masa con realce periferico de irregular mal delmiitado de los musculos adyacentes y con zonas centrales hipodensas de 27x43x60mm.
-en los ultimos dias el paciente presenta picos febriles intermitentes el ultimo de ellos de mas de 38ºc sin cuadro de sepsis concomitante.
+en los ultimos dias el paciente presenta picos febriles intermitentes el ultimo de ellos de mas de 38Âºc sin cuadro de sepsis concomitante.
 exploracio fisica ba muy limitado por dolor.
 contractura de la musculatura paravertebral bilateral.
 dolor a la palpacion de aposfisis espinosas.
@@ -21,14 +21,14 @@ se realizo biopsia guiada por eco, tomando muestra con bag no 14 obteniendo 4 ci
 al intentar aspiracion con menor calibre no se obtuvo muestra.
 las muestras se enviaron a anatomia patologica y microbiologia y ante el hallazgo de s.
 aureus meticilin sensible se inicia cloxacilina 2g/4h iv ekl dia 27.09.19.
-se realiza rmn 01/10/19 de octubre que informa de: -extensos cambios inflamatorios / infecciosos los tejidos blandos de la region cervical paravertebral derecha que muestra dos pequeñas zonas de abscesificacion que no superan los 8 mm.
+se realiza rmn 01/10/19 de octubre que informa de: -extensos cambios inflamatorios / infecciosos los tejidos blandos de la region cervical paravertebral derecha que muestra dos pequeÃ±as zonas de abscesificacion que no superan los 8 mm.
 afectacion osea secundaria con signos de osteitis de la vertebra c4 asi como pediculos, procesos articulares y margen derecho del arco posterior de c3, c4 y c5.
 -epiduritis intraespinal c3-c7 sin colecciones intraespinales.
 afectacion foraminal derecha por cambios inflamatoris en c3-c4, c4-c5 y c5-c6.
 -no se observa compromiso del cordon medular.
 el dia 04/10/19 de octubre se inicia rifampicina 600mg por parte del equipo de infecciosas e indican desescalar a levofloxacino.
 valorado por el equipo de raquis no considera que el paciente sea tributario a tratamiento quirurgico e indica tratamiento conservador y control por el equipo en 1 mes.
-valorado por el equipo de otorrinolaringologia no consideran relacion del absceso con antecedente de neoplasia glotica hace 7 años (en controles por su servicio y sin evidencia de recidivas).
+valorado por el equipo de otorrinolaringologia no consideran relacion del absceso con antecedente de neoplasia glotica hace 7 aÃ±os (en controles por su servicio y sin evidencia de recidivas).
 indican al alta adelantar visita en 1 mes durante el ingreso el paciente se mantiene consciente y orientado, beg, hde, diuresis optimas.
 presenta cuadro de febricula que resuelve tras introduccion de antibioterapia.
 la herida post-puncion presenta buena evolucion sin signos de infeccion ni sangrado agudo.

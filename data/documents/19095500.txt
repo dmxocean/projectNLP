@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 12.08.2009 edat: 9 anys procedencia cex mateix hosp servei oncohematologia ped.
-data d'ingres 20.08.2018 data d'alta 24.08.2018 16:00:00 ates per *************, ******; **************, ***********; **************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 9 años afecto de neuroblastoma que ingresa el dia 20.08.2018 para recibir cuarta dosis de inmunoterapia con dinutuximab.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 12.08.2009 edat: 9 anys procedencia cex mateix hosp servei oncohematologia ped.
+data d'ingres 20.08.2018 data d'alta 24.08.2018 16:00:00 ates per *************, ******; **************, ***********; **************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 9 aÃ±os afecto de neuroblastoma que ingresa el dia 20.08.2018 para recibir cuarta dosis de inmunoterapia con dinutuximab.
 antecedents antecedentes personales intolerancia a la lactosa - rast a plv a principios de 2017 negativo.
 descartada alergia a amoxicilina/clavulanico (prueba de provocacion negativa).
 calendario vacunal al dia herniorrafia inguinal bilateral.
@@ -24,7 +24,7 @@ catecolaminas en orina: 5-hidroxiindolilacetat 8.75 mg/24h, noradrenalina 116.
 - rm whole body 07.08.17: lesion focal en glandula suprarrenal derecha, en el contexto posible tumor de estirpe simpatica (neuroblastoma).
 m1 oseas multiples.
 lesion de partes blandas metastasica en iliaco derecho.
-pequeño nodulo pulmonar de 5 mm en lii, inespecifico.
+pequeÃ±o nodulo pulmonar de 5 mm en lii, inespecifico.
 - pet-tc 17.08.17: aumento de expresion de receptores de somatostatina tipo 2 y 5 difusamente en el componente medular del esqueleto oseo, asi como en glandula suprarenal derecha.
 tales hallazgos sugieren un patron de infiltracion medular.
 la hiperfijacion en la glandula suprarrenal derecha podria estar en relacion a la lesion objetivada en rm del 07/08/17, a valorar dirigidamente.
@@ -52,7 +52,7 @@ recibe un total de 5 dias de tratamiento con piperacilina tazobactam.
 recibe dos dosis puntuales de furosemida.
 -segundo ciclo de acido retinoico entre 19.05.2018 y 1.06.2018 (160 mg/m2/dia) -segundo tratamiento con dinutuximab (12.06.2018 al 22.06.2018).
 precisa hospitalizacion hasta 48 h previas a fin de tratamiento, alta el dia 14.6.2018.
-como efecto adverso destaca *fiebre de 38º, hemodinamicamente estable y sin afectacion del estado general, se realiza hemocultivo que resulta negativo y se mantiene conducta expectante.
+como efecto adverso destaca *fiebre de 38Âº, hemodinamicamente estable y sin afectacion del estado general, se realiza hemocultivo que resulta negativo y se mantiene conducta expectante.
 -tercer ciclo de acido retinoico entre 23.06.2018 y 06.07.2018 (160 mg/m2/dia) nhc ** *** *** (********) ami-v-onh 2/4 lopd -tercer tratamiento con dinutuximab del dia 17.07.2018 al 26.07.2018, con infusion de dexclorfeniramina previa.
 tras completar el tratamiento presenta edema labial resuelto con administracion de corticoides ev y antihistaminico.
 recibe tercer ciclo de acido retionoico el 28.07.2018 al 10.08.2018.
@@ -63,7 +63,7 @@ normohidratado.
 no lesiones cutaneas agudas.
 no petequias.
 no edemas.
-aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
+aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreaÃ±adidos.
 espiracion normal.
 aparato cardiocirculatorio: tonos ritmicos, no ausculto soplos, pulsos perifericos presentes y simetricos.
 abdomen: blando y depresible, no masas ni megalias, no doloroso a la palpacion.
@@ -99,4 +99,4 @@ si precisa, aumentar a 4 ml cada 4 horas.
 5 ml via oral cada 8 horas.
 -si exantema cutaneo, administrar un comprimido de metilprednisolona (urbason 20 mg comprimidos) via oral en dosis unica.
 consultar a urgencias si: fiebre persistente, exantema cutaneo asociado a dificultad respiratoria, clinica gastrointestinal o afectacion del estado general.
-control acudir mañana por la mañana a hospital de dia de oncohematologia pediatrica para recambio de la bomba de infusion continua de dinutuximab acudir a consultas externas de oncologia pediatrica el dia 27.08.2018 para control clinico y analitico y nuevo recambio de la bomba de infusion continua destinacio a l'alta: a domicili nhc ** *** *** (********) ami-v-onh 4/4 lopd
+control acudir maÃ±ana por la maÃ±ana a hospital de dia de oncohematologia pediatrica para recambio de la bomba de infusion continua de dinutuximab acudir a consultas externas de oncologia pediatrica el dia 27.08.2018 para control clinico y analitico y nuevo recambio de la bomba de infusion continua destinacio a l'alta: a domicili nhc ** *** *** (********) ami-v-onh 4/4 lopd

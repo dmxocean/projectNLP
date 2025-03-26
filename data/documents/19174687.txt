@@ -1,10 +1,10 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 17.11.1952 edat: 65 anys procedencia domicil/res.
-soc servei medicina interna data d'ingres 21.09.2018 data d'alta 28.09.2018 10:00:00 ates per dr ****** (dra *****, dra *******, dr *****) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 65 años que es derivada por hallazgo incidental de tromboembolismo pulmonar.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 17.11.1952 edat: 65 anys procedencia domicil/res.
+soc servei medicina interna data d'ingres 21.09.2018 data d'alta 28.09.2018 10:00:00 ates per dr ****** (dra *****, dra *******, dr *****) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 65 aÃ±os que es derivada por hallazgo incidental de tromboembolismo pulmonar.
 antecedents alergias: no alergias medicamentosas conocidas.
 habitos toxicos: no refiere.
 antecedentes patologicos: -adenocarcinoma sobre adenoma g2t1 sm1 con margen de deteccion sin infiltracion detectado tras polipectomia en colonoscopia de programa de deteccion precoz en 2016.
 seguimiento por cirugia (dr. *******).
-ultima colonoscopia (febrero 2018) con cicatriz de polipectomia previa en fondo de ciego y a 25 cm de margen anal de aspecto normal, hemorroides internas de pequeño tamaño, resto sin hallazgos patologicos, y tc abdominal (febrero 2018) con afectacion mutlifocal hepatica de aspecto quisitico, estable y marco colico integro.
+ultima colonoscopia (febrero 2018) con cicatriz de polipectomia previa en fondo de ciego y a 25 cm de margen anal de aspecto normal, hemorroides internas de pequeÃ±o tamaÃ±o, resto sin hallazgos patologicos, y tc abdominal (febrero 2018) con afectacion mutlifocal hepatica de aspecto quisitico, estable y marco colico integro.
 proximo control (cea, tc y colonoscopia) en 6 meses.
 -dos cesareas . situacion sociofuncional: independiente para todas las actividades de la vida diaria.
 jubilada.
@@ -13,14 +13,14 @@ proces actual derivada por hallazgo incidental de tromboembolismo pulmonar segme
 refiere discreto dolor en miembro inferior izquierdo en agosto, al que no dio importancia.
 niega disnea, dolor toracico, fiebre, edemas en miembros inferiores u otra sintomatologia asociada.
 niega viajes, reposo o cambios de medicacion.
-exploracio fisica ta 125/79 mmhg, fc 69 lpm, t 36.3ºc, sato2 95% aa buen estado general.
+exploracio fisica ta 125/79 mmhg, fc 69 lpm, t 36.3Âºc, sato2 95% aa buen estado general.
 hemodinamicamente estable, afebril, bien hidratada y perfundida, buena coloracion de piel y mucosas.
 -cardiovascular: tonos cardiacos ritmicos sin soplos, no ingurgitacion yugular, pulsos perifericos conservados y simetricos, no edemas en miembros inferiores, sin signos de trombosis venosa profunda.
--respiratorio: eupneica, murmullo vesicular conservado sin ruidos sobreañadidos.
--abdomen: blando, depresible, no doloroso a la palpacion superficial ni profunda, no palpo masas ni megalias, no signos de peritonismo, peristaltismo conservado, puño-percusion bilateral negativa.
+-respiratorio: eupneica, murmullo vesicular conservado sin ruidos sobreaÃ±adidos.
+-abdomen: blando, depresible, no doloroso a la palpacion superficial ni profunda, no palpo masas ni megalias, no signos de peritonismo, peristaltismo conservado, puÃ±o-percusion bilateral negativa.
 -neurologico: consciente, orientada, colaboradora, no signos de meningismo ni focalidad neurologica aguda, no flapping.
 nhc ** *** *** (********) age-v-mi2 1/2 lopd exploracio complementaria - ecg : ritmo sinusal a 80ppm.
-eje electrico a 0º.
+eje electrico a 0Âº.
 pr de 0.14seg.
 qrs de 0.08seg con progresion de r en v3-4.
 sin alteraciones agudas de la repolarizacion.
@@ -35,7 +35,7 @@ glucosa 91 mg/dl, urea 25 mg/dl, creatinini 0.59 mg/dl, na+ 140.
 marcadores cardiacos: troponina i &lt;0.006 ng/ml, peptid natriuretic cerebral 69 pg/ml.
 - tc toracoabdominal (19/09/18): sin signos de recidiva de la enfermedad de base.
 hallazgo incidental de defectos de replecion en el territorio arterial pulmonar compatibles con tep a ramas lobar, segmentos y subsegmentos del lobulo inferior derecho, sin repercusion sobre el tronco comun de la arteria pulmonar ni las cavidades cardiacas derechas.
-- doppler de miembros inferiores : venas de ambas extremidades inferiores compresibles y con una correcta señal doppler.
+- doppler de miembros inferiores : venas de ambas extremidades inferiores compresibles y con una correcta seÃ±al doppler.
 evolucio clinica a su llegada estable hemodinamicamente, y asintomatica desde el punto de vista cardiorrespiratorio.
 se solicita electrocardiograma sin alteraciones de la repolarizacion y analitica con marcadores miocardicos y bnp normales.
 se inicia tratamiento anticoagulante con enoxaparina.

@@ -1,18 +1,18 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 13.02.1938 edat: 79 anys procedencia cex mateix hosp servei urologia data d'ingres 09.02.2018 data d'alta 12.02.2018 07:31:38 ates per **************, *******; ****************, ******; ***************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de forma programada para nefrectomia parcial izquierda laparoscopica asistida por robot.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 13.02.1938 edat: 79 anys procedencia cex mateix hosp servei urologia data d'ingres 09.02.2018 data d'alta 12.02.2018 07:31:38 ates per **************, *******; ****************, ******; ***************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de forma programada para nefrectomia parcial izquierda laparoscopica asistida por robot.
 antecedents sin alergias medicamentosas conocidas.
 alergia a graminias.
 antecedentes medicos - hiperplasia benigna prostata.
 - hipertension arterial.
-- glaucoma . - leoc en riñon izquierdo hace 30 años.
-- cirugia ureteral hace años.
+- glaucoma . - leoc en riÃ±on izquierdo hace 30 aÃ±os.
+- cirugia ureteral hace aÃ±os.
 - melanoma piel.
-- fractura cuello de femur, hace 50 años.
+- fractura cuello de femur, hace 50 aÃ±os.
 - cirugia de cataratas.
-- herniorrafias inguinals bilaterales intervenidas hace 9 años.
-- apendicectomia hace 12 años.
+- herniorrafias inguinals bilaterales intervenidas hace 9 aÃ±os.
+- apendicectomia hace 12 aÃ±os.
 proces actual paciente que a raiz de estudio de masa pancreatica se realiza tc en otro centro que objetiva presencia de una masa renal izquierda.
-se realiza tc de control en nuestro centro que confirma la presencia de masa renal de 39 mm en polo superior de riñon izquierdo compatible con neoformacion.
-se decide realizacion de nefrectomia parcial- exploracio complementaria - tc abdominal (04/01/2018): masa en polo superior de riñon izquierdo solida y heterogenea de 39 x 34 mm, compatible con proceso neoformativo, a descartar carcinoma de celulas renales, con marcada reticulacion de la grasa perirrenal adyacente.
+se realiza tc de control en nuestro centro que confirma la presencia de masa renal de 39 mm en polo superior de riÃ±on izquierdo compatible con neoformacion.
+se decide realizacion de nefrectomia parcial- exploracio complementaria - tc abdominal (04/01/2018): masa en polo superior de riÃ±on izquierdo solida y heterogenea de 39 x 34 mm, compatible con proceso neoformativo, a descartar carcinoma de celulas renales, con marcada reticulacion de la grasa perirrenal adyacente.
 engrosamientos bronquiales difusos sugestivos de broncopatia.
 evolucio clinica el 09/02/2018, con estudio preoperatorio correcto y el consentimiento informado firmado, se realiza nefrectomia parcial izquierda laparoscopica asistida por robot sin incidencias.
 presenta un curso postoperatorio inicial a la unidad de reanimacion sin complicaciones.

@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 13.06.1978 edat: 40 anys procedencia domicil/res.
-soc servei nefrologia data d'ingres 11.03.2019 data d'alta 13.03.2019 16:53:34 ates per equipo utr dra. ****** (dra. *****) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 40 años, trasplantada renal, que ingresa para cierre de fav.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 13.06.1978 edat: 40 anys procedencia domicil/res.
+soc servei nefrologia data d'ingres 11.03.2019 data d'alta 13.03.2019 16:53:34 ates per equipo utr dra. ****** (dra. *****) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 40 aÃ±os, trasplantada renal, que ingresa para cierre de fav.
 antecedents -sin alergias medicamentosas conocidas.
 -niega habitos toxicos a.
 patologicos -enfermedad renal cronica diagnosticada en 2009, por lo que recibio ratamiento sustitutivo renal mediante hemodialisis a traves de favi humero cefalica izquierda.
@@ -19,9 +19,9 @@ normalizacion posterior hasta cifras basales.
 -febricula pracitcamente diaria de predominio vespertino desde 2009, asi como cuadro de mal estado general, diarrea, vomitos, fiebre y artralgias autolimitado, por el que ingresa en 2010 en nuesro servicio.
 se realiza toda la bateria de pruebas de autoinmunidad asi como serologias, estudios de imagen y aspirado de medula osea (ante pancitopenia moderada), siendo todo negativo.
 probable origen autoinmune del cuadro no esclarecido.
--queloides en torax y brazos desde los 12 años de edad, secundarios a quistes dermicos, por lo cual siguio tratamiento con colchicina hasta los 28 años.
+-queloides en torax y brazos desde los 12 aÃ±os de edad, secundarios a quistes dermicos, por lo cual siguio tratamiento con colchicina hasta los 28 aÃ±os.
 actualmente, presenta alteracion de la cicatrizacion con queloides en soluciones de continuidad.
-- migraña sin aura desde los 18 años de edad, con episodios de crisis diarias a interdiarias, y por lo que ha realizado tratamiento a dosis plenas con aines.
+- migraÃ±a sin aura desde los 18 aÃ±os de edad, con episodios de crisis diarias a interdiarias, y por lo que ha realizado tratamiento a dosis plenas con aines.
 actuamente bajo tratamiento con amitriptilina.
 sigue controles en cex neurologia (dra ****).
 -perforacion uterina en 2011 secundaria a colocacion de diu, con realizacion de ligadura tubarica bilateral laparoscopica.
@@ -66,7 +66,7 @@ proces actual ingresa para cierre de fav humero-cefaliza izquierda y reseccion d
 exploracio fisica ta: 131/87, fc 90, t 36.
 2, sato2: 97% estado general conservado, acv: tcr, sin soplos.
 sin edemas.
-ar: mvc sin ruidos sobreañadidos.
+ar: mvc sin ruidos sobreaÃ±adidos.
 abdomen: blando, depresible, sin signos de irritacion peritoneal.
 nrl: sin signos de focalidad neurologica aguda.
 exploracio complementaria analitica general de ingreso: hb 12.
@@ -91,10 +91,10 @@ anastomosi, formacio de fistula arteriovenosa (periferica) tractament i recomana
 -curas diarias de herida operatoria.
 medicacion 1.
 advagraf 2 mg.
-dos comprimidos de 1 mg a las 9 de la mañana.
+dos comprimidos de 1 mg a las 9 de la maÃ±ana.
 2.
 rapamune 1 mg.
-un comprimido a las 9 de la mañana 3.
+un comprimido a las 9 de la maÃ±ana 3.
 prednisona 5 mg.
 un comprimido al dia 4.
 omeprazol 20 mg.

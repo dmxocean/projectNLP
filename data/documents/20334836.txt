@@ -1,7 +1,7 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 24.05.2016 edat: 3 anys procedencia aten.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 24.05.2016 edat: 3 anys procedencia aten.
 primaria servei cirurgia pediatrica data d'ingres 06.10.2019 data d'alta 07.10.2019 16:16:50 ates per gine ******, ******; ****************, *****; ************, ***** informe d'alta d'hospitalitzacio motiu d'ingres traumatismo craneal antecedents no alergias medicamentosas conocidas calendario vacunal actualizado.
 no antecedentes de interes.
-proces actual paciente varon de 3 años de edad, es traido a urgencias por familiares tras caida accidental de sus propios pies con contusion a nivel facial y centro abdominal (familiares no saben precisar se tuvo contusiones a nivel craneal) sin perdida de conocimiento, pero refieren varios vomitos inmediatamente posteriores a la contusion, acompañado de hipotonia, hipoactividad, palidez generalizada, dificultades para la marcha, no movimentos anomalos.
+proces actual paciente varon de 3 aÃ±os de edad, es traido a urgencias por familiares tras caida accidental de sus propios pies con contusion a nivel facial y centro abdominal (familiares no saben precisar se tuvo contusiones a nivel craneal) sin perdida de conocimiento, pero refieren varios vomitos inmediatamente posteriores a la contusion, acompaÃ±ado de hipotonia, hipoactividad, palidez generalizada, dificultades para la marcha, no movimentos anomalos.
 durante su estancia en urgencia presenta 2 nuevos episodios de vomitos.
 exploracio fisica tep inestable por apariencia: regular estado general, consciente.
 hipoactivo pero reactivo.
@@ -20,7 +20,7 @@ resto de la exploracion dentro de la normalidad.
 exploracio complementaria -tac craneal: ausencia de desplazamientos significativos de las estructuras de linea media supra e infratentoriales.
 ausencia de lesiones hemorragicas intra o extra axiales.
 no se observan alteraciones significativas a nivel del parenquima cerebral supra e infratentorial.
-sistema ventricular de morfologia y tamaño acorde a la profundidad de los surcos.
+sistema ventricular de morfologia y tamaÃ±o acorde a la profundidad de los surcos.
 cisternas de la base y perimesencefalicas libres.
 amigdalas cerebelosas de disposicion normal.
 marco oseo sin alteraciones significativas conclusion:ausencia de alteraciones agudas intracraneales.
@@ -33,7 +33,7 @@ se inicia ingesta oral con mala tolerancia por sensacion nauseosa y un vomito, s
 durante su ingreso en planta de hospitalizacion, el paciente se mantiene en todo momento con buen estado general y hemodinamicamente estable.
 realiza un nuevo episodio de vomito por lo que se canaliza via periferica para administracion de sueroterapia y control analitico.
 posteriormente, presenta buena tolerancia oral sin nuevos episodios emeticos.
-realiza fiebre de 38.2º por lo que se solicita valoracion por parte de pediatria que orienta como cuadro de viriasis.
+realiza fiebre de 38.2Âº por lo que se solicita valoracion por parte de pediatria que orienta como cuadro de viriasis.
 cede con antitermia convencional.
 exploracion fisica anodina.
 analitica con leucocitosis, sin otros hallazgos patologicos.
@@ -41,6 +41,6 @@ dada la buena evolucion, se decide alta a domicilio con normas de reconsulta.
 orientacio diagnostica s06.2x0a traumatisme cranial difus sense perdua de consciencia, a b34.
 9 infeccio virica no especificada tractament i recomanacions a l'alta - paracetamol 100mg/ml: 2.
 2 ml cada 8 horas si dolor o fiebre.
-en caso de fiebre &gt;38º, vomitos de repeticion, dolor abdominal intenso o empeoramiento del estado general acudir a urgencias.
+en caso de fiebre &gt;38Âº, vomitos de repeticion, dolor abdominal intenso o empeoramiento del estado general acudir a urgencias.
 control controles habituales por pediatria.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-cpe 2/2 lopd

@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 16.03.1938 edat: 81 anys procedencia cex mateix hosp servei urologia data d'ingres 07.10.2019 data d'alta 15.10.2019 13:57:32 ates per ************, *****; *************, *****; ************, ****** informe de trasllat a sociosanitari motiu d'ingres paciente que ingresa de forma programada para la realizacion de reseccion transuretral de tumor vesical.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 16.03.1938 edat: 81 anys procedencia cex mateix hosp servei urologia data d'ingres 07.10.2019 data d'alta 15.10.2019 13:57:32 ates per ************, *****; *************, *****; ************, ****** informe de trasllat a sociosanitari motiu d'ingres paciente que ingresa de forma programada para la realizacion de reseccion transuretral de tumor vesical.
 antecedents -sin alergias medicamentosas.
 -niega habito tabaquico u otros habitos toxicos (consumo enolico previo).
 antecedentes patologicos -hipertension arterial en tratamiento con ara2 y tiazidas.
@@ -20,16 +20,16 @@ se colocan dos protesis plasticas pancreaticas de 10f x 9 cm y 10f x 7 cm para m
 *citologia de orina: negativa para celulas malignas.
 cambios reactivos del epitelio urotelial.
 *pendiente de realizacion de reseccion transuretral.
--gonartrosis izquierda - agosto 2019: tromboembolismo pulmonar segmentario bilateral con signos de hipertension pulmonar y sobrecarga derecha por angiotc y curva de marcadores de daño miocardico que presentan tendencia a aumentar.
+-gonartrosis izquierda - agosto 2019: tromboembolismo pulmonar segmentario bilateral con signos de hipertension pulmonar y sobrecarga derecha por angiotc y curva de marcadores de daÃ±o miocardico que presentan tendencia a aumentar.
 *dimero d: 10710 ng/ml.
 troponina alta sensibilitat: 602 ng/l- 8211 ng/l-8764ng/l.
 pro-peptid natriuretic cerebral 904 pg/ml.
 eco doppler venoso eeii: sector ifp y distal permeables, compresibles, con aumentacion distal, y fascicidad respiratoria en vena femoral comun.
 se descarta tvp.
-antecedentes quirurgicos: -neoplasia de mama izquierda intervenida hace 20 años, libre de enfermedad.
+antecedentes quirurgicos: -neoplasia de mama izquierda intervenida hace 20 aÃ±os, libre de enfermedad.
 -antigua fractura de meseta tibial externa izquierda tratada con osteosintesis.
 -colecistectomia, febrero 2013.
-proces actual paciente mujer de 81 años que a raiz de estudio de hematuria de repeticion, se inicia estudio con ecografia que es negativa, por lo que se amplia con realizacion de cistoscopia que evidencia una lesion de 2cm compatible con proceso neoformativo.
+proces actual paciente mujer de 81 aÃ±os que a raiz de estudio de hematuria de repeticion, se inicia estudio con ecografia que es negativa, por lo que se amplia con realizacion de cistoscopia que evidencia una lesion de 2cm compatible con proceso neoformativo.
 requirio ingreso por episodio de tromoembolismo pulmonar por lo que ha estado en nhc ** *** *** &nbsp;(********) &nbsp;age-v-uro 1/3 lopd tratamiento con enoxaparina 90mg/24h.
 se suspende tratamiento anticoagulante para poder realizar reseccion transuretral.
 no refiere hematuria actualmente.
@@ -37,7 +37,7 @@ se decide ingreso de forma programada para la realizacion de reseccion transuret
 exploracio complementaria cistoscopia 23/7/19: se evidencia zona de 2cm, hipervascularizada, en pared posterior vesical, levemente sobreelevada compatible con proceso neoformativo.
 citologia: negativa urotc 6/8/19: lesion sugestiva de infarto esplenico en polo caudal del mismo.
 resto del estudio sin cambios respecto a previos.
-eco: riñones de tamaño y morfologia normal.
+eco: riÃ±ones de tamaÃ±o y morfologia normal.
 grosor parenquimatoso conservado con buena diferenciacion cortico-medular.
 multiples quistes corticales y sinusales bilaterales.
 no se observan litiasis.
@@ -57,6 +57,6 @@ tractament i recomanacions a l'alta -abundante ingesta de liquidos.
 -puede orinar con restos de sangre durante las proximas semanas.
 -paracetamol 650mg cada 8 horas si molestias.
 -continuar tratamiento con clexane 80mg/24h segun indicaciones previas nhc ** *** *** &nbsp;(********) &nbsp;age-v-uro 2/3 lopd -es normal que sienta escozor al orinar y que tenga alguna fuga de orina y urgencia miccional.
--si fiebre mayor de 38ºc o imposibilidad para orinar acuda a urgencias.
+-si fiebre mayor de 38Âºc o imposibilidad para orinar acuda a urgencias.
 -control consultas externas de urologia segun cita en hoja adjunta.
 destinacio a l'alta: soci sanitari nhc ** *** *** &nbsp;(********) &nbsp;age-v-uro 3/3 lopd

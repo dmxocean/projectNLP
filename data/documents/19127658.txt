@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 18.01.1986 edat: 32 anys procedencia aguts servei obstetricia data d'ingres 05.09.2018 data d'alta 08.09.2018 14:00:00 ates per ******************, *****; ******************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingresa para induccion programada del parto.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 18.01.1986 edat: 32 anys procedencia aguts servei obstetricia data d'ingres 05.09.2018 data d'alta 08.09.2018 14:00:00 ates per ******************, *****; ******************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingresa para induccion programada del parto.
 antecedents no alergias medicamentosas concidas no antecedentes medicos.
 iq: apendicectomia (con 13 a) no transfusiones sanguineas no medicacion habitual proces actual edad: 32a tpal: 0000 fur: 20/11/17 x eco (modificada en eco 2on t) sg: 41 +1 gs: a+ . coombs indirecto negativo.
 gestacion controlada en aro + dog por peg + pc ingresa para induccion al parto por gestacion cronologicamente prolongada resumen gestacional analiticas: as1t: hb: 11.

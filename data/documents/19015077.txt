@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 10.05.1934 edat: 84 anys procedencia cex mateix hosp servei cirurgia oral i data d'ingres 17.07.2018 data d'alta 18.07.2018 11:58:24 ates per ****** atin, ****; ************, **** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents namc - hipercolesterolemia en tratamiento dietetico.
-- talasemia minor diagnosticada hace mas de 20 años.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 10.05.1934 edat: 84 anys procedencia cex mateix hosp servei cirurgia oral i data d'ingres 17.07.2018 data d'alta 18.07.2018 11:58:24 ates per ****** atin, ****; ************, **** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents namc - hipercolesterolemia en tratamiento dietetico.
+- talasemia minor diagnosticada hace mas de 20 aÃ±os.
 fue seguido por parte del servicio de hematologia, dada de alta.
 ultima analitica en agosto 2010: hb: 12,2.
 vcm: 65 fl.
@@ -13,7 +13,7 @@ ultimo control en oncologia medica, en septiembre 2010 con cea 1.
 9,2, y mamografia con mamas moteadas, calcificaciones de comedomastitis bilaterales, cambios postquirurgicos en mama derecha, no tm.
 - intervenida quirurgicamente el 1 de octubre de 2010 para colocacion de protesis de cadera derecha , dada de alta el dia 7 de octubre.
 - fisura anal, ya diagnosticada en otras ocasiones en el 2006, y en la actualidad desde el ingreso en traumatologia en octubre en tratamiento con laxantes.
-- herniorrafia inguinal hace 12 años.
+- herniorrafia inguinal hace 12 aÃ±os.
 - apendicectomizada - faquectomia en ambos ojos proces actual paciente con cambios oseos maxilares izquierdos y hemimandibula izquierda sugestivos de osteonecrosis que ingresa para secuestrectomia quirurgica programada.
 exploracio complementaria tc facial: cambios oseos maxilares izquierdos y hemimandibula izquierda sugestivos de osteonecrosis.
 no se identifican focos de secuestro oseo.

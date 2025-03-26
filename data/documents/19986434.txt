@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 23.10.1951 edat: 67 anys procedencia domicil/res.
-soc servei pneumologia data d'ingres 05.06.2019 data d'alta 08.06.2019 10:30:00 ates per equipo dra. ****** (********* / ***********) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 67 años que ingresa por agudizacion asmatica.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 23.10.1951 edat: 67 anys procedencia domicil/res.
+soc servei pneumologia data d'ingres 05.06.2019 data d'alta 08.06.2019 10:30:00 ates per equipo dra. ****** (********* / ***********) informe d'alta d'hospitalitzacio motiu d'ingres mujer de 67 aÃ±os que ingresa por agudizacion asmatica.
 antecedents - hipersensibilidad a metilprednisolona/prednisona.
 tolera budenosinda inhalada y mometasona topica nassal.
 tolera hidrocortisona y dexametasona.
@@ -14,14 +14,14 @@ controles por cardiologo de zona.
 por chadsvasc 3 se inicio tratamiento anticoagulante con sintrom que se cambio a eliquis (apixaban) por labilidad de inr.
 - insuficiencia venosa cronica . - sindrome ansioso-depresivo , por lo que recibio tratamiento farmacologico.
 desde 2006 en tratamiento con ansioliticos de forma ocasional.
-- apendicectomia a los 20 años.
+- apendicectomia a los 20 aÃ±os.
 historia neumologica: -laringotraqueitis en septiembre 2015.
 pcr negativa a bordetella pertussis y cultivo de esputo positivo para b.
 catharralis y h.
 influenzae.
 realizo tratamiento con amoxicilina/clavulanico.
 realizo seguimiento por cex de infecciosas y de orl con realizacion de laringoscopia indirecta sin evidencia de lesiones.
--asma alergica persistente grave, rinitis alergica y poliposis nasal (triada asa) diagnosticada hace 30 años, realizando inicialmente inmunoterapia.
+-asma alergica persistente grave, rinitis alergica y poliposis nasal (triada asa) diagnosticada hace 30 aÃ±os, realizando inicialmente inmunoterapia.
 actualmente en tratamiento bd habitual y con antileucotrienos.
 en seguimiento por neumologia que le propuso en octubre de 2018 tratamiento con omalizumab.
 presenta agudizaciones en relacion a infecciones respiratorias, aines, productos de limpieza y contacto con gatos.
@@ -49,7 +49,7 @@ niega odinofagia, fiebre o rinorrea.
 exploracio fisica paciente con buen estado general.
 hemodinamicamente estable.
 normohidratada y normocoloreada.
-cv: tonos cardiacos ritmicos, sin soplos ni roces añadidos.
+cv: tonos cardiacos ritmicos, sin soplos ni roces aÃ±adidos.
 pulsos pedios presentes y simetricos.
 no iy ni rhy.
 edemas en eeii maleolares.
@@ -57,16 +57,16 @@ ar: taquipneica al aire ambiente.
 murmullo vesicular conservado, con presencia de sibilancias espirtaorias.
 no roncus.
 algun crepitante en base derecha.
-no otros ruidos añadidos.
+no otros ruidos aÃ±adidos.
 expansion simetrica de ambos hemitorax.
 peack flow 300.
 abd: blando.
 ruidos peristalticos conservados.
 sin masas ni megalias.
 no foclaidad aguda.
-exploracion fisica en planta ta 138/69 mmhg, fc 72 lpm, tª 36.2ºc, sato2 aa 96% estado general conservado, bien perfundida.
+exploracion fisica en planta ta 138/69 mmhg, fc 72 lpm, tÂª 36.2Âºc, sato2 aa 96% estado general conservado, bien perfundida.
 tcr no ausculto soplos, no iy, edema de miembros inferiores con fovea aunque de aspecto cronico.
-mvc sin ruidos añadidos.
+mvc sin ruidos aÃ±adidos.
 consciente, orientada.
 exploracio complementaria - rx de torax : indice cardiotoracico aumentado, mediastino e hilios normales, opacidad basal derecha, marco oseo sin alteraciones.
 -analitica sanguinea: hb 13.
@@ -81,7 +81,7 @@ exploracio complementaria - rx de torax : indice cardiotoracico aumentado, media
 5 %, can 4.
 6 x10e9/l, cal 1.
 8 x10e9/l, plaquetas 222 x10e9/l, nhc ** *** *** &nbsp;(********) &nbsp;age-v-nml 2/3 lopd quick 72 %, inr 1.21, ttpa ratio 1.39, fibr 3.93 g/l, glucosa 79 mg/dl, urea 27 mg/dl, creatinina 0.57 mg/dl, fge &gt;90 ml/min/1,73, na 139.
-1 mmol/l, k 3.77 mmol/l, ast 24 ui/l, alt 19 ui/l evolucio clinica mujer de 67 años que ingresa por agudizacion asmatica secundaria a bronquitis aguda, inicialmente con broncoespasmo marcado por lo que se inicia corticoterapia y tratamiento bd intensivo y antibioterapia con augmentine a dosis de 1g/8h.
+1 mmol/l, k 3.77 mmol/l, ast 24 ui/l, alt 19 ui/l evolucio clinica mujer de 67 aÃ±os que ingresa por agudizacion asmatica secundaria a bronquitis aguda, inicialmente con broncoespasmo marcado por lo que se inicia corticoterapia y tratamiento bd intensivo y antibioterapia con augmentine a dosis de 1g/8h.
 durante su estancia, se mantiene en todo momento hemodinamicamente estable y sin requerimientos de oxigenoterapia.
 presenta adecuada respuesta a tratamiento con mejoria sintomatica y clinica, que permite descenso de corticoterapia progresiva e inicia movilizacion con adecuada tolerancia.
 dada adecuada evolucion y estabilidad clinica, se decide alta a domicilio y seguimiento posterior en cex.

@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 01.01.1962 edat: 56 anys procedencia aten.
-primaria servei otorrinolaringologia data d'ingres 07.12.2018 data d'alta 08.12.2018 11:00:00 ates per ****************, ************** informe d'alta d'hospitalitzacio motiu d'ingres epiglotitis antecedents no amc antecedentes patologicos: - transaminases elevades - diabetis mellitus tipus 2 - dislipemia medicacio habitual metformina simvastatina proces actual paciente acude a urgencias por odinofagia + sensacion de cuerpo extraño faringeo / laringeo + disfagia subjetiva + sensacion distermica no termometrada, tras extraccion de cuerpo extraño en amigdala lingual (espina de pescado) hace 3 dias.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 01.01.1962 edat: 56 anys procedencia aten.
+primaria servei otorrinolaringologia data d'ingres 07.12.2018 data d'alta 08.12.2018 11:00:00 ates per ****************, ************** informe d'alta d'hospitalitzacio motiu d'ingres epiglotitis antecedents no amc antecedentes patologicos: - transaminases elevades - diabetis mellitus tipus 2 - dislipemia medicacio habitual metformina simvastatina proces actual paciente acude a urgencias por odinofagia + sensacion de cuerpo extraÃ±o faringeo / laringeo + disfagia subjetiva + sensacion distermica no termometrada, tras extraccion de cuerpo extraÃ±o en amigdala lingual (espina de pescado) hace 3 dias.
 no refiere otra sintomatologia.
 exploracio fisica consciente, alerta, orientado.
 no disnea, no estridor.

@@ -1,8 +1,8 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 04.08.1994 edat: 25 anys procedencia aguts servei cirurgia oral i data d'ingres 03.08.2019 data d'alta 05.08.2019 11:19:06 ates per ***********, ***; ************, ******** informe d'alta d'hospitalitzacio motiu d'ingres fractura mandibular antecedents namc acalasia depresion rinitis alergica proces actual paciente que acude derivado de h.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 04.08.1994 edat: 25 anys procedencia aguts servei cirurgia oral i data d'ingres 03.08.2019 data d'alta 05.08.2019 11:19:06 ates per ***********, ***; ************, ******** informe d'alta d'hospitalitzacio motiu d'ingres fractura mandibular antecedents namc acalasia depresion rinitis alergica proces actual paciente que acude derivado de h.
 de mar tras agresion fisica . refiere consumo enolico . niega perdida de consciencia.
 exploracio fisica beg, cyo, embriaguez.
 fetor enolico.
-extraoral: edema a nivel de man´dibula derecha, con crepitacion y dolor a la exploracion.
+extraoral: edema a nivel de manÂ´dibula derecha, con crepitacion y dolor a la exploracion.
 restos de rebordes oseos sin palparse escalones oseos.
 intraoral: trismus, deformidad a nivel de arco dental inferior.
 leve gingivorragia adyacante, autolimitada.

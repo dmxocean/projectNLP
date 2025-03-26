@@ -1,8 +1,8 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 11.02.2001 edat: 17 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 11.02.2001 edat: 17 anys procedencia domicil/res.
 soc servei cirurgia ort i data d'ingres 02.07.2018 data d'alta 06.07.2018 11:08:24 ates per ***** vicente, ******; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres coleccion antebrazo der antecedents sin antecedentes medico-quirurgicos de interes.
 namc medicacio habitual niega.
 proces actual paciente que inicia cuadro hace 6 dias tras picadura de mosquito inicia aumento de volumen en antebrazo derecho con eriteme y dolor a la movilizacion activa y pasiva pero sin impotencia funcional.
-ademas fiebre cuantificada de hasta 38ºc, sin clinica de bacteriemia aparentes.
+ademas fiebre cuantificada de hasta 38Âºc, sin clinica de bacteriemia aparentes.
 decide acudir a urgencias por empeoramiento de lesiones.
 niega disnea dolor toracico u otra sintomatologia asociada.
 exploracio fisica estado general conservado.
@@ -15,12 +15,12 @@ pulsos perifericos presentes y simetricos.
 no edemas en miembros inferiores.
 sin signos de trombosis venosa profunda.
 exploracion respiratoria: eupneico.
-murmullo vesicular presente en ambos campos pulmonares sin ruidos sobreañadidos.
+murmullo vesicular presente en ambos campos pulmonares sin ruidos sobreaÃ±adidos.
 exploracion abdominal: abdomen blando, depresible, no doloroso a la palpacion superficial ni profunda.
 sin signos de irritacion peritoneal.
 no masas ni visceromegalias apreciables a la palpacion.
 peristaltismo conservado.
-puñopercusion bilateral negativa.
+puÃ±opercusion bilateral negativa.
 exploracion neurologica: consciente y orientado en tiempo, espacio y persona.
 sin alteraciones del lenguaje ni asimetrias faciales.
 pares craneales normales.
@@ -44,6 +44,6 @@ herida quirurgica con buena evolucion.
 realiza rehabilitacion bien tolerada, segun protocolo.
 diuresis y deposiciones conservadas, dieta bien tolerada.
 debido a la buena evolucion clinica del paciente se decide el alta hospitalario bajo las siguientes indicaciones.
-orientacio diagnostica l03.90 cel·lulitis no especificada procediments 89.52 electrocardiograma.
+orientacio diagnostica l03.90 celÂ·lulitis no especificada procediments 89.52 electrocardiograma.
 ecg nos, ecg (amb 12 o mes derivacions) 86.22 desbridament excisional de ferida, infeccio o cremada.
 extraccio: necrosi, escara, teixit desvitalitzat tractament i recomanacions a l'alta augmentine 875 mg 1 comp/8h vo omeprazol 20 1 comp/24h vo paracetaml 1 gr 1 comp/8h vo control control ccee co dr. ***** en fecha 11/7/18 destinacio a l'alta: a domicili nhc ** *** *** (********) atr-v-cot 2/2 lopd

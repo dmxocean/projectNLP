@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 31.05.1957 edat: 62 anys procedencia domicil/res.
-soc servei cg hepatobilipancr i data d'ingres 11.06.2019 data d'alta 18.06.2019 10:30:00 ates per ****** barba, mireia informe d'alta d'hospitalitzacio motiu d'ingres paciente varon de 62 años que ingresa de forma programada para cirugia electiva de metastasi hepatica de adenocarcinoma de colon.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 31.05.1957 edat: 62 anys procedencia domicil/res.
+soc servei cg hepatobilipancr i data d'ingres 11.06.2019 data d'alta 18.06.2019 10:30:00 ates per ****** barba, mireia informe d'alta d'hospitalitzacio motiu d'ingres paciente varon de 62 aÃ±os que ingresa de forma programada para cirugia electiva de metastasi hepatica de adenocarcinoma de colon.
 antecedents no alergias medicamentosas conocidas.
 1.
 hipertension arterial.
@@ -7,7 +7,7 @@ hipertension arterial.
 sd.
 de meniere.
 3.
-apendicectomia a los 12 años.
+apendicectomia a los 12 aÃ±os.
 3.
 meniscectomia derecha.
 4.
@@ -30,20 +30,20 @@ reseccion atipica de metastasis hepatica en segmento vii (dra. *****, 15/12/2017
 recidiva hepatica.
 hepatectomia derecha atipica abierta con rafia biplano diafragmatica por disrupcion del diafragma al intentar indivualizar higado y rafia de vena cava debido a infiltracion tumoral (dra. ******; 09/08/2018).
 proces actual paciente con metastasi hepatica de adenocarcinoma de origen colorectal que ingresa para realizacion de segmentectomia de iv y reseccio de caudado, posterior a embolizacion portal.
-exploracio complementaria tc abdomen (1/03/2019): cambios post quirurgicos hepaticos (colecistectomia, hepatectomia derecha, reseccion diafragmatica y de vena cava inferior segun informacion clinica), con disminucion de tamaño de la coleccion post-quirurgica adyacente a las suturas metalicas, actualmente de 15mm de grosor (previo 21mm).
-persiste pequeña zona de alteracion focal hipodensa en la parte mas superior del lobulo caudado, adyacente a las artefactos quirurgicos en vena cava inferior / lecho de hepatectomia, sospechosa de recidiva local, sin cambios significativos.
+exploracio complementaria tc abdomen (1/03/2019): cambios post quirurgicos hepaticos (colecistectomia, hepatectomia derecha, reseccion diafragmatica y de vena cava inferior segun informacion clinica), con disminucion de tamaÃ±o de la coleccion post-quirurgica adyacente a las suturas metalicas, actualmente de 15mm de grosor (previo 21mm).
+persiste pequeÃ±a zona de alteracion focal hipodensa en la parte mas superior del lobulo caudado, adyacente a las artefactos quirurgicos en vena cava inferior / lecho de hepatectomia, sospechosa de recidiva local, sin cambios significativos.
 el resto de lesiones hipermetabolicas en el pet no son valorables.
 estabilidad de los quistes y de la imagen de comunicacion portosistemica conocidos, sin lesiones focales hepaticas de nueva aparicion.
-disminucion de tamaño de la adenopatia adyacente al tronco celiaco (de aprox.
+disminucion de tamaÃ±o de la adenopatia adyacente al tronco celiaco (de aprox.
 20x15mm a 17x8mm).
 eje esplenoportal permeable.
 via biliar no dilatada.
 nhc ** *** *** &nbsp;(********) &nbsp;age-v-cgh 1/3 lopd embolizacion portal (12/04/2019): se cateteriza shunt intrahepatico y se realiza portografia directa para una adecuada visualizacion de los radicales portales de segmento iv a y b.
 tras su cateterizacion supraselectiva se embolizan con glue + lipiodol.
-posteriormente a la embolizacion y tras las maniobras de cateterizacion del eje portal para el cierre del shunt se constata fragmentacion + movilizacion de una pequeña cantidad de glue que migra por el shunt a pulmon, sin repercusion clinica.
+posteriormente a la embolizacion y tras las maniobras de cateterizacion del eje portal para el cierre del shunt se constata fragmentacion + movilizacion de una pequeÃ±a cantidad de glue que migra por el shunt a pulmon, sin repercusion clinica.
 se coloca plug de 18 mm de diametro en el shunt y se realiza portografia directa final de control a traves de microcateter constatandose la correcta oclusion del segmento iv y la adecuada permeabilidad de porta ppal y segmentos ii y iii, con minimo paso de contraste a traves del plug.
 tc abdominal (05/06/2019): resolucion de la imagen de trombosis respecto estudio anterior a nivel de la puerta izquierda.
-discreto aumento de tamaño de las lesiones hepaticas conocidas, con aparicion de una imagen puntiforme en el margen medial inferior que no parecia identificarse en el estudio anterior.
+discreto aumento de tamaÃ±o de las lesiones hepaticas conocidas, con aparicion de una imagen puntiforme en el margen medial inferior que no parecia identificarse en el estudio anterior.
 angiotc (14/06/2019): presencia de liquido heterogeni por restos hematicos en lecho quirurgico.
 permeabilidad de la vci tanto proximal como distal al gorotex.
 arteria hepatica y vena porta izquierda permeables.
@@ -73,7 +73,7 @@ anticoagulacion.
 se adjunta pauta tao.
 omeprazol 20 mg cada 24 horas, media hora antes del desayuno mientras tome medicacion para el dolor.
 paracetamol 1g cada 8 horas, si dolor.
-ibuprofeno 400 mg cada 8 horas, alterno con paracetamol cada 4 horas si dolor persistente lorazepam 1mg media hora antes de dormir mientras precise para conciliar el sueño.
+ibuprofeno 400 mg cada 8 horas, alterno con paracetamol cada 4 horas si dolor persistente lorazepam 1mg media hora antes de dormir mientras precise para conciliar el sueÃ±o.
 control control en consultas externas de cirugia hbp (dra. ******).
 se adjunta citacion.
 si fiebre alta o empeoramiento clinico acudir a urgencias.

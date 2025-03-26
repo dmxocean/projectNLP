@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 16.05.1936 edat: 82 anys procedencia cex mateix hosp servei urologia data d'ingres 24.07.2018 data d'alta 25.07.2018 08:54:04 ates per ***************, *****; ****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de forma programada para realizacion de uretrotomia interna . antecedents alergia a penicilina y cloramfenicol . no habitos toxicos.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 16.05.1936 edat: 82 anys procedencia cex mateix hosp servei urologia data d'ingres 24.07.2018 data d'alta 25.07.2018 08:54:04 ates per ***************, *****; ****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de forma programada para realizacion de uretrotomia interna . antecedents alergia a penicilina y cloramfenicol . no habitos toxicos.
 antecedentes medicos: bloqueo auriculoventricular de primer grado hipertension arterial.
 diverticulosis extensa insuficiencia renal cronica colelitiasis antecedentes quirurgicos: exeresis de lesiones cutaneas con anestesia local protesis total de cadera cordectomia herniorrafia inguinal proces actual varon de 81a que a raiz de episodio de hematuria macroscopica se realiza cistoscopia que es negativa para lesiones malignas pero se objetiva estenosis de uretra . se intentan dilataciones progresivas en el gabinete de urologia sin exito.
 se solicita estudio de imagen que confirma la existencia de estenosis a nivel d uretra bulbar por lo que se indica uretrtomia interna.
@@ -22,6 +22,6 @@ excisio de septe uretral, uretrostomia perineal, extraccio de calcul uretral per
 mantener sonda vesical durante 14 dias (dos semanas).
 ciprofloxacino 500mg cada 12h durante dos semanas.
 -paracetamol 1 g cada 8 horas si molestias.
--si fiebre mayor de 38ºc, empeoramiento claro del estado general o imposibilidad miccional por obstruccion de sonda vesical o despues de su retirada, consultar con el servicio de urgencias.
+-si fiebre mayor de 38Âºc, empeoramiento claro del estado general o imposibilidad miccional por obstruccion de sonda vesical o despues de su retirada, consultar con el servicio de urgencias.
 -control en consultas externas de urologia segun cita en hoja adjunta.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-uro 2/2 lopd

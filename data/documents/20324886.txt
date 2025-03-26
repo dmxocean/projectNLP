@@ -1,4 +1,4 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 17.07.2019 edat: 2 mesos procedencia aten.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 17.07.2019 edat: 2 mesos procedencia aten.
 primaria servei medicina d'urgencies ped data d'ingres 02.10.2019 data d'alta 03.10.2019 10:34:52 ates per **************, ******; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres epistaxis y dificultad respiratoria antecedents - ingreso en uci nn por estenosis de fosas nasales.
 tac: narinas de calibre normal, con estenosis severa, suboclusiva, de fosas nasales, sobretodo en el lado derecho.
 actualmente con un tutor derecho colocado por parte de orl.
@@ -8,12 +8,12 @@ peas y valoracion oft normal.
 no necesita valoracion ni realizacion de mas pruebas durante el ingreso actual.
 proces actual lactante de 2 meses con los antecedentes anteriormente citados que en contexto de retirada de tutor nasal hoy de forma electiva en ccee de otorrinolaringologia, realiza en domicilio episodio de epistaxis que se autolimita en menos de 15 minutos.
 tras ello realiza toma correcta del biberon pero persite aumento de ruidos de vias altas.
-la madre refiere que durante el sueño se despierta con sensacion de dificultad respiratoria y franco aumento del trabajo respiratorio.
+la madre refiere que durante el sueÃ±o se despierta con sensacion de dificultad respiratoria y franco aumento del trabajo respiratorio.
 ante la ausencia de mejoria tras la aspiracion consulta en cap donde intentan desobstruccion que no resulta efectiva por lo que, ante el distres, se activa ambulancia y nos lo derivan a nuestro centro.
 niegan cuadro intercurrente.
 afebril en todo momento.
-exploracio fisica fc 160 bpm tªaxi 36.
-1 ºc fr rpm tªrec ºc ta s mmhg sat o2 98.00 % ta d mmhg pes 5.400 kg triangulo de evaluacion pediatrica inestable por respiracion.
+exploracio fisica fc 160 bpm tÂªaxi 36.
+1 Âºc fr rpm tÂªrec Âºc ta s mmhg sat o2 98.00 % ta d mmhg pes 5.400 kg triangulo de evaluacion pediatrica inestable por respiracion.
 buen estado general.
 normocoloreada.
 normohidratada.

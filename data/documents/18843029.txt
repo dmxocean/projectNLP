@@ -1,7 +1,7 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 16.03.1952 edat: 66 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 16.03.1952 edat: 66 anys procedencia domicil/res.
 soc servei cirurgia general data d'ingres 23.05.2018 data d'alta 08.06.2018 14:37:34 ates per **************, *****; ***************, ************; ************, ********** informe d'alta d'hospitalitzacio motiu d'ingres coleccion post apendicectomia antecedents sin alergias medicamentosas conocidas - diabetes mellitus tipo ii en tratamiento con ados e insulina . - cardiopatia isquemica (colocacion de stent ).
 toma aas 100mg - retinopatia diabetica - amigdalectomia - faquectomia - apendicectomia laparoscopica 18/05/2018 en huvh.
-proces actual hombre de 66 años intervenido de apendicectomia laparoscopica el dia 18/05/2018 por apendicitis aguda perforada retrocecal cumpliendo 3 dias de antibioticoterapia endovenosa y dado de alta el dia 22/05/2018.
+proces actual hombre de 66 aÃ±os intervenido de apendicectomia laparoscopica el dia 18/05/2018 por apendicitis aguda perforada retrocecal cumpliendo 3 dias de antibioticoterapia endovenosa y dado de alta el dia 22/05/2018.
 acude por distension abdominal progresiva, nauseas, vomitos y ausencia de transito intestinal de 24 horas de evolucion.
 niega fiebre.
 exploracio fisica buen estado general, afebril, hdm estable.
@@ -17,10 +17,10 @@ ante la nueva retirada el paciente inicia ingesta oral con buena tolerancia, res
 herida quirurgica con buen aspecto, se retiran grapas quirurgicas.
 sedesta y deambula por la unidad sin incidencias.
 controles analiticos con valores dentro de la normalidad.
-se decide solicitar tc abdominal de control 06/06/18 que informa de "control evolutivo que muestra disminucion de tamaño de la coleccion retrocecal conocida, observando extremo de cateter pigtail correctamente posicionado en su interior.
-¨ dada la buena evolucion clinica y analitica se decide alta a domicilio con signos y sintomas de reconsulta.
+se decide solicitar tc abdominal de control 06/06/18 que informa de "control evolutivo que muestra disminucion de tamaÃ±o de la coleccion retrocecal conocida, observando extremo de cateter pigtail correctamente posicionado en su interior.
+Â¨ dada la buena evolucion clinica y analitica se decide alta a domicilio con signos y sintomas de reconsulta.
 orientacio diagnostica k91.
-0 vomits consecutius a cirurgia gastrointestinal procediments colocacion de sonda nasogastrica tc abdominal x3 drenaje de coleccion intraabdominal ecoguiado antibioterapia con piperacilina - tazobactam 4mg/6h ev hasta 29/05 antibioterapia con ciprofloxacino 400mg/12h ev desde el 29/05 antibioterapia con metronidazol 500mg/8h ev desde el 01/ 08 sueroterapia y analgesia intravenosa tractament i recomanacions a l'alta continuar con su medicacion habitual dieta libre de irritantes (cafeina, teina, alcohol, tabaco, picantes, fritos, cacao) si dolor: - paracetamol 1 gramo via oral cada 8 horas - si persiste añadir metamizol 575mg via oral cada 8 horas, alternado con paracetamol cada 4 horas.
+0 vomits consecutius a cirurgia gastrointestinal procediments colocacion de sonda nasogastrica tc abdominal x3 drenaje de coleccion intraabdominal ecoguiado antibioterapia con piperacilina - tazobactam 4mg/6h ev hasta 29/05 antibioterapia con ciprofloxacino 400mg/12h ev desde el 29/05 antibioterapia con metronidazol 500mg/8h ev desde el 01/ 08 sueroterapia y analgesia intravenosa tractament i recomanacions a l'alta continuar con su medicacion habitual dieta libre de irritantes (cafeina, teina, alcohol, tabaco, picantes, fritos, cacao) si dolor: - paracetamol 1 gramo via oral cada 8 horas - si persiste aÃ±adir metamizol 575mg via oral cada 8 horas, alternado con paracetamol cada 4 horas.
 si fiebre elevada, aumento del dolor a pesar de la medicacion, distension abdominal con vomitos persistentes o empeoramiento subito del estado general, se recomienda acudir de nuevo a urgencias.
 control control en consultas externas de cirugia endocrina con dr. ****** segun cita adjunta.
 nhc ** *** *** (********) age-v-cge 2/3 lopd destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-cge 3/3 lopd

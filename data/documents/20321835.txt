@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 11.11.1935 edat: 83 anys procedencia domicil/res.
-soc servei neurologia data d'ingres 02.10.2019 data d'alta 09.10.2019 12:30:00 ates per *************, ****; ***************, *****; **********, ******; *************, **** informe d'alta d'hospitalitzacio motiu d'ingres mujer de 83 años que acude por cefalea, inestabilidad y alteracion de la marcha.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 11.11.1935 edat: 83 anys procedencia domicil/res.
+soc servei neurologia data d'ingres 02.10.2019 data d'alta 09.10.2019 12:30:00 ates per *************, ****; ***************, *****; **********, ******; *************, **** informe d'alta d'hospitalitzacio motiu d'ingres mujer de 83 aÃ±os que acude por cefalea, inestabilidad y alteracion de la marcha.
 antecedents alergia a penicilinas , tetraciclinas, eritromicina, gentamicina, metamizol y cefalosporinas.
 niega habitos toxicos.
 antecedentes patologicos - hipertension arterial esencial en tratamiento con iecas y diureticos.
@@ -7,7 +7,7 @@ seguimiento ambulatorio, con regulares controles (tas habituales 140/150mmhg).
 - diabetes mellitus tipo 2 en tratamiento con antidiabeticos orales.
 ultima hba1c 6,5% (30/05/2019).
 no consta la existencia de complicaciones macro ni microvasculares.
-- episodio isquemico cerebral hace mas de 10 años que curso con hemiparesia izquierda.
+- episodio isquemico cerebral hace mas de 10 aÃ±os que curso con hemiparesia izquierda.
 no se realizo tratamiento fibrinolitico ni endovascular.
 en tratamiento con aas, actualmente retirada.
 no se disponen de informes.
@@ -19,15 +19,15 @@ a/g de control got 60 ui/l ast 58 ui/l ffa 151 ui/l ggt 389 ui/l.
 alfa-fetoproteina normal.
 *ecografia control (06/0/19): higado discretamente heterogeneo, de contornos irregulares.
 no identificamos una clara imagen de lesion solida.
-pequeño quiste milmetrico a lhd.
+pequeÃ±o quiste milmetrico a lhd.
 vena porta permeable con flujo hepatoseptal.
 via biliar no dilatada.
 ectasia central.
 arteria hepatica permeable.
-riñones de medida reducida (rd de 7,5 cm y ri de 8,5 cm).
+riÃ±ones de medida reducida (rd de 7,5 cm y ri de 8,5 cm).
 -hernia de hiato.
 tratamiento de hernia hiatal por laparotomia (no costan informes).
-ultima esofagogastroduodenoscopia (03.2019): hernia hiatal por deslizamiento de pequeño volumen sin lesiones asociadas.
+ultima esofagogastroduodenoscopia (03.2019): hernia hiatal por deslizamiento de pequeÃ±o volumen sin lesiones asociadas.
 fundus modificado por cirugia previa (funduplicatura nissen), cuerpo gastrico, incisura angularis y antro gastrico sin hallazgos.
 piloro competente.
 bulbo duodenal y duodeno hasta segunda porcion normales.
@@ -41,7 +41,7 @@ se realiza estudio cardiologico completo que no muesta alteraciones (ett de 03.1
 - gota . varios episodios desde diciembre de 2019.
 en tratamiento con alopurinol.
 - episodio de hiponatremia el 07.2018.
-consulta por cuadro astenia e hiporexia acompañado de sensacion de torpeza e inestabilidad ocasional de la marcha se inicia reposicion hidroelectrolitica endovenosa y se retira diuretico tiazidico con evolucion adecuada.
+consulta por cuadro astenia e hiporexia acompaÃ±ado de sensacion de torpeza e inestabilidad ocasional de la marcha se inicia reposicion hidroelectrolitica endovenosa y se retira diuretico tiazidico con evolucion adecuada.
 - colecistectomia por laparotomia media.
 no constan informes.
 -faquectomia.
@@ -53,26 +53,26 @@ medicacio habitual alopurinol 100mg 1x24h, enalapril/hidroclorotiazida 20/12,5mg
 proces actual la paciente explica deterioro de la marcha progresivo en los ultimos 6 meses aproximadamente junto a debilidad en miembros inferiores y dolor de caracteristicas mecanicas.
 des del 30/09 presenta brusco empeoramiento de su inestabilidad, motivo por el cual consultaron a urgencias.
 no refiere fiebre, nauseas, vomitos, sensacion de giro de objetos, dolor toracico, sincope, palpitaciones, alteracion de la sensibilidad y/o fuerza, ni otra semiologia en la entrevista dirigida por aparatos.
-exploracio fisica valoracion por orl c y o otoscopia: normal bilateral exploracion neuro: no nistagmus , seguimiento ocular correcto, barany centrado , disminucion fuerza en las 4 extremidades, diadococinesia en miembro superior izqdo, romberg algo inestable, barany centrado, marcha poco valorable en urgencias de medicina fc 92lpm; ta 176/83mmhg; tªaxilar 36.3ºc; sato2 95%aa buen estado general.
+exploracio fisica valoracion por orl c y o otoscopia: normal bilateral exploracion neuro: no nistagmus , seguimiento ocular correcto, barany centrado , disminucion fuerza en las 4 extremidades, diadococinesia en miembro superior izqdo, romberg algo inestable, barany centrado, marcha poco valorable en urgencias de medicina fc 92lpm; ta 176/83mmhg; tÂªaxilar 36.3Âºc; sato2 95%aa buen estado general.
 normocoloreada y normohidratada, afebril, hemodinamicamente estable.
 -exploracion cardiovascular: tonos cardiacos ritmicos, no ausculto soplos ni roce pericardico, pulsos perifericos presentes y simetricos.
 sin edemas en miembros inferiores, sin signos de trombosis venosa profunda.
 sin estigmas de endocarditis.
--exploracion respiratoria: eupneica, murmullo vesicular conservado sin ruidos sobreañadidos.
+-exploracion respiratoria: eupneica, murmullo vesicular conservado sin ruidos sobreaÃ±adidos.
 -exploracion abdominal: blando y depresible, no doloroso a la palpacion superficial ni profunda, no se palpan masas ni visceromegalias, peristaltismo conservado, sin signos de peritonitis.
 -exploracion neurologica: glasgow 15, consciente y parcialmente orientada en tiempo, orientada en persona y espacio.
 nominacion y lenguaje preservados, disartria sensitiva.
 hemihipoestesia en extremidad superior izquierda, balance fuerza muscular 4/5 en las 4 extremidades.
 pupilas isocoricas y normoreactivas, pares craneales preservados, musculos oculares externos sin restricciones, campimetria por confrontacion normal, reflejos osteotendinosos presentes y simetricos, marcha poco valorble por inestabilidad, romberg negativo, no dismetrias ni disdiadococinesias, ni flapping.
 sin rigidez cervical, brudzinski y kerning negativos.
-planta de neurologia fc 89 lpm; ta 151/66 mmhg; tªaxilar 36.
-9 ºc; sato2 99%aa normocoloreada y normohidratada.
+planta de neurologia fc 89 lpm; ta 151/66 mmhg; tÂªaxilar 36.
+9 Âºc; sato2 99%aa normocoloreada y normohidratada.
 buena perfusion distal.
 -expl cardiovascular: tonos cardiacos ritmicos, sin soplos ni roces audibles.
 sin signos de fallo derecho.
 sin signos nhc ** *** *** &nbsp;(********) &nbsp;age-v-nrl 2/5 lopd de tvp.
 pulsos perifericos presentes y simetricos.
--expl respiratoria: murmullo vesicular conservado sin ruidos sobreañadidos.
+-expl respiratoria: murmullo vesicular conservado sin ruidos sobreaÃ±adidos.
 -expl neurologica: loc q 2/2 (0), loc c 2/2 (0).
 moe sin restricciones ni nistagmo.
 campimetria por confrontacion sin deficit.
@@ -99,12 +99,12 @@ nihss: 0 exploracio complementaria eecc urgencias -analitica sanguinea: hb 12.
 5 mg/dl, ast 53 ui/l, alt 48 ui/l, prots.
 8.
 6 g/dl.
-- electrocardiograma : ritmo sinusal a 90lpm, pr 160mseg, eje a -50º, qrs 140mseg con morfologia de bloqueo de rama izquierda (rsr' en v5-v6), qt 280mseg ya conocido en electros previos, con extrasistoles.
+- electrocardiograma : ritmo sinusal a 90lpm, pr 160mseg, eje a -50Âº, qrs 140mseg con morfologia de bloqueo de rama izquierda (rsr' en v5-v6), qt 280mseg ya conocido en electros previos, con extrasistoles.
 -ionograma en orina: creatinina 59, na 61, k 62, cl 72 - tc craneal simple (02/10/19): no se observan lesiones hemorragicas agudas intra ni extraparenquimatosas.
 hipodensidad cortico-subcortical hemicerebelosa derecha en probable relacion a infarto establecido en territorio de la pica derecha.
 hipodensidades focales gangliobasales bilaterales en relacion a infartos lacunares cronicos . hipodensidades con tendencia a confluir en la sustancia blanca periventricular y subcortical de los hemisferios cerebrales bilaterales, en probable relacion a moderada desmielinizacion cronica de origen hipoxico-isquemico.
 no se observan desplazamientos de las estructuras de linea media supra e infratentoriales.
-dilatacion bilateral simetrica del sistema ventricular, proporcional al moderado aumento del tamaño de los surcos de las convexidades bilaterales, en relacion a atrofia cortico-subcortical.
+dilatacion bilateral simetrica del sistema ventricular, proporcional al moderado aumento del tamaÃ±o de los surcos de las convexidades bilaterales, en relacion a atrofia cortico-subcortical.
 cisternas de la base y peritronculares libres.
 amigdalas cerebelosas de disposicion normal.
 marco oseo sin alteraciones.

@@ -1,13 +1,13 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 07.09.2006 edat: 11 anys procedencia cex mateix hosp servei cirurgia digestiva ped data d'ingres 05.07.2018 data d'alta 06.07.2018 17:14:08 ates per ***************, *********; *****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres vomitos y dolor abdominal despues de realizar figrogastroscopia y colonoscopia.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 07.09.2006 edat: 11 anys procedencia cex mateix hosp servei cirurgia digestiva ped data d'ingres 05.07.2018 data d'alta 06.07.2018 17:14:08 ates per ***************, *********; *****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres vomitos y dolor abdominal despues de realizar figrogastroscopia y colonoscopia.
 antecedents al.
-lergies sense al·lergies conegudes antecedents fisiologics hernia hiato meningitis proces actual niña de 11 años, con cuadro de dolor abodmonal de 3 semanas de evolucion.
+lergies sense alÂ·lergies conegudes antecedents fisiologics hernia hiato meningitis proces actual niÃ±a de 11 aÃ±os, con cuadro de dolor abodmonal de 3 semanas de evolucion.
 se le realiza de manera programada (pos s cirugia peidatrica) fibrogastroscopia y colonoscopia el dia 5 de julio.
 posteriormente presenta vomitos (como viene realziando desde hace 3 semanas) y dolor abodminal (igual al que tiene hace 3 semanas).
 se ingresa en sala de observacion de urgencias de pediatria.
 ingresada del 16 al 20 junio en s de cirugia pediatrica, por cuadro de vomitos y doloor abodminal en fosa iliaca derecha realizandose 2 eografias y un tac abdominal sin presentar signos de proceso pendicular.
 desde el alta ha continuado con dolor abodminal (sobretodo mesogastrico y algo epigastrico) y vomitos de manera ocasional por lo que s de cirugia ped y previa valoracion pro s gastroenterologia ped, se programa fgc y colonoscopia para el dia 5.
 h perdido 2 kg d epeso en este tiempo porque como poco porque reifere que el dolor aumenta con la ingesta.
-presenta h´bito deposicioensal estreñido, aunquu ha realizado deposiciones diarreicas en 2 ocasiones (no productos patologicos).
+presenta hÂ´bito deposicioensal estreÃ±ido, aunquu ha realizado deposiciones diarreicas en 2 ocasiones (no productos patologicos).
 refiere tambien cefalea ocasional desde hace 3 semanas.
 y refiere sensacion de adormecimiento de los dedos 3 y 4 de las manos de manera ocasional.
 tambien sensaion de falta de aire en muchos momentos, y dolores osteomusculares en extremidades y tronco.
@@ -17,7 +17,7 @@ normocoloreada y normohidratada.
 no lesiones cutaneas.
 orl: orofaringe no hiperemica sin hipertrofia amigdalar ni exudados.
 otoscopia normal.
-aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
+aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreaÃ±adidos.
 espiracion bueno.
 aparato cardiocirculatorio: tonos ritmico, sin soplos, pulsos presentes y simetricos.
 perfusion distal conservada.
@@ -38,17 +38,17 @@ continua refiriendom doloor abdominal, pero tolera una ingesta oral adecuada.
 la exploracion neurologica es muy llamativa, incongruente en muchos puntos, y refiere dolor a la palpacion de practicamente cualquier pubnto del cuerpo.
 el estado general es excelente.
 impresiona de cuadro de causa no-organica (naturaleza psicogena).
-refieren que es una niña que desde siempre ha tenido cierta facilidad para el vomto (habitualemnte, de manera ocaisonal en situacioens de estres vomita saliva).
-tambien refieren que viene refiriendo dolor abdominal esporaidcamente ahce ya años.
-la madre reifiere que la niña paso un periodo de tristeza por enfermedad de la madre y recibio apoyo psicologicom por parte de pediatra de cabecera.
-refieren un epsidio de problemas en la escuela con compañeros a inicios de este currso.
+refieren que es una niÃ±a que desde siempre ha tenido cierta facilidad para el vomto (habitualemnte, de manera ocaisonal en situacioens de estres vomita saliva).
+tambien refieren que viene refiriendo dolor abdominal esporaidcamente ahce ya aÃ±os.
+la madre reifiere que la niÃ±a paso un periodo de tristeza por enfermedad de la madre y recibio apoyo psicologicom por parte de pediatra de cabecera.
+refieren un epsidio de problemas en la escuela con compaÃ±eros a inicios de este currso.
 , con lo que no vuelve contenta de la escuela.
 se solicita valoracion por psiquiatria de guardia.
-solicitan evalucion de niña de 11 años, ingresada para estudio de dolor abdominal . se han descartado cuadros organicos de forma urgente, siendo las pruebas complementarias realizadas normales (fgs, tac).
+solicitan evalucion de niÃ±a de 11 aÃ±os, ingresada para estudio de dolor abdominal . se han descartado cuadros organicos de forma urgente, siendo las pruebas complementarias realizadas normales (fgs, tac).
 vive con los padres.
 menor de 3 hermanos.
 padres regentaban un bar, actualmente lo han cerrado, padre en paro.
-madre fue diagnosticada hace dos años de neoplasia de mama, actualmente estable.
+madre fue diagnosticada hace dos aÃ±os de neoplasia de mama, actualmente estable.
 buena estudiante.
 antecedentes familiares psiquiatricos.
 familiar de primer grado consumo perjuicial de alcohol . antecedentes personales psiquiatricos.
@@ -56,9 +56,9 @@ no refieren.
 paciente con rasgos de elevado perfeccionismo, elevada sensibilidad interpersonal y alta dependencia de la recompensa.
 refiere tendencia a somatizaciones digestivas de siempre, relaciona dolor abdominal con momentos de preocupaciones/estres.
 proceso actual.
-explica situacion de bullying escolar al menos durante dos trimestre (en el ultimo año), padres refieren que reconducido actualmente por el colegio.
-ademas explica elevado impacto emocional tras diganostico de cancer de la madre hace dos años, fallecimiento de un tio hace un año y otro tio afectado por infarto miocardio.
-toda esta situacion ambiental le ha generado mucho preocupacion, con tendencia a la tristeza, elevada ansiedad, sueño fragil con dias de insomnio, y tendencia a dolor abdominal.
+explica situacion de bullying escolar al menos durante dos trimestre (en el ultimo aÃ±o), padres refieren que reconducido actualmente por el colegio.
+ademas explica elevado impacto emocional tras diganostico de cancer de la madre hace dos aÃ±os, fallecimiento de un tio hace un aÃ±o y otro tio afectado por infarto miocardio.
+toda esta situacion ambiental le ha generado mucho preocupacion, con tendencia a la tristeza, elevada ansiedad, sueÃ±o fragil con dias de insomnio, y tendencia a dolor abdominal.
 a la exploracion c y o.
 fascies hipoexpresiva.
 palidez cutanea.

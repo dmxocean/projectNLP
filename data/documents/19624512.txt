@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 28.10.1935 edat: 83 anys procedencia domicil/res.
-soc servei neurologia data d'ingres 15.02.2019 data d'alta 08.03.2019 13:00:00 ates per *****************, *****; ***************, *****; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres mujer de 85 años que ingresa por crisis miastenica.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 28.10.1935 edat: 83 anys procedencia domicil/res.
+soc servei neurologia data d'ingres 15.02.2019 data d'alta 08.03.2019 13:00:00 ates per *****************, *****; ***************, *****; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres mujer de 85 aÃ±os que ingresa por crisis miastenica.
 antecedents - alergia a captopril (edema lengua y labios tras administracion sublingual).
 - no refiere habitos toxicos.
 antecedentes patologicos: - hipertension arterial esencial diagnosticada en 2004 en tratamiento farmacologico.
@@ -46,7 +46,7 @@ disartria fatigable.
 no clara debilidad en extremidades.
 rmps presentes y simetricos.
 exploracio complementaria en urgencias - ecg : ritmo sinusal a 75 lpm.
-eje a + 0º.
+eje a + 0Âº.
 qrs de 0.08s.
 buena progresion de r en precordiales.
 no alteraciones agudas de la repolarizacion.
@@ -105,7 +105,7 @@ directa 0.17 mg/dl, na 141.
 6 mg/dl, ast 26 ui/l, alt 15 ui/l, fa 49 ui/l, ggt 14 ui/l, colesterol 228 mg/dl, trigl.
 66 mg/dl, prots 8.
 4 g/dl, albumina 3.
-3 g/dl - ecg: fa con rvm a 120 lpm con eje electrio a 0º, sin alteraciones agudas de la repolarizacion.
+3 g/dl - ecg: fa con rvm a 120 lpm con eje electrio a 0Âº, sin alteraciones agudas de la repolarizacion.
 nhc ** *** *** &nbsp;(********) &nbsp;age-v-nrl 2/4 lopd evolucio clinica paciente con los antecedentes anteriormente descritos que a su llegada a urgencias se encuentra hemodinamicamente estable, afebril y con regular estado general.
 exploracion fisica compatible con crisis miastenica de predominio bulbar.
 se solicita analitica general y rx torax que no muestran hallazgos significativos.
@@ -116,7 +116,7 @@ se decide ingreso en planta de neurologia.
 la paciente llega a planta hemodinamicamente estable y afebril, con buen estado general, destacando en la exploracion fisica persistencia de disartria bulbar asi como ptosis bilateral fatigable de predominio derecho.
 se realiza analitica general de ingreso que no muestra alteraciones destacables.
 se termina pauta de igs y se continua con tratamiento con piridostigmina y corticoides.
-posteriormente se añade al tratamiento tacrolimus a dosis de 1mg-0-1mg, que tras un par de controles analiticos en que se mantiene en dosis valle en torno a 3.
+posteriormente se aÃ±ade al tratamiento tacrolimus a dosis de 1mg-0-1mg, que tras un par de controles analiticos en que se mantiene en dosis valle en torno a 3.
 8-4.
 8 se decide aumento de dosis a 1mg-0-2mg para poder asi iniciar la reduccion de corticoterapia (la paciente presenta hiperglicemia reactiva al tratamiento corticoideo requiriendo incluso administracion de insulina lenta basal ademas de los rescates de insulinoterapia de rapida accion).
 durante su ingreso la paciente presenta empeoramiento respiratorio con roncus bilaterales de predominio basal derecho.
@@ -143,11 +143,11 @@ orientacio diagnostica g70.01 miastenia greu amb exacerbacio (aguda ) e78.00 hip
 se realizara descenso en cosultas externas.
 -piridostigmina (mestinon) 60mg 1 comprimido cada 6 horas.
 -tacrolimus (prograf) 1mg,1 comprimido en el deayuno y 2 en la cena.
--bisoprolol 2,5mg 1 comprimido por la mañana.
+-bisoprolol 2,5mg 1 comprimido por la maÃ±ana.
 - xarelto 20mg 1 comprimido al dia -insulina lantus 10 unidades con el desayuno.
 control por su medico de atencion primaria ir descendiendo.
 -resto de tratamiento sin cambios.
-control - visita de control en cex neurologia-unidad neuromuscular (1ª planta annexo) el dia 23 de abril a las 8:30h.
+control - visita de control en cex neurologia-unidad neuromuscular (1Âª planta annexo) el dia 23 de abril a las 8:30h.
 -acudir a realizacion de analitica de sangre (determinacion niveles de tacrolimus) el dia y hora que se le indique (acudir sin tomar la dosis matutina de tacrolimus).
 -control de tratamiento con insulina y suplementos de calcio por su medico de atencion primaria, ir retirando.
 -acudir a realizacion de pruebas respiratorias funcionales segun se le indique telefonicamente o via correo ordinario.

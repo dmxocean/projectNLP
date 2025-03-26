@@ -1,8 +1,8 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 28.08.1957 edat: 60 anys procedencia domicil/res.
-soc servei oncologia medica data d'ingres 02.06.2018 data d'alta 07.06.2018 14:40:03 ates per *******************, **************; de ***********************, ******* informe d'alta d'hospitalitzacio motiu d'ingres varon de 60 años que consulta por fiebre.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 28.08.1957 edat: 60 anys procedencia domicil/res.
+soc servei oncologia medica data d'ingres 02.06.2018 data d'alta 07.06.2018 14:40:03 ates per *******************, **************; de ***********************, ******* informe d'alta d'hospitalitzacio motiu d'ingres varon de 60 aÃ±os que consulta por fiebre.
 antecedents - sin alergias medicamentosas conocidas.
 - fumador de 1 paq/dia.
-fe 40 paq-año aprox.
+fe 40 paq-aÃ±o aprox.
 antecedentes medico-quirurgicos - cardiopatia isquemica . debut el 9 /2/17 en forma de iam inferior killip i.
 se realiza coronariografia observando enfermedad coronaria de un vaso, con lesiones en la primera oblicua marginal.
 se realiza angioplastia primaria sobre la lesion de la primera oblicua marginal.
@@ -12,8 +12,8 @@ acinesia inferior basal y media e inferolateral basal y media.
 valvula mitral de morfologia normal con apertura conservada.
 valvula aortica trivalva con velos finos y apertura conservada.
 auricula izquierda ligeramente dilatada.
-raiz de aorta de tamaño normal.
-cavidades derechas detamaño normal.
+raiz de aorta de tamaÃ±o normal.
+cavidades derechas detamaÃ±o normal.
 ventriculo derecho con funcion sistolica global conservada (tapse de 20mm).
 vena cava inferiorno dilatada con colapso inspiratorio mayor del 50%.
 ausencia de derrame pericardico.
@@ -25,11 +25,11 @@ ausencia de insuficiencia tricuspidea que permita estimar paps.
 sin datos indirectos de hipertension pulmonar (tiempo de aceleracion pulmonar normal).
 - apendicectomizado . historia oncologica mesotelioma pleural maligno (ap mesotelioma epitelioide variante celulas claras) t2n2m0 diagnosticado en febrero 2017 duarante ingreso por iam.
 no talcaje inicial.
-*inicio 1ª linea de tratamiento con carbo pem y ttf siendo el c1 21/03/17, retiro consentimiento informado para continuar tratamiento, completo tres ciclos de qt.
+*inicio 1Âª linea de tratamiento con carbo pem y ttf siendo el c1 21/03/17, retiro consentimiento informado para continuar tratamiento, completo tres ciclos de qt.
 * tc pd pleural y del derrame.
-* inicio 2ª linea de tratamiento con vnr semanal siendo el c1 30/05/17.
+* inicio 2Âª linea de tratamiento con vnr semanal siendo el c1 30/05/17.
 *tc pd en marzo de 2018.
-*realizada toracoscopia, pleurodesis con talco y colocacion de pleurx, retirado el 18/10 sin complicaciones *ha iniciado tratamiento de 3ª linea con gemcitabina, siendo el c4d1 el 29/05/2018.
+*realizada toracoscopia, pleurodesis con talco y colocacion de pleurx, retirado el 18/10 sin complicaciones *ha iniciado tratamiento de 3Âª linea con gemcitabina, siendo el c4d1 el 29/05/2018.
 realiza controles en cex con la dra ******.
 medicacio habitual adiro 100 mg cada 24 horas, atorvastatina 40 mg cada 24 horas, corlentor 5 mg cada 12 horas, fentanilo 25+12 mcg/h 1 parche cada 72 horas, omeprazol 20 mg cada 24 horas, paracetamol 1 g cada 8 horas, sevredol 10 mg cada 4 horas.
 nhc ** *** *** (********) age-v-onc 1/4 lopd proces actual explica inico de la fiebre hace 24h (ayer por la tarde), junto con clinica sugestiva de bacteriemia.
@@ -44,14 +44,14 @@ coli multis en urocultivo, realizando tratamiento antibiotico con antibiotico qu
 exploracio fisica ecog 2.
 sudoracion profusa.
 sin signos de deshidratacio muco-cutanea.
-cv: tonos cardiacos ritmicos, sin soplos añadidos.
+cv: tonos cardiacos ritmicos, sin soplos aÃ±adidos.
 pulsos perifericos presentes y simetricos.
 sin edemas ene xtremidades inferiroes.
-respi: mvc sin ruidos añadidos hipofonesis basal derecha.
+respi: mvc sin ruidos aÃ±adidos hipofonesis basal derecha.
 abd: blando, sin dolor a la palpacion profunda ni superficial.
 ruidos hidroaereos presentes, no aumentados.
 no se palpan masas ni megalias.
-puñopercusion izquierda dudosamente positiva.
+puÃ±opercusion izquierda dudosamente positiva.
 neuro: rcp bilateral flexor, sin rigidez nucal.
 balance global motor conservado.
 balance sensitivo global conservado.
@@ -88,28 +88,28 @@ sin condensaciones parenquimatosas.
 5 cel/microl, celulas epiteliales 0, cilindros hialinos 0, bacterias 183 bact/microl, hongos negativo.
 -urocultivo: negativo.
 -hemocultivos: negativos.
-- ecografia renal : hallazgos: riñones de tamaño y morfologia normal, con buena diferenciacion corticomedular y grosor cortical conservado.
+- ecografia renal : hallazgos: riÃ±ones de tamaÃ±o y morfologia normal, con buena diferenciacion corticomedular y grosor cortical conservado.
 no se observan areas que sugieran nefritis o abceso.
 no se visualiza liquido nhc ** *** *** (********) age-v-onc 2/4 lopd perirrenal.
 no evidencias de imagenes sugestivas de litiasis.
 no dilatacion de la via excretora.
-señal doppler bilateral sin alteraciones.
+seÃ±al doppler bilateral sin alteraciones.
 vejiga urinaria bien replecionada, de paredes finas, sin lesiones murales visibles.
 no liquido libre en pelvis.
 orientacion diagnostica: ecografia abdominal urgente en la que no se observan areas de nefritis ni abceso.
 - ecografia toracica : hallazgos: minimo derrame pleural izquierdo de hasta 8 mm.
 engrosamiento pleural derecho difuso, de predominio bibasal, sin identificar liquido en cantidades significativas (grosor maximo de hasta 9 mm), por lo que no se procede a marcaje.
 -tc toracoabdominal: parenquima pulmonar sin evidencia de imagenes nodulares con enfisema.
-adenopatias subcarinales y paraesofagicas que han aumentado en relacion al estudio previo, perviamente ganglios de pequeño tamaño.
+adenopatias subcarinales y paraesofagicas que han aumentado en relacion al estudio previo, perviamente ganglios de pequeÃ±o tamaÃ±o.
 marcado aumento de la afectacion pleural derecha.
 engrosamiento a nivel de troncos supraaorticos de 27 mm y 24 mm ( previos de 19 y 16 mm).
 engrosamiento pleural en zona carinal de 22 y 27 mm ( previo de 14 y 20 mm).
-higado homogeneo de tamaño normal.
+higado homogeneo de tamaÃ±o normal.
 suprarenales sin alteraciones.
 no se observa la presencia de adenopatias retroperitoneales.
 pelvis menos sin signos de ocupacion.
 cambios oseos de tipo degenerativo.
-imagenes en 3 arco costal derecho de invasion evolucio clinica varon de 60 años afecto de mpm epiteliode t2n2m0 en tercera linea de tratamiento con gemcitabina.
+imagenes en 3 arco costal derecho de invasion evolucio clinica varon de 60 aÃ±os afecto de mpm epiteliode t2n2m0 en tercera linea de tratamiento con gemcitabina.
 requirio toracoscopia, talcaje pleural y colocacion de pleurx que se retiro el 18/10 sin complicaciones.
 en esta ocasion ingresa por fiebre sin foco.
 analiticamente destaca leucocitosis y elevacion de rfa, sin otros hallazgos.
@@ -122,6 +122,6 @@ durante su estancia en planta, el paciente permanece en todo momento afebril, si
 asimismo, se decide rotar la analgesia con fentanilo transdermico a mst oral, con la idea de mejorar tambien la clinica de disnea lograndose el objetivo con control del dolor y mejoria de la disnea.
 ante la estabilidad clinica se decide alta a domicilio con oxigenoterapia suplementaria y seguimiento por pades de zona.
 ocd domiciliaria con concentrador estatico, gafas nasales a 1-2 lpm, en la noche y si requiere por ahogo.
-casa subministradora oxigen salud, tf 9** *** *** orientacio diagnostica fiebre no especificada, probable fiebre tumoral mesotelioma pleural maligno tractament i recomanacions a l'alta indometacina 25mg, 1 comprimido si fiebre &gt; 38ºc que no cede tras administracion de paracetamol.
+casa subministradora oxigen salud, tf 9** *** *** orientacio diagnostica fiebre no especificada, probable fiebre tumoral mesotelioma pleural maligno tractament i recomanacions a l'alta indometacina 25mg, 1 comprimido si fiebre &gt; 38Âºc que no cede tras administracion de paracetamol.
 mst retard 30mg + mst 10mg, en total 40mg cada 12 horas omeprazol 20mg, 1 comprimido al dia movicol 1 sobre al desayuno y 1 en la comida (ajustar segun necesidad; objetivo lograr 1 a 2 deposiciones al dia) adiro 100mg, 1 comprimido al dia nhc ** *** *** (********) age-v-onc 3/4 lopd ivabradina 5mg, 1 comprimido cada 12h atorvastatina 40mg, 1 comprimido al dia paracetamol 1gr, 1 comprimido cada 8 horas lorazepam 1mg, 1 comprimido cada noche ocd domiciliaria con concentrador estatico, gafas nasales a 1-2 lpm, en la noche y si requiere por ahogo.
 casa subministradora oxigen salud, tf 9** *** *** control se adjunta hoja de citaciones se activa pades de zona destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-onc 4/4 lopd

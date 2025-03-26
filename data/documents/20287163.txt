@@ -1,8 +1,8 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 28.12.1984 edat: 34 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 28.12.1984 edat: 34 anys procedencia domicil/res.
 soc servei alt risc obstetric data d'ingres 19.09.2019 data d'alta 25.09.2019 12:00:00 ates per ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres amenaza de parto prematuro . antecedents no alergias medicamentosas conocidas.
 antecedentes personales: celiaquia . intervenciones quirurgicas: adenoidectomia.
 no habitos toxicos medicacion habitual: gestagyn.
-proces actual edad: 34 años tpal: 1103 (eutocico; gemelar parto prematuro a las 31 w) fur: 25.03.19 sg: 25s +3d gsrh: desconoce gestacion controlada en centro privado.
+proces actual edad: 34 aÃ±os tpal: 1103 (eutocico; gemelar parto prematuro a las 31 w) fur: 25.03.19 sg: 25s +3d gsrh: desconoce gestacion controlada en centro privado.
 gestante de 25s+3d derivada de centro privado por amenaza de parto prematuro.
 refiere dinamica uterina irregular oligosintomatica.
 no metrorragia ni hidrorrea.

@@ -1,8 +1,8 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 12.08.1984 edat: 33 anys procedencia aguts servei obstetricia data d'ingres 16.02.2018 data d'alta 17.02.2018 08:12:25 ates per **************, **** informe d'alta d'hospitalitzacio motiu d'ingres ile proces actual edad: 33 años fur 5-11-2017 tpal: 0000.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 12.08.1984 edat: 33 anys procedencia aguts servei obstetricia data d'ingres 16.02.2018 data d'alta 17.02.2018 08:12:25 ates per **************, **** informe d'alta d'hospitalitzacio motiu d'ingres ile proces actual edad: 33 aÃ±os fur 5-11-2017 tpal: 0000.
 gsrh: o positivo sg: 14 + 6 paciente ingresa para ile por feto afecto de sd.
 tuner.
 resumen gestacional.
-analitica de 1º trismestre: coombs indirecto negativo.
+analitica de 1Âº trismestre: coombs indirecto negativo.
 hemograma normal.
 lues (-) / toxo (-) / rub inmune.
 hiv (-) / hbsag (-) / anti-hvc (-).

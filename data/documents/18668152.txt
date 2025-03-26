@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 21.11.1928 edat: 89 anys procedencia domicil/res.
-soc servei medicina interna 1 data d'ingres 01.04.2018 data d'alta 06.04.2018 16:00:00 ates per equipo dr. ****** (dra. *******, dra. *****, dra. *****, dra. *****) informe d'alta d'hospitalitzacio motiu d'ingres hombre de 88 años que consulta por fiebre y malestar general antecedents sin alergias conocidas niega habitos toxicos.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 21.11.1928 edat: 89 anys procedencia domicil/res.
+soc servei medicina interna 1 data d'ingres 01.04.2018 data d'alta 06.04.2018 16:00:00 ates per equipo dr. ****** (dra. *******, dra. *****, dra. *****, dra. *****) informe d'alta d'hospitalitzacio motiu d'ingres hombre de 88 aÃ±os que consulta por fiebre y malestar general antecedents sin alergias conocidas niega habitos toxicos.
 antecedentes personales -fibrilacion auricular en tratamiento anticoagulante con sintrom y frenador con bisoprolol, se desconoce fecha de debut.
 -poliangitis granulomatosa (enfermedad de wegener) pr3-anca positiva que debuto como sindrome reno-pulmonar en noviembre'11 (hemoptisis y deterioro de funcion renal); fibrobroncoscopia con toma de biopsias (sangrado proveniente del segmento apical del lid y 2 lesiones ulcerosas en arbol bronquial derecho) y seembolizo arteria bronquial derecha aberrante.
 la biopsia transbronquial objetivo extenso tejido de granulacion con celulas gigantes.
@@ -29,17 +29,17 @@ ultimo ingreso por agudizacion en enero 2018 sin aislamiento microbiologico con 
 -hipertrofia benigna de prostata en tratamiento con tamsulosina.
 -cervicoartrosis en tratamiento analgesico a demanda.
 -diverticulosis colonica . no ha presentado complicaciones ni ingresos por este motivo.
-explica estreñimiento habitual que trata con laxantes orales.
+explica estreÃ±imiento habitual que trata con laxantes orales.
 intervenciones quirurgicas: faquectomia en ojo izquierdo en 2012; exeresis de carcinoma basocelular ulcerado (octubre '12, lesiones extirpadas con bordes libres y sin signos de malignidad); herniorrafia bilateral (el izquierdo en 1985 y el derecho en 1988); intervencion por litiasis renal izquierda en 1982.
 situacion sociofuncional: vive en una residencia por limitacion funcional (camina con ayuda de un andador), parcialmente dependiente para actividades basicas de vida diaria.
 sin deterioro cognitivo.
 medicacio habitual duphalac 10 mg 1 sobre diario, furosemida 40 mg diarios, acido folico diario, ideos diario, plantaben 3.
 5 sobres, paracetamol 1 g/8 horas, sintrom segun pauta, omeprazol 20 mg diarios, tamsulosina 0,4 mg diairos, hidroferol 266 mcg cada 15 dias, bisoprolol 2,5 mg diarios, rinovitex pomada nasa, prednisona 5 mg diarios.
-proces actual paciente referido desde residencia por fiebre cuantificada en 39.5º.
+proces actual paciente referido desde residencia por fiebre cuantificada en 39.5Âº.
 el paciente refiere presentar tos desde hace aproximadamente 3 dias, con escasa expectoracion blanquecina asociando a malestar general y astenia sin clara clinica de bacteriemia.
 niega dolor toracico, palpitaciones, expectoracion purulenta, disnea, ortopnea u otra sintomatologia destacable.
-exploracio fisica fc 98 bpm tªaxi 36.
-3 ºc fr 30 rpm tªrec ºc ta s 99 mmhg sat o2 % ta d 73 mmhg pes kg exploracion fisica en urgencias pa: 96/64mmhg fc: 98lpm sat o2: 98% 0.28 4l tª: 36.5º estado general conservado.
+exploracio fisica fc 98 bpm tÂªaxi 36.
+3 Âºc fr 30 rpm tÂªrec Âºc ta s 99 mmhg sat o2 % ta d 73 mmhg pes kg exploracion fisica en urgencias pa: 96/64mmhg fc: 98lpm sat o2: 98% 0.28 4l tÂª: 36.5Âº estado general conservado.
 ligera deshidratacion mucocutanea, normocoloreado y normoperfundido.
 -cardiovascular: tonos cardiacos arritmicos, no ausculto soplos ni roces.
 iy/rhy +.
@@ -56,7 +56,7 @@ no palpo masas ni megalias.
 -neurologico: consciente y orientado en las 3 esferas.
 no signos de focalidad neurologica.
 no asterixis.
-exploraciones complementarias en medicina interna ta 121/69 mmhg fc 87 ppm tº 36.4º sato2 97 % aa hemodinamicamente estable, afebril.
+exploraciones complementarias en medicina interna ta 121/69 mmhg fc 87 ppm tÂº 36.4Âº sato2 97 % aa hemodinamicamente estable, afebril.
 normohidratado, normoperfundido.
 desviacion de la comisura labial hacia el lado derecho con borramiento del zurco nasogeniano izquierdo.
 cardiovascular: tonos cardiacos ritmicos, hipofoneticos, sin soplos ni roces.
@@ -72,7 +72,7 @@ no asterixis, no meningismo.
 fuerza muscular conservada.
 sin signos aparentes de focalidad neurologica aguda.
 exploracio complementaria exploraciones complementarias en urgencias - eab : ph 7.46, pco2 41mmhg, po2 25mmhg, hco3- 29.2mmol/l, be 4.9mmol/l, hcto 36%, hb 12g/dl, na 134mmol/l, k 4mmol/l, ca 4.78mmol/l, cl 101mmol/l, angap 8mmol/l, glu 142mg/dl, lac 1.8mmol/l - ecg : fibrilacion auricular a 95lpm.
-eje a 30º.
+eje a 30Âº.
 qrs estrecho con morfologia de brdhh.
 no alteraciones agudas de la repolarizacion.
 - radiografia de torax : ic &lt;0.5.

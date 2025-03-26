@@ -1,6 +1,6 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 17.03.1937 edat: 81 anys procedencia aguts servei unitat had data d'ingres 15.03.2018 data d'alta 04.04.2018 13:05:59 ates per **********, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 87 años que ingresa en had desde planta de infecciosas para completar tratamiento antibiotico de prostatitis por pseudomonas xdr.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 17.03.1937 edat: 81 anys procedencia aguts servei unitat had data d'ingres 15.03.2018 data d'alta 04.04.2018 13:05:59 ates per **********, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 87 aÃ±os que ingresa en had desde planta de infecciosas para completar tratamiento antibiotico de prostatitis por pseudomonas xdr.
 antecedents alergias -sin alergias a medicamentos conocidas.
-habitos toxicos - exfumador de 60 paquetes-año desde hace 10 años.
+habitos toxicos - exfumador de 60 paquetes-aÃ±o desde hace 10 aÃ±os.
 antecedentes patologicos: - hipertension arterial de larga evolucion en control por cap.
 presenta regulares controles tensionales (pa: 130/80 mmhg).
 en tratamiento antihipertensivo con ieca's.
@@ -34,9 +34,9 @@ ultima eco-tsa 2012 : ligera cid.
 moderada cii.
 - sahs grave portador de cpap desde febrero 2014.
 sigue controles en cex neumologia (u.
-sueño) - probable epoc leve, pendiente de realizacion de pfr's ambulatorias - ulcus gastrico hace 20 años . - prostatismo de meses de evolucion, sin tratamiento.
+sueÃ±o) - probable epoc leve, pendiente de realizacion de pfr's ambulatorias - ulcus gastrico hace 20 aÃ±os . - prostatismo de meses de evolucion, sin tratamiento.
 - hematuria en seguimiento en consultas externas de urologia dr. ********, proxima visita el 16/4/2018, se ha realizado 2 cistoscopias: ***31/7/2018 vejiga urinaria distendida, de paredes lisas y de espesor normal, con abundante residuo nhc ** *** *** (********) age-v-hdo 1/4 lopd postmiccional (204 cc).
-meato ureteral derecho con pequeño ureterocele y con una imagen nodular en el meato, de unos 17 x 13 x 15 mm, que puede corresponder a un papiloma o en edema de pared.
+meato ureteral derecho con pequeÃ±o ureterocele y con una imagen nodular en el meato, de unos 17 x 13 x 15 mm, que puede corresponder a un papiloma o en edema de pared.
 no visualiza litiasis a este nivel.
 cistoscopia flexible: buenos paso uretral.
 prostata trilobulada obstructiva.
@@ -46,7 +46,7 @@ requerimiento de neumo, pero imposibilidad de visualizacion de trigon por sangra
 no se localizan meatos.
 *** 21/1/2018: -buen paso uretral.
 uretra anterior y posterior bien.
-prostata de gran tamaño, trilobulada, obstructiva, muy friable.
+prostata de gran tamaÃ±o, trilobulada, obstructiva, muy friable.
 no visualizo los meatos ureterales.
 vejiga de paredes trabeculadas sin observarse imagenes macroscopicas sospechosas de tumor vesical.
 abundantes detritus en trigono.
@@ -61,10 +61,10 @@ deficits pnesicos puntuales.
 medicacio habitual acenocumarol segun pauta; aas 100mg/24h; metformina 850mg 1-0,5-0; tamsulosina 0,4mg/24h; carvedilol 6,25 1-0-0,5; enalapril 20mg 0,5-0-0; omeprazol 20mg/24h; eplerenona 25mg/24h; furosemida 40mg/24h; rosuvastatina 20mg/24h; spriva 1inh/24h; paracetamol 1g/12h; cpap nocturna; laxantes tipo movicol 1-2 sobres al dia si precisa proces actual paciente que ingresa en planta de infecciosas el dia 15/3/2018, habiendo sido dado de alta el 20 de febrero por una gripe a con sobreinfeccion respiratoria y fa de debut, acude a urgencias por mal estado general.
 refiere desde el alta astenia intensa y mialgias generalizadas.
 refiere desde hace una semana disuria con el final de la miccion y urgencia miccional.
-asimismo, en los ultimos 5 dias sensacion distermica con fiebre termometrada en el dia de hoy de 38ºc.
+asimismo, en los ultimos 5 dias sensacion distermica con fiebre termometrada en el dia de hoy de 38Âºc.
 a la anamnesis por aparatos tos seca.
 niega dolor toracico, dolor abdominal, nauseas, vomitos o alteaciones del ritmo deposicional.
-exploracio fisica constantes: pa 125/68 mmhg; fc 90 lpm; tª 37,6ºc; sao2 95% (aire ambiente).
+exploracio fisica constantes: pa 125/68 mmhg; fc 90 lpm; tÂª 37,6Âºc; sao2 95% (aire ambiente).
 piel y anejos/ piel normocoloreada.
 piel y mucosa oral normohidratadas.
 buena perfusion distal.
@@ -73,7 +73,7 @@ soplo sistolico panfocal de predominio en foco aortico accesorio.
 pulsos perifericos presentes y simetricos.
 no ingurgitacion yugular ni reflujo hepato-yugular.
 no edemas en miembros inferiores.
-exploracion respiratoria/ murmullo vesicular disminuido sin ruidos sobreañadidos.
+exploracion respiratoria/ murmullo vesicular disminuido sin ruidos sobreaÃ±adidos.
 exploracion abdominal/ peristaltismo presente.
 blando.
 no doloroso a la palpacion superficial o profunda.
@@ -88,7 +88,7 @@ no signos de meningismo.
 nhc ** *** *** (********) age-v-hdo 2/4 lopd exploracio complementaria exploraciones complementarias en urgencias -ecg: ritmo sinusal a 75 lpm.
 pr 220 ms.
 qrs &lt; 120ms.
-eje qrs a 60º.
+eje qrs a 60Âº.
 ondas q nde 1/3 de qrs en diii.
 punto j descendido 1 mm con ondas t negativas ne v5-v6.
 segmento st sin alteraciones.
@@ -122,10 +122,10 @@ pruebas complementarias en hospitalizacion a domicilio: analitica 26/3/2018: hte
 7, k 4.17, calcio 9.
 3, ast 17, alt 11, fa 51, ggt 19, colesterol 130, tg 179, proteinas 7.
 1, albumina 3.
-9 ecografia reno-vesico-prostatica : ureterohidronefrosis derecha moderada (pelvis renal de 43mm en transversal) con preservacion del tamaño renal y grosor cortical.
+9 ecografia reno-vesico-prostatica : ureterohidronefrosis derecha moderada (pelvis renal de 43mm en transversal) con preservacion del tamaÃ±o renal y grosor cortical.
 el ureter esta dilatado hasta el meato en donde se identifica un engrosamiento nodular de 30mm sugestivo de neoplasia primaria vesical . no hay litiasis en el trayecto ureteral.
 quiste simple de 64mm.
-riñon izquierdo de tamaño y grosor cortical normal.
+riÃ±on izquierdo de tamaÃ±o y grosor cortical normal.
 prostata de 74cc de ecoestructura homogenea.
 evolucio clinica paciente que ingresa procedente de planta de infecciosas para realizar tratamiento antibiotico con ceftolozano/tazobactam por prostatitis por pseudomonas extremadamente resistente (xdr).
 durante su estancia en el hospital a domicilio se ha mantenido hemodinamicamente estable, afebril, sin presentar complicaicones.
@@ -136,7 +136,7 @@ orientacio diagnostica - prostatis aguda por pseudomonas multirresistente (xdr).
 - engrosamiento nodular en meato ureteral derecho.
 tractament i recomanacions a l'alta continuar con medicacion habitual: - sintrom segun pauta - aas 100 mg/dia - metformina 850 mg 0-1 -1/2 - tamsulosina 0.
 4 mg/dia - carvedilol 6.25 1-0-0,5 - enalapril 10 mg/dia - omeprazol 20 mg/dia - eplerenona 25 mg 1/2 comp/dia.
-- furosemida 40 mg/dia - rosuvastatina 20 mg/noche - spiriva 1 inh/dia - paracetamol 1 gr/8 h si dolor control - acudir a visitas de enfermedades infecciosas (dr. ***) el proximo dia 9 de abril a las 15.20 en la 2ª planta del edificio de la antigua escuela de enfermeria.
+- furosemida 40 mg/dia - rosuvastatina 20 mg/noche - spiriva 1 inh/dia - paracetamol 1 gr/8 h si dolor control - acudir a visitas de enfermedades infecciosas (dr. ***) el proximo dia 9 de abril a las 15.20 en la 2Âª planta del edificio de la antigua escuela de enfermeria.
 - acudir a visitas de urologia dr. ******** el proximo dia 16 de abril a las 13:10 en el modulo b.
 - control por medico de atencion primaria.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-hdo 4/4 lopd

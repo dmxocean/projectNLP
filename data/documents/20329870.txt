@@ -1,8 +1,8 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 22.01.1984 edat: 35 anys procedencia domicil/res.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 22.01.1984 edat: 35 anys procedencia domicil/res.
 soc servei obstetricia data d'ingres 03.10.2019 data d'alta 07.10.2019 11:59:00 ates per ******************, *****; ****************, ******; *****************, ***** informe d'alta d'hospitalitzacio motiu d'ingres metrorragia antecedents no alergias medicamentosas conocidas.
 intervenciones quirurgicas: miomectomia laparoscopia, polipectomia antecedentes patologicos: no refiere niega habitos toxicos.
 no medicacion habitual.
-proces actual edad: 35 años tpal: 0010 (gestacion ectopica tratada con metotrexate) dur: 28/5/2019 sg:18+2 gsrh: o + gestacion controlada en alto riesgo obstetrico (aro) por alto riesgo de preeclampsia en primer trimestre.
+proces actual edad: 35 aÃ±os tpal: 0010 (gestacion ectopica tratada con metotrexate) dur: 28/5/2019 sg:18+2 gsrh: o + gestacion controlada en alto riesgo obstetrico (aro) por alto riesgo de preeclampsia en primer trimestre.
 acude por metrorragia escasa de 4h de evolucion.
 refiere dolor abdominal mas acentuado a nivel de fosa iliaca izquierda.
 no sensacion de dinamica uterina.
@@ -12,7 +12,7 @@ no otra sintomatologia de interes.
 resumen gestacional: serologias: negativas.
 rubeola inmune analitica: hb: 10,7 ht: 32,7 plaquetas: 292000 eco 1t: es modifica fur, marcadores negativos.
 uterinas normales triple screening: bajo riesgo.
-exploracio fisica exploracion en urgencias: ta 109/70 mmhg fc 71x' tª 36.3ºc expl.
+exploracio fisica exploracion en urgencias: ta 109/70 mmhg fc 71x' tÂª 36.3Âºc expl.
 abdominal: abdomen gravido de acuerdo con las semanas de gestacion.
 no hipertonia ni hipersensibilidad.
 especulo: moderada metrorragia activa.
@@ -60,8 +60,8 @@ clexane 40 mg cada 24 horas subcutaneo durante 10 dias desde la cesarea.
 paracetamol 1gr cada 8 horas si precisa para el dolor (puede alternarse cada 4 horas con 1 comprimido de ibuprofeno 600mg si dolor).
 control visita de control a las 6 semanas en alto riesgo obstetrico.
 acudir segun citacion a consulta de alto riesgo obstetrico del duelo perinatal.
-se recomienda esperar minimo un año para buscar nuevo embarazo.
+se recomienda esperar minimo un aÃ±o para buscar nuevo embarazo.
 se recomienda abundante ingesta de liquidos y dieta variada y equilibrada.
-lavado diario de herida quirurgica con agua y jabon neutro y realizacion progresiva de actividad fisica, asi como evitar inmersion en bañera o piscina hasta finalizar el puerperio.
+lavado diario de herida quirurgica con agua y jabon neutro y realizacion progresiva de actividad fisica, asi como evitar inmersion en baÃ±era o piscina hasta finalizar el puerperio.
 se informa de signos y sintomas de alarma (fiebre termometrada en domicilio, eritema mamario, secrecion purulenta por herida quirurgica o secrecion vaginal maloliente) por los que debe volver a consultar por urgencias.
 nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 3/4 lopd destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-obs 4/4 lopd

@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 18.12.1941 edat: 76 anys procedencia domicil/res.
-soc servei nefrologia data d'ingres 26.11.2018 data d'alta 05.12.2018 10:36:41 ates per trasplante renal *******, *******, ******** informe d'alta d'hospitalitzacio motiu d'ingres varon de 76 años, con irc 5 en hd , que ingresa como receptor de trasplante renal.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 18.12.1941 edat: 76 anys procedencia domicil/res.
+soc servei nefrologia data d'ingres 26.11.2018 data d'alta 05.12.2018 10:36:41 ates per trasplante renal *******, *******, ******** informe d'alta d'hospitalitzacio motiu d'ingres varon de 76 aÃ±os, con irc 5 en hd , que ingresa como receptor de trasplante renal.
 antecedents - no amc.
 no habitos toxicos.
 -hta de larga evolucion.
@@ -36,7 +36,7 @@ exploracion post-trasplante analitica al alta (5/12) : hb 10.
 ecografia-doppler renal (29/11): trasplante renal en fid con estudio doppler dentro de la normalidad, sin dilatacion de la via excretora.
 hematoma perirrenal superior de 5x2 cm.
 angiotc urgente (30/11): estudio urgente que muestra discreto aumento del hematoma periinjerto en fid respecto a ecografias previas , con un nivel discretamente mas denso que sugiere sangrado reciente, sin observarse actualmente ningun punto de extravasacion de contraste en las diferentes fases de adquisicion, que sugieran sangrado activo.
-injerto renal en fid, de tamaño normal, correcto nefrograma, con buena permeabilidad de los vasos arteriales y venosos, observandose vena renal del injerto discretamente colapsada a nivel de la anastomosis con la vena iliaca externa, probablemente por efecto masa en relacion al hematoma.
+injerto renal en fid, de tamaÃ±o normal, correcto nefrograma, con buena permeabilidad de los vasos arteriales y venosos, observandose vena renal del injerto discretamente colapsada a nivel de la anastomosis con la vena iliaca externa, probablemente por efecto masa en relacion al hematoma.
 discreto derrame pleural bilateral de predominio derecho.
 renograma (27/11): inper 284.
 estudio gammagrafico que muestra un retraso en la perfusion del injerto renal y una curva renografica de nta con un discreto intento de segunda fase.
@@ -67,7 +67,7 @@ estudi de la depuracio renal 88.75 ultraso diagnostic d'aparell urinari ( 2 ) 88
 -peso y cuantificacion de diuresis de 24 horas cada 48h.
 control de presion arterial diario.
 tratamiento al alta: -tracrolimus (envarsus) 6mg, un comprmido de 4mg y dos comprimido de 1mg a las 9am al menos treinta minutos antes del desauyuno.
--prednisona 20mg, cuatro comprimidos de 5mg a las 9am de la mañana.
+-prednisona 20mg, cuatro comprimidos de 5mg a las 9am de la maÃ±ana.
 -micofenolato mofetilo 1000mg cada 12 horas, dos comprimidos de 500mg a las 9am y dos comprimidos a las 21h de la noche.
 - cotrimoxazol 80/400; un comprimido a las 21h.
 -insulina detemir 12 ui a las 9am.

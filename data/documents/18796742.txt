@@ -1,5 +1,5 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 06.06.1938 edat: 79 anys procedencia domicil/res.
-soc servei psiquiatria data d'ingres 10.05.2018 data d'alta 10.05.2018 16:46:41 ates per ****************, ************; *************, assumpta informe d'alta d'hospitalitzacio motiu d'ingres paciente de 79 años que acude derivada a urgencias de psiquiatria tras sim.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 06.06.1938 edat: 79 anys procedencia domicil/res.
+soc servei psiquiatria data d'ingres 10.05.2018 data d'alta 10.05.2018 16:46:41 ates per ****************, ************; *************, assumpta informe d'alta d'hospitalitzacio motiu d'ingres paciente de 79 aÃ±os que acude derivada a urgencias de psiquiatria tras sim.
 antecedents -sin alergias mediamentosas conocidas - hipertension arterial en tratamiento farmaoclogico con tres farmacos.
 - dislipemia en tratamiento farmacologico.
 - sindrome ansioso depresivo de larga evolucion actualmente en tratamiento con venlafaxina y sertralina.

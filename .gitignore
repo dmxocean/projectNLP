@@ -3,6 +3,7 @@ tests/
 sandbox/
 .private/
 .secrets/
+.idea/
 
 
 # Ignore specific files

@@ -1,9 +1,9 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 11.02.1993 edat: 26 anys procedencia domicil/re s.
-soc ser vei psiquiatria data d'ingres 04.10.2019 data d'alta 21.10.2019 10:26:58 ates per **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres varon de 26 años que ingresa para valoracion de sintomatologia psicotica.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 11.02.1993 edat: 26 anys procedencia domicil/re s.
+soc ser vei psiquiatria data d'ingres 04.10.2019 data d'alta 21.10.2019 10:26:58 ates per **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres varon de 26 aÃ±os que ingresa para valoracion de sintomatologia psicotica.
 acude a urgecias, derivado del h.
 bellvitge donde acude por alteracion conductual.
 antecedents medicos: no alergias farmacologicas con ocidas.
-tce a los 8 a ños tras caida accidental de un 3º piso con fractura del miembro superior como unica secuela.
+tce a los 8 a Ã±os tras caida accidental de un 3Âº piso con fractura del miembro superior como unica secuela.
 vih de reciente diagnostico.
 consta una visita en s.
 infecciosas en septiembre-19.
@@ -12,18 +12,18 @@ viales: natural de lima (peru).
 en informes previos consta: parto eutocico.
 no describen alteraciones en el desarrollo psicomotor.
 es el segundo de una fratria de tres.
-tiene una hermana de 28 y un hermano de 20 años.
-a los 8 años de edad su madre se traslada a nuestro pais, sola por motivos laborales por lo que el paciente se cria junto sus hermanos, con su padre y tio abuelo materno.
-a los 2 años y medio de irse la madre, el padre se traslada a nuestro pais por lo que el paciente queda a cargo de su tio abuelo.
-separacion de los padres hace unos 13 años momento en que su madre inicia nueva relacion sentimental aunque no conviven juntos.
-desde unos 9 años reside con su madre y hermano.
-el paciente refiere estudios finalizados de 2º bachillerato, inicio curso de acceso a la universidad que no llego a finalizar.
-desde hace uno 6 años refiere estar trabajando en los estivadores.
+tiene una hermana de 28 y un hermano de 20 aÃ±os.
+a los 8 aÃ±os de edad su madre se traslada a nuestro pais, sola por motivos laborales por lo que el paciente se cria junto sus hermanos, con su padre y tio abuelo materno.
+a los 2 aÃ±os y medio de irse la madre, el padre se traslada a nuestro pais por lo que el paciente queda a cargo de su tio abuelo.
+separacion de los padres hace unos 13 aÃ±os momento en que su madre inicia nueva relacion sentimental aunque no conviven juntos.
+desde unos 9 aÃ±os reside con su madre y hermano.
+el paciente refiere estudios finalizados de 2Âº bachillerato, inicio curso de acceso a la universidad que no llego a finalizar.
+desde hace uno 6 aÃ±os refiere estar trabajando en los estivadores.
 refiere ruptura de pareja hace unos 4 meses aproximadamente.
 no hijos.
 psiquiatricos personales : en informes previos consta, describe ideas de suicidio cronicas desde el principio de su adolescencia llegando a realizar diversos gestos autoliticos y requerir asistencia en urgencias.
 no llego a realizar seguimiento psiquiatrico ni psicologico en pais de origen.
-presenta personalidad con rasgos antisociales provocando daño y muerte a animales desde la adolescencia.
+presenta personalidad con rasgos antisociales provocando daÃ±o y muerte a animales desde la adolescencia.
 en octubre de 2013 inicia seguimiento psicologico a raiz de conflictiva de pareja.
 en 2016 realiza ingreso en uipa_hsr por gesto autolitico.
 durante el ingreso realizan estudio de personalidad y valoran coeficiente intelectual.
@@ -31,7 +31,7 @@ durante el ingreso realizan estudio de personalidad y valoran coeficiente intele
 al alta conta como diagnostico: discapacidad intelectual leve y trastorno antisocial de la personalidad.
 como tratamiento, consta clonazepam al alta.
 es vinculado al csm de zona sin adherencia.
-hª toxicologica: - alcohol: consumo en patron festivo principalmente en fin de semana.
+hÂª toxicologica: - alcohol: consumo en patron festivo principalmente en fin de semana.
 desde hace una semana ha iniciado consumo de oh diario de 4/5 ube/dia.
 - cannabis: consumo diario de 2-3 unidades/dia.
 niega otros habitos toxicos.
@@ -48,7 +48,7 @@ bellvitge.
 exploracio fisica exploracion psicopatologica en nuestras urgencias: vigil, , desorientado en espacio pero no en tiempo ni persona.
 suspicaz inicialmente y hermetico respecto a la informacion, de forma progresiva mas comunicativo.
 es capaz de elaborar discurso coherente y organizado en el que se evidencia la presencia de ideacion delirante de persecucion parcialmente estructurada.
-escasa necesidad de sueño durante los dias previos.
+escasa necesidad de sueÃ±o durante los dias previos.
 niega alteraciones sensoperceptivas, si bien no se descarta su presencia.
 el juicio de realidad esta claramente interferido por clinica psiciotica exploracio complementaria ag se adjunta.
 evolucio clinica ingreso involuntario.
@@ -64,12 +64,12 @@ infecciosas para revinculacion del paciente a dicho servicio.
 el paciente vive con estigma el diagnostico de vih y solicita que no se informe a ningun familiar.
 acepta volver a vincularse a las visitas asi como en la toma de medicacion.
 a nivel psicofarmacologico, se decide cambio de tratamiento oral por palmitato paliperidona ims para asegurar adherencia terapeutica.
-se administra 1º dosis de 150 mg el 09/10 y 2º dosis de 100 mg el 16/10 con buena tolerancia.
-se añade lormetazepam como hipnotico y se retira progresivamente pauta de clonazepam.
-orientacio diagnostica f28 altres trastorns psicotics no causats per una substancia o un factor fisiologic conegut f70 discapacitat intel·lectual lleu f10.19 abus d'alcohol amb trastorn no especificat induït per l'alcohol f17.210 dependencia de la nicotina, cigarretes, sense complicacions f12.19 abus de cannabis amb trastorn no especificat induït pel cannabis b20 malaltia pel virus de la immunodeficiencia humana [vih] tractament i recomanacions a l'alta xeplion 150 mg/ims.
+se administra 1Âº dosis de 150 mg el 09/10 y 2Âº dosis de 100 mg el 16/10 con buena tolerancia.
+se aÃ±ade lormetazepam como hipnotico y se retira progresivamente pauta de clonazepam.
+orientacio diagnostica f28 altres trastorns psicotics no causats per una substancia o un factor fisiologic conegut f70 discapacitat intelÂ·lectual lleu f10.19 abus d'alcohol amb trastorn no especificat induÃ¯t per l'alcohol f17.210 dependencia de la nicotina, cigarretes, sense complicacions f12.19 abus de cannabis amb trastorn no especificat induÃ¯t pel cannabis b20 malaltia pel virus de la immunodeficiencia humana [vih] tractament i recomanacions a l'alta xeplion 150 mg/ims.
 se recomienda administrar cada 3 semanas.
 proxima dosis (06/11/19) lormetazepam 2 mg 0-0-0-1 nhc ** *** *** &nbsp;(********) &nbsp;age-v-psq 2/3 lopd symtuza 1-0-0 control nou barris nord (dr. ********) el 30 octubre a las 12h.
 acudir con dni + tarageta sanitaria per actualitzar la fitxa.
 si empeoramiento, acudir a urgencias.
 visita en s,.
-infecciosaas el 08 noviembre a las 10h15 (antiga escola enfermeria 2º planta) destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;age-v-psq 3/3 lopd
+infecciosaas el 08 noviembre a las 10h15 (antiga escola enfermeria 2Âº planta) destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;age-v-psq 3/3 lopd

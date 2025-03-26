@@ -1,8 +1,8 @@
-nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 25.07.1959 edat: 59 anys procedencia aten.
-primaria servei medicina interna data d'ingres 27.02.2019 data d'alta 21.03.2019 10:00:00 ates per equip dr. ****** (*****, *******, *******, *******, **********) informe de trasllat a sociosanitari motiu d'ingres mujer de 59 años, sin alergias medicamentosas conocidas, fumadora de 1,5 paquetes/dia (fe 28 paquetes/año), oh 6-10ubes/dia, que ingresa por alteracion de la marcha.
+nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 25.07.1959 edat: 59 anys procedencia aten.
+primaria servei medicina interna data d'ingres 27.02.2019 data d'alta 21.03.2019 10:00:00 ates per equip dr. ****** (*****, *******, *******, *******, **********) informe de trasllat a sociosanitari motiu d'ingres mujer de 59 aÃ±os, sin alergias medicamentosas conocidas, fumadora de 1,5 paquetes/dia (fe 28 paquetes/aÃ±o), oh 6-10ubes/dia, que ingresa por alteracion de la marcha.
 antecedents -hipotiroidismo en tratramiento sustitutivo.
 -sindrome ansioso-depresivo en tratamiento farmacologico.
--intervenciones quirurgicas: salpinguectomia y anexectomia izquierdas por mioma uterino a los 22 años.
+-intervenciones quirurgicas: salpinguectomia y anexectomia izquierdas por mioma uterino a los 22 aÃ±os.
 situacion sociofuncional: vive con su hijo y su nuera.
 tiene una casa rural.
 independiente para las actividades basicas de la vida diaria.
@@ -14,8 +14,8 @@ explica algun vomito ocasional, no relacionado con la ingesta y sin presentar do
 refiere perdida de unos 4kg de peso los ultimos dos meses y explica animo depresivo en este tiempo por lo que ha disminuido la ingesta y ha aumentado el consumo enolico.
 niega cefalea, alteraciones visuales o de la memoria.
 no ha presentado aumento de perimetro abdominal ni en extremidades inferiores y niega sensacion febril o fiebre termometrada en domicilio.
-exploracio fisica pa 120/65 mmhg; fc 80 lpm; fr 16 rpm; tªaxilar 36.
-2 ºc; sato2 98% a aire ambiente.
+exploracio fisica pa 120/65 mmhg; fc 80 lpm; fr 16 rpm; tÂªaxilar 36.
+2 Âºc; sato2 98% a aire ambiente.
 estado general conservado.
 bien hidratada y perfundida.
 palidez mucocutanea.
@@ -27,7 +27,7 @@ sin ingurgitacion yugular ni reflujo hepatoyugular.
 sin edemas en extremidades inferiores.
 pulsos perifericos presentes y simetricos.
 sin signos de tvp.
-exploracion respiratoria: eupneica, murmullo vesicular conservado sin ruidos sobreañadidos.
+exploracion respiratoria: eupneica, murmullo vesicular conservado sin ruidos sobreaÃ±adidos.
 exploracion abdominal: depresible, no doloroso a la palpacion.
 se palpa borde heparico inferior, sin otras masas ni megalias.
 peristalsis conservada, sin signos de irritacion peritoneal.
@@ -46,7 +46,7 @@ leve hipoestesia en extremidades inferiores.
 hipopalestesia moderada bimaleolar.
 romberg positivo hacia posterior.
 marcha ataxica con aumento marcado de base de sustentacion.
-nhc ** *** *** &nbsp;(********) &nbsp;age-v-mi2 1/4 lopd exploracio complementaria - ecg : ritmo sinusal a 85 lpm con eje electrico a 0º, pr 160 ms, qrs estrecho, qtc de 450 ms, correcta progresion de onda r en precordiales.
+nhc ** *** *** &nbsp;(********) &nbsp;age-v-mi2 1/4 lopd exploracio complementaria - ecg : ritmo sinusal a 85 lpm con eje electrico a 0Âº, pr 160 ms, qrs estrecho, qtc de 450 ms, correcta progresion de onda r en precordiales.
 - radiografia de torax : ict normal, senos costo frenicos libres, con leve aumento de la redistribucion vascular, con condensacion en mama izquierda (probables lesion nodular).
 escoliosis y boton aortico prominentes.
 -analitica sanguinea: hb 12.
@@ -70,9 +70,9 @@ dir.
 3 g/dl *estudio de anemias: ferritina 853 ng/ml, ferro 52 ug/dl, b12 290 pg/dl *estudio de tiroides: tsh 20.420 mu/l, t3l 2,11pg/ml, t4l 1,03 ng/dl *proteinograma: albumina 5,2 g/dl alfa1 0,35g/dl alfa2 0,85 g/dl beta1 0,52 g/dl beta2 0,47g/dl gamma 1,47 g/dl *vih, treponema, antivhc, hbsag, antihbc negativos, antihbs 46.18 ui/l.
 *ceruloplasmina: *cobre orina: - tc craneal : dentro de los limites de la normalidad.
 - rmn craneal : hemisferios cerebrales con una configuracion normal del cortex cerebral y una buena diferenciacion sustancia gris-sustancia blanca.
-se aprecia algun foco asilado de hiperseñal t2 en la sustancia blanca subcortical bilateral, los que por tamaño y localizacion no tienen significado patologico.
+se aprecia algun foco asilado de hiperseÃ±al t2 en la sustancia blanca subcortical bilateral, los que por tamaÃ±o y localizacion no tienen significado patologico.
 no se aprecian areas focales de restriccion de la difusion, ni lesiones hemorragicas intracraneales.
-sistema ventricular de tamaño y morfologia normal.
+sistema ventricular de tamaÃ±o y morfologia normal.
 fosa posterior sin alteraciones.
 - eco transvaginal : utero en anteversion.
 diametros l 72 mm ap 32 mm t 32 mm.
@@ -82,16 +82,16 @@ od 85 x 56 mm, quiste unilocular, capsula fina, no tabique, papila avascular de 
 anexectomia izquierda.
 liquido libre 9 mm.
 - emg : hallazgos compatibles con una neuropatia sensitiva axonal de mayor expresividad a nivel de eess que de eeii, con probable componente polirradicular (abolicion respuestas h) y con un dudoso defecto de conduccion de v.
-somatosensorial sobreañadido.
+somatosensorial sobreaÃ±adido.
 normalidad conduccion de v.
 corticoespinal (emtc) por la inervacion de eeii llama la atencion la selectividad sensitiva y el predominio sensitivo a eess, hallazgo no demasiado tipico en una pnp enolica, y que obliga a descartar otras etiologias (neuronopatia paraneoplasico, s.
-sjögren...) evolucio clinica a su llegada a urgencias se encuentra hemodinamicamente estable y afebril destacando a al exploracion fisica disdiadococinesia y marcha ataxica con marcado aumento de la base de sustentacion, en contexto de alteracion sensitiva de la propiocepcion.
+sjÃ¶gren...) evolucio clinica a su llegada a urgencias se encuentra hemodinamicamente estable y afebril destacando a al exploracion fisica disdiadococinesia y marcha ataxica con marcado aumento de la base de sustentacion, en contexto de alteracion sensitiva de la propiocepcion.
 ecg y radiografia de torax sin alteraciones relevantes (probable lesion calcificada de mama izquierda).
 analiticamente presenta elevacion de ggt y macrocitosis sin otros hallazgos.
 se solicita tc craneal que es normal y bajo la orientacion diagnostica de probable degeneracion cerebelosa alcoholica con componente de neuropatia alcoholica se inicia tratamiento con tiamina y distraneurine.
 nhc ** *** *** &nbsp;(********) &nbsp;age-v-mi2 2/4 lopd durante el ingreso hospitalario se realiza estudio de anemias que muestra deficit de acido folico, estudio tiroideo que objetiva hipotiroidismo severo con tsh 20, por lo que se aumenta levotiroxina a 100mg/24h.
 ademas se objetivan niveles de cobre bajos (ceruloplasmina baja y cupruria normal).
-se realiza rmn craneal que muestra algun foco aislado de hiperseñal en t2 en la sustancia blanca subcortical bilateral con escaso valor patologico y emg con polineuropatia sensitiva axonal de predominio en miembros superiores.
+se realiza rmn craneal que muestra algun foco aislado de hiperseÃ±al en t2 en la sustancia blanca subcortical bilateral con escaso valor patologico y emg con polineuropatia sensitiva axonal de predominio en miembros superiores.
 bajo la sospecha de posible polineuropatia multifactorial (toxico-metabolica y carencial) y/o mielopatia sensitiva por deficit de cobre que condiciona ataxia sensitiva se inicia reposicion con cobre via oral, acido folico y vitaminas b1, b6, b12, con mejoria de la clinica neurologica.
 ha realizado fisioterapia motora para mejoria funcional.
 para completar estudio de probable hepatopatia cronica por alcohol se realiza ecografia que muestra higado heterogeneo sin hipertension portal ni loes.
@@ -100,7 +100,7 @@ de manera incidental se ha objetivado en ecografia de abdomen quiste anexial der
 ante estabilidad clinica se decide de acuerdo con la paciente y su hijo traslado a centro sociosanitario para continuar rehabilitacion.
 orientacio diagnostica polineuropatia toxico-metabolica y carencial posible milopatia por deficit de cobre deficit de acido folico trastorno por uso de tabaco enolismo cronico hepatopatia cronica de origen enolico hipotiroidismo mal controlado quiste anexial derecho anexectomia izquierda sindrome ansioso depresivo tractament i recomanacions a l'alta abstinencia alcoholica.
 cese del habito tabaquico.
-aumentar eutirox (levotiroxina) a 100mcg 1 comprimido por la mañana.
+aumentar eutirox (levotiroxina) a 100mcg 1 comprimido por la maÃ±ana.
 hidroxil 1 comprimido al dia.
 acfol 4mg 1 comprimido con el desayuno hasta control analitico en dos meses cobre 2 comprimidos cada 12 horas hasta el 27.03 incluido, despues disminuir a 1 comprimido cada 12 horas hasta control en consultas externas.
 champix segun pauta de medicina preventiva.
