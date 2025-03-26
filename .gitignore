@@ -5,13 +5,15 @@ sandbox/
 .secrets/
 .idea/
 
-
 # Ignore specific files
 *.DS_Store
 *.swp
 *.lock
 commit.txt
 requirements.txt
+
+# Ignore documents in data folder
+data/documents/*.txt
 
 # Python-specific ignores
 __pycache__/
