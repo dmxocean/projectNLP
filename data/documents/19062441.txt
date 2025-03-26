@@ -1,10 +1,10 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 22.01.1939 edat: 79 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 22.01.1939 edat: 79 anys procedencia domicil/res.
 soc servei cirurgia general data d'ingres 02.08.2018 data d'alta 10.08.2018 10:24:36 ates per ***********, *************; *********, ******; **************, *******;; ***************, ********* informe d'alta d'hospitalitzacio motiu d'ingres neoplaisa de ciego oclusiva antecedents no refiere alergias toxicomedicamentosas conocidas.
 - hiperuricemia en tratamiento farmacologico.
 - sindrome anemico en tratamiento farmacologico.
 - diagnostico de neoplasia de colon derecho (a 90 cm del margen anal) estenosante, biopsia muestra adenocarcinoma.
 - artroplastia de rodilla derecha.
-- faquectomia . proces actual paciente varon de 79 aÃ±os que inicia con clinica de dolor abdominal intermitente, no irradiado, de meses de evolucion con clinica constitucional y perdida de unos 15kg en 18 meses.
+- faquectomia . proces actual paciente varon de 79 años que inicia con clinica de dolor abdominal intermitente, no irradiado, de meses de evolucion con clinica constitucional y perdida de unos 15kg en 18 meses.
 refiere vomitos incoercibles de 24 horas de evolucion de contenido alimenticio y refiere ultimos 3 vomitos hasta el momento con contenido hematico.
 ultima deposicion y emision de gases hace 24 horas sin productos patologicos.
 niega fiebre, sindrome miccional u otra sintomatologia asociada.

@@ -1,9 +1,9 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 14.03.1953 edat: 66 anys procedencia domicil/res.
-soc servei oncologia medica data d'ingres 25.03.2019 data d'alta 02.04.2019 12:30:00 ates per ************, *****; *******************, ***************** informe d'alta d'hospitalitzacio motiu d'ingres paciente varon de 66 aÃ±os que acude a urgencias por vomitos y mareos.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 14.03.1953 edat: 66 anys procedencia domicil/res.
+soc servei oncologia medica data d'ingres 25.03.2019 data d'alta 02.04.2019 12:30:00 ates per ************, *****; *******************, ***************** informe d'alta d'hospitalitzacio motiu d'ingres paciente varon de 66 años que acude a urgencias por vomitos y mareos.
 antecedents no alergias medicamentosas.
 historia oncologica: afecto de glioblastoma medular . reseccion parcial.
 se decide qt -rdt esquema stupp tmz y rdt hasta dt 60 gy rt /qt stupp temozolomida.
---&gt; fin 23.2.18 1Âº ciclo de tmz 6/4/18, con rmn a los 3 ciclos sd.
+--&gt; fin 23.2.18 1º ciclo de tmz 6/4/18, con rmn a los 3 ciclos sd.
 damos un total de 7 ciclos con buena tolerancia.
 pd a los 7 ciclos en forma de diseminacion medular no signisficativa clinicamente.
 se decid e re-irradiacion con tmz concomitante como radiosensibilizador . evento tv: tvp eeii bilateral proximal abril/18.
@@ -14,17 +14,17 @@ fin 19/12/18.
 rm 1.19: estudio de seguimiento que constata signos radiologicos de progresio tumoral por discreto crecimiento de los implantes leptomeningeos dorsales ya conocidas.
 se constatan signos de carcinomatosis cranail, que no eran presentes en estudio de junio 2018.
 ( craneo no estudiado en la rm posterior de octubre 2018 que es cuando constatamos la progresion espinal).
-en curso de 2Âª linea de tratamiento con bevacizumab en monoterapia.
-06.03.19: estudio rm espinal de control :l muestra mejoria radiologica de la enfermedad dado por una discreta disminucion de la lesion a nivel del cono asi como significativa disminucion de los implantes a nivel dorsal alto y aparente resolucion del pequeÃ±o implante a nivel cervical.
-cambios en la seÃ±al de la medula osea de la region dorsal y adelgazamiendo del cordon espinal dorsal, hallazgos atribuibles a cambios post-radicos.
+en curso de 2ª linea de tratamiento con bevacizumab en monoterapia.
+06.03.19: estudio rm espinal de control :l muestra mejoria radiologica de la enfermedad dado por una discreta disminucion de la lesion a nivel del cono asi como significativa disminucion de los implantes a nivel dorsal alto y aparente resolucion del pequeño implante a nivel cervical.
+cambios en la señal de la medula osea de la region dorsal y adelgazamiendo del cordon espinal dorsal, hallazgos atribuibles a cambios post-radicos.
 no se observan lesiones de nueva aparicion.
 en seguimiento en consulta de oncologia por dra. vieito / dra. gonzalez.
 medicacio habitual amlodipino 5mg 1 comp cada 24h, serc 16mg 1 comp cada 8h, metoclopramida 10mg 1 comp cada 8h si nauseas, monurol 1 sobre semanal, tramadol 50mg 1 comp cada 12h sp, clexane 40mg sc cada 24h, duloxetina 30mg 1 comp cada 24h, enalapril 10mg 1 comp cada 24h, gabapentina 300mg cada 12h, septrin forte 1 comp lunes-miercoles-viernes, mastical nhc ** *** *** &nbsp;(********) &nbsp;age-v-onc 1/4 lopd oral dia.
 proces actual paciente que reconsulsa por inestablidad cefalica con sensacion de vertigo que se exacerban con el movimiento de la cabeza.
 se ha iniciado serc y el dia sabado se ha duplicado la dosis sin mejoria.
 se ha realizado el dia 21/03 tc craneal que evidencia signos sugestivos con carcinomatosis leptomeningea por contiguidad, descartando procesos agudos.
-exploracio fisica fc 78 bpm tÂªaxi 36.
-0 Âºc fr 16 rpm tÂªrec Âºc ta s 134 mmhg sat o2 98.00 % ta d 70 mmhg pes kg ecog2.
+exploracio fisica fc 78 bpm tªaxi 36.
+0 ºc fr 16 rpm tªrec ºc ta s 134 mmhg sat o2 98.00 % ta d 70 mmhg pes kg ecog2.
 paraparesia establecida.
 paciente conscciente, orientado.
 no signos de irriacion meningea.
@@ -32,7 +32,7 @@ exploracio complementaria urgencias: -ag urgencias: hb 14.7g/dl, can 5300, cal 1
 -tc craneal (21/03): no se evidencian lesiones hemorragicas agudas intra ni extraparenquimatosas, asi como tampoco desplazamientos de las estructuras de linea media supra e infratentoriales.
 se aprecia area hipodensa y leve engrosamiento a nivel de surcos corticales parietales posteriores (en zona adyacente de captacion leptomeningea en rm del 11.1.2019), sin efecto de masa significativo, que podria corresponder a afectacion por glioblastoma, ya visualizada en rm previa.
 no se observan lesiones de volumen critico, desplazamiento de la linea media, ademas ciesternas de la base y peritronculares se encuentran libres.
-sistema ventricular de tamaÃ±o y morfologia dentro de la normalidad.
+sistema ventricular de tamaño y morfologia dentro de la normalidad.
 parenquima cerebral y de la fosa posterior sin alteraciones densitometricas o morfologicas valorables.
 amigdalas cerebelosas de disposicion normal.
 marco oseo sin alteraciones.
@@ -41,14 +41,14 @@ planta de hospitalizacion: -analitica 01/04: hb 13.
 9 g/dl, leuc 7.58 x10e9/l, can 6.
 0 x10e9/l, plaq 156 x10e9/l.
 funcion renal normal, perfil hepatico normal.
-- rm snc 29/03: el estudio cerebral muestra la aparicion de areas de hiperseÃ±al en secuencias t2 que afectan ambos hipocampos, los margenes mediales de ambos talamos, la sustancia blanca adyacente al asta frontal del vl izquierdo, el parenquima que rodea el acueducto desilvio y iii ventriculo, el margen posterior izquierdo del bulbo y el floculo cerebeloso izquierdo.
-asi tambien se observa una mayor extension del area de hiperseÃ±al t2 que circunda el cuarto ventriculo, ya descrita en estudio previo.
+- rm snc 29/03: el estudio cerebral muestra la aparicion de areas de hiperseñal en secuencias t2 que afectan ambos hipocampos, los margenes mediales de ambos talamos, la sustancia blanca adyacente al asta frontal del vl izquierdo, el parenquima que rodea el acueducto desilvio y iii ventriculo, el margen posterior izquierdo del bulbo y el floculo cerebeloso izquierdo.
+asi tambien se observa una mayor extension del area de hiperseñal t2 que circunda el cuarto ventriculo, ya descrita en estudio previo.
 las lesiones localizadas en el floculo y en el bulbo muestran efecto de masa, con leve compresion sobre el cuarto ventriculo.
-tras la administracion de contraste intravenoso no se observa realce de las lesiones descritas, exceptuando un pequeÃ±o realce lineal que afecta el margen posterior de la lesion bulbar, que podria corresponder a estructura vascular.
-persistencia sin cambios de tamaÃ±o de las areas de hiperseÃ±al t2 que afectan el cortex y la sustancia blanca subcortical parietal derecha, de nhc ** *** *** &nbsp;(********) &nbsp;age-v-onc 2/4 lopd aspecto gliotico, con presencia de pequeÃ±o foco de hemosiderina cortical, si bien en el estudio actual no se observa realce de las misma.
-pequeÃ±os focos hiperintensos en t2 de localizacion subcortical fronto-parietal sin cambios, inespecificos.
+tras la administracion de contraste intravenoso no se observa realce de las lesiones descritas, exceptuando un pequeño realce lineal que afecta el margen posterior de la lesion bulbar, que podria corresponder a estructura vascular.
+persistencia sin cambios de tamaño de las areas de hiperseñal t2 que afectan el cortex y la sustancia blanca subcortical parietal derecha, de nhc ** *** *** &nbsp;(********) &nbsp;age-v-onc 2/4 lopd aspecto gliotico, con presencia de pequeño foco de hemosiderina cortical, si bien en el estudio actual no se observa realce de las misma.
+pequeños focos hiperintensos en t2 de localizacion subcortical fronto-parietal sin cambios, inespecificos.
 no se observan areas focales de restriccion de la difusion, ni lesiones hemorragicas intracraneales recientes.
-sistema ventricular de tamaÃ±o y configuracion normales.
+sistema ventricular de tamaño y configuracion normales.
 estudio medular: el estudio de raquis muestra cambios post quirurgicos de reseccion de arcos posteriores de d11 y d12, con ampliacion del diametro del canal y cambios fibroticos en el lecho quirurgico.
 moderada disminucion del diametro anteroposterior y del efecto de masa de la lesion medular heterogenea, prevalentemente quistica, centrada en el cono medular.
 se extiende desde d11 a d12, en la actualidad mide 10x9x52 mm (llxapxcc), en estudio previo 10x11x52 mm.
@@ -60,9 +60,9 @@ disminucion del grosor del cordon medular a nivel dorsal en relacion a cambios a
 existen cambios post radicos difusos sobre el esqueleto axial, que han progresado respecto a los estudios previos.
 estabilidad los cambios degenerativos osteodiscales facetarios lumbares y cervicales.
 conclusion: estudio craneal que muestra signos de progresion de enfermedad en forma de diseminacion intracraneal, identificando dos lesiones expansivas localizadas en margen posterior izquierdo del bulbo y floculo izquierdo asi como afectacion difusa del parenquima alrededor del iii y iv ventriculo, acueducto, asta frontal izquierdo, ambas regiones talamicas mediales e hipocampos.
-el estudio medular muestra una discreta disminucion del tamaÃ±o y del realce de la lesion del cono medular, como posible respuesta a tratamiento antiangiogenico, con progresion de las lesiones intramedular focales en d5-d6, reaparicion de la lesion c5-c6 y dudosa lesion a nivel de d1.
+el estudio medular muestra una discreta disminucion del tamaño y del realce de la lesion del cono medular, como posible respuesta a tratamiento antiangiogenico, con progresion de las lesiones intramedular focales en d5-d6, reaparicion de la lesion c5-c6 y dudosa lesion a nivel de d1.
 lesion de aspecto gliotico-residual cortico-subcortical parietal derecho.
-evolucio clinica paciente con los antecedentes descritos y afecto a nivel oncologico de glioblastoma del cono medular en 2Âºl de tratamiento con bevacizumab, que ingresa a planta de oncologia por sensacion de mareos e inestabilidad por probable pd.
+evolucio clinica paciente con los antecedentes descritos y afecto a nivel oncologico de glioblastoma del cono medular en 2ºl de tratamiento con bevacizumab, que ingresa a planta de oncologia por sensacion de mareos e inestabilidad por probable pd.
 a su llegada a urgencias el paciente se encontraba se encuentra afebril, hemodinamicamente estable y con regular estado general.
 el examen fisico revela paraplejia ya conocida, sin nuevas alteraciones neurologicas aparentes.
 se realiza un tc craneal que muestra area hipodensa y leve engrosamiento a nivel de surcos corticales parietales posteriores.

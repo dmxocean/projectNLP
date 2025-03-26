@@ -1,10 +1,10 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 29.07.1952 edat: 65 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 29.07.1952 edat: 65 anys procedencia domicil/res.
 soc servei urologia data d'ingres 24.05.2018 data d'alta 25.05.2018 07:59:15 ates per *************, *****; ***** ********, *** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de manera programada para biopsia prostatica con sedacion.
 antecedents no alergias medicamentosas conocidas.
 antecedentes patologicos: - hipertension arterial.
 - dislipemia . - obesidad . - acxfa en tratamiento con sintrom . - insuficiencia cardiaca . -stui en tratamiento con tamsulosina.
 - protesis de cadera derecha . - faquectomia bilateral.
-proces actual paciente de 65 aÃ±os remitido por elevacion de psa hasta 5.7ng/ml por lo que se solicita biopsia prostatica ecoguiada.
+proces actual paciente de 65 años remitido por elevacion de psa hasta 5.7ng/ml por lo que se solicita biopsia prostatica ecoguiada.
 se decide ingreso para control de sintrom.
 evolucio clinica el 24/05/2018, con preoperatorio correcto y bajo profilaxis antibiotica, se realiza biopsia prostatica eco guiada.
 buena evolucion postoperatoria en planta de hospitalizacion sin signos de sangrado agudo por lo que se decide librar alta domiciliaria.
@@ -14,6 +14,6 @@ no es necesario la toma de mas antibiotico.
 reposo relativo.
 paracetamol 1c/8h si dolor.
 nhc ** *** *** (********) age-v-uro 1/2 lopd seguir indicaciones de tao para reintroduccion de sintrom.
-en caso de fiebre &gt;38Âº o imposiblidad para orinar acuda a urgencias.
+en caso de fiebre &gt;38º o imposiblidad para orinar acuda a urgencias.
 control en ccee de urologia con dra ***** segun hoja anexa.
 destinacio a l'alta: a domicili nhc ** *** *** (********) age-v-uro 2/2 lopd

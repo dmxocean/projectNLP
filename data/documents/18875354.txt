@@ -1,6 +1,6 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 19.07.1985 edat: 32 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 19.07.1985 edat: 32 anys procedencia domicil/res.
 soc servei neurocirurgia data d'ingres 03.06.2018 data d'alta 06.06.2018 09:57:18 ates per ****** abello, ****; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingreso programado para embolizacion antecedents alergia a penicilina - asma bronquial en tratamiento con foster + salbutamol -hsa por aneurisma an comunicante anterior embolizada en 2015, como secuela presenta hipoestesia de eeii e esi asi como paresia en esi.
-proces actual mujer de 32 aÃ±os que ingresa de forma programada para embolizacion de resto de cuello de aneurisma comunicante anterior evolucio clinica el 04/06/2018 se realiza procedimiento endovascular para embolizacion.
+proces actual mujer de 32 años que ingresa de forma programada para embolizacion de resto de cuello de aneurisma comunicante anterior evolucio clinica el 04/06/2018 se realiza procedimiento endovascular para embolizacion.
 la paciente pasa a semicriticos y a planta de neurocirugia para contro-postprocedimiento.
 no se producen incidencias durante la estancia hospitalaria.
 en condiciones de estabilidad clinica se concede el alta a domicilio para control en consultas externas de neurocirugia.

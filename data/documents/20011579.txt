@@ -1,10 +1,10 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 26.12.1972 edat: 46 anys procedencia domicil/res.
-soc servei neurologia data d'ingres 13.06.2019 data d'alta 21.06.2019 17:00:00 ates per *************, ******; ****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 46 aÃ±os ingresa debido a sospecha de poliradiculopatia.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 26.12.1972 edat: 46 anys procedencia domicil/res.
+soc servei neurologia data d'ingres 13.06.2019 data d'alta 21.06.2019 17:00:00 ates per *************, ******; ****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 46 años ingresa debido a sospecha de poliradiculopatia.
 antecedents antecedentes personales - alergia a diclofenaco debido a urticaria aguda, sin alergia a otros aines.
 -no fumador.
 - enolismo moderado, con 9ubes/semana.
--natural de paraguay, en espaÃ±a desde hace 17 aÃ±os.
-ultima visita hace 3 aÃ±os.
+-natural de paraguay, en españa desde hace 17 años.
+ultima visita hace 3 años.
 -no viajes recientes, ni contacto con animales.
 -vacunacion de adulto debido a viaje.
 desconoce triple virica y polio.
@@ -12,7 +12,7 @@ desconoce triple virica y polio.
 -trabaja en industria textil.
 antecedentes patologicos - hipertension arterial probablemente esencial en tratamiento con iecas y tiazidas.
 mal control tensional ambulatorio.
--ingreso en paraguay a los 20 aÃ±os por episodio de paralisis de eeii despues de una infeccion virica.
+-ingreso en paraguay a los 20 años por episodio de paralisis de eeii despues de una infeccion virica.
 refiere que se realizo puncion lumbar y pruebas de imagen sin llegar a ningun diagnostico.
 el cuadro se autolimito sin secuelas.
 -probable sarrampion en la infancia.
@@ -24,7 +24,7 @@ medicacio habitual enalapril/hidroclorotiazida 20/12,5mg/24h, tardyeron 80 mg/ 2
 el cuadro comenzo con paresetesias distales con progresion hacia proxiimal junto con hipertension arterial y cefalea holocraneal, por lo que decidio acudir a urgencia a finales del mes de mayo.
 a este cuadro se sumo la debilidad, sobretodo a nivel de las extremidades inferiores.
 la paciente explica que a finales de abril tuvo un cuadro de infeccion de vias respiratorias superiores, que le duro aproximadamente dos semanas y del que recibio tratamiento sintomatico.
-la paciente explica que el episiodio es similar a uno que ya tuvo hace aproximadamente 22 aÃ±os y del que se recupero completamente sin tratamiento especifico.
+la paciente explica que el episiodio es similar a uno que ya tuvo hace aproximadamente 22 años y del que se recupero completamente sin tratamiento especifico.
 niega otras sintomatologia.
 nhc ** *** *** &nbsp;(********) &nbsp;age-v-nrl 1/4 lopd exploracio fisica hemodinamicamente estable y afebril.
 aspecto general: buen estado general.
@@ -32,7 +32,7 @@ normocoloreado, normohidratado y normoperfundido.
 piel y anexos: sin lesiones cutaneas agudas.
 cardiovascular: tonos ritmicos sin soplos audibles.
 pulsos perifericos presentes y simetricos.
-respiratorio: murmullo vesicular conservado sin sonidos sobreaÃ±adidos.
+respiratorio: murmullo vesicular conservado sin sonidos sobreañadidos.
 exploracion abdominal: dolor difuso a la palpacion, con predominio en zona epigastrica.
 neurologico: vigil y alerta, orientada en las 3 esferas, colaboradora.
 no alteraciones del habla ni del lenguaje.
@@ -50,9 +50,9 @@ rcp flexor bilateral dudoso.
 no dismetrias.
 no disdiacocinesia.
 no signos meningeos.
-exploracio complementaria - ecg : ritmo 100 lpm pr 120 seg ,eje 60Âº st isoelectrico, qrs estrecho, ondas p asimetricas, sin alteraciones agudas de la repolarizacion.
+exploracio complementaria - ecg : ritmo 100 lpm pr 120 seg ,eje 60º st isoelectrico, qrs estrecho, ondas p asimetricas, sin alteraciones agudas de la repolarizacion.
 - tac craneal : no se observan lesiones hemorragicas intra/extraparenquimatosas agudas.
-sistema ventricular de tamaÃ±o normal.
+sistema ventricular de tamaño normal.
 parenquima cerebral, cerebeloso y de tronco-encefalo sin alteraciones densiometricas o morfologicas valorables.
 estructuras de linea media supra e infratentoriales no desplazadas.
 cisternas basales y peritronculares libres.
@@ -73,8 +73,8 @@ directa 0.22 mg/dl, colesterol 146 mg/dl, trigl.
 *perfil inmunoglobulina (iga, igg, igm) (13/06/19): immunoglobulina a 582 mg/dl, immunoglobulina g 633 mg/dl, immunoglobulina m 100 mg/dl.
 proteinograma: albumina 3.
 8 g/dl, alfa 1 0.27g/dl, alfa 2 0.63g/dl, beta1 0.5g/dl, beta2 0.66g/dl, gamma 1.77 g/dl.
-*hormonas: b12 482 pg/ml -lcr: glucosa 77 mg/dl, proteÃ¯na 98 mg/dl, aspecto xantocromia negatiu, leucocitos 3cels.
-*cultivo lcr: citomegalovirus (pcr a temps real) negatiu, virus epstein barr (pcr a temps real) negatiu, virus herpes simple 1 (pcr a temps real) negatiu, virus herpes simple 2 (pcr a temps real) negatiu, virus herpes 6 tipus a (pcr a temps real) negatiu, virus herpes 6 tipus b (pcr a temps real) negatiu, virus herpes 8 (pcr a temps real) negatiu, virus varicelÂ·la zoster (pcr a temps real) negatiu.
+*hormonas: b12 482 pg/ml -lcr: glucosa 77 mg/dl, proteïna 98 mg/dl, aspecto xantocromia negatiu, leucocitos 3cels.
+*cultivo lcr: citomegalovirus (pcr a temps real) negatiu, virus epstein barr (pcr a temps real) negatiu, virus herpes simple 1 (pcr a temps real) negatiu, virus herpes simple 2 (pcr a temps real) negatiu, virus herpes 6 tipus a (pcr a temps real) negatiu, virus herpes 6 tipus b (pcr a temps real) negatiu, virus herpes 8 (pcr a temps real) negatiu, virus varicel·la zoster (pcr a temps real) negatiu.
 -gasometria venosa: ph 7.45, presion dioxido de carbono 42 mm hg, presion oxigen 43 mm hg ,hidrogencarbonat; c.
 subst.
 (actual) 29.
@@ -88,7 +88,7 @@ nhc ** *** *** &nbsp;(********) &nbsp;age-v-nrl 2/4 lopd evolucio clinica a su l
 refiere persistencia de parestesias dolorosas en extreminidades inferiores que le dificultan la marcha.
 a la exploracion se constato una disminucion de la sensibilidad en extremidades, con arreflexia y aumento de la base de sustencion de la marcha.
 se colicito un ecg en el que destaco una taquicardia sinusal resto sin alteraciones.
-se realiza tac craneal y analitica que no mostraron alteraciones reseÃ±ables.
+se realiza tac craneal y analitica que no mostraron alteraciones reseñables.
 ante el cuadro se nos solicito valoracion por el equipo de neurologia, que mostraba un cuadro de paresetesias y disestesias que empezaron levemente y han empeorado progresivamente, asociando en la ultima semana debilidad y alteracion para la deambulacion espontanea requeriendo de apoyo.
 refiere cierta debilidad subjetiva en miembros superiores asi como tratorno deglutorio en los ultimos dias con disfagia de predominio a solidos, por lo que se realiza interconsulta con logopeda que descarta trastorno de la motilidad esofagica o disfagia.
 se realiza un emg que muestra un patron tipico de guillain-barre-strohl que junto con el cuadro manifiesto se orienta como tal, con lo que se inicia tratamiento con gammaglobulinas el dia 13/06 que durara 5 dias.
@@ -101,7 +101,7 @@ debido a presencia de dolor lumbar irradiado a epigastrio, se administra gabapen
 se realiza nuevo emg de control para descartar afectacion axonal que resta pendiente al alta.
 dada estabilidad clinica en paciente sin signos de alarma, sin compromiso respiratorio aparente en exploracion, se decide alta a domicilio con seguimiento estrecho en consultas externas.
 se explican signos de alarma y se dan normas de reconsulta.
-en resumen, mujer de 46 aÃ±os con antecedentes de debilidad de extremidades inferiores en la juventud, pendiente de aportar informes, con episodio de debilidad de extremidades inferiores y ataxia sensitiva, que se orienta como sindrome de guillain-barre-strohl, de tipologia aidp, con emg con signos claros de desmielinizacion.
+en resumen, mujer de 46 años con antecedentes de debilidad de extremidades inferiores en la juventud, pendiente de aportar informes, con episodio de debilidad de extremidades inferiores y ataxia sensitiva, que se orienta como sindrome de guillain-barre-strohl, de tipologia aidp, con emg con signos claros de desmielinizacion.
 se realiza nuevo emg de control que resta pendiente al alta para confirmar ausencia de degeneracion axonal.
 orientacio diagnostica g61.
 0 sindrome de guillain-barre-strohl . procediments 93.08 electromiografia tractament i recomanacions a l'alta -gabapentina 300mg cada 24horas.

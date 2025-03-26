@@ -1,5 +1,5 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 22.04.1948 edat: 70 anys procedencia domicil/res.
-soc servei nefrologia data d'ingres 12.12.2018 data d'alta 15.12.2018 13:00:00 ates per equipo dra ***** (****, **********) informe d'alta d'hospitalitzacio motiu d'ingres hombre de 70 aÃ±os de edad, ingresa de forma programada para biopsia renal antecedents no alergias medicamentosas conocidas no habitos toxicos antecedentes patologicos - hta en tratamiento con 3 farmacos , - dm2 en tratamiento con insulina - hiperuricemia en tratamiento con alopurinol.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 22.04.1948 edat: 70 anys procedencia domicil/res.
+soc servei nefrologia data d'ingres 12.12.2018 data d'alta 15.12.2018 13:00:00 ates per equipo dra ***** (****, **********) informe d'alta d'hospitalitzacio motiu d'ingres hombre de 70 años de edad, ingresa de forma programada para biopsia renal antecedents no alergias medicamentosas conocidas no habitos toxicos antecedentes patologicos - hta en tratamiento con 3 farmacos , - dm2 en tratamiento con insulina - hiperuricemia en tratamiento con alopurinol.
 -nefropatia iga dx en 2001 a raiz de hematuria y proteinuria.
 no recuerda tratamiento en aquel momento.
 tras el dx, no ha vuelto a presentar hematuria.
@@ -27,7 +27,7 @@ cr 1.24 mg/dl; na 140 meq/l, k 4.
 3 g/dl.
 -sedimento de orina: leucocits 5.
 3 cel/ul, eritrocits 4.
-8 cel/ul, na 56 mmol/l, cociente proteÃ¯na/cr 1896.
+8 cel/ul, na 56 mmol/l, cociente proteïna/cr 1896.
 7 mg/g crea -rx de torax : no imagen de condensacion pulmonar ni derrame pleural.
 -ecg: ritmo sinusal, eje a la izq, fc 65 lpm, pr 160 mseg, qrs 80 mseg, st isoelectrico, no trastornos de la repolarizacion.
 - analitica de control : evolucio clinica a su llegada a planta hemodinamicamente estable, con ligera tendencia a la hipertension.

@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 11.06.1944 edat: 74 anys procedencia cex mateix hosp servei traumatics data d'ingres 29.06.2018 data d'alta 12.07.2018 14:22:46 ates per **************, ********; ************, ************; ******************, ****** informe d'alta d'hospitalitzacio motiu d'ingres ingreso iq antecedents alergica a codeina no habitos toxicos.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 11.06.1944 edat: 74 anys procedencia cex mateix hosp servei traumatics data d'ingres 29.06.2018 data d'alta 12.07.2018 14:22:46 ates per **************, ********; ************, ************; ******************, ****** informe d'alta d'hospitalitzacio motiu d'ingres ingreso iq antecedents alergica a codeina no habitos toxicos.
 ap: -fractura persubtrocanterica femur derecha - epoc : frecuentes sobreinfecciones respiratorias.
 ultima visita neumologia marzo 2018 sale poco para no acatarrse.
 sigue con abundante expectoracion en ocasiones purulenta.
@@ -24,7 +24,7 @@ aureus que se trato con cloxacilina.
 psg: iah 18.
 5, ct90 26.
 4 sahs moderado - hta en tratamiento farmacologico.
-hace aÃ±os presento dolores toracicos con irradiacion a brazo i, de 24h duracion, sin vegetatismo, se realizo ecocardiografia normal, paciente se nego a realizar gammagrafia de estres.
+hace años presento dolores toracicos con irradiacion a brazo i, de 24h duracion, sin vegetatismo, se realizo ecocardiografia normal, paciente se nego a realizar gammagrafia de estres.
 atribuido a stress.
 actualmente no refiere clinica de ic.
 - dislipemia en tratamiento farmacologico -glaucoma en tratamiento farmacologico -refiere tuberculosis en la infancia, no recuerda cuanto tiempo hizo tratamiento.
@@ -40,7 +40,7 @@ refiere epidural para trabajo parto.
 alr sin incidencias anestesica (2010 anestesia intradural para protesis total de cadera izquierad sin inicidencias).
 -2 partos distocicos por utero bicorne nhc ** *** *** (********) atr-v-tra 1/3 lopd proces actual paciente ingresada para iq por pseudoartrosis de fx subtrocanterea . exploracio fisica nvd conservado.
 exploracio complementaria rx : pseudoartrosis fx subtrocanterea.
-evolucio clinica valoracion por ortogeriatria: enferma de 74 aÃ±os de edad, con intolerancia a la codeina, con osteoporosis, portadora de una protesis en cadera izda, con multiples antecedentes traumaticos, el ultimo hace un aÃ±o con fractura subtrocanterea de femur derecho, afecta de bronquiectasias y de sahs, que ingresa de forma programada para ser intervenida ante la falta de consolidacion de la fractura del aÃ±o anterior.
+evolucio clinica valoracion por ortogeriatria: enferma de 74 años de edad, con intolerancia a la codeina, con osteoporosis, portadora de una protesis en cadera izda, con multiples antecedentes traumaticos, el ultimo hace un año con fractura subtrocanterea de femur derecho, afecta de bronquiectasias y de sahs, que ingresa de forma programada para ser intervenida ante la falta de consolidacion de la fractura del año anterior.
 a la exploracion fisica tras la intervencion quirurgica se trata de una enferma consciente, orientada, obesa , eupneica en reposo, sin signos de insuficiencia cardiaca ni respiratoria, con auscultacion de torax anterior normal, con auscultacion cardiaca normal y con un abdomen globuloso, con hernia umbilical, doloroso a la palpacion en hemiabdomen izdo y en el que parece palparse hepatomegalia.
 la enferma es portadora de una via central.
 rx torax (21/06/2018): osteopenia, signos degenerativos vertebrales, antigua fractura humeral izda, senos costofrenicos libres, silueta cardiaca normal, elevacion de hemidiafragma izdo, minimo patron de torax sucio.

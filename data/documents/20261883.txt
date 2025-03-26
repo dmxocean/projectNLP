@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 26.09.2018 edat: 11 mesos procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 26.09.2018 edat: 11 mesos procedencia domicil/res.
 soc servei medicina pediatrica data d'ingres 12.09.2019 data d'alta 14.09.2019 15:16:00 ates per ****************, ****; ************, ********; ****************, ******; ****************, *******; ****************, ******.
 informe d'alta d'hospitalitzacio motiu d'ingres paciente de 11 meses que ingresa el dia 13/09 por convulsion febril en contexto de sospecha de bacteriemia por infeccion urinaria.
 antecedents no alergias medicamentosas conocidas.
@@ -8,17 +8,17 @@ no refiere alteraciones en ecografias prenatales.
 ecografia sin alteraciones.
 antecedentes familiares: primo hermano con episodio de convulsiones febriles.
 proces actual paciente de 11 meses de edad con cuadro febricular de 3 dias de evolucion que cede con antitermia que se acompanya de deposicions liquidas (3 diarreas liquidas sin productos patologicos) las ultimas 48 horas.
-consultan a urgencias por pico de fiebre de hasta 38,6Âºc.
-no vomitos, no anorexia, no cuadro catarral acompaÃ±ante, no ambiente epidemiologico positivo.
+consultan a urgencias por pico de fiebre de hasta 38,6ºc.
+no vomitos, no anorexia, no cuadro catarral acompañante, no ambiente epidemiologico positivo.
 la madre refiere micciones mas concentradas y con peor olor sin observar un aumento ni una disminucion de estas.
-exploracio fisica fc bpm tÂªaxi 37.
-8 Âºc fr rpm tÂªrec Âºc ta s mmhg sat o2 % ta d mmhg pes 9.500 kg triangulo de evaluacion pediatrica: estable.
+exploracio fisica fc bpm tªaxi 37.
+8 ºc fr rpm tªrec ºc ta s mmhg sat o2 % ta d mmhg pes 9.500 kg triangulo de evaluacion pediatrica: estable.
 buen estado general.
 activa y reactiva.
 normocoloreada y normohidratada.
 no distres.
 perfusion distal conservada.
-aparato respiratorio: buena entrada de aire bilateral sin signos de distres ni ruidos sobreaÃ±adidos.
+aparato respiratorio: buena entrada de aire bilateral sin signos de distres ni ruidos sobreañadidos.
 espiracion normal.
 aparato cardiocirculatorio: tonos ritmicos, sin soplos, pulsos presentes y simetricos.
 perfusion distal conservada.
@@ -76,6 +76,6 @@ multisensible por lo que el dia 14/09 pasamos antibioticoterapia a via oral.
 durante la hospitalizacion paciente permanece hemodinamicamente estable, afebril desde el dia 12/09, con buena tolerancia oral y ante la buena evolucion clinica se decide el alta hoy 14/09 con una exploracion fisica dentro de la normalidad.
 orientacio diagnostica r56.
 9 convulsions no especificades n39.
-0 infeccio del tracte urinari, localitzacio no especificada procediments puncion lumbar extraccion de sangre sondaje urinario nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 2/3 lopd antibioterapia endovenosa tractament i recomanacions a l'alta - cefixima (denvar susp oral 100 mg/5ml): administrar 2 ml cada 12 horas hasta completar 14 dias (hasta el dia 25/09 incluido) - reconsultar en caso de: reaparicion de fiebre (&gt;38Âºc) persistente, somnolencia excesiva o mal estado general.
+0 infeccio del tracte urinari, localitzacio no especificada procediments puncion lumbar extraccion de sangre sondaje urinario nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 2/3 lopd antibioterapia endovenosa tractament i recomanacions a l'alta - cefixima (denvar susp oral 100 mg/5ml): administrar 2 ml cada 12 horas hasta completar 14 dias (hasta el dia 25/09 incluido) - reconsultar en caso de: reaparicion de fiebre (&gt;38ºc) persistente, somnolencia excesiva o mal estado general.
 control - control con pediatra de zona a principios de semana que viene.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 3/3 lopd

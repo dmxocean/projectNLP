@@ -1,6 +1,6 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 19.11.1961 edat: 57 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 19.11.1961 edat: 57 anys procedencia domicil/res.
 soc servei infeccioses data d'ingres 05.07.2019 data d'alta 10.07.2019 10:58:45 ates per **************, *******; **************, *******; ******************, ****** informe d'alta d'hospitalitzacio motiu d'ingres prostatitis aguda.
-antecedents antecedentes personales: - niega alergias - ex fumador desde hace 30 aÃ±os.
+antecedents antecedentes personales: - niega alergias - ex fumador desde hace 30 años.
 niega habito enolico.
 antecedentes patologicos: - hipertension arterial en tratamiento con iecas.
 - diabetes mellitus tipo 2.
@@ -10,10 +10,10 @@ en tratamiento con insulina isofanica 22-0-50 - dislipidemia en tratamiento con 
 residuo postmiccional de aproximadamente 111 cc.
 sin prostatismo habitualmente.
 en tratamiento con tamsulosina.
-hace seguimiento con urologia - sindrome de apnea - hipopnea del sueÃ±o . ultimo control en neumologia en 2011.
+hace seguimiento con urologia - sindrome de apnea - hipopnea del sueño . ultimo control en neumologia en 2011.
 - esclerosis multiple diagnosticado a inicios de los 90.
 ha sido controlado por ultima vez en consultas externas de neurologia en agosto del 2016 ya que el paciente desea no continuar control.
-* rmn cerebral (28/07/2019) comparada con rm de 2012: muestra la presencia de multiples lesiones de caracteristicas inflamatorio-desmielinizantes (baja carga lesional) que afectan a la sustancia blanca de ambos hemisferios cerebrales y a la sustancia blanca profunda del hemisferio cerebeloso derecho, apreciandose en el estudio comparativo una pequeÃ±a lesion de nueva aparicion.
+* rmn cerebral (28/07/2019) comparada con rm de 2012: muestra la presencia de multiples lesiones de caracteristicas inflamatorio-desmielinizantes (baja carga lesional) que afectan a la sustancia blanca de ambos hemisferios cerebrales y a la sustancia blanca profunda del hemisferio cerebeloso derecho, apreciandose en el estudio comparativo una pequeña lesion de nueva aparicion.
 - epilepsia secundaria probablemente a esclerosis multiple.
 no tiene controles por neurologia desde 2016.
 en tratamiento con brivaracetam - itu /prostatitis de repeticion previas con aislamientos de e.
@@ -22,17 +22,17 @@ la ultima en 2012 que se trato con ertapenem antecedentes quirurgicos: niega sit
 vive con su mujer e hijos, independiente, no deterioro cognitivo.
 medicacio habitual brivaracetam 50 mg/d, formoterol + beclometasona 2 inh/d, insulatard 22-0-50 ui/sc, metformina + sitagliptina 1000/50 mg/12h, cianocobalamina 1 ampolla mensual, simvastatina 10 mg/d, tamsulosina 0.
 4 mg/d, salbutamol 2 inh si precisa, insulina novorapid, enalapril 10 mg/d.
-nhc ** *** *** &nbsp;(********) &nbsp;age-v-inf 1/3 lopd proces actual varon de 50 aÃ±os que presenta desde el dia 04/07 fiebre de hasta 38,5Âº y tiritona asociada a sindrome miccional.
+nhc ** *** *** &nbsp;(********) &nbsp;age-v-inf 1/3 lopd proces actual varon de 50 años que presenta desde el dia 04/07 fiebre de hasta 38,5º y tiritona asociada a sindrome miccional.
 el jueves asocio ademas nauseas y vomitos de contenido alimentario.
 niega oligoanuria, tos, diarrea, odinofagia, disnea, dolor toracico u otra sintomatologia asociada.
-exploracio fisica fc 112 bpm tÂªaxi 36.
-7 Âºc fr 14 rpm tÂªrec Âºc ta s 103 mmhg sat o2 98.00 % ta d 77 mmhg pes kg ta 110/72 mmhg, fc 125 lpm, fr 18 rpm, t 36.4Âºc, spo2 95% al aire ambiente.
+exploracio fisica fc 112 bpm tªaxi 36.
+7 ºc fr 14 rpm tªrec ºc ta s 103 mmhg sat o2 98.00 % ta d 77 mmhg pes kg ta 110/72 mmhg, fc 125 lpm, fr 18 rpm, t 36.4ºc, spo2 95% al aire ambiente.
 regulador estado general, no cianosis, no ictericia, piel y mucosas deshidratadas.
 cardiovascular: tonos cardiacos ritmicos, no soplos, no edemas, no signos de trombosis venosa profunda, no ingurgitacion yugular.
-respiratorio: murmullo vesicular conservado sin ruidos sobreaÃ±adidos.
-abdomen: ruidos hidroaereos presentes, blando, no doloroso a la palpacion, no masas, puÃ±o percusion lumbar negativo.
+respiratorio: murmullo vesicular conservado sin ruidos sobreañadidos.
+abdomen: ruidos hidroaereos presentes, blando, no doloroso a la palpacion, no masas, puño percusion lumbar negativo.
 neurologico: vigil, orientado en las tres esferas, pares craneales conservado, no alteracion de la sensibilidad, balance motor conservado, no meningismo, no focalidad neurologica aguda.
-exploracion fisica en sala de hospitalizacion constantes: ta 142/72, fc 64 lpm, tÂª 36,8Âº, sato2 96% consciente, orientado, normocoloreado ac: ritmico sin soplos ap: mvc; no uridos patologicos abdomen: blando y no doloroso, no megalias mmii: sin edemas exploracio complementaria - electrocardiograma : ritmo sinusal, eje -30Âº, pr &lt; 0.20 s constante, qrs estrecho, no elevacion ni descenso del segmento st.
+exploracion fisica en sala de hospitalizacion constantes: ta 142/72, fc 64 lpm, tª 36,8º, sato2 96% consciente, orientado, normocoloreado ac: ritmico sin soplos ap: mvc; no uridos patologicos abdomen: blando y no doloroso, no megalias mmii: sin edemas exploracio complementaria - electrocardiograma : ritmo sinusal, eje -30º, pr &lt; 0.20 s constante, qrs estrecho, no elevacion ni descenso del segmento st.
 - analitica 05/07: hb 16.
 8 g/dl, leucocitos 15 910, neutrofilos 14 300, linfocitos 700, monocitos 800, plaquetas 178 000, glucosa 292 mg/dl, urea 48 mg/dl, creatinina 1.49 mg/dl, fg 51 ml/min/1.73m2, na+ 135 mmol/l, k+ 3.99 mmol/l, ast 30 ui/l, alt 32 ui/l, albumina 4.
 1 g/dl.

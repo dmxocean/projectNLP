@@ -1,6 +1,6 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 13.10.1945 edat: 72 anys procedencia aguts servei oncologia medica data d'ingres 03.07.2018 data d'alta 05.07.2018 13:37:08 ates per ************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa en planta de oncologia por colangitis aguda . antecedents sin alergias medicamentosas conocidas.
-exfumadora de 1 paquete/dia por 10 aÃ±os.
-10 paq-aÃ±o.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 13.10.1945 edat: 72 anys procedencia aguts servei oncologia medica data d'ingres 03.07.2018 data d'alta 05.07.2018 13:37:08 ates per ************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa en planta de oncologia por colangitis aguda . antecedents sin alergias medicamentosas conocidas.
+exfumadora de 1 paquete/dia por 10 años.
+10 paq-año.
 no enolismo.
 antecedentes patologicos: - hipertension arterial esencial en tratamiento farmacologico.
 - dislipemia en tratamiento farmacologico.
@@ -10,9 +10,9 @@ antecedentes patologicos: - hipertension arterial esencial en tratamiento farmac
 se realiza estudios de glomerulonefritis que no muestran alteraciones.
 en seguimiento anual por nefrologia de huvh.
 - infecciones de orina de repeticion . - sindrome depresivo en tratamiento farmagologico ocasional.
-- hemorragia digestiva alta por ulcus hace &gt; 10 aÃ±os.
+- hemorragia digestiva alta por ulcus hace &gt; 10 años.
 refiere hematemesis, no recuerda la causa.
--antecedentes quirurgicos: histerectomia + doble anexectomia por miomas uterinos a los 40 aÃ±os.
+-antecedentes quirurgicos: histerectomia + doble anexectomia por miomas uterinos a los 40 años.
 apendicectomia.
 historia oncologica: primer signo/sintoma (septiembre 2017): sindrome anemico (hb de 5.7g/dl y vcm 56.7fl), por lo que ingreso en medicina interna en hvh para estudio.
 primer diagnostico (septiembre 2017): fcs 12.02.2018: se explora la totalidad del colon hasta fondo de saco cecal y valvula ileocecal hallando: lesion de aspecto neoformativa, con friabilidad que ocupa la totalidad de la luz, pero que permite el paso del endoscopia en angulo hepatico que se toma biopsias para estudio ap.
@@ -46,11 +46,11 @@ planta de hospitalizacion: analitica 05/07: hb 9.
 urea 48 mg/dl, creat 0.87 mg/dl, na 143.
 5 mmol/l, k 3.87 mmol/l, bil t 0.38 mg/dl, bil d 0.21 mg/dl, ast 12 ui/l, alt 5 ui/l, f alc 64 ui/l, ggt 19 ui/l, alb 2.
 7 g/dl, pcr 1.25 mg/dl.
-evolucio clinica paciente de 72 aÃ±os con adk de colon dcho pt4bn1a con infiltracion duodenal intervenido en dic17.
+evolucio clinica paciente de 72 años con adk de colon dcho pt4bn1a con infiltracion duodenal intervenido en dic17.
 no adyuvancia.
 recidiva local duodenal y retroperitoneal con dudoso implante capsular hepatico.
 msi,ras/braf wt.
-en curso 1Âª linea folfox.
+en curso 1ª linea folfox.
 ingresa por colangitis aguda por e.
 coli r a aminopenicilinas y piperacilina /tazobactam.
 tratamiento atb dirigido con ciprofloxacino fi 03/07.

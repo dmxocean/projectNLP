@@ -1,15 +1,15 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 01.08.2018 edat: 9 mesos procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 01.08.2018 edat: 9 mesos procedencia domicil/res.
 soc servei medicina pediatrica data d'ingres 27.05.2019 data d'alta 31.05.2019 10:23:34 ates per **********, ****** informe d'alta d'hospitalitzacio motiu d'ingres lactant de 9 mesos que ingressa el 27.05.2019 per bronquitis aguda antecedents sense antecedents medics d'interes.
 control per neurocirurgia pediatrica per plagiocefalia.
 desenvolupament psicomotor dins de la normalitat.
 ultima visita 27.05.2019.
 pendent de realitzacio de rm a l'agost del 2019.
-calendari vacunal al dia medicacio habitual deltius proces actual refereixen 48 hores de tos productiva, dispnea i febre de 38Âºc de maxima que cedeix amb antitermia convencional.
+calendari vacunal al dia medicacio habitual deltius proces actual refereixen 48 hores de tos productiva, dispnea i febre de 38ºc de maxima que cedeix amb antitermia convencional.
 expliquen algun vomit mucos en context d'accessos de tos amb bona tolerancia oral posterior.
 no disminucio de la diuresi.
 alguna deposicio dispeptica sense sang, moc ni altres productes patologics.
-exploracio fisica fc 153 bpm tÂªaxi 36.
-8 Âºc fr rpm tÂªrec Âºc ta s mmhg sat o2 94.00 % ta d mmhg pes 10.000 kg tep : estable bon estat general.
+exploracio fisica fc 153 bpm tªaxi 36.
+8 ºc fr rpm tªrec ºc ta s mmhg sat o2 94.00 % ta d mmhg pes 10.000 kg tep : estable bon estat general.
 normohidratada i normocolorejada.
 no petequies ni exantemes.
 ar: bona entrada d'aire bilateral.
@@ -32,5 +32,5 @@ el 28/05 s'obte resultat de l'aspirat nasofaringi positiu a metapneumovirus.
 durant l'ingres es mante estable i amb bon estat general, presnetant febricula durant els primeres dies i romanent posteriorment afebril, amb bon estat general i correcta ingesta oral.
 donada la bona evolucio clinica, es decideix alta hospitalaria el dia 31.05.19 amb una exploracio fisica compatible amb bronquitis aguda en resolucio.
 orientacio diagnostica j20.
-9 bronquitis aguda per metapneumovirus procediments aspirat nasofaringi tractament i recomanacions a l'alta administrar 2puffs de salbutamol cada 6 hores fins a control amb el pediatre en 72h rentats nasals amb serum fisiologic si precisa posicio semiincorporada a 30Âº normes de reconsulta: empitjorament clinic, signes de dificultat respiratoria (costelles enfonsades, sorolls respiratoris, decaÃ¯ment), febre alta mantinguda, somnolencia o hipoactivitat marcada.
+9 bronquitis aguda per metapneumovirus procediments aspirat nasofaringi tractament i recomanacions a l'alta administrar 2puffs de salbutamol cada 6 hores fins a control amb el pediatre en 72h rentats nasals amb serum fisiologic si precisa posicio semiincorporada a 30º normes de reconsulta: empitjorament clinic, signes de dificultat respiratoria (costelles enfonsades, sorolls respiratoris, decaïment), febre alta mantinguda, somnolencia o hipoactivitat marcada.
 control control amb el seu pediatre en 72h destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;ami-v-pee 2/2 lopd

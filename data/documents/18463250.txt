@@ -1,7 +1,7 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 20.02.1949 edat: 68 anys procedencia domicil/res.
-soc servei pneumologia data d'ingres 30.01.2018 data d'alta 08.02.2018 09:47:42 ates per equipo dra. ********* (*********, *********, *********) informe d'alta d'hospitalitzacio motiu d'ingres varon de 68 aÃ±os que ingresa en neurocirugia el 30/01 bajo sospecha de hidrocefalia cronica del adulto para monitorizacion y registro de la presion intracraneal y que se traslada a neumologia el 03/02 por hallazgo en tc de cuello y torax de masa pulmonar de cara a completar estudio.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 20.02.1949 edat: 68 anys procedencia domicil/res.
+soc servei pneumologia data d'ingres 30.01.2018 data d'alta 08.02.2018 09:47:42 ates per equipo dra. ********* (*********, *********, *********) informe d'alta d'hospitalitzacio motiu d'ingres varon de 68 años que ingresa en neurocirugia el 30/01 bajo sospecha de hidrocefalia cronica del adulto para monitorizacion y registro de la presion intracraneal y que se traslada a neumologia el 03/02 por hallazgo en tc de cuello y torax de masa pulmonar de cara a completar estudio.
 antecedents -sin alergias medicamentosas conocidas.
-- fumador de 2 paquetes/dia durante mas de 50 aÃ±os (fe 100 paq/aÃ±o).
+- fumador de 2 paquetes/dia durante mas de 50 años (fe 100 paq/año).
 - alcohol : 1 copa de vino diaria y 7 cervezas al dia (enolismo 80 g/dia).
 - hipertension arterial esencial en tratamiento farmacologico con dos farmacos con correcto control tensional.
 -poliposis colonica por lo que sigue controles en ccee de digestivo de huvh.
@@ -12,25 +12,25 @@ diverticulosis de sigma no complicada.
 lesion submucosa a 90 cms del margen anal sugestiva de lipoma.
 hemorroides externas.
 - aneurisma de aorta ascendente predominantemente tubular diagnosticado en 2013 de manera incidental mediante tc toracoabdominal realizado ambulatoriamente por sindrome constitucional.
-siguio controles en la unidad de patologia aortica de cardiologia de huvu (dra. ***************) siendo dado de alta en enero de 2014 para seguimiento ambulatorio con ecografia de control cada 2 aÃ±os.
+siguio controles en la unidad de patologia aortica de cardiologia de huvu (dra. ***************) siendo dado de alta en enero de 2014 para seguimiento ambulatorio con ecografia de control cada 2 años.
 *ultima ett en mayo de 2013: aa (48 mm) y raiz aortica (39 mm) dilatadas.
 insuficiencia aortica ligera-moderada ii.
 ventriculo izquierdo ligeramente hipertrofico con funcion sistolica conservada.
 *ultima angiornm en octubre de 2013: dilatacion de la porcion tubular de la aorta ascendente (47mm) con morfologia de la raiz aortica conservada y aorta descendente no dilatada.
 - litiasis renal bilateral.
 no disponemos de mas informacion clinica.
-- esquizofrenia diagnosticada hace unos 15 aÃ±os.
+- esquizofrenia diagnosticada hace unos 15 años.
 en seguimiento ambulatorio por psiquiatra de zona.
 - parkinsonismo vascular diagnosticado en junio de 2016 a raiz de cuadro de bradicinesia y trastorno de la marcha.
 en tratamiento farmacologico y en seguimiento por la utm de neurologia de huvh (dr. ************) solicitandose valoracion por ncr en septiembre de 2017 dada la aparicion de la triada de hakim con hallazgo de hidrocefalia en la rnm de craneo de abril de 2017.
 se decidio ingreso para registro de la pic.
-*tc craneal en agosto de 2016: marcada atrofia cerebral de predominio subcortical, signos de leucoaraiosis, un infarto lacunar cronico en territorio de vascularizacion de arterias perforantes dependientes de la circulacion anterior asi como un pequeÃ±o infarto cronico en territorio de vascularizacion de arteria cerebelosa superior derecha.
+*tc craneal en agosto de 2016: marcada atrofia cerebral de predominio subcortical, signos de leucoaraiosis, un infarto lacunar cronico en territorio de vascularizacion de arterias perforantes dependientes de la circulacion anterior asi como un pequeño infarto cronico en territorio de vascularizacion de arteria cerebelosa superior derecha.
 *rnm craneal en abril de 2017: moderat grau d'atrofia corticosubcortical global.
-acusada hidrocefalia supratentorial de caracteristiques croniques, amb estenosi del terÃ§ mitja de l'aqÃ¼educte de silvi malgrat aquest persisteix permeable.
+acusada hidrocefalia supratentorial de caracteristiques croniques, amb estenosi del terç mitja de l'aqüeducte de silvi malgrat aquest persisteix permeable.
 no s'evidencien signes d'hidrocefalia cronica de l'adult.
 moderada desmielinitzacio de substancia blanca profunda de probable origen hipoxic cronic.
 petit infart lacunar cronic al territori perforant de la circulacio anterior esquerra.
-petit infart cronic al territori irrigat per l'arteria cerebelÂ·losa superior dreta.
+petit infart cronic al territori irrigat per l'arteria cerebel·losa superior dreta.
 -ingreso en julio de 2015 por tinea pedis interdigital entre tercer y cuarto dedo del pie derecho con celulitis en dorso del pie que requirio ingreso para tratamiento endovenoso.
 se procedio al alta bajo tratamiento topico con nhc ** *** *** (********) age-v-nml 1/5 lopd cotrimazol y augmentine oral que finalizo el 31/07/15.
 -hemorroidectomia.
@@ -44,12 +44,12 @@ estudios tecnicos medios de contable.
 parcialmente dependiente para las actividades basicas e intrumentadas de la vida diaria.
 deterioro cognitivo leve.
 medicacio habitual adiro 100 mg al dia, amlodipino 5 mg al dia, losartan 50 mg al dia, lorazepam 3 o 4 comprimidos de 1 mg al dia segun precise, paracetamol 1 g si precisa, polaramine 2 mg si precisa y sinemet plus retard (levodopa+carbidopa) 25+100 mg 2 comprimidos al dia.
-proces actual ingresa en planta de neurocirugia por sospecha de hidrocefalia cronica del adulto con cuadro clinico de 2 aÃ±os de evolucion, progresivo, caracterizado por alteracion de la marcha (deambulacion a pasos cortos, necesita ayuda, caidas frecuentes con empeoramiento en los ultimos 3 meses), incontinencia de esfinter vesical desde hace 1 aÃ±o y desde hace 1 mes no control de esfinter rectal asi como alteracion conductual.
+proces actual ingresa en planta de neurocirugia por sospecha de hidrocefalia cronica del adulto con cuadro clinico de 2 años de evolucion, progresivo, caracterizado por alteracion de la marcha (deambulacion a pasos cortos, necesita ayuda, caidas frecuentes con empeoramiento en los ultimos 3 meses), incontinencia de esfinter vesical desde hace 1 año y desde hace 1 mes no control de esfinter rectal asi como alteracion conductual.
 por otro lado, al interrogatorio dirigido, explica clinica constitucional caracterizada por astenia, hiporexia y perdida de aproximadamente 20 kg de peso en el ultimo mes (84 - 68 kg).
 asocia tos seca y disfonia de 2-3 meses de evolucion.
 sin disnea ni dolor toracico.
 fue valorado por orl en enero de 2018 evidenciandose paralisis de cuerda vocal izquierda por lo que se solicito tc de cuello y torax para diagnostico rapido que se encontraba pendiente de realizacion.
-exploracio fisica en planta de neurocirugia constantes: ta 118/72 mmhg; fc 79 lpm; tÂª 35 Âºc; spo2 98 % (aa); imc: 24.
+exploracio fisica en planta de neurocirugia constantes: ta 118/72 mmhg; fc 79 lpm; tª 35 ºc; spo2 98 % (aa); imc: 24.
 7 kg/m2 (peso: 80 kg y talla: 180 cm) aspecto: estado general conservado.
 normocoloreado, normohidratado y normoperfundido.
 aparato cardiovascular: tcr sin soplos ni roce.

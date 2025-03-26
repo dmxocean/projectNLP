@@ -1,5 +1,5 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 16.02.1983 edat: 35 anys procedencia domicil/res.
-soc servei obstetricia data d'ingres 06.07.2018 data d'alta 08.07.2018 12:37:28 ates per **************, **************; ******************, ***** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto exploracio complementaria sintomas de inicio de trabajo de parto antecedentes no alergias medicamentosas conocidas am: sd raynaud y tbc a los 9 aÃ±os intervenciones quirurgicas: apendicectomia niega habitos toxicos no medicacion habitual -nacionalidad: spain barrera idiomatica: no -peso inicial: 47.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 16.02.1983 edat: 35 anys procedencia domicil/res.
+soc servei obstetricia data d'ingres 06.07.2018 data d'alta 08.07.2018 12:37:28 ates per **************, **************; ******************, ***** informe d'alta d'hospitalitzacio motiu d'ingres trabajo de parto exploracio complementaria sintomas de inicio de trabajo de parto antecedentes no alergias medicamentosas conocidas am: sd raynaud y tbc a los 9 años intervenciones quirurgicas: apendicectomia niega habitos toxicos no medicacion habitual -nacionalidad: spain barrera idiomatica: no -peso inicial: 47.
 7 peso final: 60.
 5 talla:162 -edad:35 -tpal:1001 - fur:08/10/17 -sg: 38 .5 - grupo sanguineo: o negativo coombs indirecto: negatiivo anti d fecha:08/05/18 resumen gestacional control en cap sin incidencias.
 -analiticas: 3er trimestre: hemoglobina 10.
@@ -7,7 +7,7 @@ soc servei obstetricia data d'ingres 06.07.2018 data d'alta 08.07.2018 12:37:28 
 2, plaquetas 209, coagulacion: t quik0.93 , ttpa22.
 2 -triple screening: bajo riesgo.
 -serologias: negativas para vih, vhb, vhc, lues, chagas y . rubeola inmune.
--oÂ´sullivan: 113 -urocultivo: negativo -cultivo vaginal/rectal: negativo fecha de realizacion:05/06/18 -ecografia 3er trimestre: presentacion: cefalica , peso fetal estimado:2500 , percentil:83 , liquido amniotico normal, doppler normal, insercion placentaria: posterior , cordon tres vasos.
+-o´sullivan: 113 -urocultivo: negativo -cultivo vaginal/rectal: negativo fecha de realizacion:05/06/18 -ecografia 3er trimestre: presentacion: cefalica , peso fetal estimado:2500 , percentil:83 , liquido amniotico normal, doppler normal, insercion placentaria: posterior , cordon tres vasos.
 exploracion fisica -buen estado general, consciente y orientada, normohidratada y normocoloreada.
 -constantes al ingreso: tension arterial: , frecuencia cardiaca: , temperatura: -abdomen: gravido, acorde con semanas de gestacion, no hipertono, no hipersensibilidad.
 -nst: variable y rectivo, lb 140x', du regular -latido fetal con sonicaid: positivo -no metrorragia, no hidrorrea.
@@ -38,7 +38,7 @@ paracetamol 1gr cada 8 horas si precisa para el dolor.
 abundante ingesta de liquidos y comida variada y equilibrada.
 lavado diario del perine con agua y jabon neutro.
 mantenerlo bien seco con ayuda de una compresa o toalla.
-no realizar inmersion en baÃ±era, piscina o mar hasta finalizado el puerperio.
+no realizar inmersion en bañera, piscina o mar hasta finalizado el puerperio.
 vida normal con actividad fisica leve/moderada.
 evitar coger peso y ejercicios de alto impacto.
 si presenta congestion de las mamas dar un masaje antes de las tomas.

@@ -1,5 +1,5 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 01.03.1953 edat: 65 anys procedencia domicil/res.
-soc servei neurocirurgia data d'ingres 05.07.2018 data d'alta 09.07.2018 08:52:17 ates per ****************, ****; ************, **************; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingreso para intervencion quirurgica electiva antecedents alergias medicamentosas: no alergias medicamentosas conocidas habitos toxicos: exfumador de 8-10cig/d (14-63aÃ±os).
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 01.03.1953 edat: 65 anys procedencia domicil/res.
+soc servei neurocirurgia data d'ingres 05.07.2018 data d'alta 09.07.2018 08:52:17 ates per ****************, ****; ************, **************; *************, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingreso para intervencion quirurgica electiva antecedents alergias medicamentosas: no alergias medicamentosas conocidas habitos toxicos: exfumador de 8-10cig/d (14-63años).
 ex habito enolico.
 antecedentes medicoquirurgicos: -meningitis en la infancia.
 - hta - dlp - acxfa en tratamiento aco, en diciembre de 2017 cambio tratamiento con sintrom a edoxaban.
@@ -11,7 +11,7 @@ iah 94,2, ct90-45,2%.
 portador de cpap a 10cmh20.
 - leucoencefalopatia por la que ingreso en nuestro centro desde 14.02 hasta 07.03 de 2018.
 -lesion ocupante de espacio en region frontal derecha antecedentes quirurgicos: - facoemulsificacion i aspiracion de catarata con insercion de isercion de lio - litotomia por litiasis medicacio habitual atenolol 25 mg/dia, edoxaban 60 mg/dia, simvastatina 20 mg/dia, tamsulosina, gabapentina.
-proces actual varon de 64 aÃ±os con leucoencefalopatia en seguimiento en consultas externas de neurologia.
+proces actual varon de 64 años con leucoencefalopatia en seguimiento en consultas externas de neurologia.
 el 02.06.2018 se realiza una rm cerebral de control en la que se muestra incremento de la extension de la lesion que afecta la sustancia blanca subcortical frontal derecho asi como leve incremento de la afectacion de la sustancia blanca periventricular frontal contralateral, de origen indeterminado.
 ingresa en neurocirugia para biopsia de la lesion frontal derecha.
 exploracio fisica herida quirurgica con buen aspecto, bordes bien afrontados sin signos infectoinflamatorios.

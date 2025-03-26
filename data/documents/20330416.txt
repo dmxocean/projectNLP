@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 23.12.1940 edat: 78 anys procedencia cex mateix hosp servei urologia data d'ingres 08.10.2019 data d'alta 09.10.2019 10:00:00 ates per ************, ******; *****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de forma programada para la realizacion de reseccion transuretral de tumor vesical . antecedents niega alergias medicamentosas conocidas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 23.12.1940 edat: 78 anys procedencia cex mateix hosp servei urologia data d'ingres 08.10.2019 data d'alta 09.10.2019 10:00:00 ates per ************, ******; *****************, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente que ingresa de forma programada para la realizacion de reseccion transuretral de tumor vesical . antecedents niega alergias medicamentosas conocidas.
 antecedentes patologicos: dislipemia asma bronquial hipertension arterial miocardiopatia hipertensiva hipotiroidismo subclinico polimialgia reumatica rtu de tumor vesical en diciembre de 2018.
 ap: tm vesical txag.
 meato derecho: ptabg.
@@ -8,7 +8,7 @@ en enero de 2019 presento dolor lumbar derecho por rtu sobre meato manejado de f
 nueva reseccion transuretral de tumor vesical el 8/4/19 presente en cistoscopia de control lesion de 5mm perimeatica derecha.
 ap: ptabg.
 empezo estudio potomac (durvalumab y bcg intravesical) que suspendio por fascitis de la extremidad derecha secunadaria a durvalumab.
-proces actual paciente de 78 aÃ±os con antecedente de varias resecciones transretrales de recidiva de tumor vesical, en ultima cistoscopia de control se objetiva dos lesiones de 2mm en pared anterior-fundus con citologia negativa.
+proces actual paciente de 78 años con antecedente de varias resecciones transretrales de recidiva de tumor vesical, en ultima cistoscopia de control se objetiva dos lesiones de 2mm en pared anterior-fundus con citologia negativa.
 se propone vigilancia activa pero la paciente prefiere intervenirse, motivo por el que se propone realizacion de reseccion transuretral de dicha lesion.
 exploracio complementaria cistoscopia 15/7/19: vejiga de paredes lisas con dos lesiones de 2mm papilares exofiticas en pa-fundus sugestivas de malignidad.
 citologia: negativa evolucio clinica el 8/10/2019 con el consentimiento informado del paciente y sin contraindicacion preoperatoria se realiza reseccion transuretral de tumor vesical sin incidencias.
@@ -24,6 +24,6 @@ tractament i recomanacions a l'alta -abundante ingesta de liquidos.
 -puede orinar con restos de sangre durante las proximas semanas.
 -paracetamol 650mg cada 8 horas si molestias.
 -es normal que sienta escozor al orinar y que tenga alguna fuga de orina y urgencia miccional.
--si fiebre mayor de 38Âºc o imposibilidad para orinar acuda a urgencias.
+-si fiebre mayor de 38ºc o imposibilidad para orinar acuda a urgencias.
 -control consultas externas de urologia segun cita en hoja adjunta.
 destinacio a l'alta: a domicili nhc ** *** *** &nbsp;(********) &nbsp;age-v-uro 2/2 lopd

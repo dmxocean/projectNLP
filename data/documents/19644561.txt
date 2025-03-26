@@ -1,16 +1,16 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 13.01.1977 edat: 42 anys procedencia aten.
-primaria servei medicina interna 1 data d'ingres 21.02.2019 data d'alta 01.03.2019 14:08:03 ates per equipo dr. ***** (************, ************, ********) informe d'alta d'hospitalitzacio motiu d'ingres varon de 42 aÃ±os que acude derivado por alteracion analitica.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 13.01.1977 edat: 42 anys procedencia aten.
+primaria servei medicina interna 1 data d'ingres 21.02.2019 data d'alta 01.03.2019 14:08:03 ates per equipo dr. ***** (************, ************, ********) informe d'alta d'hospitalitzacio motiu d'ingres varon de 42 años que acude derivado por alteracion analitica.
 antecedents -sin alergias medicamentosas conocidas.
-- exfumador de unos 5 cigarrillos/dia desde hace 2 aÃ±os y medio.
+- exfumador de unos 5 cigarrillos/dia desde hace 2 años y medio.
 antecedentes patologicos - dislipemia en tratamiento farmacologico con simvastatina.
 -esteatosis hepatica.
 *ecografia abdominal abril 2018: higado homogeneo, esteatosico sin lesiones focales.
 porta permeable con flujo hepatopetal.
 via biliar intra y extrahepatica no dilatada.
 vesicula distendida, de paredes finas con polipo de 4mm.
-bazo homogeneo de tamaÃ±o normal.
+bazo homogeneo de tamaño normal.
 pancreas sin alteraciones evidentes por ecografia.
-ambos riÃ±ones de tamaÃ±o, morfologia y eoestructura normal sin dilatacion del sistema excretor ni imagenes de litiasis.
+ambos riñones de tamaño, morfologia y eoestructura normal sin dilatacion del sistema excretor ni imagenes de litiasis.
 vejiga urinaria colapsada.
 conclusion: moderada esteatosis hepatica.
 polipo vesicular de 4mm . situacion sociofuncional: vive con sus padres, independiente para las actividades de la vida diaria, trabaja de taxista.
@@ -25,30 +25,30 @@ niega consumo de oh u otras drogas, no viajes al extranjero, no relaciones sexua
 se suspendio fenofibrato en noviembre 2018 por mejoria del perfil lipidoco.
 en marzo 2017 se aumento simvastatina de 20 a 40mg (iniciado tratamiento en 2013).
 refiere infusiones de plantas medicinales que dice que tienen en el pueblo.
-come embutido de carne de corzo (chorizo) unas 4-5 veces al aÃ±o.
+come embutido de carne de corzo (chorizo) unas 4-5 veces al año.
 refiere que hicieron matanza las ultimas navidades aunque explican que la carne siempre pasa un control veterinario antes de la ingesta.
 nhc ** *** *** &nbsp;(********) &nbsp;age-v-mir 1/4 lopd exploracio fisica exploracion en urgencias pa: 126/85mmhg.
 fc: 86lpm.
 fr: 18rpm.
 spo2: 99% aa.
-tÂª: 36Âºc.
+tª: 36ºc.
 buen estado general.
 normocoloreado, normohidratado, normoperfundido.
 no estigmas de enolismo.
-cardiovascular: auscultacion ritmica, sin tonos ni soplos sobreaÃ±adidos.
+cardiovascular: auscultacion ritmica, sin tonos ni soplos sobreañadidos.
 ausencia de ingurgitacion yugular o reflujo hepatoyugular.
 edemas en miembros inferiores de aspecto cronico, sin fovea.
 pulsos distales presentes, simetricos y ritmicos.
 sin signos de insuficiencia venosa cronica.
 respiratorio: eupneico a aire ambiente.
-murmullo vesicular conservado en ambos campos pulmonares, sin ruidos sobreaÃ±adidos.
+murmullo vesicular conservado en ambos campos pulmonares, sin ruidos sobreañadidos.
 abdomen: ruidos hidroaereos presentes.
 blando, no doloroso a la palpacion profunda.
 no palpo masas ni megalias.
 ausencia de signos de peritonismo.
 murphy negativo.
 no ascitis.
-puÃ±o percusion renal negativa bilateral.
+puño percusion renal negativa bilateral.
 neurologico: vigil, orientado en las tres esferas, colaborador.
 pupilas isocoricas normorreactivas.
 ausencia de signos de meningismo.
@@ -65,7 +65,7 @@ romberg negativo.
 marcha sin alteraciones.
 ausencia de asterixis.
 exploracion fisica en planta de medicina interna.
-ta 93/49, fc 72, tÂª axilar 36.5Âº, sat.
+ta 93/49, fc 72, tª axilar 36.5º, sat.
 o2 95% aa.
 buen estado general, mucosas hidratadas, llenado capilar 2".
 no presenta estigmas de hepatopatia cronica.
@@ -74,7 +74,7 @@ ingurgitacion yugular y reflujo hepoatoyugular no valorables.
 sin signos de trombosis venosa profunda.
 edemas duros en extremidades inferiores hasta tobillos.
 fovea -.
-respiratorio: eupneico y sin trabajo respiratorio, murmullo vesicualr conservado, sin ruidos sobreaÃ±adidos.
+respiratorio: eupneico y sin trabajo respiratorio, murmullo vesicualr conservado, sin ruidos sobreañadidos.
 abdomen: globuloso, blando y depresible.
 ruidos hidroaereos presentes.
 no palpo masas ni visceromegalias.
@@ -92,7 +92,7 @@ exploracio complementaria pruebas complementarias en urgencias -eab: ph 7.
 7.
 3 g/dl, albumina 4.
 2 g/dl *ck 13880ui/l *estudio de anemias: ferritina 449 ng/ml, transferrina 376 mg/dl, sideremia 79 ug/dl, isat transferrina 21%, cobalaminas 433 pg/ml, acido folico 7,2 ng/ml.
-*estudio de hepatitis agudas: vhe negativo, vha negativo, antivhbc negativo, vhc y vhe negativos - ecg : ritmo sinusal a 60lpm, pr 120ms, eje 30Âº, qrs 80ms, adecuada progresion rs en precordiales, sin alteraciones agudas de la repolarizacion.
+*estudio de hepatitis agudas: vhe negativo, vha negativo, antivhbc negativo, vhc y vhe negativos - ecg : ritmo sinusal a 60lpm, pr 120ms, eje 30º, qrs 80ms, adecuada progresion rs en precordiales, sin alteraciones agudas de la repolarizacion.
 - radiografia de torax : poco inspirada, estructuras mediastinicas centradas, indice cardiotoracico &lt;0.
 5, senos nhc ** *** *** &nbsp;(********) &nbsp;age-v-mir 2/4 lopd costofrenicos libres, sin condensaciones pulmonares.
 -ionograma orina: creatinina 119 mg/dl, urea 932 mg/dl, osmolalidad 265 mosm/kg, na 13 mmol/l, k 25 mmol/l, cl 16 mmol/l.

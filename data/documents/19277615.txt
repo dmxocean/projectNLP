@@ -1,7 +1,7 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 21.06.1944 edat: 74 anys procedencia domicil/res.
-soc servei oncologia medica data d'ingres 25.10.2018 data d'alta 31.10.2018 13:16:09 ates per ************, *****; ***************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 74 aÃ±os que ingresa por icc . antecedents no alergias medicamentosas.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 21.06.1944 edat: 74 anys procedencia domicil/res.
+soc servei oncologia medica data d'ingres 25.10.2018 data d'alta 31.10.2018 13:16:09 ates per ************, *****; ***************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente mujer de 74 años que ingresa por icc . antecedents no alergias medicamentosas.
 historia oncologica: antecedentes pt1n0 mama derecha intervenida en 1989 con adyuvancia cmf.
-comenzo en el aÃ±o 1989 cuando fue diagnosticada de una neoplasia de mama derecha.
+comenzo en el año 1989 cuando fue diagnosticada de una neoplasia de mama derecha.
 se realizo una mastectomia radical modificada derecha con ap compatible con carcinoma ductal infiltrante estadio pt1n0 segun informe.
 quimioterapia adyuvante esquema cmf.
 no ht.
@@ -11,18 +11,18 @@ se realizo una mastectomia radical modificada izquierda con ap compatible con un
 ihq: re positivo, rp positivo, her2 negativo, ki67 15%.
 valorada por dr. **** solicito mammaprint que fue de alto riesgo.
 con este resultado realizo tratamiento de quimioterapia adyuvante esquema fec100 por 6 ciclos, el ultimo en enero del 2013.
-desde enero del 2013 en tratamiento con anastrozol que hace un aÃ±o mas o menos cambio a tamoxifeno por intolerancia.
+desde enero del 2013 en tratamiento con anastrozol que hace un año mas o menos cambio a tamoxifeno por intolerancia.
 primera recidiva en marzo de 2016.
-recaida esternal, ganglionar, pulmonar y probablemente pleural izquierda en curso de ht adyuvante, se considera tributaria de -1Âª linea de tratamiento con taxanos +/- bevacizumab + ac zoledronic.
+recaida esternal, ganglionar, pulmonar y probablemente pleural izquierda en curso de ht adyuvante, se considera tributaria de -1ª linea de tratamiento con taxanos +/- bevacizumab + ac zoledronic.
 rp como mejor respuesta.
 continua fulvestran de mantenimiento.
 progresion en agosto de 2017.
--inicio2Âºl con cpc con pd ganglionar, osea, pulmonar y pleural al c9 en marzo de 2018.
--inicia 3Âºl con eribulina.
+-inicio2ºl con cpc con pd ganglionar, osea, pulmonar y pleural al c9 en marzo de 2018.
+-inicia 3ºl con eribulina.
 con pd ganglionar, osea, pulmonar y pleural en junio de 2018.
--inicia 4Âºl de tratamiento con cbdp-gem en junio de 2018.
+-inicia 4ºl de tratamiento con cbdp-gem en junio de 2018.
 pd masa esternal, pulmonar y ganglionar al c5 en setiembre de 2018.
--inicia 5Âºl con myocet-ciclfosfamida el 26/09.
+-inicia 5ºl con myocet-ciclfosfamida el 26/09.
 siendo el c2 (16/09).
 controles en consulta externa de oncologia con dra ******.
 medicacio habitual pantoprazol 20mg cada dia en ayunas, efortil 5mg cada dia, nebivolol 5mg 1/2 compr.
@@ -37,7 +37,7 @@ exploracio complementaria urgencias: analitica de sangre 24.10: hb 9,9g/dl; vcm 
 ecg 24.10: ritmo sinusal a 110 lpm.
 pr 200 ms.
 qrs &lt; 120ms.
-eje qrs a 0Âº.
+eje qrs a 0º.
 ondas t negativas asimetricas en v5-v6.
 alteranancia electrica.
 extrasistoles de qrs estrecho.

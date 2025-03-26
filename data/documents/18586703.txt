@@ -1,11 +1,11 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 29.06.2015 edat: 2 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 29.06.2015 edat: 2 anys procedencia domicil/res.
 soc servei oncohematologia ped.
-data d'ingres 06.03.2018 data d'alta 08.03.2018 13:19:50 ates per ***********, ****; **************, ********; **************, *** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 2 aÃ±os afecto de rabdomiosarcoma embrionario abdominal metastasico que ingresa a cargo de oncologia pediatrica el 06.03.18 por neutropenia febril . antecedents - no alergias a medicamentos conocidas.
+data d'ingres 06.03.2018 data d'alta 08.03.2018 13:19:50 ates per ***********, ****; **************, ********; **************, *** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 2 años afecto de rabdomiosarcoma embrionario abdominal metastasico que ingresa a cargo de oncologia pediatrica el 06.03.18 por neutropenia febril . antecedents - no alergias a medicamentos conocidas.
 - vacunas correctas para edad y calendario vacunal, incluida antineumococica 13valente (3 dosis).
 antecedentes personales: - hidrocefalia externa benigna, en seguimiento por neuropediatria (dr ******).
 controles oftalmologicos normales.
 acude a cdiap y rehabilitacion.
-- rmn diciembre 2015: discreto ensanchamiento ventricular difuso que se acompaÃ±a de un aumento de los espacios subaracnoidales extraventriculares, sugiriendo un patron de hidrocefalia externa benigna.
+- rmn diciembre 2015: discreto ensanchamiento ventricular difuso que se acompaña de un aumento de los espacios subaracnoidales extraventriculares, sugiriendo un patron de hidrocefalia externa benigna.
 historia oncologica: - rabdiomiosarcoma embrionario metastasico de localizacion abdominal de diagnostico a raiz de estudio de masa abdominal (diciembre 2017).
 dilatacion pielocalicial por compresion ureteral de masa tumoral.
 exploraciones complementarias al diagnostico: - resonancia magnetica toracoabdominal (22.12.17): tumoracion solida que mide 120x73x77 con areas quisticonecroticas con hemorragia, supra y paravesical izquierda, probablemente de origen mesenterico o intraperitoneal, con metastasis pleurales bilaterales.
@@ -17,14 +17,14 @@ resto de exploracion normal.
 - pet-tc-18f-fdg (10.01.18): gran tumoracio abdominal amb grau metabolic moderat i zones centrals probablement necrotiques.
 no es pot descartar l'existencia de ganglis mesenterics perilesionals.
 gangli subcarinal hipermetabolic.
-absencia d'activitat metabolica a lesions descrites en la rm diagnostica preqt, probablement per resposta precoÃ§.
+absencia d'activitat metabolica a lesions descrites en la rm diagnostica preqt, probablement per resposta precoç.
 - biopsia tumoral (23.12.17): rabdomiosarcoma embrionario.
 tratamiento recibido hasta la fecha: - el 28.12.17 se procede a colocacion de dispositivo porth-a-cath (6fr), sin incidencias.
-- el dia 30.12.2017 se inicia tratamiento quimioterapico segun protoclo epssg rms 2005 con ifosfamida, vincristina y adriamicina que debe interrumpirse el 2Âº dia por presentar fiebre.
+- el dia 30.12.2017 se inicia tratamiento quimioterapico segun protoclo epssg rms 2005 con ifosfamida, vincristina y adriamicina que debe interrumpirse el 2º dia por presentar fiebre.
 el dia 12.01.18 se reinicia tratamiento, recibiendo ciclo iva (considerado este el primer ciclo, ya que el previo no se completa).
 quimioterapia administrada: *1r ciclo abortado por fiebre (30.12.17): ifosfamida (dia 1) + vincristina +actinomicina-d *1r ciclo completo (12.01.18): ifosfamida (dia 1 y 2) + vincristina (dia 1, 8 y 15) + actinomicina d.
-*2Âº ciclo completo (2.02.208): iva-do: vincristina + actinomicina-d+ifosfamida (x2) +adriamicina (x2).
-nhc ** *** *** (********) ami-v-onh 1/4 lopd *3r ciclo completo (23.02.18) de 3Âº iva-do: vincristina 1.
+*2º ciclo completo (2.02.208): iva-do: vincristina + actinomicina-d+ifosfamida (x2) +adriamicina (x2).
+nhc ** *** *** (********) ami-v-onh 1/4 lopd *3r ciclo completo (23.02.18) de 3º iva-do: vincristina 1.
 5 mg/m2 (dia+1), actinomicina-d 1.
 5 mg/m2 (dia+1), doxorubicina 30 mg/m2 ev (dias +1 y +2), ifosfamida 3000 mg/m2 (dias +1 y +2).
 complicaciones presentadas: - gripe (31.12.2017).
@@ -41,21 +41,21 @@ se decide, tras valoracion por el equipo de soporte nutricional, colocacion de s
 *ecocardiografia (06.02.18): corazon estructural y funcionalmente normal.
 medicacio habitual - septrin comp 80/400mg: 1 comp cada 24 horas oral.
 - factor estimulante de colonias (filgastrim): 0,25 ml cada noche a las 21h.
-- enoxaparina: 10 mg cada 24h a las 21:00 subcutaneo (suspendido el 5.03.18 por epistaxis) - movicol: 1 sobre por sng por la maÃ±ana.
+- enoxaparina: 10 mg cada 24h a las 21:00 subcutaneo (suspendido el 5.03.18 por epistaxis) - movicol: 1 sobre por sng por la mañana.
 - fortini multifibre: 180ml en 2h por sng, 4 tomas al dia.
-proces actual niÃ±o de 2 aÃ±os, con los antecedentes descritos, que es traido a urgencias via sem desde domicilio.
-refieren realizacion de dos picos febriles (38Âºc y 39.2Âºc) en las ultimas 8 horas que ceden con antitermia (paracetamol).
+proces actual niño de 2 años, con los antecedentes descritos, que es traido a urgencias via sem desde domicilio.
+refieren realizacion de dos picos febriles (38ºc y 39.2ºc) en las ultimas 8 horas que ceden con antitermia (paracetamol).
 ultimo pico febril a las 06:00am de la madrugada.
 refieren aumento de la secrecion nasal transparente, que presenta desde la colocacion de sng.
 no ha presentado tos, vomitos ni alteraciones deposicionales ni miccionales.
-el paciente acudio ayer a control (dia +10 de 3Âº iva-do), con analitica: hb 8.
+el paciente acudio ayer a control (dia +10 de 3º iva-do), con analitica: hb 8.
 3, leucos 1890 (200n, 500l, 1100m), plaquetas 166000.
 bioq normal.
 p.
 coagulacion: tp 0.94, ttpa ratio 1.14, fibrinogeno 3.94, antixa 0.15 ui/ml.
 ultima manipulacion de pac el 23/2/18.
-exploracio fisica fc 153 bpm tÂªaxi 37.
-6 Âºc fr rpm tÂªrec Âºc ta s 107 mmhg sat o2 100 % ta d 73 mmhg pes 14.800 kg triangulo de evaluacion pediatrica estable.
+exploracio fisica fc 153 bpm tªaxi 37.
+6 ºc fr rpm tªrec ºc ta s 107 mmhg sat o2 100 % ta d 73 mmhg pes 14.800 kg triangulo de evaluacion pediatrica estable.
 buen estado general.
 activo y reactivo.
 normohidratado, palidez cutanea (habitual).
@@ -63,7 +63,7 @@ no exantemas ni petequias.
 nhc ** *** *** (********) ami-v-onh 2/4 lopd orofaringe no hiperemica sin hipertrofia amigdalar ni exudados.
 no aftas.
 no adenopatias laterocervicales.
-aparato respiratorio: eupneico, buena entrada de aire bilateral sin ruidos sobreaÃ±adidos.
+aparato respiratorio: eupneico, buena entrada de aire bilateral sin ruidos sobreañadidos.
 no signos de distres respiratorio.
 aparato cardiovascular: buena perfusion periferica, relleno capilar &lt;2".
 ac: tonos ritmicos, no soplos.
@@ -102,19 +102,19 @@ glucosa 97 mg/dl, creatinina 0.16 mg/dl, na 132.
 0 x10e9/l; basofils 0.
 1 x10e9/l; plaquetes 107 x10e9/l; glucosa 131 mg/dl; urea 11 mg/dl; creatinini 0.22 mg/dl; urat 1.
 0 mg/dl; clorur 103 mmol/l; calci 9.
-1 mg/dl; alanina-aminotransferasa 20 ui/l; proteÃ¯na c reactiva 1.04 mg/dl - protocolo de cateter (6.03) : negativo provisional.
+1 mg/dl; alanina-aminotransferasa 20 ui/l; proteïna c reactiva 1.04 mg/dl - protocolo de cateter (6.03) : negativo provisional.
 - aspirado nasofaringeo (6.03) : positivo para rhinovirus.
 - sedimento urinario (6.03) : leucocitos 3.
 5/mcl, hematies 0/mcl, bacterias 0/mcl.
 - urocultivo (6.03) : pendientes.
 - deteccion de virus en heces (7.03.18) : rotavirus, adenovirus y astrovirus negativos.
 evolucio clinica a su llegada a urgencias, paciente febricular, hemodinamicamente estable.
-durante su estancia en urgencias realiza pico febril de 38.6Âºc.
+durante su estancia en urgencias realiza pico febril de 38.6ºc.
 ante fiebre en paciente con neutropenia severa (can 200/mcl en ultimo control) se solicitan las exploraciones complementarias citadas anteriormente y se inicia antibioterapia empirica con piperacilina-tazobactam y amikamicina endovenosas.
 ante anemia (hb 7g/dl) con taquicardia se realiza transfusion de un concentrado de hematies . nhc ** *** *** (********) ami-v-onh 3/4 lopd ingresa bajo control clinico y de constantes habitual.
 las analiticas muestran recuperacion de la cifra de neutrofilos y minima elevacion de reactantes de fase aguda (pcr maxima 2.5mg/dl).
 el dia 7.03.18 se suspende administracion de factor estimulador de colonias por recuperacion hematologica.
-inicialmente presenta algun vomito de contenido gastrico, a partir del 2Âº dia mejoria de la tolerancia oral.
+inicialmente presenta algun vomito de contenido gastrico, a partir del 2º dia mejoria de la tolerancia oral.
 dada la presentacion de epistaxis (en relacion con colocacion de sonda nasogastrica) y plaquetopenia se decide suspender temporalmente la anticoagulacion profilactica.
 el paciente se mantiene en todo momento hemodinamicamente estable y afebril.
 se mantiene antibioterapia empirica durante 48 horas hasta negatividad de los cultivos.
@@ -123,7 +123,7 @@ orientacio diagnostica d70.
 9 neutropenia no especificada c76.
 2 neoplasia maligna d'abdomen r50.
 9 febre no especificada procediments antibioterapia endovenosa hemocultivo urocultivo aspirado nasofaringeo tractament i recomanacions a l'alta - septrin comp 80/400mg: 1 comp cada 24 horas oral.
-- movicol: 1 sobre por sng por la maÃ±ana.
+- movicol: 1 sobre por sng por la mañana.
 - fortini multifibre: 180ml en 2h por sng, 4 tomas al dia.
 control acudir a control el dia 12/3/2018 en cinsultas externas de oncologia pediatrica para control clinico y analitico.
 proximo ingreso el dia 15/3/2018.

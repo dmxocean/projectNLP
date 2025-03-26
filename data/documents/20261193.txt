@@ -1,15 +1,15 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 26.08.2018 edat: 12 mesos procedencia aten.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 26.08.2018 edat: 12 mesos procedencia aten.
 primaria servei medicina pediatrica data d'ingres 11.09.2019 data d'alta 17.09.2019 14:55:14 ates per ************, ********; ****************, *******; ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 12 meses que ingresa el dia 11/09 por artritis septica de cadera derecha . antecedents no alergias medicamentosas conocidas.
 vacunas al dia.
 padres no consanguineos.
 antecedentes familiares: - padre con displasia arritmogenica del ventriculo d que requirio trasplante cardiaco.
-antecedentes patologicos: - niÃ±o en seguimiento en cardiologia sin hallazgos y por genetica.
-proces actual paciente de 12 meses que acude a urgencias por cuadro clinico de 4 dias de duracion consistente en fiebre (de maximo 38,5Âºc) que cede bien con antitermia, acompaÃ±ada de sensacion de que pueda tener dolor en cadera derecha adoptando posicion antialgica (flexion de la misma pierna) y rechazo de la marcha.
+antecedentes patologicos: - niño en seguimiento en cardiologia sin hallazgos y por genetica.
+proces actual paciente de 12 meses que acude a urgencias por cuadro clinico de 4 dias de duracion consistente en fiebre (de maximo 38,5ºc) que cede bien con antitermia, acompañada de sensacion de que pueda tener dolor en cadera derecha adoptando posicion antialgica (flexion de la misma pierna) y rechazo de la marcha.
 la familia refiere que el paciente deambula/gatea desde hace dos meses.
-no refieren otra sintomatologia sobreaÃ±adida: no vomitos, no diarrea, no dificultad respiratoria, no somnolencia, no mal estado general.
+no refieren otra sintomatologia sobreañadida: no vomitos, no diarrea, no dificultad respiratoria, no somnolencia, no mal estado general.
 ambiente epidemiologico: negativo.
-exploracio fisica fc bpm tÂªaxi 38.
-1 Âºc fr rpm tÂªrec Âºc ta s mmhg sat o2 % ta d mmhg pes 10.000 kg triangulo de evaluacion pediatrica: estable.
+exploracio fisica fc bpm tªaxi 38.
+1 ºc fr rpm tªrec ºc ta s mmhg sat o2 % ta d mmhg pes 10.000 kg triangulo de evaluacion pediatrica: estable.
 buen estado general.
 irritable a la exploracion.
 normocoloreado.
@@ -21,7 +21,7 @@ exploracion de eeii: dolor a la movilizacion activa y pasiva a la rotacion exter
 orl: orofaringe levemente hiperemica, con leve hipertrofia amigdalar sin exudados.
 otoscopia normal.
 no otorrea.
-aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreaÃ±adidos.
+aparato respiratorio: buena entrada de aire bilateral, sin signos de distres ni ruidos sobreañadidos.
 espiracion normal.
 aparato cardiocirculatorio: tonos ritmicos, pulsos perifericos presentes y simetricos.
 perfusion distal conservada.
@@ -66,7 +66,7 @@ microbiologia - hemocultivo (11/09): positivo a s.
 pneumoniae sensible.
 - cultivo intraoperatorio (12/09): negativo.
 pruebas de imagen - radiografia de cadera (11/09): sin alteraciones.
-- ecografia de cadera (11/09): minima cantidad de liquido en la articulacion coxofemoral derecha, sin engrosamiento de la sinovial ni aumento de seÃ±al doppler.
+- ecografia de cadera (11/09): minima cantidad de liquido en la articulacion coxofemoral derecha, sin engrosamiento de la sinovial ni aumento de señal doppler.
 articulacion coxofemoral izquierda sin cantidad de liquido significativa ni otras alteraciones valorables.
 - rm cadera (13/09): discreto derrame articular coxofemoral derecho con sinovitis en relacion a artritis septica ya tratada quirurgicamente.
 no se observan signos de osteomielitis/condritis subyacente.
@@ -83,7 +83,7 @@ se realizaran controles al alta.
 durante la hospitalizacion el paciente permanece hemodinamicamente estable, afebril desde el 14.09, con buena tolerancia oral y inicio de gateo tras 48 horas de la intervencion.
 ante la buena evolucion clinica se decide el alta hoy 17.09.19.
 orientacio diagnostica m19.90 artrosi de localitzacio no especificada, no especificada procediments extraccion de sangre y canalizacion de via periferica hemocultivo radiografia cadera ecografia de cadera artrotomia quirurgica resonancia magnetica tractament i recomanacions a l'alta - administrar amoxicilina (solucion 250mg/5ml): 6 ml cada 8 horas durante 2 semanas (hasta el dia 03.10.19).
-- reconsultar en caso de reaparicion de: fiebre &gt;38Âºc o rechazo a la deambulacion.
+- reconsultar en caso de reaparicion de: fiebre &gt;38ºc o rechazo a la deambulacion.
 control - control en hospital de dia de inmunologia segun citacion.
 - control en cex pediatria y traumatologia el dia 25.09.19.
 - acudir dia 16/10/2019 a hospital de dia a las 9:30 para infusion gammaglobulinas.

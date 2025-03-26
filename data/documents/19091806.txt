@@ -1,10 +1,10 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 28.10.1987 edat: 30 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 28.10.1987 edat: 30 anys procedencia domicil/res.
 soc servei obstetricia data d'ingres 17.08.2018 data d'alta 22.08.2018 12:00:00 ates per ***********, ****** informe d'alta d'hospitalitzacio motiu d'ingres amenaza de parto prematuro.
 antecedents no alergias medicamentosas conocidas.
 no intervenciones quirurgicas ni otros antecedentes patologicos.
 niega habitos toxicos.
 no medicacion habitual.
-proces actual edad: 30 aÃ±os tpal: 0000 fur: 10/02/18 sa: 26s + 6d gsrh: 0+ gestacion mc/ba controlada en umf.
+proces actual edad: 30 años tpal: 0000 fur: 10/02/18 sa: 26s + 6d gsrh: 0+ gestacion mc/ba controlada en umf.
 feto 1 con hipoplasia ventricular derecha.
 acude a urgencias por dolor lumbar bilateral, que segun el momento del dia predomina en un lado o en otro.
 no metrorragia ni hidrorrea.
@@ -23,7 +23,7 @@ nipt bajo riesgo.
 lc 34 mm.
 - eco 24+2s: mcba hipoplasia tricuspidea y vd de feto 1 -eco25+5sg.
 feto 1 cefalica, lcf+, dopplers normales, neurosonografia normal.
-feto 2: podalica, lcf+, dopplers normales, ventriculomegalia leve ac: qfpcr normal para niÃ±a.
+feto 2: podalica, lcf+, dopplers normales, ventriculomegalia leve ac: qfpcr normal para niña.
 infecciones negativas.
 - eco: feto 1 cefalica xx.
 pef 673 gr doppler normal.
@@ -37,8 +37,8 @@ fo muy redundante, y aneurismatico que protuyemucho hacia la ad, y en algunos mo
 feto 2 (xx) bioemtrias 637 gr ventricles laterals de 12 mm.
 doppler normal.
 lc 36 mm.
-exploracio fisica fc 104 bpm tÂªaxi 35.
-7 Âºc fr rpm tÂªrec Âºc ta s 147 mmhg sat o2 % ta d 94 mmhg pes kg buen estado general, normocoloreada y normohidratada expl.
+exploracio fisica fc 104 bpm tªaxi 35.
+7 ºc fr rpm tªrec ºc ta s 147 mmhg sat o2 % ta d 94 mmhg pes kg buen estado general, normocoloreada y normohidratada expl.
 abdominal: abdomen gravido de acuerdo con las semanas de gestacion.
 no hipertonia ni hipersensibilidad.
 genitales externos: sin lesiones.

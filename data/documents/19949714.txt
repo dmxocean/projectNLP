@@ -1,10 +1,10 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 10.05.1995 edat: 24 anys procedencia domicil/res.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 10.05.1995 edat: 24 anys procedencia domicil/res.
 soc servei obstetricia data d'ingres 26.05.2019 data d'alta 28.05.2019 11:00:00 ates per **************, ********; ***********, ******* informe d'alta d'hospitalitzacio motiu d'ingres pielonefritis aguda antecedents no antecedentes medico-quirurgicos de interes.
 no alergias medicamentosas conocidas no toxicos.
-proces actual edad: 23 aÃ±os tpal: 2002 (1 cesarea por sfa, 3.090g, 1 pe) fur: 21.08.2018 puerpera de parto eutocico el dia 19.05.2019.
+proces actual edad: 23 años tpal: 2002 (1 cesarea por sfa, 3.090g, 1 pe) fur: 21.08.2018 puerpera de parto eutocico el dia 19.05.2019.
 laceracion suburetral + desgarro grado i en hoquilla vaginal y laceraciones en ambas paredes vaginales que se suturan segun tecnica habitual.
 puerperio sin incidencias.
-acude por presentar fiebre de 40Âºc que remite parcialmente con paracetamol y ibuprofeno con posterior aumento de temperatura.
+acude por presentar fiebre de 40ºc que remite parcialmente con paracetamol y ibuprofeno con posterior aumento de temperatura.
 refiere dolor abdominal en una ocasion en fosa iliaca derecha durante la pasada noche que remitio y no se ha repetido.
 refiere dolor en puntos de sutura de desgarro vulvar.
 no nauseas ni vomitos.
@@ -16,8 +16,8 @@ exploracio fisica beg, c y o, nc y nh mamas anodinas expl.
 abdominal: blando y depresible.
 levemente doloroso a la palpacion profunda de fid.
 no signos de irritacion peritoneal.
-puÃ±o percusion lumbar dreecho positiva.
-puÃ±o percusion lumbar izquierda negativa.
+puño percusion lumbar dreecho positiva.
+puño percusion lumbar izquierda negativa.
 genitales externos: sutura en buen estado de cicatrizacion, sin signos flogoticos.
 especulo: cervix y paredes vaginales normales.
 loquios escasos no malolientes.

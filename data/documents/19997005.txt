@@ -1,15 +1,15 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 06.07.1940 edat: 78 anys procedencia domicil/res.
-soc servei pneumologia data d'ingres 10.06.2019 data d'alta 14.06.2019 09:05:44 ates per ************, ***; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 78 aÃ±os que ingresa de forma programada para estudio de derrame pleural . antecedents niega alergias medicamentosas.
-ex-fumador desde hace 4 aÃ±os de 4-5 puros al dia desde los 23 aÃ±os.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 06.07.1940 edat: 78 anys procedencia domicil/res.
+soc servei pneumologia data d'ingres 10.06.2019 data d'alta 14.06.2019 09:05:44 ates per ************, ***; **************, ***** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 78 años que ingresa de forma programada para estudio de derrame pleural . antecedents niega alergias medicamentosas.
+ex-fumador desde hace 4 años de 4-5 puros al dia desde los 23 años.
 antecedentes patologicos: - hipertension arterial por la que actualmente no sigue tratamiento farmacologico.
 - dislipemia por la que actualmente sigue tratamiento farmacologico.
 - estenosis aortica severa con coronariografia prequirurgica con lesion critica tc-cx.
-sometido julio â€˜17 a recambio valvular por bioprotesis (trifecta 21mm) y cabg mediante ami-da.
-ett (sept â€˜18) con fevi conservada y protesis normofuncionante.
+sometido julio ‘17 a recambio valvular por bioprotesis (trifecta 21mm) y cabg mediante ami-da.
+ett (sept ‘18) con fevi conservada y protesis normofuncionante.
 antecedentes neumologicos: -derrame pleural izquierdo diagnosticado en postoperatorio de recambio valvular aortico (7.2017) persistente en controles posteriores, con estudio radiologico en 1.2019 (tcar) en el que se visualiza persistencia del mismo y condensacion basal izquierda con broncograma orientando como primera opcion diagnostica proceso inflamatrio/infeccioso.
 ante estos resultados el paciente fue remitido a neumologia para valoracion (dr *****), desde donde tras persistencia en controles sucesivosl se decide ingreso para estudio.
 no cumple criterios de bronquitis cronica.
-en los ultimos dos aÃ±os refiere sintomas compatibles con hiperrreactividad bronquial en contexto de infecciones respiratorias.
+en los ultimos dos años refiere sintomas compatibles con hiperrreactividad bronquial en contexto de infecciones respiratorias.
 no infecciones respiratorias frecuentes.
 no disnea de esfuerzo habitual.
 no exposicion a asbesto.
@@ -22,10 +22,10 @@ pruebas complementarias: -pfr (julio 2017): fvc 2.59l (57.
 como primera opcion diagnostica proceso inflamatorio/infeccioso, a correlacionar con la clinica y valorar nuevo control en 4-6 semanas.
 situacion sociofuncional: ha trabajado de administrativo.
 independiente para actividades basicas de la vida diaria.
-medicacio habitual adiro 100mg 1cp/24h, carvedilol 6.25mg 0.5cp/12h, atorvastatina 40mg 1cp/24h, omeprazol 20mg 1 cp/24h, tamsulosina 0.4mg 1cp/24h proces actual paciente de 78 aÃ±os con los antecedentes anteriormente descritos, que ingresa de forma programada desde cex de nml para estudio de derrame pleural en pulmon izquierdo objetivado mediante estudio radiologico en 1.2019, nhc ** *** *** &nbsp;(********) &nbsp;age-v-nml 1/3 lopd con estabilidad en seguimiento radiologico.
-niega sintomatologia aÃ±adida.
-exploracio fisica fc 69 bpm tÂªaxi Âºc fr 20 rpm tÂªrec Âºc ta s 139 mmhg sat o2 98.00 % ta d 76 mmhg pes kg exploracion fisica en planta: constantes: pa 130/79mmhg, fc 63lpm, tÂª 35.1Âºc, sato2 96%aa estado general conservado, normocoloreado, normohidratado, correcta perfusion periferica, afebril.
-ar: eupneico, murmullo vesicular conservado sin ruidos sobreaÃ±adidos con hipofonesis en hemitorax izquierdo.
+medicacio habitual adiro 100mg 1cp/24h, carvedilol 6.25mg 0.5cp/12h, atorvastatina 40mg 1cp/24h, omeprazol 20mg 1 cp/24h, tamsulosina 0.4mg 1cp/24h proces actual paciente de 78 años con los antecedentes anteriormente descritos, que ingresa de forma programada desde cex de nml para estudio de derrame pleural en pulmon izquierdo objetivado mediante estudio radiologico en 1.2019, nhc ** *** *** &nbsp;(********) &nbsp;age-v-nml 1/3 lopd con estabilidad en seguimiento radiologico.
+niega sintomatologia añadida.
+exploracio fisica fc 69 bpm tªaxi ºc fr 20 rpm tªrec ºc ta s 139 mmhg sat o2 98.00 % ta d 76 mmhg pes kg exploracion fisica en planta: constantes: pa 130/79mmhg, fc 63lpm, tª 35.1ºc, sato2 96%aa estado general conservado, normocoloreado, normohidratado, correcta perfusion periferica, afebril.
+ar: eupneico, murmullo vesicular conservado sin ruidos sobreañadidos con hipofonesis en hemitorax izquierdo.
 acv: tonos cardiacos ritmicos, no ausculto soplos ni roce pericardico, pulsos perifericos presentes y simetricos, no ingurgitacion yugular, sin edemas en extremidades inferiores, sin signos de trombosis venosa profunda.
 nrl: vigil y orientado en las tres esferas, lenguaje conservado, moviliza las cuatro extremidades.
 exploracio complementaria ecografia toracica : se identifica liquido pleural izquierdo con septos en su interior, condicionando colapso del lii.
@@ -38,7 +38,7 @@ ada pendiente de resultado.
 citologia lp: pendiente de resultados.
 microbiologia de lp: pendiente de resultados.
 rxtx control: sin signos de neumotorax.
-evolucio clinica varon de 78 aÃ±os que ingresa de forma programada para estudio de derrame pleural izquierdo sin compromiso hemodinamico ni respiratorio.
+evolucio clinica varon de 78 años que ingresa de forma programada para estudio de derrame pleural izquierdo sin compromiso hemodinamico ni respiratorio.
 se realiza toracocentesis diagnostica, sin incidencias, que es compatible con trasudado segun los criterios de light; se cursan muestras para ada, microbiologia y anatomia patologica, que restan pendientes al alta.
 dado la estabilidad clinica, se decide alta hospitalaria, con posterior control en cex de nml para valoracion de resultados.
 orientacio diagnostica j90 embassament pleural no classificat a cap altre lloc procediments 89.08 altra consulta nhc ** *** *** &nbsp;(********) &nbsp;age-v-nml 2/3 lopd tractament i recomanacions a l'alta tratamiento habitual sin cambios.

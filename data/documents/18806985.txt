@@ -1,10 +1,10 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 26.05.2016 edat: 23 mesos procedencia domicil/res.
-soc servei medicina d'urgencies ped data d'ingres 14.05.2018 data d'alta 14.05.2018 20:10:08 ates per *************, ******; **************, ********; *****************, ***********, ************, **** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 23 meses que ingresa en sala de observacion de urgencias pediatricas por crisis asmatica y necesidad de oxigenoterapia . antecedents sin alergias medicamentosas calendario vacunal al dia bronquiolitis el aÃ±o pasado que no requirio ingreso.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 26.05.2016 edat: 23 mesos procedencia domicil/res.
+soc servei medicina d'urgencies ped data d'ingres 14.05.2018 data d'alta 14.05.2018 20:10:08 ates per *************, ******; **************, ********; *****************, ***********, ************, **** informe d'alta d'hospitalitzacio motiu d'ingres paciente de 23 meses que ingresa en sala de observacion de urgencias pediatricas por crisis asmatica y necesidad de oxigenoterapia . antecedents sin alergias medicamentosas calendario vacunal al dia bronquiolitis el año pasado que no requirio ingreso.
 no ha presentado nuevos episodios de sibilancias.
-proces actual refieren el jueves pico febril de 39Âºc y ayer febricula de 37.5Âºc.
+proces actual refieren el jueves pico febril de 39ºc y ayer febricula de 37.5ºc.
 desde ayer ademas tos, irritabilidad y esta noche ha comenado con dificultad respiratoria y taquipnea por lo que han decidido acudir a urgencias.
-exploracio fisica fc bpm tÂªaxi 36.
-7 Âºc fr 40 rpm tÂªrec Âºc ta s mmhg sat o2 91 % ta d mmhg pes 10.600 kg tep inestable por taquipnea y tiraje subcostal.
+exploracio fisica fc bpm tªaxi 36.
+7 ºc fr 40 rpm tªrec ºc ta s mmhg sat o2 91 % ta d mmhg pes 10.600 kg tep inestable por taquipnea y tiraje subcostal.
 irritable, normohidratado, normocoloreado y normoperfundio.
 no lesiones en piel.
 - orl: faringe hiperemica sin adenopatias ni exudados.
@@ -33,7 +33,7 @@ orientacio diagnostica j20.
 - estilsona (suspension oral 7mg / ml) 0,7 ml cada 12h durante 3 dias.
 - lavados nasales con suero fisiologico frecuentes.
 - recomendaciones generales: fraccionar las prisas, incorporar el cabezal de la cama para mejorar el descanso nocturno, evitar la exposicion al humo del tabaco.
-- si fiebre (&gt; 38Âºc): paracetamol (suspension oral 100 mg/ml) 1,5 ml o ibuprofeno (suspension oral 20 mg/ml) 2,5 ml cada 6-8 horas (si precisa alternar cada 4 horas).
+- si fiebre (&gt; 38ºc): paracetamol (suspension oral 100 mg/ml) 1,5 ml o ibuprofeno (suspension oral 20 mg/ml) 2,5 ml cada 6-8 horas (si precisa alternar cada 4 horas).
 - signos de reconsulta: somnolencia o hipoactividad marcada, fiebre alta mantenida, mal estado general, vomitos abundantes, irritablidad.
 control control por pediatra de zona.
 destinacio a l'alta: a domicili nhc ** *** *** (********) ami-v-mum 2/2 lopd

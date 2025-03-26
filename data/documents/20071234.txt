@@ -1,4 +1,4 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: home data de naixement: 27.09.1993 edat: 25 anys procedencia cex mateix hosp servei otorrinolaringologia data d'ingres 04.07.2019 data d'alta 06.07.2019 08:09:28 ates per *************, *****; **************, ****** informe d'alta d'hospitalitzacio motiu d'ingres intervencion quirurgica programada.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: home data de naixement: 27.09.1993 edat: 25 anys procedencia cex mateix hosp servei otorrinolaringologia data d'ingres 04.07.2019 data d'alta 06.07.2019 08:09:28 ates per *************, *****; **************, ****** informe d'alta d'hospitalitzacio motiu d'ingres intervencion quirurgica programada.
 antecedents no ramc antecedentes patologicos: - absceso parafaringeo (x2) proces actual paciente ingresa para realizar intervencion quirurgica programada: amigdalectomia extracapsular bilateral.
 consentimiento informado firmado.
 valoracion preanestesica completa.

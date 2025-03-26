@@ -1,9 +1,9 @@
-nÂº historia clinica: ** *** *** nÂºepisodi: ******** sexe: dona data de naixement: 06.11.1963 edat: 54 anys procedencia cex mateix hosp servei raquis data d'ingres 01.08.2018 data d'alta 08.08.2018 11:24:04 ates per sol.
+nº historia clinica: ** *** *** nºepisodi: ******** sexe: dona data de naixement: 06.11.1963 edat: 54 anys procedencia cex mateix hosp servei raquis data d'ingres 01.08.2018 data d'alta 08.08.2018 11:24:04 ates per sol.
 licitant, sol.
-licitant; ****************, ******; **********, *****; *********, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents antecedents patologic asma intermitent lleu, sense complicacions altres tipus d'hiperlipidemia hipertensio (primaria) essencial paciente intervenida previamente de artroplastita cervivcal c5c6 y c6c7 hace 5 aÃ±os secundario a fracturas en contexto de accidente de trafico.
+licitant; ****************, ******; **********, *****; *********, ***** informe d'alta d'hospitalitzacio motiu d'ingres ingres iq antecedents antecedents patologic asma intermitent lleu, sense complicacions altres tipus d'hiperlipidemia hipertensio (primaria) essencial paciente intervenida previamente de artroplastita cervivcal c5c6 y c6c7 hace 5 años secundario a fracturas en contexto de accidente de trafico.
 sindrome de fatiga cronica, fibromialgia, refiere estar cansada todo el dia.
 obesidad.
-// j45.20 ("asma intermitent lleu, sense complicacions") // j45.20 ("asma intermitent lleu, sense complicacions") otras intervenciones: monorrena(retirade riÃ±on izquierdo), ligadura tubarica, histerctomia, artrodsis cervial c6, medicacio habitual medicacion ( anagastra,citalopram,deprax,hidroclorotiazida,valsartan, relvar, ventolin, simvastatina,lyrica,deprax ) proces actual paciente que ingresa de fomra porgramada para intervenirse de pfsi cervical a cargo de la unidad de raquis . exploracio complementaria pruebas comeplementarias que no contraindican la cirugia.
+// j45.20 ("asma intermitent lleu, sense complicacions") // j45.20 ("asma intermitent lleu, sense complicacions") otras intervenciones: monorrena(retirade riñon izquierdo), ligadura tubarica, histerctomia, artrodsis cervial c6, medicacio habitual medicacion ( anagastra,citalopram,deprax,hidroclorotiazida,valsartan, relvar, ventolin, simvastatina,lyrica,deprax ) proces actual paciente que ingresa de fomra porgramada para intervenirse de pfsi cervical a cargo de la unidad de raquis . exploracio complementaria pruebas comeplementarias que no contraindican la cirugia.
 evolucio clinica el 01/08 se interveiena ala paciente de pfsi cervical mediante sistema mountainier por los dres ramirez y soza sin incidencias intraoperatorias.
 durante su estancia hospitalaria postoperatori la paciente se mantiene hemodinamicamente estable y con buen control del dolor.
 presenta herida quirurgica con buena evolucion.
@@ -12,7 +12,7 @@ diuresis y deposciciones conservadas, dieta bien tolerada.
 se realiza tc el dia 7.8.2018, de control, valorado por equipo de raquis, sin alteraciones que requieran de tto en el momento actual.
 nhc ** *** *** (********) atr-v-raq 1/2 lopd debido a la buena evolucion se decide alta hospitalaria bajo las siguientes indicaciones.
 orientacio diagnostica 336.
-9/3 mielopatia g95.29 altres tipus de compressio medulÂ·lar tractament i recomanacions a l'alta reposo relativo curas topicas periodicas.
+9/3 mielopatia g95.29 altres tipus de compressio medul·lar tractament i recomanacions a l'alta reposo relativo curas topicas periodicas.
 retirada de agrafes cutaneos en 15 dias postoperatorios.
 collarin cervical hasta visita en cex para sedestacion y deambulacion (blando).
 para usar transporte publico o desplazamiento en coche usar collarin rigido.
