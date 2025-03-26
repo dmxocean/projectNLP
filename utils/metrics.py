@@ -1,3 +1,4 @@
+from typing import Optional
 import pandas as pd
 
 def _get_entities_as_set(df: pd.DataFrame) -> set:
@@ -15,7 +16,7 @@ def _get_entities_as_set(df: pd.DataFrame) -> set:
 
 # --- Function to Calculate Entity Matching Accuracy ---
 
-def calculate_entity_accuracy(df_true: pd.DataFrame, df_pred: pd.DataFrame) -> float:
+def calculate_entity_accuracy(df_true: pd.DataFrame, df_pred: pd.DataFrame, verbose: Optional[int] = 0) -> float:
     """
     Calculates the overall entity matching accuracy using the Jaccard Index method.
     Accuracy = TP / (TP + FP + FN)
@@ -36,9 +37,10 @@ def calculate_entity_accuracy(df_true: pd.DataFrame, df_pred: pd.DataFrame) -> f
     fp = len(pred_entities - true_entities)
     fn = len(true_entities - pred_entities)
 
-    print(f"True Positives (TP): {tp}")
-    print(f"False Positives (FP): {fp}")
-    print(f"False Negatives (FN): {fn}")
+    if verbose:
+        print(f"True Positives (TP): {tp}")
+        print(f"False Positives (FP): {fp}")
+        print(f"False Negatives (FN): {fn}")
 
     denominator = tp + fp + fn
 
