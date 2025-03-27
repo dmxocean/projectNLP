@@ -61,6 +61,7 @@ EOF
                         pythonPackages.numpy
                         pythonPackages.pandas
                         pythonPackages.spacy
+                        pythonPackages.nltk
                         pythonPackages.pytest
                         pythonPackages.venvShellHook
                         pythonPackages.ipykernel
