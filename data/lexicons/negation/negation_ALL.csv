@@ -1,29 +1,36 @@
 term,freq,language,POS
 no,1909,es,adverb
+no,1909,ca,adverb
 sin,1423,es,preposition
 negativo,200,es,adjective
 afebril,188,es,noun
+afebril,188,ca,noun
 niega,136,es,verb
 negativos,92,es,adjective
 ausencia de,64,es,noun
 negativa,53,es,adjective
-sense,40,es,adjective
+sense,40,ca,preposition
 neg,35,es,noun
+neg,35,ca,adverb
 negativas,24,es,noun
 asintomatica,11,es,verb
 asintomatico,10,es,verb
 ex,9,es,adjective
-descarta,8,es,verb
+ex,9,ca,other
+descarta,8,ca,verb
 inespecifico,8,es,adjective
 falta de,7,es,noun
 impide,5,es,verb
 ex-,4,es,prefix
+ex-,4,ca,prefix
 exfumador,4,es,noun
 se retira,4,es,verb
 tampoco,4,es,adverb
 nega,4,es,verb
+nega,4,ca,verb
 cede,4,es,other
-descartada,3,es,adjective
+cede,4,ca,noun
+descartada,3,ca,adjective
 desaparicion de,3,es,phrase
 inespecificos,3,es,adjective
 inestabilidad,3,es,noun
@@ -31,7 +38,8 @@ retiro,3,es,noun
 negativo),3,es,adjective
 negatividad de,3,es,noun
 retirar,3,es,verb
-negatiu,3,es,verb
+retirar,3,ca,verb
+negatiu,3,ca,adjective
 excepto,2,es,preposition
 desorientacion,2,es,other
 niegan,2,es,verb
@@ -42,14 +50,19 @@ se desestimo,1,es,verb
 suspendido,1,es,adjective
 negaitvo,1,es,adjective
 ex fumador,1,es,noun
+ex fumador,1,ca,determiner
 desorientado,1,es,adjective
 ceden,1,es,verb
 irregulares,1,es,noun
 indetectable,1,es,adjective
+indetectable,1,ca,adjective
 negatividad,1,es,noun
+negatividad,1,ca,other
 imposibilidad,1,es,noun
+imposibilidad,1,ca,adjective
 se suspende,1,es,verb
 negativa),1,es,adjective
+negativa),1,ca,adjective
 ninguno,1,es,pronoun
 rechaza,1,es,verb
 en ninguna,1,es,determiner
