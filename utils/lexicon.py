@@ -694,3 +694,82 @@ def process_lexicons_with_language(
         print(f"Words in both languages - Uncertainty: {terms_with_both_unc}")
 
     return neg_lexicon, unc_lexicon
+
+def determine_POS(term, language):
+    """
+    Determine the part of speech (POS) for a term
+    
+    Parameters:
+        term (str): The term to analyze
+        language (str): Language of the term ("es" or "ca")
+        
+    Returns:
+        str: Part of speech category
+    """
+    term = term.strip().lower()
+    
+    # Handle special cases
+    if not term:
+        return "NA"  # Empty term
+    
+    # Check for prefixes and suffixes
+    prefixes = ["in", "im", "i", "des", "dis", "a"]
+    if term in prefixes or term.endswith("-"):
+        return "prefix"
+    
+    if term.startswith("-"):
+        return "suffix"
+    
+    global nlp_es, nlp_ca
+    
+    nlp_es, nlp_ca = load_spacy_models()
+    
+    if nlp_es is None or nlp_ca is None:
+        return "unknown"
+    
+    # Select appropriate model
+    nlp = nlp_ca if language == "ca" else nlp_es
+    
+    # Process with spaCy
+    doc = nlp(term)
+    
+    # Map spaCy's universal POS tags to categories
+    pos_map = {
+        "ADV": "adverb",
+        "VERB": "verb",
+        "ADP": "preposition",
+        "DET": "determiner",
+        "ADJ": "adjective",
+        "NOUN": "noun",
+        "PRON": "pronoun",
+        "CCONJ": "conjunction",
+        "SCONJ": "conjunction"
+    }
+    
+    # Handle multi-word expressions
+    if len(doc) > 1:
+        # Look for the root of the phrase
+        roots = [token for token in doc if token.dep_ == "ROOT"]
+        if roots:
+            pos = roots[0].pos_
+            return pos_map.get(pos, "phrase")
+        else:
+            return "phrase"
+    
+    # Handle single-word expressions
+    if len(doc) == 1:
+        pos = doc[0].pos_
+        return pos_map.get(pos, "other")
+    
+    return "NA"  # Default fallback
+
+# Apply POS tagging
+print("Determining POS for negation terms...")
+neg_lexicon["POS"] = neg_lexicon.apply(
+    lambda row: determine_POS(row["term"], row["language"]), axis=1
+)
+
+print("Determining POS for uncertainty terms...")
+unc_lexicon["POS"] = unc_lexicon.apply(
+    lambda row: determine_POS(row["term"], row["language"]), axis=1
+)

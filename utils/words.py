@@ -1,4 +1,6 @@
-negation ={
+# Manual language classifications
+
+negation = {
     "no": "es",
     "no": "ca",
     "sin": "es",
@@ -71,6 +73,7 @@ negation ={
     "desaparicion del": "es",
     "negatividad del": "es",
     "atipicos": "es",
+    "inespecifico:": "es",
 }
 
 uncertainty = {
@@ -172,4 +175,5 @@ uncertainty = {
     "dubtos": "ca",
 }
 
+# Combined dictionary for faster lookups
 allclassifications = {**negation, **uncertainty}

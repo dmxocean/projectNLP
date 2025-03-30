@@ -493,8 +493,8 @@ class AnnotationProcessor:
                                             "doc_id": doc_id,
                                             "result_id": res_id,
                                             "word_idx": token_start,  # Start token index relative to line
-                                            "token_start": token_start,  # Explicitly keep both if needed
-                                            "token_end": token_end,  # Exclusive end token index relative to line
+                                            "start": token_start,  # Explicitly keep both if needed
+                                            "end": token_end,  # Exclusive end token index relative to line
                                             "label": label,
                                             "text": segment_text_original,  # Text from original doc span
                                             "line_number": line_id,
@@ -611,4 +611,3 @@ def remove_punctuation_dataframe(df):
             tokens = remove_punctuation(tokens)
             df.loc[index, "clean_text"] = " ".join(tokens)
     return df
-

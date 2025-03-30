@@ -10,6 +10,8 @@ def _get_entities_as_set(df: pd.DataFrame) -> set:
     for _, row in df.iterrows():
         entities.add((
             str(row['line_number']),
+            #str(row['start']),
+            #str(row['end']),
             str(row['label'])
         ))
     return entities
@@ -46,7 +48,7 @@ def calculate_entity_accuracy(df_true: pd.DataFrame, df_pred: pd.DataFrame, verb
 
     if denominator == 0:
         # If there are no true entities and no predicted entities, accuracy is 100%
-        return 1.0
+        raise ValueError("No entities found in the ground truth or predictions.")
     else:
         accuracy = tp / denominator
         return accuracy
