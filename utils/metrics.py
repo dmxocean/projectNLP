@@ -10,6 +10,8 @@ def _get_entities_as_set(df: pd.DataFrame) -> set:
     for _, row in df.iterrows():
         entities.add((
             str(row['line_number']),
+            #str(row['start']),
+            #str(row['end']),
             str(row['label'])
         ))
     return entities
