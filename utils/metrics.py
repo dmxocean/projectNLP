@@ -48,7 +48,7 @@ def calculate_entity_accuracy(df_true: pd.DataFrame, df_pred: pd.DataFrame, verb
 
     if denominator == 0:
         # If there are no true entities and no predicted entities, accuracy is 100%
-        raise ValueError("No entities found in the ground truth or predictions.")
+        return 1.0
     else:
         accuracy = tp / denominator
         return accuracy
