@@ -9,6 +9,64 @@ from typing import Callable, Optional
 from nltk.tokenize.api import TokenizerI  # For type hinting
 
 
+def parse_tokens_with_lexical_grammar(
+    grammar: nltk.CFG, sentence_tokens: list[str]
+) -> list[str]:
+    """
+    Applies a purely lexical NLTK grammar to map tokens in a sentence.
+
+    This function iterates through the grammar's lexical rules (LEMMA -> 'word')
+    to build a word-to-lemma lookup map. It then iterates through the input
+    tokens, replacing any known token (case-insensitive) with its corresponding
+    lemma symbol from the grammar. Tokens not found in the grammar are
+    returned unchanged.
+
+    This is NOT syntactic parsing but rather a form of lexical normalization or tagging.
+
+    Args:
+        grammar: An nltk.CFG object containing primarily lexical rules.
+                 It must have been successfully created (not None).
+        sentence_tokens: A list of strings representing the tokenized sentence.
+
+    Returns:
+        A list of strings where known tokens are replaced by their lemma
+        symbols from the grammar. Returns the original list if grammar is
+        invalid or sentence is empty.
+    """
+    if not isinstance(grammar, nltk.CFG) or not sentence_tokens:
+        return sentence_tokens  # Return original if grammar invalid or no tokens
+
+    word_to_lemma_map: dict[str, str] = {}
+    try:
+        for production in grammar.productions():
+            # Check if it's a lexical rule like: LEMMA -> 'word'
+            if production.is_lexical() and isinstance(production.rhs()[0], str):
+                word = production.rhs()[
+                    0
+                ]  # The terminal word from CFG (should be lowercase)
+                lemma = (
+                    production.lhs().symbol()
+                )  # The non-terminal lemma string (e.g., '_negativo')
+                word_to_lemma_map[word] = lemma
+    except Exception as e:
+        print(f"Error processing grammar productions: {e}")
+        return sentence_tokens  # Return original tokens on error
+
+    if not word_to_lemma_map:
+        print("Warning: No lexical rules found in the grammar to build a map.")
+        # Fall through to map_tokens_to_lemmas, which will just return original tokens
+
+    # 2. Map input tokens using the created map
+    mapped_output = []
+    for token in sentence_tokens:
+        # Lookup the lowercase version of the token in the map
+        # If not found, default to the original token itself
+        lemma = word_to_lemma_map.get(token.lower(), token)
+        mapped_output.append(lemma)
+
+    return mapped_output
+
+
 def json_structure(data, max_depth=5, current_depth=0, path="root"):
     """
     Recursively explore and print the structure of JSON data up to a specified depth
@@ -208,17 +266,23 @@ class AnnotationProcessor:
     relative to each line.
     """
 
-    def __init__(self, tokenizer: TokenizerI, get_stops_function: StopFunction):
+    def __init__(
+        self,
+        tokenizer: TokenizerI,
+        get_stops_function: StopFunction,
+        grammar: Optional[nltk.CFG] = None,
+    ):
         """
         Initializes the AnnotationProcessor.
 
         Args:
             tokenizer: A tokenizer instance that implements the NLTK TokenizerI
-                       interface and crucially has a `span_tokenize` method
-                       (e.g., nltk.tokenize.TreebankWordTokenizer()).
+                         interface and crucially has a `span_tokenize` method
+                         (e.g., nltk.tokenize.TreebankWordTokenizer()).
             get_stops_function: A function that takes a text string and returns
-                                a sorted list of character indices representing
-                                the end of segments (lines).
+                                 a sorted list of character indices representing
+                                 the end of segments (lines).
+            grammar: An optional nltk.CFG object for lexical normalization.
         """
         if not hasattr(tokenizer, "span_tokenize") or not callable(
             tokenizer.span_tokenize
@@ -229,6 +293,7 @@ class AnnotationProcessor:
 
         self.tokenizer = tokenizer
         self.get_stops = get_stops_function
+        self.grammar = grammar
         print("AnnotationProcessor initialized.")
 
     def _map_char_to_token_span(
@@ -280,12 +345,11 @@ class AnnotationProcessor:
         ):
             return start_token_idx, end_token_idx_inclusive + 1
         else:
-            # print(f"Debug: Failed mapping char span ({char_start},{char_end}) with token spans: {token_char_spans[:5]}...")
             return None, None
 
     def _split_and_cache_lines(
         self, doc_id: str, original_text: str, silent: bool = False
-    ) -> tuple[
+    ) -> list[
         list[tuple[int, int]],
         dict[str, str],
         dict[str, list[tuple[int, int]]],
@@ -350,10 +414,7 @@ class AnnotationProcessor:
         return line_offsets, line_id_to_text_map, line_id_to_spans_map, lines_for_file
 
     def process_data(
-        self,
-        data: list[dict],
-        output_dir: str = "../data/documents",
-        silent: bool = False,
+        self, data: list[dict], output_dir: str = "../data/documents", silent: bool = False
     ) -> pd.DataFrame:
         """
         Processes a list of documents to extract annotations, save line-split files,
@@ -365,7 +426,7 @@ class AnnotationProcessor:
             silent: Suppress warnings.
 
         Returns:
-            DataFrame with processed annotations including 'word_idx', 'token_start', 'token_end'.
+            DataFrame with processed annotations including 'line_id', 'annotation_id', 'start', 'end', 'label', 'text'.
         """
         all_rows = []
 
@@ -409,7 +470,7 @@ class AnnotationProcessor:
                 continue
 
             for pred in doc.get("predictions", []):
-                for res in pred.get("result", []):
+                for res_index, res in enumerate(pred.get("result", [])):  # Enumerate results
                     if not isinstance(res.get("value"), dict) or not all(
                         k in res["value"] for k in ["start", "end", "labels"]
                     ):
@@ -452,9 +513,7 @@ class AnnotationProcessor:
                             ]
                             leading_whitespace = len(
                                 original_line_slice_for_strip_calc
-                            ) - len(
-                                original_line_slice_for_strip_calc.lstrip(" \t\n\r")
-                            )
+                            ) - len(original_line_slice_for_strip_calc.lstrip(" \t\n\r"))
 
                             char_start_in_line_rel_strip = max(
                                 0, original_start - line_s - leading_whitespace
@@ -483,21 +542,18 @@ class AnnotationProcessor:
                             )
 
                             # --- Store results ---
-                            if (
-                                token_start is not None
-                            ):  # Check if mapping was successful
+                            if token_start is not None:  # Check if mapping was successful
                                 for label in labels:
                                     all_rows.append(
                                         {
                                             "doc_index": doc_index,
                                             "doc_id": doc_id,
-                                            "result_id": res_id,
-                                            "word_idx": token_start,  # Start token index relative to line
-                                            "start": token_start,  # Explicitly keep both if needed
+                                            "line_id": line_id,
+                                            "annotation_id": f"{line_id}_{res_index}",  # Define annotation_id
+                                            "start": token_start,  # Start token index relative to line
                                             "end": token_end,  # Exclusive end token index relative to line
                                             "label": label,
                                             "text": segment_text_original,  # Text from original doc span
-                                            "line_number": line_id,
                                         }
                                     )
                             elif not silent:
@@ -516,6 +572,67 @@ class AnnotationProcessor:
         df = pd.DataFrame(all_rows)
         print(f"Finished processing. Generated {len(df)} annotation rows.")
         return df
+
+    def _apply_lexical_grammar(self, sentence_tokens: list[str]) -> list[str]:
+        """
+        Applies a lexical grammar to normalize tokens.
+        """
+        if self.grammar:
+            return parse_tokens_with_lexical_grammar(self.grammar, sentence_tokens)
+        else:
+            return sentence_tokens
+
+
+def parse_tokens_with_lexical_grammar(grammar: nltk.CFG, sentence_tokens: list[str]) -> list[str]:
+    """
+    Applies a purely lexical NLTK grammar to map tokens in a sentence.
+
+    This function iterates through the grammar's lexical rules (LEMMA -> 'word')
+    to build a word-to-lemma lookup map. It then iterates through the input
+    tokens, replacing any known token (case-insensitive) with its corresponding
+    lemma symbol from the grammar. Tokens not found in the grammar are
+    returned unchanged.
+
+    This is NOT syntactic parsing but rather a form of lexical normalization or tagging.
+
+    Args:
+        grammar: An nltk.CFG object containing primarily lexical rules.
+                    It must have been successfully created (not None).
+        sentence_tokens: A list of strings representing the tokenized sentence.
+
+    Returns:
+        A list of strings where known tokens are replaced by their lemma
+        symbols from the grammar. Returns the original list if grammar is
+        invalid or sentence is empty.
+    """
+    if not isinstance(grammar, nltk.CFG) or not sentence_tokens:
+        return sentence_tokens  # Return original if grammar invalid or no tokens
+
+    word_to_lemma_map: dict[str, str] = {}
+    try:
+        for production in grammar.productions():
+            # Check if it's a lexical rule like: LEMMA -> 'word'
+            if production.is_lexical() and isinstance(production.rhs()[0], str):
+                word = production.rhs()[0]  # The terminal word from CFG (should be lowercase)
+                lemma = production.lhs().symbol()  # The non-terminal lemma string (e.g., '_negativo')
+                word_to_lemma_map[word] = lemma
+    except Exception as e:
+        print(f"Error processing grammar productions: {e}")
+        return sentence_tokens  # Return original tokens on error
+
+    if not word_to_lemma_map:
+        print("Warning: No lexical rules found in the grammar to build a map.")
+        # Fall through to map_tokens_to_lemmas, which will just return original tokens
+
+    # 2. Map input tokens using the created map
+    mapped_output = []
+    for token in sentence_tokens:
+        # Lookup the lowercase version of the token in the map
+        # If not found, default to the original token itself
+        lemma = word_to_lemma_map.get(token.lower(), token)
+        mapped_output.append(lemma)
+
+    return mapped_output
 
 
 def get_punctuation_stops(text: str) -> list[int]:
