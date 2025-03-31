@@ -13,6 +13,7 @@ requirements.txt
 
 # Ignore documents in data folder
 data/documents/*.txt
+data/documents_test/*.txt
 
 # Python-specific ignores
 __pycache__/
