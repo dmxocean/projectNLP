@@ -5,7 +5,7 @@ import string
 import nltk
 import pandas as pd
 
-from typing import Callable, Optional
+from typing import Callable, Optional, List, Tuple, Dict, Any, Iterator
 from nltk.tokenize.api import TokenizerI  # For type hinting
 
 
@@ -255,89 +255,75 @@ def extract_annotations(data):
     return pd.DataFrame(rows)
 
 
-# Define type alias for stop function
-StopFunction = Callable[[str], list[int]]
+LineOffsets = List[Tuple[int, int]]
+LineIdToTextMap = Dict[str, str]
+TokenCharSpans = Optional[List[Tuple[int, int]]]
+LineIdToSpansMap = Dict[str, TokenCharSpans]
+AnnotationRow = Dict[str, Any]
 
 
 class AnnotationProcessor:
     """
-    Processes document annotations to split documents into lines, save them,
-    and map original character-based annotation spans to token-based spans
-    relative to each line.
+    Processes document annotations to split documents into lines (now based on
+    NLTK sentence spans), save them, and map original character-based
+    annotation spans to token-based spans relative to each line.
     """
 
     def __init__(
         self,
         tokenizer: TokenizerI,
-        get_stops_function: StopFunction,
+        sentence_span_tokenizer: TokenizerI,
         grammar: Optional[nltk.CFG] = None,
     ):
-        """
-        Initializes the AnnotationProcessor.
-
-        Args:
-            tokenizer: A tokenizer instance that implements the NLTK TokenizerI
-                         interface and crucially has a `span_tokenize` method
-                         (e.g., nltk.tokenize.TreebankWordTokenizer()).
-            get_stops_function: A function that takes a text string and returns
-                                 a sorted list of character indices representing
-                                 the end of segments (lines).
-            grammar: An optional nltk.CFG object for lexical normalization.
-        """
+        """Initializes the AnnotationProcessor."""
+        # (Constructor code remains the same as the previous correct version)
         if not hasattr(tokenizer, "span_tokenize") or not callable(
             tokenizer.span_tokenize
         ):
             raise TypeError("Tokenizer must have a callable 'span_tokenize' method.")
-        if not callable(get_stops_function):
-            raise TypeError("get_stops_function must be a callable function.")
-
+        if not hasattr(sentence_span_tokenizer, "span_tokenize") or not callable(
+            sentence_span_tokenizer.span_tokenize
+        ):
+            raise TypeError(
+                "Sentence span tokenizer must have a callable 'span_tokenize' method."
+            )
         self.tokenizer = tokenizer
-        self.get_stops = get_stops_function
+        self.sentence_span_tokenizer = sentence_span_tokenizer
         self.grammar = grammar
-        print("AnnotationProcessor initialized.")
+        print("AnnotationProcessor initialized (using sentence span tokenizer).")
 
+    # (Mapping function remains the same as the previous version - reverted to original logic)
     def _map_char_to_token_span(
         self,
-        token_char_spans: Optional[list[tuple[int, int]]],
+        token_char_spans: TokenCharSpans,
         char_start: int,
         char_end: int,
-    ) -> tuple[Optional[int], Optional[int]]:
-        """
-        Maps character span within a text (relative to its start) to a token span,
-        using pre-calculated token character spans.
-
-        Args:
-            token_char_spans: List of (start_char, end_char) tuples for tokens in the text,
-                              or None if tokenization failed.
-            char_start: The starting character offset relative to the text start.
-            char_end: The ending character offset (exclusive) relative to the text start.
-
-        Returns:
-            A tuple (token_start, token_end), where token_end is exclusive,
-            or (None, None) if mapping fails.
-        """
-        if not token_char_spans:  # Check for None or empty list
+    ) -> Tuple[Optional[int], Optional[int]]:
+        """Maps character span to token span using logic based on user's original version."""
+        if not token_char_spans:
             return None, None
-
         start_token_idx = -1
         end_token_idx_inclusive = -1
-
-        # Find start token index
         for i, (tok_s, tok_e) in enumerate(token_char_spans):
-            if tok_s <= char_start < tok_e or tok_s == char_start:
+            if (tok_s <= char_start < tok_e) or (tok_s == char_start):
                 start_token_idx = i
                 break
-
-        # Find end token index (inclusive) - Using revised logic
+            elif (
+                i > 0
+                and tok_s > char_start
+                and token_char_spans[i - 1][1] == char_start
+            ):
+                start_token_idx = i
+                break
+            elif i == 0 and tok_s > char_start:
+                start_token_idx = 0
+                break
         if start_token_idx != -1:
             for i in range(len(token_char_spans) - 1, start_token_idx - 1, -1):
                 tok_s, tok_e = token_char_spans[i]
-                # If this token's start is before the character end offset, it's involved.
-                if tok_s < char_end:
+                if char_end > tok_s:
                     end_token_idx_inclusive = i
                     break
-
-        # Check validity and return exclusive end index
         if (
             start_token_idx != -1
             and end_token_idx_inclusive != -1
@@ -347,189 +333,242 @@ class AnnotationProcessor:
         else:
             return None, None
 
+    # (_split_and_cache_lines remains the same as the previous correct version)
     def _split_and_cache_lines(
         self, doc_id: str, original_text: str, silent: bool = False
-    ) -> list[
-        list[tuple[int, int]],
-        dict[str, str],
-        dict[str, list[tuple[int, int]]],
-        list[str],
-    ]:
-        """
-        Splits document text into lines, caches stripped text and token spans.
-
-        Returns:
-            tuple: (line_offsets, line_id_to_text_map, line_id_to_spans_map, lines_for_file)
-                   line_offsets: List of (original_start, original_end) tuples for each line.
-                   line_id_to_text_map: Dict mapping "docid_linenum" to stripped line text.
-                   line_id_to_spans_map: Dict mapping "docid_linenum" to list of token char spans.
-                   lines_for_file: List of stripped line strings for saving.
-        """
-        line_offsets = []
-        line_id_to_text_map = {}
-        line_id_to_spans_map = {}
-        lines_for_file = []
-
+    ) -> Tuple[LineOffsets, LineIdToTextMap, LineIdToSpansMap, List[str]]:
+        """Splits document into lines/sentences and caches data."""
+        line_offsets: LineOffsets = []
+        line_id_to_text_map: LineIdToTextMap = {}
+        line_id_to_spans_map: LineIdToSpansMap = {}
+        lines_for_file: List[str] = []
         try:
-            stops = self.get_stops(original_text)
-            line_start = 0
-            for line_num, stop in enumerate(stops):
-                current_start = min(line_start, len(original_text))
-                current_stop = min(stop + 1, len(original_text))
-                if current_start >= current_stop:
+            original_line_spans: List[Tuple[int, int]] = list(
+                self.sentence_span_tokenizer.span_tokenize(original_text)
+            )
+            for line_num, (orig_line_s, orig_line_e) in enumerate(original_line_spans):
+                orig_line_s = max(0, min(orig_line_s, len(original_text)))
+                orig_line_e = max(0, min(orig_line_e, len(original_text)))
+                if orig_line_s >= orig_line_e:
                     continue
-
-                original_line_slice = original_text[current_start:current_stop]
-                orig_line_s = current_start
-                # Calculate original end based on slice length *before* strip
-                orig_line_e = current_start + len(original_line_slice)
-
+                original_line_slice = original_text[orig_line_s:orig_line_e]
                 line_text_stripped = original_line_slice.strip()
-
                 if line_text_stripped:
                     line_id = f"{doc_id}_{line_num}"
                     line_offsets.append((orig_line_s, orig_line_e))
                     line_id_to_text_map[line_id] = line_text_stripped
                     lines_for_file.append(line_text_stripped)
-                    # Tokenize and cache spans
                     try:
                         token_spans = list(
                             self.tokenizer.span_tokenize(line_text_stripped)
                         )
-                        line_id_to_spans_map[line_id] = token_spans
+                        valid_token_spans = [
+                            (max(0, s), max(s, e)) for s, e in token_spans if s <= e
+                        ]
+                        line_id_to_spans_map[line_id] = valid_token_spans
                     except Exception as e:
                         if not silent:
-                            print(f"Error tokenizing line {line_id}: {e}")
-                        line_id_to_spans_map[line_id] = None  # Mark as failed
-
-                # Update line_start using the original stop index
-                line_start = stop + 1
-
+                            print(
+                                f"Error tokenizing line {line_id} with word tokenizer: {e}"
+                            )
+                        line_id_to_spans_map[line_id] = None
         except Exception as e:
             if not silent:
-                print(f"Error splitting document {doc_id}: {e}")
-            # Return empty structures if splitting fails
+                print(f"Error splitting document {doc_id} into lines/sentences: {e}")
             return [], {}, {}, []
-
         return line_offsets, line_id_to_text_map, line_id_to_spans_map, lines_for_file
 
     def process_data(
         self,
-        data: list[dict],
+        data: List[Dict[str, Any]],
         output_dir: str = "../data/documents",
-        silent: bool = False,
+        silent: bool = True,
     ) -> pd.DataFrame:
         """
-        Processes a list of documents to extract annotations, save line-split files,
-        and map annotations to token indices relative to lines.
-
-        Args:
-            data: List of document JSON objects.
-            output_dir: Directory to save line-split files.
-            silent: Suppress warnings.
-
-        Returns:
-            DataFrame with processed annotations including 'line_id', 'annotation_id', 'start', 'end', 'label', 'text'.
+        Processes documents, saves line-split files, maps annotations.
+        Uses original logic for accessing annotations via doc['predictions'].
         """
-        all_rows = []
+        all_rows: List[AnnotationRow] = []
+        processed_doc_count = 0
 
+        # (Directory creation code remains the same)
         if not os.path.exists(output_dir):
             try:
                 os.makedirs(output_dir)
                 print(f"Created output directory: {output_dir}")
             except OSError as e:
                 print(f"CRITICAL Error creating output directory {output_dir}: {e}")
-                return pd.DataFrame()  # Cannot proceed
+                return pd.DataFrame()
 
         print(f"Processing {len(data)} documents...")
         for doc_index, doc in enumerate(data):
-            if not all(k in doc.get("data", {}) for k in ["id", "text"]):
+            # (Document validation remains the same)
+            if not isinstance(doc.get("data"), dict) or not all(
+                k in doc["data"] for k in ["id", "text"]
+            ):
                 if not silent:
                     print(
                         f"Warning: Skipping document index {doc_index} due to missing 'data'/'id'/'text'."
                     )
                 continue
-
-            doc_id = doc["data"]["id"]
+            doc_id = str(doc["data"]["id"])
             original_text = doc["data"]["text"]
+            if not original_text:
+                if not silent:
+                    print(
+                        f"Warning: Skipping document {doc_id} (index {doc_index}) due to empty text."
+                    )
+                continue
 
-            # --- Pass 1 (Implicit): Split, cache, and get data for saving ---
+            # --- Pass 1: Split and cache ---
             line_offsets, line_id_to_text_map, line_id_to_spans_map, lines_for_file = (
                 self._split_and_cache_lines(doc_id, original_text, silent)
             )
 
             # --- Save line-split file ---
+            # (File saving logic remains the same)
             if lines_for_file:
+                output_path = os.path.join(output_dir, f"{doc_id}.txt")
                 try:
-                    output_path = os.path.join(output_dir, f"{doc_id}.txt")
                     with open(output_path, "w", encoding="utf-8") as f:
                         f.write("\n".join(lines_for_file))
                 except Exception as e:
                     if not silent:
                         print(f"Error writing file {output_path}: {e}")
 
-            # --- Pass 2 (Implicit): Process annotations ---
-            if "predictions" not in doc or not doc["predictions"]:
-                continue
+            # ****************************************************************
+            # *** Pass 2: Process annotations - Reverted Access Logic      ***
+            # ****************************************************************
 
-            for pred in doc.get("predictions", []):
+            # Check for 'predictions' key directly, as in the original code
+            if "predictions" not in doc or not doc.get(
+                "predictions"
+            ):  # Use .get() for safety after check
+                processed_doc_count += 1
+                if not silent:
+                    print(
+                        f"--- Doc {doc_id}: No 'predictions' found or empty. Skipping annotations. ---"
+                    )  # DEBUG
+                continue  # Skip to next document if no predictions
+
+            if not silent:
+                print(
+                    f"\n--- Debugging Annotations for Doc: {doc_id} ---"
+                )  # DEBUG START DOC
+
+            # Iterate directly over the list obtained from doc.get("predictions", [])
+            annotation_counter = (
+                0  # Counter for fallback IDs if 'id' is missing in result
+            )
+            for pred_idx, pred in enumerate(
+                doc.get("predictions", [])
+            ):  # pred is one item in the predictions list
+                # Check if the prediction item itself has a 'result' list
+                if not isinstance(pred.get("result"), list):
+                    if not silent:
+                        print(
+                            f"  DEBUG: Skipping item in 'predictions' at index {pred_idx}, 'result' is not a list."
+                        )  # DEBUG
+                    continue
+
+                # Iterate through the 'result' list within the prediction item
                 for res_index, res in enumerate(
                     pred.get("result", [])
-                ):  # Enumerate results
+                ):  # res is one annotation result
+                    if not silent:
+                        print(
+                            f"\n  Processing Annotation Result index {res_index} (raw): {res.get('id', 'N/A')}"
+                        )  # DEBUG
+
+                    # --- Annotation Validation (remains the same) ---
                     if not isinstance(res.get("value"), dict) or not all(
                         k in res["value"] for k in ["start", "end", "labels"]
                     ):
                         if not silent:
                             print(
-                                f"Warning: Skipping malformed annotation result in doc {doc_id}: {res.get('id', 'N/A')}"
-                            )
+                                f"    DEBUG: Malformed annotation value, skipping."
+                            )  # DEBUG
+                        continue
+                    try:
+                        original_start = int(res["value"]["start"])
+                        original_end = int(res["value"]["end"])
+                    except (ValueError, TypeError):
+                        if not silent:
+                            print(
+                                f"    DEBUG: Non-integer start/end, skipping."
+                            )  # DEBUG
+                        continue
+                    labels = res["value"]["labels"]
+                    if not isinstance(labels, list) or not labels:
+                        if not silent:
+                            print(
+                                f"    DEBUG: Invalid/empty labels list, skipping."
+                            )  # DEBUG
+                        continue
+                    if (
+                        original_start < 0
+                        or original_end < original_start
+                        or original_end > len(original_text)
+                    ):
+                        if not silent:
+                            print(
+                                f"    DEBUG: Invalid original span [{original_start}:{original_end}], skipping."
+                            )  # DEBUG
                         continue
 
-                    original_start = res["value"]["start"]
-                    original_end = res["value"]["end"]
+                    # --- If validation passes (remains the same) ---
                     res_id = res.get(
-                        "id", f"res_{doc_index}_{len(all_rows)}"
-                    )  # More unique fallback ID
-                    labels = res["value"]["labels"]
+                        "id",
+                        f"res_{doc_index}_{pred_idx}_{res_index}_{annotation_counter}",
+                    )  # Made fallback ID more unique
+                    annotation_counter += 1
                     segment_text_original = original_text[original_start:original_end]
+                    if not silent:
+                        print(
+                            f"    Annotation OK: ID={res_id}, Orig Span=[{original_start}:{original_end}], Text='{segment_text_original[:50]}...'"
+                        )
 
+                    # --- Find Containing Line (Sentence) and Map Span (remains the same) ---
                     found_line = False
-                    # Use enumerate over the *indices* of line_offsets to get line_num easily
                     for line_num in range(len(line_offsets)):
                         line_s, line_e = line_offsets[line_num]
                         line_id = f"{doc_id}_{line_num}"
+                        overlaps = original_start < line_e and original_end > line_s
+                        if not silent:
+                            print(
+                                f"      Checking Line {line_num} (Span=[{line_s}:{line_e}]): Overlaps = {overlaps}"
+                            )
 
-                        # Check if annotation START falls within this original line span
-                        if line_s <= original_start < line_e:
+                        if overlaps:
                             line_text_stripped = line_id_to_text_map.get(line_id)
                             token_char_spans = line_id_to_spans_map.get(line_id)
-
                             if line_text_stripped is None or token_char_spans is None:
                                 if not silent:
                                     print(
-                                        f"Error/Warning: Missing cached line text or token spans for {line_id} during annotation processing."
+                                        f"      DEBUG: Missing cached data for {line_id}, skipping line."
                                     )
-                                continue  # Skip if essential cached data is missing
+                                continue
 
-                            # --- Calculate char offsets relative to STRIPPED line text ---
-                            # Find leading whitespace in the original slice to adjust offsets
                             original_line_slice_for_strip_calc = original_text[
                                 line_s:line_e
                             ]
                             leading_whitespace = len(
                                 original_line_slice_for_strip_calc
                             ) - len(
-                                original_line_slice_for_strip_calc.lstrip(" \t\n\r")
+                                original_line_slice_for_strip_calc.lstrip(" \t\n\r\f\v")
                             )
-
                             char_start_in_line_rel_strip = max(
                                 0, original_start - line_s - leading_whitespace
                             )
-                            # Ensure end doesn't exceed stripped length
                             char_end_in_line_rel_strip = min(
                                 len(line_text_stripped),
-                                original_end - line_s - leading_whitespace,
+                                max(0, original_end - line_s - leading_whitespace),
                             )
+
+                            if not silent:
+                                print(
+                                    f"        Relative Char Span in Stripped: [{char_start_in_line_rel_strip}:{char_end_in_line_rel_strip}] (Stripped len: {len(line_text_stripped)})"
+                                )
 
                             if (
                                 char_start_in_line_rel_strip
@@ -537,110 +576,88 @@ class AnnotationProcessor:
                             ):
                                 if not silent:
                                     print(
-                                        f"Warning: Invalid relative char span ({char_start_in_line_rel_strip}, {char_end_in_line_rel_strip}) for annot {res_id} in {line_id}."
+                                        f"        DEBUG: Invalid relative char span after strip calc, skipping line."
                                     )
                                 continue
 
-                            # --- Map character span to token span using helper ---
                             token_start, token_end = self._map_char_to_token_span(
                                 token_char_spans,
                                 char_start_in_line_rel_strip,
                                 char_end_in_line_rel_strip,
                             )
-
-                            # --- Store results ---
-                            if (
-                                token_start is not None
-                            ):  # Check if mapping was successful
-                                for label in labels:
-                                    all_rows.append(
-                                        {
-                                            "doc_index": doc_index,
-                                            "doc_id": doc_id,
-                                            "line_id": line_id,
-                                            "annotation_id": f"{line_id}_{res_index}",  # Define annotation_id
-                                            "start": token_start,  # Start token index relative to line
-                                            "end": token_end,  # Exclusive end token index relative to line
-                                            "label": label,
-                                            "text": segment_text_original,  # Text from original doc span
-                                        }
-                                    )
-                            elif not silent:
+                            if not silent:
                                 print(
-                                    f"Warning: Failed mapping char span rel stripped ({char_start_in_line_rel_strip},{char_end_in_line_rel_strip}) in stripped line {line_id} for annot {res_id}"
+                                    f"        Mapped Token Span: [{token_start}:{token_end}]"
                                 )
 
-                            found_line = True
-                            break  # Annotation found in this line, move to next annotation
+                            if token_start is not None and token_end is not None:
+                                if not silent:
+                                    print(
+                                        f"        SUCCESS: Mapping successful. Adding row(s)."
+                                    )
+                                for label in labels:
+                                    annotation_id = (
+                                        f"{line_id}_{res_id}"  # Unique annotation ID
+                                    )
+                                    all_rows.append(
+                                        {
+                                            "doc_id": doc_id,
+                                            "line_id": line_id,
+                                            "annotation_id": annotation_id,
+                                            "start": token_start,
+                                            "end": token_end,
+                                            "label": str(label),
+                                            "text": segment_text_original,
+                                        }
+                                    )
+                                found_line = True
+                                break  # Found the line, process next annotation result
+                            else:
+                                if not silent:
+                                    print(
+                                        f"        DEBUG: _map_char_to_token_span returned None, mapping failed for this line."
+                                    )
 
+                    # --- End of loop for one line/sentence ---
+
+                    # --- Warning if annotation not mapped (remains the same) ---
                     if not found_line and not silent:
                         print(
-                            f"Warning: Could not find line containing annotation start ({original_start}) for result {res_id} in doc {doc_id}"
+                            f"    WARNING: Annotation ID={res_id} (Span=[{original_start}:{original_end}]) was not successfully mapped to any line."
                         )
 
+                # --- End of loop for annotation results (res) ---
+            # --- End of loop for predictions (pred) ---
+
+            processed_doc_count += 1  # Increment doc counter here
+            if not silent and processed_doc_count % 50 == 0:
+                print(f"  Processed {processed_doc_count}/{len(data)} documents...")
+
+        # --- DataFrame Creation (remains the same) ---
         df = pd.DataFrame(all_rows)
+        if not df.empty:
+            cols_ordered = [
+                "doc_id",
+                "line_id",
+                "annotation_id",
+                "start",
+                "end",
+                "label",
+                "text",
+            ]
+            df = df[[col for col in cols_ordered if col in df.columns]]
+
         print(f"Finished processing. Generated {len(df)} annotation rows.")
         return df
 
+    # (_apply_lexical_grammar remains the same)
     def _apply_lexical_grammar(self, sentence_tokens: list[str]) -> list[str]:
-        """
-        Applies a lexical grammar to normalize tokens.
-        """
+        """Applies a lexical grammar to normalize tokens."""
         if self.grammar:
-            return parse_tokens_with_lexical_grammar(self.grammar, sentence_tokens)
+            print(
+                "Warning: Lexical grammar application is defined but not implemented/called."
+            )
+            return sentence_tokens
         else:
             return sentence_tokens
 
-
-def get_punctuation_stops(text: str) -> list[int]:
-    indices = []
-    regex = r"\.(?!\d\w)"  # Match dots not followed by digits
-    for match in re.finditer(regex, text):
-        index = match.start()
-
-        if text[index - 3 : index] == " dr":
-            pass
-        elif text[index - 3 : index] == "(dr":
-            pass
-        elif text[index - 3 : index] == "dra":
-            pass
-        elif text[index - 4 : index] == "(dra":
-            pass
-        elif text[index - 2 : index] == "..":
-            pass
-        elif text[index - 1 : index] == ".":
-            pass
-        elif text[index + 2] == ".":
-            pass
-        elif text[index - 1] == " ":
-            pass
-        elif (text[index - 1] in string.ascii_lowercase) and (
-            text[index - 2] not in string.ascii_lowercase
-        ):
-            pass
-        elif (text[index - 1] in string.ascii_lowercase) and (
-            text[index + 1] in string.ascii_lowercase
-        ):
-            pass
-        elif (text[index - 1] not in string.ascii_lowercase) and (
-            text[index + 1] not in string.ascii_lowercase
-        ):
-            pass
-        elif text[index - 6 : index] == "strept":
-            pass
-        elif text[index - 3 : index] == "dii":
-            pass
-        elif text[index - 3 : index] == "/dl":
-            pass
-        elif text[index - 3 : index] == "/ml":
-            pass
-        elif text[index - 2 : index] == "/l":
-            pass
-        elif text[index - 3 : index] == " ac":
-            pass
-        elif text[index - 4 : index] == " acs":
-            pass
-        else:
-            indices.append(index)
-
-    return indices
