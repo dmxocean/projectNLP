@@ -60,6 +60,7 @@ EOF
                         pythonPackages.matplotlib
                         pythonPackages.numpy
                         pythonPackages.pandas
+                        pythonPackages.seaborn
                         pythonPackages.spacy
                         pythonPackages.nltk
                         pythonPackages.pytest
