@@ -525,7 +525,7 @@ class AnnotationProcessor:
                     segment_text_original = original_text[original_start:original_end]
                     if not silent:
                         print(
-                            f"    Annotation OK: ID={res_id}, Orig Span=[{original_start}:{original_end}], Text='{segment_text_original[:50]}...'"
+                            f"    Annotation OK: ID={res_id}, Orig Span=[{originalk_start}:{original_end}], Text='{segment_text_original[:50]}...'"
                         )
 
                     # --- Find Containing Line (Sentence) and Map Span (remains the same) ---
@@ -660,4 +660,3 @@ class AnnotationProcessor:
             return sentence_tokens
         else:
             return sentence_tokens
-
