@@ -1,13 +1,13 @@
 term,freq,lemma
-no,1882,_no
-sin,1420,_sin
-negativo,199,_negativo
-afebril,188,_afebril
+no,1909,_no
+sin,1424,_sin
+negativo,200,_negativo
+afebril,189,_afebril
 niega,136,niega
 negativos,92,_negativo
 ausencia de,64,ausencia de
 negativa,53,_negativo
-sense,39,_sin
+sense,40,_sin
 neg,35,neg
 negativas,24,_negativo
 asintomatica,11,_asintomatico
@@ -17,43 +17,43 @@ descarta,8,descarta
 falta de,7,falta de
 inespecifico,7,_inespecifico
 impide,5,impide
-cede,4,cede
-tampoco,4,tampoco
 exfumador,4,_exfumador
-se retira,4,se retira
-nega,4,nega
 ex-,4,_ex
+se retira,4,se retira
+cede,4,cede
+nega,4,nega
+tampoco,4,tampoco
 negativo),3,_negativo
-negatividad de,3,negatividad de
+desaparicion de,3,desaparicion de
 inespecificos,3,_inespecifico
 descartada,3,descartada
-retiro,3,retiro
-inestabilidad,3,inestabilidad
-negatiu,3,_negativo
 retirar,3,retirar
-excepto,2,excepto
-desaparicion de,2,desaparicion de
-desorientacion,2,desorientacion
-imposibilidad de,2,imposibilidad de
-incapacidad para,2,incapacidad para
+inestabilidad,3,inestabilidad
+retiro,3,retiro
+negatividad de,3,negatividad de
+negatiu,3,_negativo
 ausencia,2,ausencia
+desorientacion,2,desorientacion
+excepto,2,excepto
+incapacidad para,2,incapacidad para
+imposibilidad de,2,imposibilidad de
 niegan,2,niegan
 se desestimo,1,se desestimo
 ex fumador,1,_exfumador
-negaitvo,1,_negativo
-suspendido,1,suspendido
 indetectable,1,indetectable
-negativa),1,_negativo
+suspendido,1,suspendido
+negaitvo,1,_negativo
 desorientado,1,desorientado
-irregulares,1,irregulares
 ceden,1,ceden
-rechaza,1,rechaza
-se suspende,1,se suspende
-negatividad,1,negatividad
+irregulares,1,irregulares
+negativa),1,_negativo
 imposibilidad,1,imposibilidad
-desaparecen,1,desaparecen
+rechaza,1,rechaza
+negatividad,1,negatividad
+se suspende,1,se suspende
 en ninguna,1,en ninguna
 ninguno,1,ninguno
+desaparecen,1,desaparecen
 desaparicion del,1,desaparicion del
 atipicos,1,atipicos
 arritmicos,1,arritmicos

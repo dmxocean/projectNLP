@@ -64,11 +64,12 @@ def _get_entities_as_set(df: pd.DataFrame) -> set:
     return entities
 
 
-NULL_LABEL = "Null"  # Represents the ground truth state of "no entity" / Background
-FN_LABEL = "__FN__"  # Represents a False Negative (a true entity was missed)
+TRUE_NULL_LABEL = "Null (FP Background)"
+INTERNAL_FN_LABEL = "__FN__"
+DISPLAY_FN_AS_NULL_LABEL = "Null (Missed / FN)"
 
 
-def plot_full_confusion_matrix(  # Renamed for clarity
+def plot_full_confusion_matrix( # Renamed for clarity
     df_true: pd.DataFrame,
     df_pred: pd.DataFrame,
     ax: Optional[plt.Axes] = None,
@@ -80,12 +81,15 @@ def plot_full_confusion_matrix(  # Renamed for clarity
 ) -> Optional[plt.Axes]:
     """
     Generates and plots a confusion matrix focusing on errors, using 'Null'
-    to represent the background/non-entity state in the ground truth.
+    for both False Positives (True='Null') and False Negatives (Predicted='Null').
 
+    Interpretation:
     - Diagonal (True=X, Pred=X): True Positives for label X.
-    - Off-Diagonal (True=X, Pred=Y): Classification errors (model predicted Y, true was X).
-    - 'Null' Row (True=Null, Pred=X): False Positives (model predicted X where no entity existed).
-    - '__FN__' Column (True=X, Pred=__FN__): False Negatives (model missed a true entity X).
+    - Off-Diagonal (True=X, Pred=Y): Classification errors.
+    - 'Null (FP Background)' Row (True='Null (FP Background)', Pred=X):
+        False Positives - model predicted X where no true entity existed.
+    - 'Null (Missed / FN)' Column (True=X, Pred='Null (Missed / FN)'):
+        False Negatives - model missed a true entity X.
 
     Args:
         df_true: DataFrame with ground truth annotations. Requires columns:
@@ -101,126 +105,221 @@ def plot_full_confusion_matrix(  # Renamed for clarity
                   sklearn.metrics.ConfusionMatrixDisplay.plot().
 
     Returns:
-        The matplotlib Axes object containing the plot, or None if no
-        true or predicted entities exist.
+        The matplotlib Axes object containing the plot, or None if errors occur.
     """
-    if not all(col in df_true.columns for col in ["line_id", "start", "end", "label"]):
-        raise ValueError(
-            "df_true missing required columns: 'line_id', 'start', 'end', 'label'"
+    # --- Input Validation (same as before) ---
+    required_cols = ["line_id", "start", "end", "label"]
+    if not all(col in df_true.columns for col in required_cols):
+        raise ValueError(f"df_true missing required columns: {required_cols}")
+    if not all(col in df_pred.columns for col in required_cols):
+        raise ValueError(f"df_pred missing required columns: {required_cols}")
+
+    try: # Added try-except for robustness
+        # --- Set Operations (same as before) ---
+        true_entities = _get_entities_as_set(df_true)
+        pred_entities = _get_entities_as_set(df_pred)
+
+        tp_set = true_entities.intersection(pred_entities)
+        fn_set = true_entities - pred_entities # Represents missed true entities
+        fp_set = pred_entities - true_entities # Represents spurious predictions
+
+        # --- Populate y_true, y_pred (same as before, using internal labels) ---
+        y_true: List[str] = []
+        y_pred: List[str] = []
+
+        for entity_tuple in tp_set: # True Positives
+            label = entity_tuple[-1]
+            y_true.append(label); y_pred.append(label)
+
+        for entity_tuple in fn_set: # False Negatives
+            true_label = entity_tuple[-1]
+            y_true.append(true_label)
+            y_pred.append(INTERNAL_FN_LABEL) # Use internal FN label
+
+        for entity_tuple in fp_set: # False Positives
+            pred_label = entity_tuple[-1]
+            # Skip if model predicts the special Null label (shouldn't happen with this logic)
+            if pred_label == TRUE_NULL_LABEL or pred_label == DISPLAY_FN_AS_NULL_LABEL: continue
+            y_true.append(TRUE_NULL_LABEL) # True state is background/Null
+            y_pred.append(pred_label)
+
+        if not y_true:
+            print("Warning: No entities found to plot. Cannot generate confusion matrix.")
+            return None
+
+        # --- Determine Labels for Calculation and Display ---
+        involved_true_labels = set(y for y in y_true if y != TRUE_NULL_LABEL)
+        involved_pred_labels = set(y for y in y_pred if y != INTERNAL_FN_LABEL)
+        all_real_labels_in_data = sorted(list(involved_true_labels | involved_pred_labels))
+
+        # Labels for internal calculation matrix
+        matrix_labels_calc = all_real_labels_in_data + [TRUE_NULL_LABEL, INTERNAL_FN_LABEL]
+
+        # Calculate the full confusion matrix using internal labels
+        cm = confusion_matrix(y_true, y_pred, labels=matrix_labels_calc)
+
+        # --- Prepare Matrix and Labels for Display ---
+        true_null_idx = matrix_labels_calc.index(TRUE_NULL_LABEL)
+        internal_fn_idx = matrix_labels_calc.index(INTERNAL_FN_LABEL)
+
+        # Rows to display: Real Labels + True Null Row
+        display_rows_indices = list(range(true_null_idx + 1))
+        # Columns to display: Real Labels + FN Column (which we display as 'Null')
+        display_cols_indices = list(range(true_null_idx)) + [internal_fn_idx]
+
+        # Extract the submatrix for display
+        display_cm = cm[np.ix_(display_rows_indices, display_cols_indices)]
+
+        # Define labels for display axes, using user-friendly 'Null' variations
+        display_labels_rows = all_real_labels_in_data + [TRUE_NULL_LABEL]
+        # *** CHANGE HERE: Use display label for the FN column ***
+        display_labels_cols = all_real_labels_in_data + [DISPLAY_FN_AS_NULL_LABEL]
+
+        # --- Plotting (same core logic) ---
+        if ax is None:
+            fig, ax = plt.subplots(figsize=figsize)
+        else:
+            fig = ax.get_figure()
+
+        disp = ConfusionMatrixDisplay(
+            confusion_matrix=display_cm, display_labels=display_labels_cols # Labels for X-axis
         )
-    if not all(col in df_pred.columns for col in ["line_id", "start", "end", "label"]):
-        raise ValueError(
-            "df_pred missing required columns: 'line_id', 'start', 'end', 'label'"
+
+        plot_kwargs = kwargs.copy()
+        text_kw = plot_kwargs.get("text_kw", {})
+        # Visibility check depends on values_format != None, simplified here
+        if hide_zeros:
+             plot_kwargs['im_kw'] = plot_kwargs.get('im_kw', {})
+             # A simple way: plot and then hide text nodes if value is 0
+             # This requires plotting first, then iterating ax.texts
+
+        # Plot first
+        disp.plot(ax=ax, cmap=cmap, values_format=values_format, **plot_kwargs)
+
+        # Post-plot adjustments
+        # Manually set row labels (y-axis)
+        ax.set_yticks(np.arange(len(display_labels_rows)))
+        ax.set_yticklabels(display_labels_rows)
+
+        # Manually hide zeros if requested
+        if hide_zeros and values_format: # only makes sense if values are displayed
+            for text_obj in ax.texts:
+                try:
+                    # Attempt to convert text to number used in values_format
+                    # This is approximate, format 'd' -> int, others -> float
+                    value = float(text_obj.get_text()) if values_format != 'd' else int(text_obj.get_text())
+                    if value == 0:
+                        text_obj.set_visible(False)
+                except ValueError:
+                    continue # Ignore text that cannot be converted (e.g., '-')
+
+        # Update Axis Labels and Title for clarity
+        ax.set_ylabel(f"True Label ('{TRUE_NULL_LABEL}' row = FPs)")
+        ax.set_xlabel(f"Predicted Label ('{DISPLAY_FN_AS_NULL_LABEL}' col = FNs)")
+        ax.set_title("Error Confusion Matrix (using 'Null')")
+
+        plt.xticks(rotation=45, ha="right")
+        plt.yticks(rotation=0)
+        # Consider calling tight_layout() outside if fig/ax are passed in
+        # fig.tight_layout()
+
+        return ax
+
+    except Exception as e:
+        print(f"An error occurred during confusion matrix plotting: {e}")
+        return None # Return None on error
+
+
+def _row_to_entity_tuple(row: pd.Series) -> Tuple[str, str, str, str]:
+    """Converts a DataFrame row to the standard entity tuple for set comparison."""
+    return (
+        str(row["line_id"]),
+        str(row["start"]),
+        str(row["end"]),
+        str(row["label"]),
+    )
+
+def get_specific_errors(
+    df_true: pd.DataFrame,
+    df_pred: pd.DataFrame,
+    target_label: str,
+    error_type: str = 'FP'
+) -> pd.DataFrame:
+    """
+    Identifies specific examples of a given error type (FP, FN, TP) for a target label.
+
+    Args:
+        df_true: DataFrame with ground truth annotations.
+                 Requires columns: 'line_id', 'start', 'end', 'label'.
+        df_pred: DataFrame with model predictions.
+                 Requires columns: 'line_id', 'start', 'end', 'label'.
+                 May contain other columns (like 'text' or 'doc_id') which will
+                 be preserved in the output.
+        target_label: The specific entity label to analyze errors for (e.g., 'NEG').
+        error_type: The type of error to retrieve ('FP', 'FN', or 'TP').
+                    Defaults to 'FP'.
+
+    Returns:
+        A pandas DataFrame containing the rows from the relevant input DataFrame
+        (df_pred for FP, df_true for FN, df_pred for TP) that correspond to
+        the specified error type and target label. Returns an empty DataFrame
+        if no such errors are found or if input is invalid.
+    """
+    # Validate inputs
+    required_cols = ["line_id", "start", "end", "label"]
+    if not all(col in df_true.columns for col in required_cols):
+        raise ValueError(f"df_true missing required columns: {required_cols}")
+    if not all(col in df_pred.columns for col in required_cols):
+        raise ValueError(f"df_pred missing required columns: {required_cols}")
+    if error_type not in ['FP', 'FN', 'TP']:
+        raise ValueError("error_type must be one of 'FP', 'FN', 'TP'")
+
+    try:
+        # 1. Get Entity Sets
+        true_entities: Set[Tuple[str, ...]] = _get_entities_as_set(df_true)
+        pred_entities: Set[Tuple[str, ...]] = _get_entities_as_set(df_pred)
+
+        # 2. Calculate Error Sets based on type
+        error_set: Set[Tuple[str, ...]]
+        source_df: pd.DataFrame
+        source_df_name: str
+
+        if error_type == 'FP':
+            error_set = pred_entities - true_entities
+            source_df = df_pred
+            source_df_name = "Predictions (df_pred)"
+        elif error_type == 'FN':
+            error_set = true_entities - pred_entities
+            source_df = df_true
+            source_df_name = "Ground Truth (df_true)"
+        elif error_type == 'TP':
+            error_set = true_entities.intersection(pred_entities)
+            source_df = df_pred # Or df_true, result rows identical for required cols
+            source_df_name = "Predictions/Truth (df_pred)"
+        else:
+             # Should not happen due to initial check, but keeps linters happy
+             return pd.DataFrame()
+
+        if not error_set:
+            # print(f"No {error_type} found in total.") # Optional message
+            return pd.DataFrame() # Return empty if no errors of this type exist at all
+
+        # 3. Filter Source DataFrame
+        # Find rows in the source_df where the corresponding entity tuple
+        # is in the calculated error_set AND the label matches the target_label.
+
+        # Apply the row-to-tuple conversion and check conditions
+        mask = source_df.apply(
+            lambda row: _row_to_entity_tuple(row) in error_set and str(row['label']) == target_label,
+            axis=1
         )
 
-    true_entities = _get_entities_as_set(df_true)
-    pred_entities = _get_entities_as_set(df_pred)
+        error_examples_df = source_df[mask].copy() # Use .copy() to avoid SettingWithCopyWarning later
 
-    tp_set = true_entities.intersection(pred_entities)
-    fn_set = (
-        true_entities - pred_entities
-    )  # True entities not found exactly in predictions
-    fp_set = (
-        pred_entities - true_entities
-    )  # Predicted entities not found exactly in true
+        print(f"Found {len(error_examples_df)} examples of {error_type} for label '{target_label}' in {source_df_name}.")
 
-    y_true: List[str] = []
-    y_pred: List[str] = []
+        return error_examples_df
 
-    # 1. Add True Positives
-    for entity_tuple in tp_set:
-        true_label = entity_tuple[-1]  # Label is the last element
-        y_true.append(true_label)
-        y_pred.append(true_label)
-
-    # 2. Add False Negatives (Missed True Entities)
-    for entity_tuple in fn_set:
-        true_label = entity_tuple[-1]
-        y_true.append(true_label)
-        y_pred.append(FN_LABEL)  # This true entity was missed (predicted as FN)
-
-    # 3. Add False Positives (Spurious Predictions)
-    for entity_tuple in fp_set:
-        pred_label = entity_tuple[-1]
-        # If the model predicts 'Null', we ignore it based on user request.
-        # This shouldn't happen if 'Null' isn't a possible model output label.
-        if pred_label == NULL_LABEL:
-            continue
-        y_true.append(
-            NULL_LABEL
-        )  # This prediction corresponds to no true entity (true is Null)
-        y_pred.append(pred_label)
-
-    if not y_true:
-        print(
-            "Warning: No entities found to plot (check input dataframes and matching logic). Cannot generate confusion matrix."
-        )
-        return None
-
-    # Determine all possible real labels involved
-    # Use labels present in the actual data points being plotted
-    involved_true_labels = set(y for y in y_true if y != NULL_LABEL)
-    involved_pred_labels = set(y for y in y_pred if y != FN_LABEL)
-    # Also consider labels that might only appear in TPs (less common edge case)
-    all_real_labels_in_data = sorted(list(involved_true_labels | involved_pred_labels))
-
-    # Define the full set of labels for the matrix axes calculation
-    # Order: Real labels, then Null row-label, then FN column-label
-    matrix_labels = all_real_labels_in_data + [NULL_LABEL, FN_LABEL]
-
-    # Calculate the confusion matrix using the full set of labels
-    cm = confusion_matrix(y_true, y_pred, labels=matrix_labels)
-
-    # --- Prepare Matrix for Display ---
-    # We want rows for Real Labels + Null, and columns for Real Labels + FN
-    null_idx = matrix_labels.index(NULL_LABEL)
-    fn_idx = matrix_labels.index(FN_LABEL)
-
-    # Rows to display: All rows up to and including the Null row
-    display_rows_indices = list(range(null_idx + 1))
-    # Columns to display: All columns for real labels + the FN column
-    display_cols_indices = list(range(null_idx)) + [
-        fn_idx
-    ]  # Indices of real labels + FN index
-
-    # Extract the submatrix for display
-    display_cm = cm[np.ix_(display_rows_indices, display_cols_indices)]
-
-    # Define labels for display axes
-    display_labels_rows = all_real_labels_in_data + [NULL_LABEL]
-    display_labels_cols = all_real_labels_in_data + [FN_LABEL]
-
-    # --- Plotting ---
-    if ax is None:
-        fig, ax = plt.subplots(figsize=figsize)
-    else:
-        fig = ax.get_figure()
-
-    disp = ConfusionMatrixDisplay(
-        confusion_matrix=display_cm, display_labels=display_labels_cols
-    )  # X-axis labels
-
-    # Modify plot arguments if hiding zeros
-    plot_kwargs = kwargs.copy()
-    # Simple way to hide zero text is just not to display text if value is 0
-    text_kw = plot_kwargs.get("text_kw", {})
-    text_kw[
-        "visible"
-    ] = not hide_zeros  # Hide all text if hide_zeros=True (simplification)
-    # Or more complex: iterate text objects after plotting if needed.
-
-    disp.plot(ax=ax, cmap=cmap, values_format=values_format, **plot_kwargs)
-
-    # Manually set row labels (y-axis) and potentially adjust ticks
-    ax.set_yticks(np.arange(len(display_labels_rows)))
-    ax.set_yticklabels(display_labels_rows)
-
-    ax.set_ylabel("True Label / Type ('Null' row = FPs)")
-    ax.set_xlabel("Predicted Label / Type ('__FN__' col = FNs)")
-
-    ax.set_title("Error Confusion Matrix (Null=FP / __FN__=FN)")
-    plt.xticks(rotation=45, ha="right")
-    plt.yticks(rotation=0)
-
-    return ax
-
+    except Exception as e:
+        print(f"An error occurred during error analysis: {e}")
+        return pd.DataFrame() # Return empty DataFrame on error
