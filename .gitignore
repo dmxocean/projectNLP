@@ -16,6 +16,7 @@ data/documents/*.txt
 data/documents_test/*.txt
 
 wandb/
+ner_longformer_demo_results/
 
 # Python-specific ignores
 __pycache__/

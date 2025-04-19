@@ -179,20 +179,25 @@ def align_labels_to_tokens(
 
 def compute_metrics(eval_preds):
     """Computes P/R/F1 for NER using seqeval"""
-    predictions, labels = eval_preds
+    predictions_logits, labels = eval_preds  # Original logits
     # Get the most likely prediction ID (index of the highest logit)
-    predictions = np.argmax(predictions, axis=2)
+    predictions_ids = np.argmax(predictions_logits, axis=2)  # Actual predicted IDs
 
-    # Remove ignored index (-100) and convert IDs like CLS/SEP back to labels
     true_predictions = [
-        [label_list[p] for (p, l) in zip(prediction, label) if l != -100]
-        for prediction, label in zip(predictions, labels)
+        [LABELS_LIST[p] for (p, l) in zip(prediction, label) if l != -100]
+        for prediction, label in zip(
+            predictions_ids, labels
+        )  # Use predictions_ids here
     ]
     true_labels = [
-        [label_list[l] for (p, l) in zip(prediction, label) if l != -100]
-        for prediction, label in zip(predictions, labels)
+        [LABELS_LIST[l] for (p, l) in zip(prediction, label) if l != -100]
+        for prediction, label in zip(predictions_ids, labels)
     ]
 
+    report = classification_report(true_labels, true_predictions)
+    print(report)
+
+    # Use seqeval to compute metrics
     return {
         "precision": precision_score(true_labels, true_predictions),
         "recall": recall_score(true_labels, true_predictions),
@@ -213,14 +218,15 @@ if __name__ == "__main__":
     )
     model_max_length = 16384
 
-    label_list = ["NEG", "NSCO", "UNC", "USCO"]
+    labels_originals = ["NEG", "NSCO", "UNC", "USCO"]
     label_prefixes = ["S", "B", "I", "E"]
-    labels_list = ["O"]
-    for original_label in label_list:
+    LABELS_LIST = ["O"]
+    for original_label in labels_originals:
         for label_prefix in label_prefixes:
-            labels_list.append(f"{label_prefix}-{original_label}")
+            LABELS_LIST.append(f"{label_prefix}-{original_label}")
 
-    label_to_id = {label: i for i, label in enumerate(labels_list)}
+    label_to_id = {label: i for i, label in enumerate(LABELS_LIST)}
+    print(label_to_id)
 
     mapped_dataset = raw_data.map(
         partial(
@@ -239,7 +245,9 @@ if __name__ == "__main__":
     model_checkpoint = "severinsimmler/xlm-roberta-longformer-base-16384"
 
     id_to_label = {id_: label for label, id_ in label_to_id.items()}
-    num_labels = len(labels_list)
+    num_labels = len(LABELS_LIST)
+
+    print(LABELS_LIST)
 
     try:
         print(f"Loading model: {model_checkpoint}...")
@@ -270,12 +278,15 @@ if __name__ == "__main__":
         print(f"An unexpected error occurred during model loading: {e}")
         # Handle error appropriately
 
-    NUM_EPOCHS_DEMO = 1 # Keep low for a quick demo
-    TRAIN_BATCH_SIZE_DEMO = 2 # MUST be small for 16k sequence length model
-    EVAL_BATCH_SIZE_DEMO = 4 # Can be slightly larger
-    MODEL_OUTPUT_DIR = "./ner_longformer_demo_results" # Where results/checkpoints are saved
-    LOGGING_STEPS_DEMO = 10 # How often to log training loss
-    LEARNING_RATE_DEMO = 2e-5
+    NUM_EPOCHS_DEMO = 1  # Keep low for a quick demo
+    TRAIN_BATCH_SIZE_DEMO = 1  # MUST be small for 16k sequence length model
+    EVAL_BATCH_SIZE_DEMO = 2  # Can be slightly larger
+    MODEL_OUTPUT_DIR = (
+        "./ner_longformer_demo_results"  # Where results/checkpoints are saved
+    )
+    LOGGING_STEPS_DEMO = 1  # How often to log training loss
+    LEARNING_RATE_DEMO = 1e-4
+    EVAL_SAVE_STEPS_DEMO = 10
 
     training_args = TrainingArguments(
         output_dir=MODEL_OUTPUT_DIR,
@@ -283,28 +294,36 @@ if __name__ == "__main__":
         per_device_train_batch_size=TRAIN_BATCH_SIZE_DEMO,
         per_device_eval_batch_size=EVAL_BATCH_SIZE_DEMO,
         learning_rate=LEARNING_RATE_DEMO,
-        weight_decay=0.01,              # Standard weight decay
-        eval_strategy="epoch",    # Evaluate at the end of each epoch
-        save_strategy="epoch",          # Save checkpoint at the end of each epoch
-        logging_strategy="steps",       # Log training loss during epochs
+        weight_decay=0.01,  # Standard weight decay
+        eval_strategy="steps",  # Evaluate at the end of each epoch
+        eval_steps=EVAL_SAVE_STEPS_DEMO,
+        save_strategy="steps",  # Save checkpoint at the end of each epoch
+        save_steps=EVAL_SAVE_STEPS_DEMO,
+        logging_strategy="steps",  # Log training loss during epochs
         logging_steps=LOGGING_STEPS_DEMO,
-        load_best_model_at_end=True,    # Load the best model based on validation metric/loss
-        metric_for_best_model="f1",     # Use F1 score to determine the best model
-        push_to_hub=False,              # Set to True if you want to upload to Hugging Face Hub
-        report_to=["wandb"]              # Disable external reporting like W&B for simple demo
+        load_best_model_at_end=True,  # Load the best model based on validation metric/loss
+        metric_for_best_model="f1",  # Use F1 score to determine the best model
+        push_to_hub=False,  # Set to True if you want to upload to Hugging Face Hub
+        report_to=["wandb"],  # Disable external reporting like W&B for simple demo
     )
 
     trainer = Trainer(
         model=model,
         args=training_args,
         train_dataset=mapped_dataset["train"],
-        eval_dataset=mapped_dataset["test"], # Make sure your validation split is named 'test'
+        eval_dataset=mapped_dataset[
+            "test"
+        ],  # Make sure your validation split is named 'test'
         data_collator=data_collator,
         compute_metrics=compute_metrics,
     )
 
     print("Trainer initialized successfully!")
+    trainer.evaluate()
 
     print("Starting...")
-    trainer.train()
+    try:
+        trainer.train()
+    except Exception as e:
+        print(e)
     print("Ended...")
