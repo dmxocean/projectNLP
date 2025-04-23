@@ -11,6 +11,10 @@ sandbox/
 commit.txt
 requirements.txt
 
+# Folders
+data/processed/*.pkl
+data/processed/*.csv
+
 # Python-specific ignores
 __pycache__/
 .pytest_cache/
