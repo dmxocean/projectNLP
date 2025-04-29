@@ -1,57 +1,92 @@
 import json
-import os
+from typing import Dict, List
 
-def load_json(file_path: str):
+def load_json_data(file_path: str) -> List[Dict]:
     """
-    Load JSON data from a file
-    
-    Params:
-        file_path: Path to the JSON file
-        
-    Returns:
-        Loaded JSON data
+    Load data from JSON file
     """
+
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             data = json.load(f)
-            print(f"Successfully loaded {len(data)} documents from {file_path}")
-            return data
+        print(f"Successfully loaded data from: {file_path}")
+        return data
     except Exception as e:
-        print(f"Error loading data from {file_path}: {e}")
-        return [] # Avoid crashing the program
-
-def save_json(data, file_path: str, append: bool = False, overwrite: bool = True):
-    """
-    Save data to a JSON file
+        print(f"Error loading data: {e}")
+        return []
     
-    Params:
-        data: Data to save
-        file_path: Path to save the file
-        append: Add to existing file
-        overwrite: Allow overwriting existing file
-    
-    Raises:
-        FileExistsError: If file exists and overwrite=False
+
+def explore_json_structure(data) -> Dict:
     """
-    # Handle directory creation
-    directory = os.path.dirname(file_path)
-    if directory and not os.path.exists(directory):
-        os.makedirs(directory)
+    Analyze and display JSON structure of the data
+    """
 
-    # Check overwrite condition
-    if os.path.exists(file_path) and not overwrite and not append:
-        raise FileExistsError(f"File {file_path} exists and overwrite is False")
+    if not data:
+        print("No data available for analysis")
+        return {}
 
-    # Handle append condition
-    if append and os.path.exists(file_path):
-        try:
-            with open(file_path, "r", encoding="utf-8") as file:
-                old_data = json.load(file)
-                if isinstance(old_data, dict) and isinstance(data, dict):
-                    data = {**old_data, **data}
-        except (json.JSONDecodeError, IOError):
-            pass
+    record_first = data[0]  # Get main keys from first document
+    main_keys = list(record_first.keys()) if isinstance(record_first, dict) else []
 
-    # Write the data with fixed indent
-    with open(file_path, "w", encoding="utf-8") as file:
-        json.dump(data, file, indent=4)
+    structure = {"main_keys": main_keys}  # Create structure dictionary
+
+    print(f"Type document: {type(record_first)}")  # Print document structure information
+    print(f"Keys document: {main_keys}")
+    print()
+
+    # Explore each main key
+    for main_key in main_keys:
+        if main_key not in record_first:
+            continue
+
+        print(f"Key: {main_key}")
+        print(f"Type: {type(record_first[main_key])}")
+
+        try:  # Get length if possible
+            length = len(record_first[main_key])
+            print(f"Length: {length}")
+        except:
+            print("Length: N/A")
+
+        value_str = str(record_first[main_key])  # Print value (truncated if needed)
+        if len(value_str) > 200:
+            value_str = value_str[:200] + "..."
+        print(f"Value: {value_str}")
+        print()
+
+        # Explore its nested structure
+        if main_key == "data" and isinstance(record_first[main_key], dict):
+            structure["data_keys"] = list(record_first["data"].keys())
+
+            for k in record_first["data"].keys():
+                print(f"\tKey: {k}")
+                print(f"\tType: {type(record_first['data'][k])}")
+
+                # Get length if possible
+                try:
+                    length = len(str(record_first["data"][k]))
+                    print(f"\tLength: {length}")
+                except:
+                    print("\tLength: N/A")
+
+                value_str = str(record_first["data"][k])
+                if len(value_str) > 100:
+                    value_str = value_str[:100] + "..."
+                print(f"\tValue: {value_str}")
+                print()
+
+        elif main_key == "predictions" and isinstance(record_first[main_key], list) and record_first[main_key]:
+            print("\tPredictions structure:")
+            pred = record_first[main_key][0]
+            print(f"\tPrediction keys: {list(pred.keys()) if isinstance(pred, dict) else 'N/A'}")
+
+            if isinstance(pred, dict) and "result" in pred and pred["result"]:
+                result = pred["result"][0]
+                print(f"\tResult keys: {list(result.keys()) if isinstance(result, dict) else 'N/A'}")
+
+                if isinstance(result, dict) and "value" in result:
+                    value = result["value"]
+                    print(f"\tValue keys: {list(value.keys()) if isinstance(value, dict) else 'N/A'}")
+                    print()
+
+    return structure
