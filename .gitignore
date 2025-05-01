@@ -11,9 +11,9 @@ sandbox/
 commit.txt
 requirements.txt
 
-# Folders
-data/processed/*.pkl
-data/processed/*.csv
+# Ignore documents in data folder
+data/documents/*.txt
+data/documents_test/*.txt
 
 # Python-specific ignores
 __pycache__/
