@@ -9,64 +9,6 @@ from typing import Callable, Optional, List, Tuple, Dict, Any, Iterator
 from nltk.tokenize.api import TokenizerI  # For type hinting
 
 
-def parse_tokens_with_lexical_grammar(
-    grammar: nltk.CFG, sentence_tokens: list[str]
-) -> list[str]:
-    """
-    Applies a purely lexical NLTK grammar to map tokens in a sentence.
-
-    This function iterates through the grammar's lexical rules (LEMMA -> 'word')
-    to build a word-to-lemma lookup map. It then iterates through the input
-    tokens, replacing any known token (case-insensitive) with its corresponding
-    lemma symbol from the grammar. Tokens not found in the grammar are
-    returned unchanged.
-
-    This is NOT syntactic parsing but rather a form of lexical normalization or tagging.
-
-    Args:
-        grammar: An nltk.CFG object containing primarily lexical rules.
-                 It must have been successfully created (not None).
-        sentence_tokens: A list of strings representing the tokenized sentence.
-
-    Returns:
-        A list of strings where known tokens are replaced by their lemma
-        symbols from the grammar. Returns the original list if grammar is
-        invalid or sentence is empty.
-    """
-    if not isinstance(grammar, nltk.CFG) or not sentence_tokens:
-        return sentence_tokens  # Return original if grammar invalid or no tokens
-
-    word_to_lemma_map: dict[str, str] = {}
-    try:
-        for production in grammar.productions():
-            # Check if it's a lexical rule like: LEMMA -> 'word'
-            if production.is_lexical() and isinstance(production.rhs()[0], str):
-                word = production.rhs()[
-                    0
-                ]  # The terminal word from CFG (should be lowercase)
-                lemma = (
-                    production.lhs().symbol()
-                )  # The non-terminal lemma string (e.g., '_negativo')
-                word_to_lemma_map[word] = lemma
-    except Exception as e:
-        print(f"Error processing grammar productions: {e}")
-        return sentence_tokens  # Return original tokens on error
-
-    if not word_to_lemma_map:
-        print("Warning: No lexical rules found in the grammar to build a map.")
-        # Fall through to map_tokens_to_lemmas, which will just return original tokens
-
-    # 2. Map input tokens using the created map
-    mapped_output = []
-    for token in sentence_tokens:
-        # Lookup the lowercase version of the token in the map
-        # If not found, default to the original token itself
-        lemma = word_to_lemma_map.get(token.lower(), token)
-        mapped_output.append(lemma)
-
-    return mapped_output
-
-
 def json_structure(data, max_depth=5, current_depth=0, path="root"):
     """
     Recursively explore and print the structure of JSON data up to a specified depth

@@ -15,6 +15,10 @@ requirements.txt
 data/documents/*.txt
 data/documents_test/*.txt
 
+wandb/
+ner_longformer_demo_results/
+dl_system/data/
+
 # Python-specific ignores
 __pycache__/
 .pytest_cache/

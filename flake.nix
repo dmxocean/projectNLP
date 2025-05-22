@@ -61,9 +61,13 @@ EOF
                         pythonPackages.numpy
                         pythonPackages.pandas
                         pythonPackages.seaborn
-                        pythonPackages.spacy
                         pythonPackages.nltk
                         pythonPackages.pytest
+
+                        pythonPackages.torch
+                        pythonPackages.transformers
+                        pythonPackages.datasets
+
                         pythonPackages.venvShellHook
                         pythonPackages.ipykernel
                         pkgs.uv # pip alternative
