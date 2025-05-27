@@ -5,6 +5,7 @@ from typing import Any, List, Dict, Tuple, Optional
 import math
 import torch
 import torch.nn as nn
+import torch.nn.functional as F
 import torch.optim as optim
 from torch.utils.data import DataLoader
 
@@ -15,6 +16,91 @@ from sklearn.metrics import classification_report as sklearn_classification_repo
 import wandb
 
 
+class FocalLoss(nn.Module):
+    def __init__(
+        self,
+        gamma: float = 2.0,
+        alpha: Optional[torch.Tensor] = None,
+        reduction: str = "mean",
+        ignore_index: int = -100,
+    ):
+        super(FocalLoss, self).__init__()
+        self.gamma = gamma
+        self.alpha = alpha  # Expects a tensor of weights for each class, or None
+        self.reduction = reduction
+        self.ignore_index = ignore_index
+
+    def forward(self, logits: torch.Tensor, targets: torch.Tensor) -> torch.Tensor:
+        # logits: (N, C) where C = num_classes
+        # targets: (N)
+
+        # Calculate Cross Entropy loss without reduction, applying ignore_index
+        # This also handles the case where targets are out of bounds for logits.
+        ce_loss = F.cross_entropy(
+            logits, targets, reduction="none", ignore_index=self.ignore_index
+        )
+
+        # For numerical stability, pt should be calculated carefully.
+        # If ce_loss is very large, exp(-ce_loss) can be zero.
+        # pt is the probability of the true class.
+        pt = torch.exp(-ce_loss)
+
+        # Calculate Focal component: (1 - pt)^gamma
+        focal_term = (1 - pt).pow(self.gamma)
+
+        # The raw focal loss for each element
+        loss_elements = focal_term * ce_loss
+
+        # Apply alpha weighting if provided
+        if self.alpha is not None:
+            if not isinstance(self.alpha, torch.Tensor):
+                raise TypeError(
+                    "Alpha must be a torch.Tensor of weights per class or None."
+                )
+            if self.alpha.ndim != 1 or self.alpha.size(0) != logits.size(1):
+                raise ValueError(
+                    f"Alpha tensor must be 1D and have size C (num_classes={logits.size(1)}), got {self.alpha.shape}"
+                )
+
+            # Ensure alpha is on the same device as targets
+            alpha_weights = self.alpha.to(targets.device)
+
+            # Gather alpha values corresponding to each target class
+            # Only apply alpha to non-ignored indices
+            active_mask_for_alpha = targets != self.ignore_index
+            alpha_per_target = torch.ones_like(
+                targets, dtype=logits.dtype
+            )  # Default alpha = 1
+
+            # Get valid targets for indexing alpha_weights
+            valid_targets = targets[active_mask_for_alpha]
+            if valid_targets.numel() > 0:  # Check if there are any valid targets
+                alpha_per_target[active_mask_for_alpha] = alpha_weights[valid_targets]
+
+            loss_elements = alpha_per_target * loss_elements
+
+        # Apply reduction only to non-ignored elements
+        active_mask_for_reduction = targets != self.ignore_index
+        active_loss_elements = loss_elements[active_mask_for_reduction]
+
+        if active_loss_elements.numel() == 0:  # All elements were ignored
+            return torch.tensor(
+                0.0,
+                device=logits.device,
+                requires_grad=True if logits.requires_grad else False,
+            )
+
+        if self.reduction == "mean":
+            return active_loss_elements.mean()
+        elif self.reduction == "sum":
+            return active_loss_elements.sum()
+        else:  # 'none'
+            # If 'none', we should still return only the active elements or ensure caller handles it
+            return loss_elements  # Caller needs to be aware of ignore_index if reduction is 'none'
+            # For this script, 'mean' or 'sum' is expected.
+
+
+# --- TransformerNER Class (from your transformer.py) ---
 class TransformerNER(nn.Module):
     def __init__(
         self,
@@ -62,7 +148,7 @@ class TransformerNER(nn.Module):
         return logits
 
 
-# --- Data Processing Helper Functions ---
+# --- Data Processing Helper Functions (from your transformer.py) ---
 def reformat_json(input_json_path: str, output_file_path: str) -> None:
     with open(input_json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -167,136 +253,148 @@ def process_batch_for_custom_model(batch, tokenizer, max_length, label_to_id):
     }
 
 
-# <<< MODIFIED EVALUATION FUNCTION >>>
 def evaluate_model(
     model: nn.Module,
     dataloader: DataLoader,
     device: torch.device,
-    criterion: nn.Module,
+    criterion: nn.Module,  # Will now be FocalLoss instance
     num_labels: int,
-    labels_list_for_report: List[str],  # Use full LABELS_LIST for sklearn report
+    labels_list_for_report: List[str],
+    label_to_id: Dict[str, int],
 ):
     model.eval()
     total_eval_loss = 0
-
-    all_true_flat_ids = []  # For sklearn, expects flat list of labels
-    all_pred_flat_ids = []  # For sklearn
-
-    correct_predictions_token = 0
-    total_active_tokens = 0
+    all_true_entity_ids = []
+    all_pred_entity_ids = []
+    correct_entity_token_predictions = 0
+    total_entity_tokens = 0
+    o_label_id = label_to_id["O"]
 
     with torch.no_grad():
         for batch in dataloader:
             input_ids = batch["input_ids"].to(device)
             attention_mask = batch["attention_mask"].to(device)
-            labels = batch["labels"].to(device)  # Shape: (batch_size, seq_len)
-
-            logits = model(
-                input_ids, attention_mask=attention_mask
-            )  # Shape: (batch_size, seq_len, num_labels)
-            loss = criterion(logits.view(-1, num_labels), labels.view(-1))
+            labels_batch = batch["labels"].to(device)
+            logits = model(input_ids, attention_mask=attention_mask)
+            loss = criterion(
+                logits.view(-1, num_labels), labels_batch.view(-1)
+            )  # Criterion is now FocalLoss
             total_eval_loss += loss.item()
+            preds_ids_batch = torch.argmax(logits, dim=-1)
 
-            preds_ids = torch.argmax(logits, dim=-1)  # Shape: (batch_size, seq_len)
-
-            # Collect active (non -100) labels and predictions for sklearn report and accuracy
-            for i in range(labels.size(0)):  # Iterate over each sequence in the batch
-                seq_labels = labels[i]
-                seq_preds = preds_ids[i]
-
-                active_indices = (
-                    seq_labels != -100
-                )  # Mask for active tokens in this sequence
-
-                active_true_ids = seq_labels[active_indices]
-                active_pred_ids = seq_preds[active_indices]
-
-                all_true_flat_ids.extend(active_true_ids.cpu().tolist())
-                all_pred_flat_ids.extend(active_pred_ids.cpu().tolist())
-
-                correct_predictions_token += (
-                    (active_pred_ids == active_true_ids).sum().item()
+            for i in range(labels_batch.size(0)):
+                seq_true_labels = labels_batch[i]
+                seq_pred_labels = preds_ids_batch[i]
+                entity_tokens_mask = (seq_true_labels != -100) & (
+                    seq_true_labels != o_label_id
                 )
-                total_active_tokens += active_true_ids.numel()
+                true_ids_for_entities = seq_true_labels[entity_tokens_mask]
+                pred_ids_for_entities = seq_pred_labels[entity_tokens_mask]
+                all_true_entity_ids.extend(true_ids_for_entities.cpu().tolist())
+                all_pred_entity_ids.extend(pred_ids_for_entities.cpu().tolist())
+                correct_entity_token_predictions += (
+                    (pred_ids_for_entities == true_ids_for_entities).sum().item()
+                )
+                total_entity_tokens += true_ids_for_entities.numel()
 
-    avg_eval_loss = total_eval_loss / len(dataloader)
-    token_accuracy = (
-        (correct_predictions_token / total_active_tokens)
-        if total_active_tokens > 0
+    avg_eval_loss = total_eval_loss / len(dataloader) if len(dataloader) > 0 else 0
+    entity_token_accuracy = (
+        (correct_entity_token_predictions / total_entity_tokens)
+        if total_entity_tokens > 0
         else 0
     )
 
-    # Generate sklearn classification report
-    # Sklearn report needs target names (label strings) corresponding to the label IDs
-    # It's good to provide all possible labels used for training.
-    # Filter out IDs if they don't appear in either true or preds to avoid warnings if labels_list_for_report has unused labels
-    unique_label_ids_in_data = sorted(list(set(all_true_flat_ids + all_pred_flat_ids)))
-    target_names_for_report = [
-        labels_list_for_report[l_id] for l_id in unique_label_ids_in_data
-    ]
-
-    sklearn_report_str = sklearn_classification_report(
-        all_true_flat_ids,
-        all_pred_flat_ids,
-        labels=unique_label_ids_in_data,  # Pass the actual IDs present
-        target_names=target_names_for_report,  # Corresponding names
-        zero_division=0,
-        digits=3,  # More precision
+    unique_label_ids_in_data = sorted(
+        list(set(all_true_entity_ids + all_pred_entity_ids))
     )
+    target_names_for_report = []
+    valid_unique_ids_for_report = []
 
-    # For wandb HTML, just use the string report wrapped in <pre>
+    if unique_label_ids_in_data:
+        for l_id in unique_label_ids_in_data:
+            if l_id < len(labels_list_for_report):
+                target_names_for_report.append(labels_list_for_report[l_id])
+                valid_unique_ids_for_report.append(l_id)
+            else:
+                print(
+                    f"Warning: Label ID {l_id} out of bounds for labels_list_for_report. Skipping in report."
+                )
+
+    if not valid_unique_ids_for_report:
+        sklearn_report_str = (
+            "No entities found or predicted to generate a report (excluding 'O')."
+        )
+    else:
+        sklearn_report_str = sklearn_classification_report(
+            all_true_entity_ids,
+            all_pred_entity_ids,
+            labels=valid_unique_ids_for_report,
+            target_names=target_names_for_report,
+            zero_division=0,
+            digits=3,
+        )
     report_html_for_wandb = f"<pre>{sklearn_report_str}</pre>"
+    return avg_eval_loss, entity_token_accuracy, report_html_for_wandb
 
-    # You can also get a dict version from sklearn if needed for other logging
-    # sklearn_report_dict = sklearn_classification_report(..., output_dict=True)
-
-    return avg_eval_loss, token_accuracy, report_html_for_wandb  # Return HTML string
-
-
-# <<< END MODIFIED EVALUATION FUNCTION >>>
 
 if __name__ == "__main__":
     CONFIG = {
         "train_file_raw": "../data/raw/training.json",
         "test_file_raw": "../data/raw/test.json",
-        "train_file_jsonl": "data/training_custom.jsonl",
-        "test_file_jsonl": "data/testing_custom.jsonl",
+        "train_file_jsonl": "data/training_custom_focal.jsonl",  # Changed output file names
+        "test_file_jsonl": "data/testing_custom_focal.jsonl",
         "hf_tokenizer_name": "distilbert-base-multilingual-cased",
-        "model_max_seq_len": 256,  # Reduced for faster demo with custom model
-        "batch_size": 8,  # Increased slightly
-        "embed_dim": 128,  # Reduced for faster demo
+        "model_max_seq_len": 256,
+        "batch_size": 8,
+        "embed_dim": 128,
         "nhead": 4,
         "num_encoder_layers": 2,
-        "dim_feedforward": 256,  # Reduced
+        "dim_feedforward": 256,
         "dropout": 0.1,
         "learning_rate": 5e-5,
         "num_epochs": 3,
-        "print_every_n_steps": 10,  # Reduced for more frequent logging
+        "print_every_n_steps": 10,
+        "focal_loss_gamma": 2.0,  # <<< NEW: Gamma for Focal Loss
+        # "focal_loss_alpha": [0.25, 0.75, ...] # Example: Optional alpha weights per class (tensor)
+        # For simplicity, we'll use alpha=None initially
     }
-    wandb.init(
-        project="custom-ner-transformer-sklearn", config=CONFIG
-    )  # Changed project name slightly
+    wandb.init(project="custom-ner-focal-loss", config=CONFIG)
 
+    # print("Reformatting JSON files to JSONL...")
     # reformat_json(CONFIG["train_file_raw"], CONFIG["train_file_jsonl"])
     # reformat_json(CONFIG["test_file_raw"], CONFIG["test_file_jsonl"])
+    # print("Reformatting complete.")
 
     data_files = {
         "train": CONFIG["train_file_jsonl"],
         "test": CONFIG["test_file_jsonl"],
     }
-    raw_datasets = load_dataset("json", data_files=data_files)
+    # Ensure files exist, or uncomment reformat_json calls if they are raw
+    try:
+        raw_datasets = load_dataset("json", data_files=data_files)
+    except FileNotFoundError:
+        print(f"Error: One or both JSONL files not found: {data_files}")
+        print(
+            "Please ensure the .jsonl files exist, or uncomment the reformat_json calls to create them from raw .json files."
+        )
+        exit()
 
     hf_tokenizer = AutoTokenizer.from_pretrained(CONFIG["hf_tokenizer_name"])
     VOCAB_SIZE = hf_tokenizer.vocab_size
 
     labels_originals = ["NEG", "NSCO", "UNC", "USCO"]
     label_prefixes = ["S", "B", "I", "E"]
-    LABELS_LIST = ["O"]  # This will be used globally by evaluate_model
+    LABELS_LIST = ["O"]
     for original_label in labels_originals:
         for label_prefix in label_prefixes:
             LABELS_LIST.append(f"{label_prefix}-{original_label}")
     label_to_id = {label: i for i, label in enumerate(LABELS_LIST)}
     NUM_LABELS = len(LABELS_LIST)
+
+    # Optional: Define alpha weights for Focal Loss if you want to use them
+    # E.g., calculate inverse frequency or set manually. Must be a tensor.
+    # alpha_weights = torch.tensor([...], dtype=torch.float) # Length NUM_LABELS
+    alpha_weights = None  # For simplest case, no alpha weighting initially
 
     print("Mapping datasets...")
     mapped_datasets = raw_datasets.map(
@@ -342,7 +440,17 @@ if __name__ == "__main__":
     ).to(DEVICE)
     print("CustomTransformerNER model initialized.")
 
-    criterion = nn.CrossEntropyLoss(ignore_index=-100)
+    # --- MODIFIED: Use FocalLoss ---
+    criterion = FocalLoss(
+        gamma=CONFIG["focal_loss_gamma"],
+        alpha=alpha_weights,  # Pass None or your defined alpha_weights tensor
+        ignore_index=-100,
+    )
+    print(
+        f"Using FocalLoss with gamma={CONFIG['focal_loss_gamma']} and alpha={alpha_weights}"
+    )
+    # ---
+
     optimizer = optim.AdamW(custom_ner_model.parameters(), lr=CONFIG["learning_rate"])
 
     print("Starting training loop with evaluation and wandb logging...")
@@ -357,13 +465,14 @@ if __name__ == "__main__":
         print(f"\n--- Epoch {epoch + 1}/{CONFIG['num_epochs']} ---")
 
         for step, batch in enumerate(train_dataloader):
-            # (Training step logic remains the same)
             input_ids = batch["input_ids"].to(DEVICE)
             attention_mask = batch["attention_mask"].to(DEVICE)
             labels = batch["labels"].to(DEVICE)
             optimizer.zero_grad()
             logits = custom_ner_model(input_ids, attention_mask=attention_mask)
-            loss = criterion(logits.view(-1, NUM_LABELS), labels.view(-1))
+            loss = criterion(
+                logits.view(-1, NUM_LABELS), labels.view(-1)
+            )  # Now uses FocalLoss
             loss.backward()
             optimizer.step()
             total_epoch_loss += loss.item()
@@ -382,62 +491,60 @@ if __name__ == "__main__":
                     }
                 )
 
-        avg_epoch_train_loss = total_epoch_loss / num_batches
+        avg_epoch_train_loss = total_epoch_loss / num_batches if num_batches > 0 else 0
         print(
             f"End of Epoch {epoch + 1}, Average Training Loss: {avg_epoch_train_loss:.4f}"
         )
 
-        # Perform evaluation at the end of each epoch
-        avg_eval_loss, token_accuracy, eval_report_html = evaluate_model(
+        avg_eval_loss, entity_token_accuracy, eval_report_html = evaluate_model(
             custom_ner_model,
             eval_dataloader,
             DEVICE,
             criterion,
             NUM_LABELS,
-            LABELS_LIST,  # Pass global LABELS_LIST
+            LABELS_LIST,
+            label_to_id,
         )
         print(
-            f"Epoch {epoch + 1}, Eval Loss: {avg_eval_loss:.4f}, Token Accuracy: {token_accuracy:.4f}"
+            f"Epoch {epoch + 1}, Eval Loss: {avg_eval_loss:.4f}, Entity Token Accuracy: {entity_token_accuracy:.4f}"
         )
-        # Print the report string to console for quick view
-        # print(f"\nEpoch {epoch+1} Sklearn Classification Report:\n{eval_report_html.replace('<pre>', '').replace('</pre>', '')}") # Print plain text
 
         wandb.log(
             {
-                "epoch": epoch + 1,  # Log integer epoch for easier x-axis
+                "epoch": epoch + 1,
                 "avg_train_loss_epoch": avg_epoch_train_loss,
                 "avg_eval_loss_epoch": avg_eval_loss,
-                "token_accuracy_epoch": token_accuracy,
-                f"eval_classification_report_epoch_{epoch + 1}": wandb.Html(
-                    eval_report_html
-                ),  # Log HTML report
+                "entity_token_accuracy_epoch": entity_token_accuracy,
+                f"eval_entity_report_epoch_{epoch + 1}": wandb.Html(eval_report_html),
             }
         )
 
     print("\nTraining finished.")
 
     print("\nPerforming final evaluation on the test set...")
-    final_loss, final_accuracy, final_report_html = evaluate_model(
+    final_loss, final_entity_accuracy, final_report_html = evaluate_model(
         custom_ner_model,
         eval_dataloader,
         DEVICE,
         criterion,
         NUM_LABELS,
-        LABELS_LIST,  # Pass global LABELS_LIST
+        LABELS_LIST,
+        label_to_id,
     )
     print(f"\nFinal Test Loss: {final_loss:.4f}")
-    print(f"Final Test Token Accuracy: {final_accuracy:.4f}")
+    print(f"Final Test Entity Token Accuracy: {final_entity_accuracy:.4f}")
     print(
-        "\nFinal Sklearn Classification Report:\n",
+        "\nFinal Sklearn Classification Report (Entities Only):\n",
         final_report_html.replace("<pre>", "").replace("</pre>", ""),
-    )  # Print plain text
+    )
 
     wandb.log(
         {
             "final_test_loss": final_loss,
-            "final_test_token_accuracy": final_accuracy,
-            "final_classification_report": wandb.Html(final_report_html),
+            "final_test_entity_accuracy": final_entity_accuracy,
+            "final_entity_classification_report": wandb.Html(final_report_html),
         }
     )
 
     wandb.finish()
+
