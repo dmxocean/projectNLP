@@ -287,6 +287,23 @@ def evaluate_model(
                 seq_pred_labels = preds_ids_batch[i]
                 entity_tokens_mask = (seq_true_labels != -100) & (
                     seq_true_labels != o_label_id
+            preds_ids = torch.argmax(logits, dim=-1)  # Shape: (batch_size, seq_len)
+
+            # Collect active (non -100) labels and predictions for sklearn report and accuracy
+            for i in range(labels.size(0)):  # Iterate over each sequence in the batch
+                seq_labels = labels[i]
+                seq_preds = preds_ids[i]
+
+                active_indices = seq_labels != -100
+
+                active_true_ids = seq_labels[active_indices]
+                active_pred_ids = seq_preds[active_indices]
+
+                all_true_flat_ids.extend(active_true_ids.cpu().tolist())
+                all_pred_flat_ids.extend(active_pred_ids.cpu().tolist())
+
+                correct_predictions_token += (
+                    (active_pred_ids == active_true_ids).sum().item()
                 )
                 true_ids_for_entities = seq_true_labels[entity_tokens_mask]
                 pred_ids_for_entities = seq_pred_labels[entity_tokens_mask]
@@ -335,7 +352,6 @@ def evaluate_model(
         )
     report_html_for_wandb = f"<pre>{sklearn_report_str}</pre>"
     return avg_eval_loss, entity_token_accuracy, report_html_for_wandb
-
 
 if __name__ == "__main__":
     CONFIG = {
@@ -452,6 +468,7 @@ if __name__ == "__main__":
     # ---
 
     optimizer = optim.AdamW(custom_ner_model.parameters(), lr=CONFIG["learning_rate"])
+    scheduler = optim.lr_scheduler.MultiStepLR(optimizer, milestones=[20, 40, 60, 80], gamma=.5)
 
     print("Starting training loop with evaluation and wandb logging...")
     wandb.watch(
@@ -462,7 +479,6 @@ if __name__ == "__main__":
         custom_ner_model.train()
         total_epoch_loss = 0
         num_batches = 0
-        print(f"\n--- Epoch {epoch + 1}/{CONFIG['num_epochs']} ---")
 
         for step, batch in enumerate(train_dataloader):
             input_ids = batch["input_ids"].to(DEVICE)
@@ -480,23 +496,22 @@ if __name__ == "__main__":
 
             if (step + 1) % CONFIG["print_every_n_steps"] == 0:
                 current_lr = optimizer.param_groups[0]["lr"]
-                print(
-                    f"  Epoch {epoch + 1}, Step {step + 1}/{len(train_dataloader)}, Train Loss: {loss.item():.4f}, LR: {current_lr:.2e}"
-                )
                 wandb.log(
                     {
-                        "train_loss_step": loss.item(),
-                        "learning_rate": current_lr,
+                        "train/batch_loss": loss.item(),
+                        "train/lr": current_lr,
                         "epoch_float": epoch + (step + 1) / len(train_dataloader),
                     }
                 )
 
         avg_epoch_train_loss = total_epoch_loss / num_batches if num_batches > 0 else 0
-        print(
-            f"End of Epoch {epoch + 1}, Average Training Loss: {avg_epoch_train_loss:.4f}"
-        )
 
         avg_eval_loss, entity_token_accuracy, eval_report_html = evaluate_model(
+        scheduler.step()
+
+        avg_epoch_train_loss = total_epoch_loss / num_batches
+
+        avg_eval_loss, token_accuracy, eval_report_html = evaluate_model(
             custom_ner_model,
             eval_dataloader,
             DEVICE,
@@ -505,17 +520,16 @@ if __name__ == "__main__":
             LABELS_LIST,
             label_to_id,
         )
-        print(
-            f"Epoch {epoch + 1}, Eval Loss: {avg_eval_loss:.4f}, Entity Token Accuracy: {entity_token_accuracy:.4f}"
-        )
 
+        print(
+            f"Epoch {epoch + 1:3}, Val Loss: {avg_eval_loss:.4f}, Train Loss: {avg_epoch_train_loss:.4f}"
+        )
         wandb.log(
             {
-                "epoch": epoch + 1,
-                "avg_train_loss_epoch": avg_epoch_train_loss,
-                "avg_eval_loss_epoch": avg_eval_loss,
-                "entity_token_accuracy_epoch": entity_token_accuracy,
-                f"eval_entity_report_epoch_{epoch + 1}": wandb.Html(eval_report_html),
+                "epoch": epoch + 1,  # Log integer epoch for easier x-axis
+                "train/loss": avg_epoch_train_loss,
+                "val/loss": avg_eval_loss,
+                "val/token_acc": token_accuracy,
             }
         )
 
