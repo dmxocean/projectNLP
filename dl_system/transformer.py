@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import math
+import wandb
 
 import json
 from functools import partial
@@ -162,22 +163,23 @@ if __name__ == "__main__":
     TRAIN_FILE_JSONL = "data/training_custom.jsonl"
     TEST_FILE_JSONL = "data/testing_custom.jsonl"
 
-    # Reformat your raw JSON to JSONL (run once if needed)
-    print("Reformatting JSON files to JSONL...")
-    reformat_json(TRAIN_FILE_RAW, TRAIN_FILE_JSONL)
-    reformat_json(TEST_FILE_RAW, TEST_FILE_JSONL)
-    print("Reformatting complete.")
+    run = wandb.init(
+        entity='uab-deeplearning-2025',
+        project='huggingface',
+    )
+
+    #print("Reformatting JSON files to JSONL...")
+    #reformat_json(TRAIN_FILE_RAW, TRAIN_FILE_JSONL)
+    #reformat_json(TEST_FILE_RAW, TEST_FILE_JSONL)
+    #print("Reformatting complete.")
 
     data_files = {"train": TRAIN_FILE_JSONL, "test": TEST_FILE_JSONL}
     raw_datasets = load_dataset("json", data_files=data_files)
 
-    # Use a Hugging Face tokenizer for input_ids and vocab_size
-    # This tokenizer's vocab_size will be used for your custom model's embedding layer
     HF_TOKENIZER_NAME = "distilbert-base-multilingual-cased" # Example, choose one suitable
     hf_tokenizer = AutoTokenizer.from_pretrained(HF_TOKENIZER_NAME)
     VOCAB_SIZE = hf_tokenizer.vocab_size
 
-    # Label definitions (same as in your train_vast.py)
     labels_originals = ["NEG", "NSCO", "UNC", "USCO"]
     label_prefixes = ["S", "B", "I", "E"]
     LABELS_LIST = ["O"]
@@ -187,11 +189,8 @@ if __name__ == "__main__":
     label_to_id = {label: i for i, label in enumerate(LABELS_LIST)}
     NUM_LABELS = len(LABELS_LIST)
 
-    # Model and Tokenization Hyperparameters
-    MODEL_MAX_SEQ_LEN = 512 # Max sequence length for tokenization and custom model
-                            # Adjust based on your custom model's capacity and data
+    MODEL_MAX_SEQ_LEN = 512
 
-    # 1. Preprocess data using the Hugging Face tokenizer
     print("Mapping datasets...")
     mapped_datasets = raw_datasets.map(
         partial(
@@ -207,11 +206,9 @@ if __name__ == "__main__":
     print("Dataset mapping complete.")
     print(mapped_datasets)
 
-    # 2. Data Collator (still useful for padding batches from mapped_datasets)
     data_collator = DataCollatorForTokenClassification(tokenizer=hf_tokenizer)
 
-    # 3. DataLoaders
-    BATCH_SIZE = 4 # Adjust based on your memory
+    BATCH_SIZE = 64
     train_dataloader = DataLoader(
         mapped_datasets["train"],
         shuffle=True,
@@ -219,7 +216,7 @@ if __name__ == "__main__":
         batch_size=BATCH_SIZE
     )
     # test_dataloader for evaluation (not used in this simple loop)
-    # eval_dataloader = DataLoader(mapped_datasets["test"], collate_fn=data_collator, batch_size=BATCH_SIZE)
+    eval_dataloader = DataLoader(mapped_datasets["test"], collate_fn=data_collator, batch_size=BATCH_SIZE)
 
 
     # 4. Initialize your Custom TransformerNER model
@@ -247,7 +244,7 @@ if __name__ == "__main__":
     optimizer = optim.AdamW(custom_ner_model.parameters(), lr=LEARNING_RATE)
 
     # 7. Simple Training Loop
-    NUM_EPOCHS = 3 # Number of epochs for the demo
+    NUM_EPOCHS = 30 # Number of epochs for the demo
     PRINT_EVERY_N_STEPS = 10
 
     print("Starting simple training loop...")
@@ -256,6 +253,7 @@ if __name__ == "__main__":
     for epoch in range(NUM_EPOCHS):
         print(f"\n--- Epoch {epoch+1}/{NUM_EPOCHS} ---")
         total_epoch_loss = 0
+        total_val_loss = 0
         num_batches = 0
 
         for step, batch in enumerate(train_dataloader):
@@ -282,10 +280,19 @@ if __name__ == "__main__":
             total_epoch_loss += loss.item()
             num_batches += 1
 
-            if (step + 1) % PRINT_EVERY_N_STEPS == 0:
-                print(f"  Step {step+1}/{len(train_dataloader)}, Current Loss: {loss.item():.4f}")
-
         avg_epoch_loss = total_epoch_loss / num_batches
         print(f"End of Epoch {epoch+1}, Average Training Loss: {avg_epoch_loss:.4f}")
 
-    print("\nSimple training loop finished.")
+        for batch in eval_dataloader:
+            input_ids = batch['input_ids'].to(DEVICE)
+            attention_mask = batch['attention_mask'].to(DEVICE)
+            labels = batch['labels'].to(DEVICE)
+
+            logits = custom_ner_model(input_ids, attention_mask=attention_mask)
+            loss = criterion(logits.view(-1, NUM_LABELS), labels.view(-1))
+            total_val_loss += loss.item()
+
+        avg_eval_loss = total_val_loss / num_batches
+
+        log_dir = {'train/loss': avg_epoch_loss, 'val/loss': avg_eval_loss}
+        wandb.log(log_dir)
