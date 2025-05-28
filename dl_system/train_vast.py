@@ -219,7 +219,7 @@ if __name__ == "__main__":
     print(raw_data)
 
     long_tokenizer = AutoTokenizer.from_pretrained(
-        "hyperonym/xlm-roberta-longformer-base-16384"
+        "PlanTL-GOB-ES/roberta-base-biomedical-clinical-es"
     )
     model_max_length = 16384
 
@@ -247,7 +247,7 @@ if __name__ == "__main__":
     # data loader
     data_collator = DataCollatorForTokenClassification(tokenizer=long_tokenizer)
 
-    model_checkpoint = "severinsimmler/xlm-roberta-longformer-base-16384"
+    model_checkpoint = "PlanTL-GOB-ES/roberta-base-biomedical-clinical-es"
 
     id_to_label = {id_: label for label, id_ in label_to_id.items()}
     num_labels = len(LABELS_LIST)
