@@ -5,7 +5,6 @@ from typing import Any
 import numpy as np
 import torch
 from datasets import load_dataset
-from datasets.config import MAX_DATASET_CONFIG_ID_READABLE_LENGTH
 from seqeval.metrics import (
     classification_report,
     f1_score,
@@ -20,174 +19,20 @@ from transformers import (
     TrainingArguments,
 )
 
-
-def reformat_json(input_json_path: str, output_file_path: str) -> None:
-    with open(input_json_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-
-    with open(output_file_path, "w", encoding="utf-8") as outfile:
-        for doc_index, doc in enumerate(data):
-            doc_id = doc.get("data", {}).get("id", f"doc_{doc_index}")  # Safer access
-            text = doc.get("data", {}).get("text", "")
-
-            if not text:  # Skip if no text
-                print(
-                    f"Warning: Document {doc_id} (index {doc_index}) has no text. Skipping."
-                )
-                continue
-
-            doc_annotations = []
-            predictions = doc.get("predictions", [])
-
-            if predictions[0]["result"]:
-                for pred in predictions[0]["result"]:
-                    start = pred["value"]["start"]
-                    end = pred["value"]["end"]
-                    label = pred["value"]["labels"][0]
-
-                    doc_annotations.append(
-                        {
-                            "start": start,
-                            "end": end,
-                            "label": label,
-                        }
-                    )
-            doc_annotations.sort(key=lambda x: x["start"])
-            output_record = {
-                "id": doc_id,
-                "text": text,
-                "annotations": doc_annotations,
-            }
-
-            outfile.write(json.dumps(output_record, ensure_ascii=False) + "\n")
-
-
-def process_batch(batch, tokenizer, max_length, label_to_id):
-    token_info = tokenizer(
-        batch["text"],
-        padding=False,
-        return_offsets_mapping=True,
-        truncation=True,
-        max_length=max_length,
-    )
-
-    all_labels = []
-
-    for i in range(len(batch["text"])):
-        labels = align_labels_to_tokens(
-            token_info["offset_mapping"][i],
-            batch["annotations"][i],
-            label_to_id,
-        )
-        all_labels.append(labels)
-
-    return {
-        "input_ids": token_info["input_ids"],
-        "attention_mask": token_info["attention_mask"],
-        "labels": all_labels,
-    }
-
-
-def align_labels_to_tokens(
-    token_offsets: list[
-        tuple[int, int]
-    ],  # List of (start_char, end_char) for each token
-    original_annotations: list[
-        dict[str, Any]
-    ],  # List of {'start': s, 'end': e, 'label': l}
-    label_to_id: dict[str, int],  # Mapping from BIOES tag name to ID
-) -> list[int]:
-    """
-    Aligns character-level annotations to token-level BIOES tags.
-
-    Args:
-        token_offsets: List of (start_char, end_char) tuples from the tokenizer.
-        original_annotations: List of annotation dicts {'start': s, 'end': e, 'label': l}.
-                              Assumed to be sorted by start position.
-        label_to_id: Dictionary mapping BIOES label names (e.g., "B-NEG", "O") to IDs.
-
-    Returns:
-        A list of integer label IDs corresponding to each token. Special tokens
-        (like CLS, SEP) are assigned -100.
-    """
-    num_tokens = len(token_offsets)
-    # Initialize all token labels to 'O' (Outside)
-    token_labels = [label_to_id["O"]] * num_tokens
-
-    # Iterate through each character-level annotation
-    for annotation in original_annotations:
-        annot_start = annotation["start"]
-        annot_end = annotation["end"]
-        label_type = annotation["label"]  # e.g., "NEG", "NSCO"
-
-        # Find indices of tokens that overlap with the current annotation
-        span_indices = []
-        for i, (tok_start, tok_end) in enumerate(token_offsets):
-            # --- CRITICAL: Ignore special tokens (CLS, SEP) for annotation alignment ---
-            # These often have offsets (0, 0) or might span the entire sequence in some tokenizers.
-            # We only want to align annotations with *actual* content tokens.
-            # A robust check is to ensure the token has a non-zero span.
-            if tok_start == tok_end:
-                continue
-
-            # Check for overlap: token starts before annotation ends AND token ends after annotation starts
-            if tok_start < annot_end and tok_end > annot_start:
-                span_indices.append(i)
-
-        if not span_indices:
-            # Annotation doesn't align with any valid token (could be whitespace, etc.)
-            continue
-
-        # Determine BIOES tag based on the number of tokens covered
-        first_token_idx = span_indices[0]
-        last_token_idx = span_indices[-1]
-
-        if len(span_indices) == 1:
-            # Single-token entity
-            tag = f"S-{label_type}"
-            token_labels[first_token_idx] = label_to_id.get(tag, label_to_id["O"])
-        else:
-            # Multi-token entity
-            # Beginning token
-            tag_b = f"B-{label_type}"
-            token_labels[first_token_idx] = label_to_id.get(tag_b, label_to_id["O"])
-            # Ending token
-            tag_e = f"E-{label_type}"
-            token_labels[last_token_idx] = label_to_id.get(tag_e, label_to_id["O"])
-            # Inside tokens (if any)
-            for i in span_indices[1:-1]:
-                tag_i = f"I-{label_type}"
-                token_labels[i] = label_to_id.get(tag_i, label_to_id["O"])
-
-        # Note: This implementation assumes annotations don't structurally overlap
-        # (e.g., one token belonging to both NEG and NSCO). If they do, the later
-        # annotation in the `original_annotations` list will overwrite the earlier one's tag.
-        # Given NEG/NSCO/UNC/USCO, this overwrite is likely the desired behavior or
-        # indicates an upstream annotation issue.
-
-    # --- Assign -100 to special tokens ---
-    # Iterate again *after* assigning real labels to prevent overwriting -100
-    for i, (tok_start, tok_end) in enumerate(token_offsets):
-        if tok_start == tok_end:
-            # Check if it's a *real* special token (e.g. CLS/SEP often map to (0,0))
-            # Heuristic: often the first or last token, or check against tokenizer special IDs if needed
-            # Assign -100, which is ignored by the loss function
-            token_labels[i] = -100
-
-    return token_labels
+from .utils import (
+    # reformat_json, USED FOR DATASET CREATION BEFOREHAND
+    process_batch,
+)
 
 
 def compute_metrics(eval_preds):
     """Computes P/R/F1 for NER using seqeval"""
-    predictions_logits, labels = eval_preds  # Original logits
-    # Get the most likely prediction ID (index of the highest logit)
-    predictions_ids = np.argmax(predictions_logits, axis=2)  # Actual predicted IDs
+    predictions_logits, labels = eval_preds  # original logits
+    predictions_ids = np.argmax(predictions_logits, axis=2)  # our predictions
 
     true_predictions = [
         [LABELS_LIST[p] for (p, l) in zip(prediction, label) if l != -100]
-        for prediction, label in zip(
-            predictions_ids, labels
-        )  # Use predictions_ids here
+        for prediction, label in zip(predictions_ids, labels)
     ]
     true_labels = [
         [LABELS_LIST[l] for (p, l) in zip(prediction, label) if l != -100]
@@ -197,7 +42,6 @@ def compute_metrics(eval_preds):
     report = classification_report(true_labels, true_predictions)
     print(report)
 
-    # Use seqeval to compute metrics
     return {
         "precision": precision_score(true_labels, true_predictions),
         "recall": recall_score(true_labels, true_predictions),
@@ -206,10 +50,6 @@ def compute_metrics(eval_preds):
 
 
 if __name__ == "__main__":
-    # json_document = "data/raw/training.json"
-    # out_file = "dl_system/data/training.jsonl"
-    # reformat_json(json_document, out_file)
-
     train_data_path = "data/training_custom.jsonl"
     test_data_path = "data/testing_custom.jsonl"
 
@@ -284,10 +124,8 @@ if __name__ == "__main__":
     NUM_EPOCHS_DEMO = 100
     TRAIN_BATCH_SIZE_DEMO = 16
     EVAL_BATCH_SIZE_DEMO = 32
-    MODEL_OUTPUT_DIR = (
-        "./ner_longformer_demo_results"  # Where results/checkpoints are saved
-    )
-    LOGGING_STEPS_DEMO = 10  # How often to log training loss
+    MODEL_OUTPUT_DIR = "./ner_longformer_demo_results"
+    LOGGING_STEPS_DEMO = 10
     LEARNING_RATE_DEMO = 1e-5
     EVAL_SAVE_STEPS_DEMO = 100
 
@@ -303,9 +141,8 @@ if __name__ == "__main__":
         save_strategy="no",
         logging_strategy="epoch",
         load_best_model_at_end=False,
-        metric_for_best_model="f1",  # Use F1 score to determine the best model
-        push_to_hub=False,  # Set to True if you want to upload to Hugging Face Hub
-        report_to=["wandb"],  # Disable external reporting like W&B for simple demo
+        metric_for_best_model="f1",  # our target metric
+        report_to=["wandb"],  # as always wandb is used
     )
 
     trainer = Trainer(

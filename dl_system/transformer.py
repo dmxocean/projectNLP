@@ -1,11 +1,10 @@
-import json
 from functools import partial
-from typing import Any, List, Dict, Tuple, Optional
+from typing import List, Dict, Optional
 
 import math
 import torch
 import torch.nn as nn
-import torch.nn.functional as F # Already present in your file, needed for FocalLoss
+import torch.nn.functional as F
 import torch.optim as optim
 from torch.utils.data import DataLoader
 
@@ -13,10 +12,12 @@ from datasets import load_dataset
 from transformers import AutoTokenizer, DataCollatorForTokenClassification
 from sklearn.metrics import classification_report as sklearn_classification_report
 
+from utils import process_batch
+# reformat_json, USED FOR DATASET CREATION BEFOREHAND
+
 import wandb
 
 
-# FocalLoss class definition - (Keep this exactly as in your provided transformer.py file)
 class FocalLoss(nn.Module):
     def __init__(
         self,
@@ -74,7 +75,6 @@ class FocalLoss(nn.Module):
             return loss_elements
 
 
-# TransformerNER Class - (Keep this exactly as in your provided transformer.py file)
 class TransformerNER(nn.Module):
     def __init__(
         self,
@@ -122,112 +122,6 @@ class TransformerNER(nn.Module):
         return logits
 
 
-# Data Processing Helper Functions - (Keep these exactly as in your provided transformer.py file)
-def reformat_json(input_json_path: str, output_file_path: str) -> None:
-    # ... your reformat_json ...
-    with open(input_json_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    with open(output_file_path, "w", encoding="utf-8") as outfile:
-        for doc_index, doc in enumerate(data):
-            doc_id = doc.get("data", {}).get("id", f"doc_{doc_index}")
-            text = doc.get("data", {}).get("text", "")
-            if not text:
-                print(
-                    f"Warning: Document {doc_id} (index {doc_index}) has no text. Skipping."
-                )
-                continue
-            doc_annotations = []
-            predictions_outer = doc.get("predictions", [])
-            if (
-                predictions_outer
-                and isinstance(predictions_outer, list)
-                and len(predictions_outer) > 0
-                and predictions_outer[0].get("result")
-                and isinstance(predictions_outer[0]["result"], list)
-            ):
-                for pred_inner in predictions_outer[0]["result"]:
-                    value = pred_inner.get("value", {})
-                    start = value.get("start")
-                    end = value.get("end")
-                    labels_list_from_pred = value.get("labels")
-                    if (
-                        start is not None
-                        and end is not None
-                        and labels_list_from_pred
-                        and isinstance(labels_list_from_pred, list)
-                        and labels_list_from_pred
-                    ):
-                        label = labels_list_from_pred[0]
-                        doc_annotations.append(
-                            {"start": start, "end": end, "label": label}
-                        )
-            doc_annotations.sort(key=lambda x: x["start"])
-            output_record = {"id": doc_id, "text": text, "annotations": doc_annotations}
-            outfile.write(json.dumps(output_record, ensure_ascii=False) + "\n")
-
-
-def align_labels_to_tokens(
-    token_offsets: List[Tuple[int, int]],
-    original_annotations: List[Dict[str, Any]],
-    label_to_id: Dict[str, int],
-) -> List[int]:
-    # ... your align_labels_to_tokens ...
-    num_tokens = len(token_offsets)
-    token_labels = [label_to_id["O"]] * num_tokens
-    for annotation in original_annotations:
-        annot_start = annotation["start"]
-        annot_end = annotation["end"]
-        label_type = annotation["label"]
-        span_indices = []
-        for i, (tok_start, tok_end) in enumerate(token_offsets):
-            if tok_start == tok_end:
-                continue
-            if tok_start < annot_end and tok_end > annot_start:
-                span_indices.append(i)
-        if not span_indices:
-            continue
-        first_token_idx, last_token_idx = span_indices[0], span_indices[-1]
-        if len(span_indices) == 1:
-            token_labels[first_token_idx] = label_to_id.get(
-                f"S-{label_type}", label_to_id["O"]
-            )
-        else:
-            token_labels[first_token_idx] = label_to_id.get(
-                f"B-{label_type}", label_to_id["O"]
-            )
-            token_labels[last_token_idx] = label_to_id.get(
-                f"E-{label_type}", label_to_id["O"]
-            )
-            for i in span_indices[1:-1]:
-                token_labels[i] = label_to_id.get(f"I-{label_type}", label_to_id["O"])
-    for i, (tok_start, tok_end) in enumerate(token_offsets):
-        if tok_start == tok_end:
-            token_labels[i] = -100
-    return token_labels
-
-def process_batch_for_custom_model(batch, tokenizer, max_length, label_to_id):
-    # ... your process_batch_for_custom_model ...
-    token_info = tokenizer(
-        batch["text"],
-        padding=False,
-        return_offsets_mapping=True,
-        truncation=True,
-        max_length=max_length,
-    )
-    all_labels = []
-    for i in range(len(batch["text"])):
-        labels = align_labels_to_tokens(
-            token_info["offset_mapping"][i],
-            batch["annotations"][i],
-            label_to_id,
-        )
-        all_labels.append(labels)
-    return {
-        "input_ids": token_info["input_ids"],
-        "attention_mask": token_info["attention_mask"],
-        "labels": all_labels,
-    }
-
 def evaluate_model(
     model: nn.Module,
     dataloader: DataLoader,
@@ -237,7 +131,6 @@ def evaluate_model(
     labels_list_for_report: List[str],
     label_to_id: Dict[str, int],
 ):
-    # ... your evaluate_model function ...
     model.eval()
     total_eval_loss = 0
     all_true_entity_ids = []
@@ -252,9 +145,7 @@ def evaluate_model(
             attention_mask = batch["attention_mask"].to(device)
             labels_batch = batch["labels"].to(device)
             logits = model(input_ids, attention_mask=attention_mask)
-            loss = criterion(
-                logits.view(-1, num_labels), labels_batch.view(-1)
-            ) 
+            loss = criterion(logits.view(-1, num_labels), labels_batch.view(-1))
             total_eval_loss += loss.item()
             preds_ids_batch = torch.argmax(logits, dim=-1)
 
@@ -264,6 +155,7 @@ def evaluate_model(
                 entity_tokens_mask = (seq_true_labels != -100) & (
                     seq_true_labels != o_label_id
                 )
+
                 true_ids_for_entities = seq_true_labels[entity_tokens_mask]
                 pred_ids_for_entities = seq_pred_labels[entity_tokens_mask]
                 all_true_entity_ids.extend(true_ids_for_entities.cpu().tolist())
@@ -315,7 +207,6 @@ def evaluate_model(
 
 if __name__ == "__main__":
     CONFIG = {
-        "train_file_raw": "../data/raw/training.json",
         "test_file_raw": "../data/raw/test.json",
         "train_file_jsonl": "data/training_custom.jsonl",
         "test_file_jsonl": "data/testing_custom.jsonl",
@@ -332,12 +223,12 @@ if __name__ == "__main__":
         "print_every_n_steps": 10,
         "focal_loss_gamma": 2.0,
     }
-    wandb.init(project="custom-ner-transfomer", config=CONFIG) # As in your file
+    wandb.init(project="custom-ner-transfomer", config=CONFIG)
 
-    alpha_weights = None # As in your file
+    alpha_weights = None
     criterion = FocalLoss(
         gamma=CONFIG["focal_loss_gamma"],
-        alpha=alpha_weights, 
+        alpha=alpha_weights,
         ignore_index=-100,
     )
 
@@ -369,7 +260,7 @@ if __name__ == "__main__":
     print("Mapping datasets...")
     mapped_datasets = raw_datasets.map(
         partial(
-            process_batch_for_custom_model,
+            process_batch,
             tokenizer=hf_tokenizer,
             max_length=CONFIG["model_max_seq_len"],
             label_to_id=label_to_id,
@@ -413,7 +304,7 @@ if __name__ == "__main__":
     print(
         f"Using FocalLoss with gamma={CONFIG['focal_loss_gamma']} and alpha={'None' if alpha_weights is None else 'provided'}"
     )
-    
+
     optimizer = optim.AdamW(custom_ner_model.parameters(), lr=CONFIG["learning_rate"])
 
     print("Starting training loop with evaluation and wandb logging...")
@@ -432,9 +323,7 @@ if __name__ == "__main__":
             labels = batch["labels"].to(DEVICE)
             optimizer.zero_grad()
             logits = custom_ner_model(input_ids, attention_mask=attention_mask)
-            loss = criterion(
-                logits.view(-1, NUM_LABELS), labels.view(-1)
-            ) 
+            loss = criterion(logits.view(-1, NUM_LABELS), labels.view(-1))
             loss.backward()
             optimizer.step()
             total_epoch_loss += loss.item()
