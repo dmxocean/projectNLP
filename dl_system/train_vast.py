@@ -210,8 +210,8 @@ if __name__ == "__main__":
     # out_file = "dl_system/data/training.jsonl"
     # reformat_json(json_document, out_file)
 
-    train_data_path = "training.jsonl"
-    test_data_path = "testing.jsonl"
+    train_data_path = "data/training_custom.jsonl"
+    test_data_path = "data/testing_custom.jsonl"
 
     data_files = {"train": train_data_path, "test": test_data_path}
 
@@ -219,9 +219,9 @@ if __name__ == "__main__":
     print(raw_data)
 
     long_tokenizer = AutoTokenizer.from_pretrained(
-        "PlanTL-GOB-ES/roberta-base-biomedical-clinical-es"
+        "BSC-TeMU/roberta-base-biomedical-clinical-es"
     )
-    model_max_length = 16384
+    model_max_length = long_tokenizer.model_max_length
 
     labels_originals = ["NEG", "NSCO", "UNC", "USCO"]
     label_prefixes = ["S", "B", "I", "E"]
@@ -247,7 +247,7 @@ if __name__ == "__main__":
     # data loader
     data_collator = DataCollatorForTokenClassification(tokenizer=long_tokenizer)
 
-    model_checkpoint = "PlanTL-GOB-ES/roberta-base-biomedical-clinical-es"
+    model_checkpoint = "BSC-TeMU/roberta-base-biomedical-clinical-es"
 
     id_to_label = {id_: label for label, id_ in label_to_id.items()}
     num_labels = len(LABELS_LIST)
@@ -278,14 +278,12 @@ if __name__ == "__main__":
         print(
             "Please ensure the checkpoint name is correct and you have internet access."
         )
-        # Handle error appropriately, maybe exit or raise
     except Exception as e:
         print(f"An unexpected error occurred during model loading: {e}")
-        # Handle error appropriately
 
-    NUM_EPOCHS_DEMO = 5  # Keep low for a quick demo
-    TRAIN_BATCH_SIZE_DEMO = 1  # MUST be small for 16k sequence length model
-    EVAL_BATCH_SIZE_DEMO = 6  # Can be slightly larger
+    NUM_EPOCHS_DEMO = 100
+    TRAIN_BATCH_SIZE_DEMO = 16
+    EVAL_BATCH_SIZE_DEMO = 32
     MODEL_OUTPUT_DIR = (
         "./ner_longformer_demo_results"  # Where results/checkpoints are saved
     )
@@ -299,14 +297,12 @@ if __name__ == "__main__":
         per_device_train_batch_size=TRAIN_BATCH_SIZE_DEMO,
         per_device_eval_batch_size=EVAL_BATCH_SIZE_DEMO,
         learning_rate=LEARNING_RATE_DEMO,
-        weight_decay=0.01,  # Standard weight decay
-        eval_strategy="steps",  # Evaluate at the end of each epoch
+        weight_decay=0.001,
+        eval_strategy="epoch",
         eval_steps=EVAL_SAVE_STEPS_DEMO,
-        save_strategy="steps",  # Save checkpoint at the end of each epoch
-        save_steps=200,
-        logging_strategy="steps",  # Log training loss during epochs
-        logging_steps=LOGGING_STEPS_DEMO,
-        load_best_model_at_end=True,  # Load the best model based on validation metric/loss
+        save_strategy="no",
+        logging_strategy="epoch",
+        load_best_model_at_end=False,
         metric_for_best_model="f1",  # Use F1 score to determine the best model
         push_to_hub=False,  # Set to True if you want to upload to Hugging Face Hub
         report_to=["wandb"],  # Disable external reporting like W&B for simple demo
@@ -316,9 +312,7 @@ if __name__ == "__main__":
         model=model,
         args=training_args,
         train_dataset=mapped_dataset["train"],
-        eval_dataset=mapped_dataset[
-            "test"
-        ],  # Make sure your validation split is named 'test'
+        eval_dataset=mapped_dataset["test"],
         data_collator=data_collator,
         compute_metrics=compute_metrics,
     )
